@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/05/2026 20:08",
+  "timestamp": "01/05/2026 20:17",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -17,83 +17,10 @@
       "subtitulo": ""
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "A MES EN CURSO - SANTIAGO\n55\n44\n33\n22\n11\n00\nCUMPLIMIENTO OPERACIONAL - BODEGA SANTIAGO\nENE",
-      "valor": 91.6
-    },
-    {
-      "label": "ENE",
-      "valor": 91.6
-    },
-    {
-      "label": "FEB",
-      "valor": 93.9
-    },
-    {
-      "label": "MAR",
-      "valor": 85.2
-    },
-    {
-      "label": "ABR",
-      "valor": 86.9
-    },
-    {
-      "label": "40004000\n30003000\n20002000\n10001000\n00\nPROMEDIO MENSUAL TAREAS PICKING POR RUTA - CLD SANTIAGO\nCONSOLIDADO",
-      "valor": 1551.0
-    },
-    {
-      "label": "CONSOLIDADO",
-      "valor": 1551.0
-    },
-    {
-      "label": "SITRANS",
-      "valor": 402.0
-    },
-    {
-      "label": "AGUNSA",
-      "valor": 394.0
-    },
-    {
-      "label": "ESTAFETA",
-      "valor": 335.0
-    },
-    {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 123.0
-    },
-    {
-      "label": "CLIENTE RETIRA",
-      "valor": 115.0
-    },
-    {
-      "label": "ENEA-FINNING",
-      "valor": 69.0
-    },
-    {
-      "label": "REPOSICION",
-      "valor": 44.0
-    },
-    {
-      "label": "LOBOZA-FINNING",
-      "valor": 12.0
-    },
-    {
-      "label": "MRP",
-      "valor": 3.0
-    },
-    {
-      "label": "VARMONTT",
-      "valor": 1.0
-    },
-    {
-      "label": "16001600\n12001200\n800800\n400400\n00\nLISTAS DE PICKING DESPACHADAS POR MES - CLD SANTIAGO\nENE",
-      "valor": 1220.0
-    }
-  ],
+  "tareas_por_dia": [],
   "cumplimiento": [
     {
-      "label": "A MES EN CURSO - SANTIAGO\n55\n44\n33\n22\n11\n00\nCUMPLIMIENTO OPERACIONAL - BODEGA SANTIAGO\nENE",
+      "label": "RACIONAL - BODEGA SANTIAGO\nENE",
       "valor": 91.6
     },
     {
@@ -111,58 +38,6 @@
     {
       "label": "ABR",
       "valor": 86.9
-    },
-    {
-      "label": "40004000\n30003000\n20002000\n10001000\n00\nPROMEDIO MENSUAL TAREAS PICKING POR RUTA - CLD SANTIAGO\nCONSOLIDADO",
-      "valor": 1551.0
-    },
-    {
-      "label": "CONSOLIDADO",
-      "valor": 1551.0
-    },
-    {
-      "label": "SITRANS",
-      "valor": 402.0
-    },
-    {
-      "label": "AGUNSA",
-      "valor": 394.0
-    },
-    {
-      "label": "ESTAFETA",
-      "valor": 335.0
-    },
-    {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 123.0
-    },
-    {
-      "label": "CLIENTE RETIRA",
-      "valor": 115.0
-    },
-    {
-      "label": "ENEA-FINNING",
-      "valor": 69.0
-    },
-    {
-      "label": "REPOSICION",
-      "valor": 44.0
-    },
-    {
-      "label": "LOBOZA-FINNING",
-      "valor": 12.0
-    },
-    {
-      "label": "MRP",
-      "valor": 3.0
-    },
-    {
-      "label": "VARMONTT",
-      "valor": 1.0
-    },
-    {
-      "label": "16001600\n12001200\n800800\n400400\n00\nLISTAS DE PICKING DESPACHADAS POR MES - CLD SANTIAGO\nENE",
-      "valor": 1220.0
     }
   ],
   "picking_mensual": [
@@ -181,63 +56,11 @@
     {
       "label": "ABR",
       "valor": 3828.0
-    },
-    {
-      "label": "40004000\n30003000\n20002000\n10001000\n00\nPROMEDIO MENSUAL TAREAS PICKING POR RUTA - CLD SANTIAGO\nCONSOLIDADO",
-      "valor": 1551.0
-    },
-    {
-      "label": "CONSOLIDADO",
-      "valor": 1551.0
-    },
-    {
-      "label": "SITRANS",
-      "valor": 402.0
-    },
-    {
-      "label": "AGUNSA",
-      "valor": 394.0
-    },
-    {
-      "label": "ESTAFETA",
-      "valor": 335.0
-    },
-    {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 123.0
-    },
-    {
-      "label": "CLIENTE RETIRA",
-      "valor": 115.0
-    },
-    {
-      "label": "ENEA-FINNING",
-      "valor": 69.0
-    },
-    {
-      "label": "REPOSICION",
-      "valor": 44.0
-    },
-    {
-      "label": "LOBOZA-FINNING",
-      "valor": 12.0
-    },
-    {
-      "label": "MRP",
-      "valor": 3.0
-    },
-    {
-      "label": "VARMONTT",
-      "valor": 1.0
-    },
-    {
-      "label": "16001600\n12001200\n800800\n400400\n00\nLISTAS DE PICKING DESPACHADAS POR MES - CLD SANTIAGO\nENE",
-      "valor": 1220.0
     }
   ],
   "promedio_ruta": [
     {
-      "label": "PROMEDIO MENSUAL TAREAS PICKING POR RUTA - CLD SANTIAGO\nCONSOLIDADO",
+      "label": "UTA - CLD SANTIAGO\nCONSOLIDADO",
       "valor": 1551.0
     },
     {
@@ -283,31 +106,11 @@
     {
       "label": "VARMONTT",
       "valor": 1.0
-    },
-    {
-      "label": "16001600\n12001200\n800800\n400400\n00\nLISTAS DE PICKING DESPACHADAS POR MES - CLD SANTIAGO\nENE",
-      "valor": 1220.0
-    },
-    {
-      "label": "ENE",
-      "valor": 1220.0
-    },
-    {
-      "label": "FEB",
-      "valor": 968.0
-    },
-    {
-      "label": "MAR",
-      "valor": 1169.0
-    },
-    {
-      "label": "ABR",
-      "valor": 1487.0
     }
   ],
   "despachos_mes": [
     {
-      "label": "LISTAS DE PICKING DESPACHADAS POR MES - CLD SANTIAGO\nENE",
+      "label": "DAS POR MES - CLD SANTIAGO\nENE",
       "valor": 1220.0
     },
     {

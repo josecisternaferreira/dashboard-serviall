@@ -1,26 +1,26 @@
 {
-  "timestamp": "04/05/2026 14:30",
+  "timestamp": "04/05/2026 14:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "12",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "145",
+      "valor": "151",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.6 %",
+      "valor": "97.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
-      "label": "04-05 (145)04-05",
-      "valor": 145.0
+      "label": "04-05 (151)04-05",
+      "valor": 151.0
     }
   ],
   "cumplimiento": [
@@ -41,8 +41,8 @@
       "valor": 86.9
     },
     {
-      "label": "MAY (97.6%)MAY",
-      "valor": 97.6
+      "label": "MAY (97.7%)MAY",
+      "valor": 97.7
     }
   ],
   "picking_mensual": [
@@ -63,8 +63,8 @@
       "valor": 3828.0
     },
     {
-      "label": "MAY (146)MAY",
-      "valor": 146.0
+      "label": "MAY (152)MAY",
+      "valor": 152.0
     }
   ],
   "promedio_ruta": [
@@ -81,8 +81,8 @@
       "valor": 323.0
     },
     {
-      "label": "ESTAFETA (269)ESTAFETA",
-      "valor": 269.0
+      "label": "ESTAFETA (270)ESTAFETA",
+      "valor": 270.0
     },
     {
       "label": "ENEA-FINNING (58)ENEA-FINNING",
@@ -119,8 +119,8 @@
       "valor": 1487.0
     },
     {
-      "label": "MAY (41)MAY",
-      "valor": 41.0
+      "label": "MAY (43)MAY",
+      "valor": 43.0
     }
   ],
   "ocupacion": [
@@ -174,8 +174,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1237",
-      "disponibles": "243",
+      "ocupadas": "1238",
+      "disponibles": "242",
       "porcentaje": "83.6 %"
     },
     {

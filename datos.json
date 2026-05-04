@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/05/2026 12:39",
+  "timestamp": "04/05/2026 12:49",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,22 +8,43 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "87",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.3 %",
+      "valor": "96.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
-      "label": "04-05 (87)04-05",
-      "valor": 87.0
+      "label": "04-05 (93)04-05",
+      "valor": 93.0
     }
   ],
-  "cumplimiento": [],
+  "cumplimiento": [
+    {
+      "label": "ENE (90.4%)ENE",
+      "valor": 90.4
+    },
+    {
+      "label": "FEB (93.9%)FEB",
+      "valor": 93.9
+    },
+    {
+      "label": "MAR (85.2%)MAR",
+      "valor": 85.2
+    },
+    {
+      "label": "ABR (86.9%)ABR",
+      "valor": 86.9
+    },
+    {
+      "label": "MAY (96.4%)MAY",
+      "valor": 96.4
+    }
+  ],
   "picking_mensual": [
     {
       "label": "ENE (3388)ENE",
@@ -42,8 +63,8 @@
       "valor": 3828.0
     },
     {
-      "label": "MAY (88)MAY",
-      "valor": 88.0
+      "label": "MAY (94)MAY",
+      "valor": 94.0
     }
   ],
   "promedio_ruta": [
@@ -52,20 +73,20 @@
       "valor": 1248.0
     },
     {
-      "label": "ESTAFETA (335)ESTAFETA",
-      "valor": 335.0
-    },
-    {
       "label": "SITRANS (322)SITRANS",
       "valor": 322.0
     },
     {
-      "label": "AGUNSA (320)AGUNSA",
-      "valor": 320.0
+      "label": "AGUNSA (321)AGUNSA",
+      "valor": 321.0
     },
     {
-      "label": "ENEA-FINNING (69)ENEA-FINNING",
-      "valor": 69.0
+      "label": "ESTAFETA (268)ESTAFETA",
+      "valor": 268.0
+    },
+    {
+      "label": "ENEA-FINNING (56)ENEA-FINNING",
+      "valor": 56.0
     },
     {
       "label": "REPOSICION (35)REPOSICION",
@@ -98,8 +119,8 @@
       "valor": 1487.0
     },
     {
-      "label": "MAY (27)MAY",
-      "valor": 27.0
+      "label": "MAY (28)MAY",
+      "valor": 28.0
     }
   ],
   "ocupacion": [
@@ -153,9 +174,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1236",
-      "disponibles": "244",
-      "porcentaje": "83.5 %"
+      "ocupadas": "1237",
+      "disponibles": "243",
+      "porcentaje": "83.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -189,9 +210,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "504",
-      "disponibles": "188",
-      "porcentaje": "72.8 %"
+      "ocupadas": "502",
+      "disponibles": "190",
+      "porcentaje": "72.5 %"
     }
   ]
 }

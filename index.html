@@ -195,6 +195,21 @@ Chart.defaults.font.family = "'Public Sans', sans-serif";
 Chart.defaults.font.size   = 13;
 Chart.defaults.color       = '#666';
 
+// Mapeo de abreviaciones a nombres completos de meses
+const MESES = {
+  'ENE': 'Enero', 'FEB': 'Febrero', 'MAR': 'Marzo',
+  'ABR': 'Abril', 'MAY': 'Mayo',    'JUN': 'Junio',
+  'JUL': 'Julio', 'AGO': 'Agosto',  'SEP': 'Septiembre',
+  'OCT': 'Octubre','NOV':'Noviembre','DIC': 'Diciembre'
+};
+
+function formatLabel(label, valor) {
+  // Si el label es un mes abreviado, expandirlo
+  const mes = MESES[label.toUpperCase()];
+  const nombre = mes || label;
+  return `${nombre} (${valor % 1 === 0 ? valor.toLocaleString('es-CL') : valor})`;
+}
+
 const C = {
   tareasdia:   '#D0191A',
   cumplimiento:'#27ae60',
@@ -249,7 +264,7 @@ function crearBarras(id, datos, color, label) {
   const ctx = document.getElementById(id); if (!ctx) return;
   new Chart(ctx, {
     type: 'bar',
-    data: { labels: datos.map(d => d.label), datasets: [{
+    data: { labels: datos.map(d => formatLabel(d.label, d.valor)), datasets: [{
       label: label||'Total', data: datos.map(d => d.valor),
       backgroundColor: color, borderRadius: 5, borderSkipped: false
     }]},
@@ -269,7 +284,7 @@ function crearCumplimiento(datos) {
   const ctx = document.getElementById('chart-cumplimiento'); if (!ctx) return;
   new Chart(ctx, {
     type: 'bar',
-    data: { labels: datos.map(d => d.label), datasets: [{
+    data: { labels: datos.map(d => formatLabel(d.label, d.valor)), datasets: [{
       label: 'Cumplimiento %', data: datos.map(d => d.valor),
       backgroundColor: datos.map(d => d.valor>=90?'#27ae60':d.valor>=80?'#e67e22':'#e74c3c'),
       borderRadius: 5, borderSkipped: false
@@ -290,7 +305,7 @@ function crearRutas(datos) {
   const ctx = document.getElementById('chart-rutas'); if (!ctx) return;
   new Chart(ctx, {
     type: 'bar',
-    data: { labels: datos.map(d => d.label), datasets: [{
+    data: { labels: datos.map(d => `${d.label} (${d.valor.toLocaleString('es-CL')})`), datasets: [{
       label: 'Promedio mensual', data: datos.map(d => d.valor),
       backgroundColor: datos.map((_,i) => C.rutas[i%C.rutas.length]),
       borderRadius: 5, borderSkipped: false

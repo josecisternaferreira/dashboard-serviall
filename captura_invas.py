@@ -1,8 +1,8 @@
 """
-captura_invas.py
-================
-Entra a Invas Monitor, extrae los datos del dashboard
-y genera un archivo datos.json listo para el dashboard HTML.
+captura_invas.py — v3
+=====================
+Extrae datos de Invas Monitor línea por línea,
+buscando exactamente el patrón "LABEL (VALOR)" por línea.
 
 INSTALACIÓN:
     python -m pip install selenium webdriver-manager
@@ -23,7 +23,7 @@ from datetime import datetime
 INVAS_URL   = "https://serviallinvas.impruvex.com/invaswmsbi/dashboard/0d36ee35-8490-4f04-9db1-103a3fae6fa7/"
 USUARIO     = "JCISTERNA"     # <-- cambiar
 CONTRASENA  = "Serviall2026."  # <-- cambiar
-CARPETA     = "."              # carpeta donde guardar datos.json
+CARPETA     = "."
 # ─────────────────────────────────────────────
 
 logging.basicConfig(
@@ -59,13 +59,13 @@ def login(driver):
     url = driver.current_url.lower()
     if "login" in url or "signin" in url or "account" in url:
         log.info("Login detectado...")
-        for sel in ["input[name='username']","input[name='user']","input[type='text']"]:
+        for sel in ["input[name='username']", "input[name='user']", "input[type='text']"]:
             try:
                 f = driver.find_element(By.CSS_SELECTOR, sel)
                 f.clear(); f.send_keys(USUARIO); break
             except: continue
         driver.find_element(By.CSS_SELECTOR, "input[type='password']").send_keys(CONTRASENA)
-        for sel in ["button[type='submit']","input[type='submit']","button[class*='btn-primary']","button"]:
+        for sel in ["button[type='submit']", "input[type='submit']", "button[class*='btn-primary']", "button"]:
             try: driver.find_element(By.CSS_SELECTOR, sel).click(); break
             except: continue
         time.sleep(6)
@@ -75,86 +75,98 @@ def login(driver):
 
 
 def esperar_carga(driver):
-    log.info("Esperando carga...")
-    time.sleep(5)
+    log.info("Esperando carga completa...")
+    time.sleep(6)
+    # Scroll completo para activar todos los gráficos lazy-load
     alto = driver.execute_script("return document.body.scrollHeight")
-    for i in range(5):
-        driver.execute_script(f"window.scrollTo(0, {(alto//4)*i});")
-        time.sleep(1)
+    for i in range(6):
+        driver.execute_script(f"window.scrollTo(0, {(alto//5)*i});")
+        time.sleep(1.5)
     driver.execute_script("window.scrollTo(0, 0);")
-    time.sleep(2)
+    time.sleep(3)
+    log.info("Carga completada.")
 
 
-def extraer_texto_pagina(driver):
-    """Extrae todo el texto visible de la página."""
-    return driver.find_element(By.TAG_NAME, "body").text
+def parsear_lineas(texto_panel):
+    """
+    Extrae datos buscando líneas que sean EXACTAMENTE del formato:
+    LABEL (VALOR) — una sola línea, sin mezclar con el título
+    """
+    resultado = []
+    # Patrón estricto: línea que empiece con texto y termine con (número)
+    patron = re.compile(r'^(.+?)\s*\(([0-9]+\.?[0-9]*\s*%?)\)\s*$')
+    for linea in texto_panel.split('\n'):
+        linea = linea.strip()
+        m = patron.match(linea)
+        if m:
+            label = m.group(1).strip()
+            valor_str = m.group(2).strip().replace('%', '').strip()
+            # Ignorar líneas que parecen ser títulos (muy largas o con guión)
+            if len(label) <= 30 and label not in ['Download SVG', 'Download PNG', 'Download CSV']:
+                try:
+                    num = float(valor_str)
+                    resultado.append({"label": label, "valor": num})
+                except:
+                    pass
+    return resultado
 
 
 def extraer_kpis(driver):
-    """Extrae las 3 fichas KPI."""
     kpis = []
     try:
         fichas = driver.find_elements(By.CSS_SELECTOR, ".reportCard.widget-stats, .widget.widget-stats")
         for ficha in fichas[:3]:
-            texto = ficha.text.strip().split("\n")
-            titulo = texto[0] if len(texto) > 0 else ""
-            valor  = texto[1] if len(texto) > 1 else ""
-            sub    = texto[2] if len(texto) > 2 else ""
+            lineas = [l.strip() for l in ficha.text.strip().split("\n") if l.strip()]
+            titulo = lineas[0] if len(lineas) > 0 else ""
+            valor  = lineas[1] if len(lineas) > 1 else ""
+            sub    = lineas[2] if len(lineas) > 2 else ""
             kpis.append({"titulo": titulo, "valor": valor, "subtitulo": sub})
             log.info(f"  KPI: {titulo} = {valor}")
     except Exception as e:
-        log.warning(f"Error extrayendo KPIs: {e}")
+        log.warning(f"Error KPIs: {e}")
     return kpis
 
 
-def extraer_grafico_por_texto(texto_pagina, titulo_grafico):
-    """
-    Extrae datos de un gráfico buscando el patrón 'LABEL (VALOR)' en el texto.
-    Los gráficos de Invas (ApexCharts) generan texto con ese formato en el eje X.
-    """
-    # Buscar la sección del gráfico
-    idx = texto_pagina.find(titulo_grafico)
-    if idx == -1:
+def extraer_grafico(driver, titulo_buscar):
+    try:
+        paneles = driver.find_elements(By.CSS_SELECTOR, ".panel.reportPanel, .reportPanel")
+        for panel in paneles:
+            texto = panel.text
+            if titulo_buscar.upper() in texto.upper():
+                datos = parsear_lineas(texto)
+                log.info(f"  '{titulo_buscar}': {len(datos)} puntos → {[d['label'] for d in datos]}")
+                return datos
+        log.warning(f"  Panel '{titulo_buscar}' no encontrado")
         return []
-    seccion = texto_pagina[idx:idx+2000]
-    # Patrón: texto (número) — puede tener % o decimales
-    patron = r'([A-Z0-9\-\.\s]+)\s*\(([0-9]+\.?[0-9]*\s*%?)\)'
-    matches = re.findall(patron, seccion)
-    # Deduplicar — Invas repite cada label dos veces en el DOM
-    vistos = set()
-    resultado = []
-    for label, valor in matches:
-        label = label.strip()
-        valor = valor.strip()
-        if label not in vistos and len(label) > 0:
-            vistos.add(label)
-            # Convertir valor a número
-            num = float(valor.replace("%","").strip())
-            resultado.append({"label": label, "valor": num})
-    return resultado
+    except Exception as e:
+        log.warning(f"  Error '{titulo_buscar}': {e}")
+        return []
 
 
 def extraer_tabla_ocupacion(driver):
-    """Extrae la tabla de ocupación de ubicaciones."""
     filas = []
     try:
-        tabla = driver.find_element(By.CSS_SELECTOR, "table")
-        rows  = tabla.find_elements(By.CSS_SELECTOR, "tbody tr")
-        for row in rows:
-            celdas = [td.text.strip() for td in row.find_elements(By.TAG_NAME, "td")]
-            if len(celdas) >= 7:
-                filas.append({
-                    "region":   celdas[0],
-                    "area":     celdas[1],
-                    "tipo":     celdas[2],
-                    "total":    celdas[3],
-                    "ocupadas": celdas[4],
-                    "disponibles": celdas[5],
-                    "porcentaje":  celdas[6]
-                })
-        log.info(f"  Tabla ocupación: {len(filas)} filas")
+        tablas = driver.find_elements(By.CSS_SELECTOR, "table")
+        for tabla in tablas:
+            rows = tabla.find_elements(By.CSS_SELECTOR, "tbody tr")
+            if len(rows) > 3:
+                for row in rows:
+                    celdas = [td.text.strip() for td in row.find_elements(By.TAG_NAME, "td")]
+                    if len(celdas) >= 7:
+                        filas.append({
+                            "region":      celdas[0],
+                            "area":        celdas[1],
+                            "tipo":        celdas[2],
+                            "total":       celdas[3],
+                            "ocupadas":    celdas[4],
+                            "disponibles": celdas[5],
+                            "porcentaje":  celdas[6]
+                        })
+                if filas:
+                    log.info(f"  Tabla ocupación: {len(filas)} filas")
+                    break
     except Exception as e:
-        log.warning(f"Error extrayendo tabla: {e}")
+        log.warning(f"  Error tabla: {e}")
     return filas
 
 
@@ -168,17 +180,14 @@ def main():
         login(driver)
         esperar_carga(driver)
 
-        texto = extraer_texto_pagina(driver)
-        log.info("Texto de página extraído.")
-
         datos = {
-            "timestamp": datetime.now().strftime("%d/%m/%Y %H:%M"),
-            "kpis": extraer_kpis(driver),
-            "tareas_por_dia": extraer_grafico_por_texto(texto, "TAREAS POR DÍA MES EN CURSO"),
-            "cumplimiento":   extraer_grafico_por_texto(texto, "CUMPLIMIENTO OPERACIONAL"),
-            "picking_mensual":extraer_grafico_por_texto(texto, "TAREAS DE PICKING MENSUALES"),
-            "promedio_ruta":  extraer_grafico_por_texto(texto, "PROMEDIO MENSUAL TAREAS PICKING POR RUTA"),
-            "despachos_mes":  extraer_grafico_por_texto(texto, "LISTAS DE PICKING DESPACHADAS POR MES"),
+            "timestamp":      datetime.now().strftime("%d/%m/%Y %H:%M"),
+            "kpis":           extraer_kpis(driver),
+            "tareas_por_dia": extraer_grafico(driver, "TAREAS POR DÍA MES EN CURSO"),
+            "cumplimiento":   extraer_grafico(driver, "CUMPLIMIENTO OPERACIONAL"),
+            "picking_mensual":extraer_grafico(driver, "TAREAS DE PICKING MENSUALES"),
+            "promedio_ruta":  extraer_grafico(driver, "PROMEDIO MENSUAL TAREAS PICKING POR RUTA"),
+            "despachos_mes":  extraer_grafico(driver, "LISTAS DE PICKING DESPACHADAS POR MES"),
             "ocupacion":      extraer_tabla_ocupacion(driver),
         }
 
@@ -186,7 +195,7 @@ def main():
         with open(ruta_json, "w", encoding="utf-8") as f:
             json.dump(datos, f, ensure_ascii=False, indent=2)
 
-        log.info(f"datos.json guardado en {ruta_json}")
+        log.info(f"datos.json guardado.")
         log.info("Extracción completada exitosamente.")
 
     except Exception as e:

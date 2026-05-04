@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/05/2026 14:00",
+  "timestamp": "04/05/2026 14:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "128",
+      "valor": "132",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -19,8 +19,8 @@
   ],
   "tareas_por_dia": [
     {
-      "label": "04-05 (128)04-05",
-      "valor": 128.0
+      "label": "04-05 (132)04-05",
+      "valor": 132.0
     }
   ],
   "cumplimiento": [
@@ -63,8 +63,8 @@
       "valor": 3828.0
     },
     {
-      "label": "MAY (129)MAY",
-      "valor": 129.0
+      "label": "MAY (133)MAY",
+      "valor": 133.0
     }
   ],
   "promedio_ruta": [
@@ -201,18 +201,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "144",
-      "disponibles": "155",
-      "porcentaje": "48.2 %"
+      "ocupadas": "142",
+      "disponibles": "157",
+      "porcentaje": "47.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "503",
-      "disponibles": "189",
-      "porcentaje": "72.7 %"
+      "ocupadas": "504",
+      "disponibles": "188",
+      "porcentaje": "72.8 %"
     }
   ]
 }

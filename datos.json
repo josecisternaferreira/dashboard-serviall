@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/05/2026 12:49",
+  "timestamp": "04/05/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,19 +8,19 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "93",
+      "valor": "102",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.4 %",
+      "valor": "96.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
-      "label": "04-05 (93)04-05",
-      "valor": 93.0
+      "label": "04-05 (102)04-05",
+      "valor": 102.0
     }
   ],
   "cumplimiento": [
@@ -41,8 +41,8 @@
       "valor": 86.9
     },
     {
-      "label": "MAY (96.4%)MAY",
-      "valor": 96.4
+      "label": "MAY (96.7%)MAY",
+      "valor": 96.7
     }
   ],
   "picking_mensual": [
@@ -63,8 +63,8 @@
       "valor": 3828.0
     },
     {
-      "label": "MAY (94)MAY",
-      "valor": 94.0
+      "label": "MAY (103)MAY",
+      "valor": 103.0
     }
   ],
   "promedio_ruta": [
@@ -73,12 +73,12 @@
       "valor": 1248.0
     },
     {
-      "label": "SITRANS (322)SITRANS",
+      "label": "AGUNSA (322)AGUNSA",
       "valor": 322.0
     },
     {
-      "label": "AGUNSA (321)AGUNSA",
-      "valor": 321.0
+      "label": "SITRANS (322)SITRANS",
+      "valor": 322.0
     },
     {
       "label": "ESTAFETA (268)ESTAFETA",
@@ -119,8 +119,8 @@
       "valor": 1487.0
     },
     {
-      "label": "MAY (28)MAY",
-      "valor": 28.0
+      "label": "MAY (30)MAY",
+      "valor": 30.0
     }
   ],
   "ocupacion": [
@@ -210,9 +210,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "502",
-      "disponibles": "190",
-      "porcentaje": "72.5 %"
+      "ocupadas": "501",
+      "disponibles": "191",
+      "porcentaje": "72.4 %"
     }
   ]
 }

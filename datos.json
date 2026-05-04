@@ -1,14 +1,14 @@
 {
-  "timestamp": "04/05/2026 15:51",
+  "timestamp": "04/05/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "19",
+      "valor": "22",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "162",
+      "valor": "168",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -20,7 +20,7 @@
   "tareas_por_dia": [
     {
       "label": "04-05",
-      "valor": 162.0
+      "valor": 168.0
     }
   ],
   "cumplimiento": [
@@ -64,7 +64,7 @@
     },
     {
       "label": "MAY",
-      "valor": 163.0
+      "valor": 169.0
     }
   ],
   "promedio_ruta": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 270.0
+      "valor": 271.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -222,9 +222,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "506",
-      "disponibles": "186",
-      "porcentaje": "73.1 %"
+      "ocupadas": "503",
+      "disponibles": "189",
+      "porcentaje": "72.7 %"
     }
   ]
 }

@@ -89,40 +89,23 @@ def esperar_carga(driver):
 
 def parsear_lineas(texto_panel):
     """
-    Extrae datos de paneles de Invas Monitor.
-    Invas escribe cada punto así en el texto: 'ENE (3388)ENE' o 'ENE (90.4%)ENE'
-    El patrón captura LABEL (VALOR) ignorando el label repetido al final.
+    Extrae datos buscando líneas que sean EXACTAMENTE del formato:
+    LABEL (VALOR) — una sola línea, sin mezclar con el título
     """
     resultado = []
-    vistos = set()
-    ignorar = ['Download SVG', 'Download PNG', 'Download CSV']
-
-    # Patrón: LABEL (VALOR) con posible repetición del label al final
-    # Ejemplo: "ENE (3388)ENE" → label=ENE, valor=3388
-    # Ejemplo: "04-05 (161)04-05" → label=04-05, valor=161
-    # Ejemplo: "CONSOLIDADO (1551)CONSOLIDADO" → label=CONSOLIDADO, valor=1551
-    patron = re.compile(r'^(.+?)\s*\(([0-9]+\.?[0-9]*\s*%?)\)')
-
+    # Patrón estricto: línea que empiece con texto y termine con (número)
+    patron = re.compile(r'^(.+?)\s*\(([0-9]+\.?[0-9]*\s*%?)\)\s*$')
     for linea in texto_panel.split('\n'):
         linea = linea.strip()
         m = patron.match(linea)
         if m:
             label = m.group(1).strip()
             valor_str = m.group(2).strip().replace('%', '').strip()
-
-            # Ignorar títulos largos y comandos de descarga
-            if len(label) > 40 or label in ignorar:
-                continue
-
-            # Ignorar si es solo números (eje Y)
-            if re.match(r'^[0-9\.]+$', label):
-                continue
-
-            if label not in vistos:
+            # Ignorar líneas que parecen ser títulos (muy largas o con guión)
+            if len(label) <= 30 and label not in ['Download SVG', 'Download PNG', 'Download CSV']:
                 try:
                     num = float(valor_str)
                     resultado.append({"label": label, "valor": num})
-                    vistos.add(label)
                 except:
                     pass
     return resultado

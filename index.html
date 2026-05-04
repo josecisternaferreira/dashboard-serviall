@@ -49,13 +49,12 @@ header {
 .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; animation: pulse 2s infinite; }
 @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
 
-main { padding: 18px 24px; max-width: 1800px; margin: 0 auto; }
-.section-label { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.2px; color: var(--gray-400); margin-bottom: 10px; margin-top: 2px; }
+main { padding: 24px 32px; max-width: 1600px; margin: 0 auto; }
+.section-label { font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.2px; color: var(--gray-400); margin-bottom: 12px; margin-top: 4px; }
 
-.grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; margin-bottom: 14px; }
-.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
-.grid-4 { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 14px; margin-bottom: 14px; }
-.grid-1 { display: grid; grid-template-columns: 1fr; gap: 14px; margin-bottom: 14px; }
+.grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 18px; margin-bottom: 18px; }
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 18px; }
+.grid-1 { display: grid; grid-template-columns: 1fr; gap: 18px; margin-bottom: 18px; }
 
 .kpi-card {
   background: var(--white); border-radius: var(--radius);
@@ -105,10 +104,9 @@ tbody tr:hover td { background: #fafafa; }
 .spinner { width: 20px; height: 20px; border: 2px solid var(--gray-200); border-top-color: var(--red); border-radius: 50%; animation: spin .8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 
-@media (max-width: 1200px) {
-  .grid-4 { grid-template-columns: 1fr 1fr; }
+@media (max-width: 1024px) {
   .grid-3, .grid-2 { grid-template-columns: 1fr; }
-  main { padding: 14px; }
+  main { padding: 16px; }
   header { padding: 0 16px; height: auto; min-height: 64px; flex-wrap: wrap; gap: 8px; padding: 10px 16px; }
 }
 </style>
@@ -149,31 +147,35 @@ tbody tr:hover td { background: #fafafa; }
           <div class="loading"><div class="spinner"></div> Cargando...</div>
         </div>
       </div>
-      <div class="chart-footer">Fuente: InvasWMS</div>
+      <div class="chart-footer">Fuente: Invas Monitor — PORCENTAJE OCUPACION UBICACIONES</div>
     </div>
   </div>
 
-  <div class="section-label">Producción mensual</div>
-  <div class="grid-4">
+  <div class="section-label">Producción diaria y cumplimiento</div>
+  <div class="grid-2">
     <div class="chart-card">
-      <div class="chart-header hdr-tareas-dia">Tareas por Día <span class="tag">CLD SANTIAGO</span></div>
-      <div class="chart-body"><canvas id="chart-tareas-dia" height="200"></canvas></div>
-      <div class="chart-footer">Fuente: InvasWMS</div>
+      <div class="chart-header hdr-tareas-dia">Tareas por Día — Mes en Curso <span class="tag">SANTIAGO</span></div>
+      <div class="chart-body"><canvas id="chart-tareas-dia" height="230"></canvas></div>
+      <div class="chart-footer">Fuente: TASK_MANAGER_ — estado TERMINADA</div>
     </div>
     <div class="chart-card">
-      <div class="chart-header hdr-cumplimiento">Cumplimiento Operacional <span class="tag">CLD SANTIAGO</span></div>
-      <div class="chart-body"><canvas id="chart-cumplimiento" height="200"></canvas></div>
-      <div class="chart-footer">Fuente: InvasWMS</div>
+      <div class="chart-header hdr-cumplimiento">Cumplimiento Operacional <span class="tag">SANTIAGO</span></div>
+      <div class="chart-body"><canvas id="chart-cumplimiento" height="230"></canvas></div>
+      <div class="chart-footer">Fuente: Invas Monitor — ON TIME MES ACTUAL</div>
+    </div>
+  </div>
+
+  <div class="section-label">Picking mensual y despachos</div>
+  <div class="grid-2">
+    <div class="chart-card">
+      <div class="chart-header hdr-picking">Tareas de Picking Mensuales <span class="tag">BODEGA SANTIAGO</span></div>
+      <div class="chart-body"><canvas id="chart-picking" height="230"></canvas></div>
+      <div class="chart-footer">Fuente: TASK_MANAGER_ + historial_taskmanager</div>
     </div>
     <div class="chart-card">
-      <div class="chart-header hdr-picking">Tareas Mensuales <span class="tag">CLD SANTIAGO</span></div>
-      <div class="chart-body"><canvas id="chart-picking" height="200"></canvas></div>
-      <div class="chart-footer">Fuente: InvasWMS</div>
-    </div>
-    <div class="chart-card">
-      <div class="chart-header hdr-despachos">Listas de Picking (OS) Despachadas <span class="tag">CLD SANTIAGO</span></div>
-      <div class="chart-body"><canvas id="chart-despachos" height="200"></canvas></div>
-      <div class="chart-footer">Fuente: InvasWMS</div>
+      <div class="chart-header hdr-despachos">Listas Despachadas por Mes <span class="tag">CLD SANTIAGO</span></div>
+      <div class="chart-body"><canvas id="chart-despachos" height="230"></canvas></div>
+      <div class="chart-footer">Fuente: ORDEN_DE_SALIDA + historial_orden_de_salida</div>
     </div>
   </div>
 
@@ -182,7 +184,7 @@ tbody tr:hover td { background: #fafafa; }
     <div class="chart-card">
       <div class="chart-header hdr-rutas">Promedio Mensual Tareas Picking por Ruta <span class="tag">CLD SANTIAGO</span></div>
       <div class="chart-body"><canvas id="chart-rutas" height="160"></canvas></div>
-      <div class="chart-footer">Fuente: InvasWMS</div>
+      <div class="chart-footer">Fuente: TASK_MANAGER_ + historial_taskmanager — agrupado por RUTA_OS</div>
     </div>
   </div>
 
@@ -202,9 +204,10 @@ const MESES = {
 };
 
 function formatLabel(label, valor) {
-  // Solo mostrar el nombre del mes, sin el valor entre paréntesis
+  // Si el label es un mes abreviado, expandirlo
   const mes = MESES[label.toUpperCase()];
-  return mes || label;
+  const nombre = mes || label;
+  return `${nombre} (${valor % 1 === 0 ? valor.toLocaleString('es-CL') : valor})`;
 }
 
 const C = {
@@ -267,35 +270,12 @@ function crearBarras(id, datos, color, label) {
     }]},
     options: {
       responsive: true,
-      plugins: {
-        legend: {display:false},
-        tooltip: {callbacks:{label: c=>` ${c.parsed.y.toLocaleString('es-CL')}`}, bodyFont:{size:14}},
-        datalabels: false
-      },
+      plugins: { legend: {display:false}, tooltip: {callbacks:{label: c=>` ${c.parsed.y.toLocaleString('es-CL')}`}, bodyFont:{size:14}} },
       scales: {
-        x: { grid:{display:false}, ticks:{font:{size:11}, maxRotation:30} },
-        y: { display:false, grid:{display:false} }
+        x: { grid:{display:false}, ticks:{font:{size:12}, maxRotation:45} },
+        y: { grid:{color:'#f0f0f0'}, ticks:{font:{size:12}} }
       }
-    },
-    plugins: [{
-      id: 'topLabels',
-      afterDatasetsDraw(chart) {
-        const {ctx, data} = chart;
-        chart.getDatasetMeta(0).data.forEach((bar, i) => {
-          const val = data.datasets[0].data[i];
-          if (!val) return;
-          ctx.save();
-          ctx.font = 'bold 12px Public Sans, sans-serif';
-          ctx.fillStyle = '#fff';
-          ctx.textAlign = 'center';
-          ctx.textBaseline = 'bottom';
-          const txt = val.toLocaleString('es-CL');
-          const y = bar.y + 20;
-          ctx.fillText(txt, bar.x, y);
-          ctx.restore();
-        });
-      }
-    }]
+    }
   });
 }
 
@@ -311,32 +291,12 @@ function crearCumplimiento(datos) {
     }]},
     options: {
       responsive: true,
-      plugins: {
-        legend:{display:false},
-        tooltip:{callbacks:{label:c=>` ${c.parsed.y}%`}, bodyFont:{size:14}}
-      },
+      plugins: { legend:{display:false}, tooltip:{callbacks:{label:c=>` ${c.parsed.y}%`}, bodyFont:{size:14}} },
       scales: {
-        x: { grid:{display:false}, ticks:{font:{size:12}} },
-        y: { display:false, grid:{display:false}, min:0, max:100 }
+        x: { grid:{display:false}, ticks:{font:{size:13}} },
+        y: { min:0, max:100, grid:{color:'#f0f0f0'}, ticks:{callback:v=>v+'%', font:{size:12}} }
       }
-    },
-    plugins: [{
-      id: 'topLabelsCumpl',
-      afterDatasetsDraw(chart) {
-        const {ctx, data} = chart;
-        chart.getDatasetMeta(0).data.forEach((bar, i) => {
-          const val = data.datasets[0].data[i];
-          if (!val) return;
-          ctx.save();
-          ctx.font = 'bold 13px Public Sans, sans-serif';
-          ctx.fillStyle = '#fff';
-          ctx.textAlign = 'center';
-          ctx.textBaseline = 'bottom';
-          ctx.fillText(val + '%', bar.x, bar.y + 22);
-          ctx.restore();
-        });
-      }
-    }]
+    }
   });
 }
 
@@ -345,39 +305,19 @@ function crearRutas(datos) {
   const ctx = document.getElementById('chart-rutas'); if (!ctx) return;
   new Chart(ctx, {
     type: 'bar',
-    data: { labels: datos.map(d => d.label), datasets: [{
+    data: { labels: datos.map(d => `${d.label} (${d.valor.toLocaleString('es-CL')})`), datasets: [{
       label: 'Promedio mensual', data: datos.map(d => d.valor),
       backgroundColor: datos.map((_,i) => C.rutas[i%C.rutas.length]),
       borderRadius: 5, borderSkipped: false
     }]},
     options: {
       responsive: true,
-      plugins: {
-        legend:{display:false},
-        tooltip:{callbacks:{label:c=>` ${c.parsed.y.toLocaleString('es-CL')} tareas`}, bodyFont:{size:14}}
-      },
+      plugins: { legend:{display:false}, tooltip:{callbacks:{label:c=>` ${c.parsed.y.toLocaleString('es-CL')} tareas`}, bodyFont:{size:14}} },
       scales: {
-        x: { grid:{display:false}, ticks:{font:{size:11}, maxRotation:30} },
-        y: { display:false, grid:{display:false} }
+        x: { grid:{display:false}, ticks:{font:{size:12}, maxRotation:30} },
+        y: { grid:{color:'#f0f0f0'}, ticks:{font:{size:12}} }
       }
-    },
-    plugins: [{
-      id: 'topLabelsRutas',
-      afterDatasetsDraw(chart) {
-        const {ctx, data} = chart;
-        chart.getDatasetMeta(0).data.forEach((bar, i) => {
-          const val = data.datasets[0].data[i];
-          if (!val) return;
-          ctx.save();
-          ctx.font = 'bold 12px Public Sans, sans-serif';
-          ctx.fillStyle = '#fff';
-          ctx.textAlign = 'center';
-          ctx.textBaseline = 'bottom';
-          ctx.fillText(val.toLocaleString('es-CL'), bar.x, bar.y + 20);
-          ctx.restore();
-        });
-      }
-    }]
+    }
   });
 }
 

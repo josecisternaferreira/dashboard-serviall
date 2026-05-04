@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/05/2026 20:17",
+  "timestamp": "04/05/2026 09:29",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,126 +8,115 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "9",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO",
-      "subtitulo": ""
+      "valor": "80.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "04-05 (9)04-05",
+      "valor": 9.0
+    }
+  ],
   "cumplimiento": [
     {
-      "label": "RACIONAL - BODEGA SANTIAGO\nENE",
-      "valor": 91.6
-    },
-    {
-      "label": "ENE",
-      "valor": 91.6
-    },
-    {
-      "label": "FEB",
+      "label": "FEB (93.9%)FEB",
       "valor": 93.9
     },
     {
-      "label": "MAR",
+      "label": "MAR (85.2%)MAR",
       "valor": 85.2
     },
     {
-      "label": "ABR",
+      "label": "ABR (86.9%)ABR",
       "valor": 86.9
+    },
+    {
+      "label": "MAY (80.0%)MAY",
+      "valor": 80.0
     }
   ],
   "picking_mensual": [
     {
-      "label": "ENE",
+      "label": "ENE (3388)ENE",
       "valor": 3388.0
     },
     {
-      "label": "FEB",
+      "label": "FEB (2168)FEB",
       "valor": 2168.0
     },
     {
-      "label": "MAR",
+      "label": "MAR (2799)MAR",
       "valor": 2799.0
     },
     {
-      "label": "ABR",
+      "label": "ABR (3828)ABR",
       "valor": 3828.0
+    },
+    {
+      "label": "MAY (9)MAY",
+      "valor": 9.0
     }
   ],
   "promedio_ruta": [
     {
-      "label": "UTA - CLD SANTIAGO\nCONSOLIDADO",
+      "label": "CONSOLIDADO (1551)CONSOLIDADO",
       "valor": 1551.0
     },
     {
-      "label": "CONSOLIDADO",
-      "valor": 1551.0
-    },
-    {
-      "label": "SITRANS",
+      "label": "SITRANS (402)SITRANS",
       "valor": 402.0
     },
     {
-      "label": "AGUNSA",
+      "label": "AGUNSA (394)AGUNSA",
       "valor": 394.0
     },
     {
-      "label": "ESTAFETA",
+      "label": "ESTAFETA (335)ESTAFETA",
       "valor": 335.0
     },
     {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 123.0
-    },
-    {
-      "label": "CLIENTE RETIRA",
-      "valor": 115.0
-    },
-    {
-      "label": "ENEA-FINNING",
+      "label": "ENEA-FINNING (69)ENEA-FINNING",
       "valor": 69.0
     },
     {
-      "label": "REPOSICION",
+      "label": "REPOSICION (44)REPOSICION",
       "valor": 44.0
     },
     {
-      "label": "LOBOZA-FINNING",
-      "valor": 12.0
-    },
-    {
-      "label": "MRP",
+      "label": "SQM_MRP (3)SQM_MRP",
       "valor": 3.0
     },
     {
-      "label": "VARMONTT",
+      "label": "VARMONTT (1)VARMONTT",
       "valor": 1.0
     }
   ],
   "despachos_mes": [
     {
-      "label": "DAS POR MES - CLD SANTIAGO\nENE",
+      "label": "ENE (1220)ENE",
       "valor": 1220.0
     },
     {
-      "label": "ENE",
-      "valor": 1220.0
-    },
-    {
-      "label": "FEB",
+      "label": "FEB (968)FEB",
       "valor": 968.0
     },
     {
-      "label": "MAR",
+      "label": "MAR (1169)MAR",
       "valor": 1169.0
     },
     {
-      "label": "ABR",
+      "label": "ABR (1487)ABR",
       "valor": 1487.0
+    },
+    {
+      "label": "MAY (5)MAY",
+      "valor": 5.0
     }
   ],
   "ocupacion": [
@@ -181,18 +170,18 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1233",
-      "disponibles": "247",
-      "porcentaje": "83.3 %"
+      "ocupadas": "1232",
+      "disponibles": "248",
+      "porcentaje": "83.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "37",
-      "disponibles": "4",
-      "porcentaje": "90.2 %"
+      "ocupadas": "36",
+      "disponibles": "5",
+      "porcentaje": "87.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -217,9 +206,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "511",
-      "disponibles": "181",
-      "porcentaje": "73.8 %"
+      "ocupadas": "508",
+      "disponibles": "184",
+      "porcentaje": "73.4 %"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "timestamp": "04/05/2026 17:10",
+  "timestamp": "04/05/2026 17:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "26",
+      "valor": "27",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "184",
+      "valor": "190",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.9 %",
+      "valor": "98.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "04-05",
-      "valor": 184.0
+      "valor": 190.0
     }
   ],
   "cumplimiento": [
@@ -42,7 +42,7 @@
     },
     {
       "label": "MAY",
-      "valor": 97.9
+      "valor": 98.0
     }
   ],
   "picking_mensual": [
@@ -64,7 +64,7 @@
     },
     {
       "label": "MAY",
-      "valor": 185.0
+      "valor": 191.0
     }
   ],
   "promedio_ruta": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 272.0
+      "valor": 273.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -132,7 +132,7 @@
     },
     {
       "label": "MAY",
-      "valor": 48.0
+      "valor": 49.0
     }
   ],
   "ocupacion": [

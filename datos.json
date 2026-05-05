@@ -1,14 +1,14 @@
 {
-  "timestamp": "05/05/2026 16:40",
+  "timestamp": "05/05/2026 16:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "24",
+      "valor": "26",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "115",
+      "valor": "118",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "label": "05-05",
-      "valor": 115.0
+      "valor": 118.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "MAY",
-      "valor": 317.0
+      "valor": 320.0
     }
   ],
   "promedio_ruta": [
@@ -78,7 +78,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 331.0
+      "valor": 332.0
     },
     {
       "label": "AGUNSA",
@@ -147,7 +147,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1901",
+      "total": "1903",
       "porcentaje": "21.2 %"
     },
     {
@@ -156,7 +156,7 @@
       "porcentaje": "18.6 %"
     },
     {
-      "operador": "CRISTIAN ESCOBAR",
+      "operador": "CESCOBAR",
       "total": "968",
       "porcentaje": "10.8 %"
     },
@@ -244,9 +244,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "481",
-      "disponibles": "211",
-      "porcentaje": "69.5 %"
+      "ocupadas": "484",
+      "disponibles": "208",
+      "porcentaje": "69.9 %"
     }
   ]
 }

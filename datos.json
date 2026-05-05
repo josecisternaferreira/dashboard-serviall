@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/05/2026 16:50",
+  "timestamp": "05/05/2026 17:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "118",
+      "valor": "135",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "79.1 %",
+      "valor": "79.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -24,7 +24,7 @@
     },
     {
       "label": "05-05",
-      "valor": 118.0
+      "valor": 135.0
     }
   ],
   "cumplimiento": [
@@ -46,7 +46,7 @@
     },
     {
       "label": "MAY",
-      "valor": 79.1
+      "valor": 79.3
     }
   ],
   "picking_mensual": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "MAY",
-      "valor": 320.0
+      "valor": 337.0
     }
   ],
   "promedio_ruta": [
@@ -77,12 +77,12 @@
       "valor": 1248.0
     },
     {
-      "label": "SITRANS",
-      "valor": 332.0
+      "label": "AGUNSA",
+      "valor": 333.0
     },
     {
-      "label": "AGUNSA",
-      "valor": 330.0
+      "label": "SITRANS",
+      "valor": 333.0
     },
     {
       "label": "ESTAFETA",
@@ -136,24 +136,24 @@
     },
     {
       "label": "MAY",
-      "valor": 163.0
+      "valor": 164.0
     }
   ],
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
       "total": "2253",
-      "porcentaje": "25.1 %"
+      "porcentaje": "25.0 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1903",
+      "total": "1905",
       "porcentaje": "21.2 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1674",
-      "porcentaje": "18.6 %"
+      "total": "1686",
+      "porcentaje": "18.7 %"
     },
     {
       "operador": "CESCOBAR",
@@ -163,7 +163,7 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "795",
-      "porcentaje": "8.9 %"
+      "porcentaje": "8.8 %"
     }
   ],
   "ocupacion": [
@@ -208,9 +208,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1224",
-      "disponibles": "256",
-      "porcentaje": "82.7 %"
+      "ocupadas": "1226",
+      "disponibles": "254",
+      "porcentaje": "82.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",

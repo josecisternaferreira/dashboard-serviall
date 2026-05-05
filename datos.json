@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/05/2026 10:30",
+  "timestamp": "05/05/2026 10:43",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -139,6 +139,33 @@
       "valor": 104.0
     }
   ],
+  "top5_operadores": [
+    {
+      "operador": "DIEGO GANDO",
+      "total": "2252",
+      "porcentaje": "25.4 %"
+    },
+    {
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "1835",
+      "porcentaje": "20.7 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1650",
+      "porcentaje": "18.6 %"
+    },
+    {
+      "operador": "CRISTIAN ESCOBAR",
+      "total": "968",
+      "porcentaje": "10.9 %"
+    },
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "795",
+      "porcentaje": "9.0 %"
+    }
+  ],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",
@@ -217,9 +244,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "500",
-      "disponibles": "192",
-      "porcentaje": "72.3 %"
+      "ocupadas": "503",
+      "disponibles": "189",
+      "porcentaje": "72.7 %"
     }
   ]
 }

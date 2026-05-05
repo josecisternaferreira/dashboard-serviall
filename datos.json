@@ -1,14 +1,14 @@
 {
-  "timestamp": "05/05/2026 16:20",
+  "timestamp": "05/05/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "19",
+      "valor": "21",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "92",
+      "valor": "100",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "label": "05-05",
-      "valor": 92.0
+      "valor": 100.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "MAY",
-      "valor": 294.0
+      "valor": 302.0
     }
   ],
   "promedio_ruta": [
@@ -78,11 +78,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 329.0
+      "valor": 330.0
     },
     {
       "label": "AGUNSA",
-      "valor": 327.0
+      "valor": 328.0
     },
     {
       "label": "ESTAFETA",
@@ -143,17 +143,17 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2253",
-      "porcentaje": "25.2 %"
+      "porcentaje": "25.1 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1896",
+      "total": "1899",
       "porcentaje": "21.2 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1660",
-      "porcentaje": "18.5 %"
+      "total": "1663",
+      "porcentaje": "18.6 %"
     },
     {
       "operador": "CRISTIAN ESCOBAR",
@@ -208,18 +208,18 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1229",
-      "disponibles": "251",
-      "porcentaje": "83.0 %"
+      "ocupadas": "1224",
+      "disponibles": "256",
+      "porcentaje": "82.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "36",
-      "disponibles": "5",
-      "porcentaje": "87.8 %"
+      "ocupadas": "34",
+      "disponibles": "7",
+      "porcentaje": "82.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -244,9 +244,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "502",
-      "disponibles": "190",
-      "porcentaje": "72.5 %"
+      "ocupadas": "480",
+      "disponibles": "212",
+      "porcentaje": "69.4 %"
     }
   ]
 }

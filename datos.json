@@ -1,14 +1,14 @@
 {
-  "timestamp": "05/05/2026 15:10",
+  "timestamp": "05/05/2026 15:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "14",
+      "valor": "15",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "58",
+      "valor": "62",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "label": "05-05",
-      "valor": 58.0
+      "valor": 62.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "MAY",
-      "valor": 260.0
+      "valor": 264.0
     }
   ],
   "promedio_ruta": [
@@ -86,7 +86,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 282.0
+      "valor": 283.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -142,7 +142,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2252",
+      "total": "2253",
       "porcentaje": "25.2 %"
     },
     {
@@ -158,7 +158,7 @@
     {
       "operador": "CRISTIAN ESCOBAR",
       "total": "968",
-      "porcentaje": "10.9 %"
+      "porcentaje": "10.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -244,9 +244,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "507",
-      "disponibles": "185",
-      "porcentaje": "73.3 %"
+      "ocupadas": "508",
+      "disponibles": "184",
+      "porcentaje": "73.4 %"
     }
   ]
 }

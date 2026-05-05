@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/05/2026 12:20",
+  "timestamp": "05/05/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "11",
+      "valor": "12",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "72.4 %",
+      "valor": "72.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -24,7 +24,7 @@
     },
     {
       "label": "05-05",
-      "valor": 11.0
+      "valor": 12.0
     }
   ],
   "cumplimiento": [
@@ -46,7 +46,7 @@
     },
     {
       "label": "MAY",
-      "valor": 72.4
+      "valor": 72.8
     }
   ],
   "picking_mensual": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "MAY",
-      "valor": 213.0
+      "valor": 214.0
     }
   ],
   "promedio_ruta": [
@@ -136,7 +136,7 @@
     },
     {
       "label": "MAY",
-      "valor": 123.0
+      "valor": 125.0
     }
   ],
   "top5_operadores": [
@@ -147,7 +147,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1843",
+      "total": "1844",
       "porcentaje": "20.8 %"
     },
     {
@@ -208,9 +208,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1223",
-      "disponibles": "257",
-      "porcentaje": "82.6 %"
+      "ocupadas": "1219",
+      "disponibles": "261",
+      "porcentaje": "82.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",

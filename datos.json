@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/05/2026 11:46",
+  "timestamp": "05/05/2026 12:12",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "3",
+      "valor": "9",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "70.8 %",
+      "valor": "71.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -24,7 +24,7 @@
     },
     {
       "label": "05-05",
-      "valor": 3.0
+      "valor": 9.0
     }
   ],
   "cumplimiento": [
@@ -46,7 +46,7 @@
     },
     {
       "label": "MAY",
-      "valor": 70.8
+      "valor": 71.9
     }
   ],
   "picking_mensual": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "MAY",
-      "valor": 205.0
+      "valor": 211.0
     }
   ],
   "promedio_ruta": [
@@ -94,7 +94,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 99.0
+      "valor": 100.0
     },
     {
       "label": "ENEA-FINNING",
@@ -136,7 +136,7 @@
     },
     {
       "label": "MAY",
-      "valor": 113.0
+      "valor": 121.0
     }
   ],
   "top5_operadores": [
@@ -147,8 +147,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1835",
-      "porcentaje": "20.7 %"
+      "total": "1841",
+      "porcentaje": "20.8 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -244,9 +244,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "506",
-      "disponibles": "186",
-      "porcentaje": "73.1 %"
+      "ocupadas": "507",
+      "disponibles": "185",
+      "porcentaje": "73.3 %"
     }
   ]
 }

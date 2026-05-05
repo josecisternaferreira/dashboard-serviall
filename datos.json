@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/05/2026 10:10",
+  "timestamp": "05/05/2026 10:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "68.0 %",
+      "valor": "68.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -46,7 +46,7 @@
     },
     {
       "label": "MAY",
-      "valor": 68.0
+      "valor": 68.3
     }
   ],
   "picking_mensual": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "MAY",
-      "valor": 197.0
+      "valor": 200.0
     }
   ],
   "promedio_ruta": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 35.0
+      "valor": 36.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -136,7 +136,7 @@
     },
     {
       "label": "MAY",
-      "valor": 100.0
+      "valor": 104.0
     }
   ],
   "ocupacion": [
@@ -217,9 +217,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "497",
-      "disponibles": "195",
-      "porcentaje": "71.8 %"
+      "ocupadas": "501",
+      "disponibles": "191",
+      "porcentaje": "72.4 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/05/2026 12:50",
+  "timestamp": "06/05/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "118",
+      "valor": "120",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "82.6 %",
+      "valor": "82.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -28,7 +28,7 @@
     },
     {
       "label": "06-05",
-      "valor": 118.0
+      "valor": 120.0
     }
   ],
   "cumplimiento": [
@@ -50,7 +50,7 @@
     },
     {
       "label": "MAY",
-      "valor": 82.6
+      "valor": 82.9
     }
   ],
   "picking_mensual": [
@@ -72,13 +72,13 @@
     },
     {
       "label": "MAY",
-      "valor": 471.0
+      "valor": 473.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1268.0
+      "valor": 1269.0
     },
     {
       "label": "AGUNSA",
@@ -140,7 +140,7 @@
     },
     {
       "label": "MAY",
-      "valor": 195.0
+      "valor": 199.0
     }
   ],
   "top5_operadores": [
@@ -151,13 +151,13 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1977",
+      "total": "1978",
       "porcentaje": "22.7 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1745",
-      "porcentaje": "20.0 %"
+      "total": "1746",
+      "porcentaje": "20.1 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -248,9 +248,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "479",
-      "disponibles": "213",
-      "porcentaje": "69.2 %"
+      "ocupadas": "481",
+      "disponibles": "211",
+      "porcentaje": "69.5 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/05/2026 12:00",
+  "timestamp": "06/05/2026 12:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "93",
+      "valor": "104",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "82.2 %",
+      "valor": "82.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -28,7 +28,7 @@
     },
     {
       "label": "06-05",
-      "valor": 93.0
+      "valor": 104.0
     }
   ],
   "cumplimiento": [
@@ -50,7 +50,7 @@
     },
     {
       "label": "MAY",
-      "valor": 82.2
+      "valor": 82.3
     }
   ],
   "picking_mensual": [
@@ -72,13 +72,13 @@
     },
     {
       "label": "MAY",
-      "valor": 446.0
+      "valor": 457.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1265.0
+      "valor": 1266.0
     },
     {
       "label": "AGUNSA",
@@ -90,7 +90,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 283.0
+      "valor": 284.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -140,7 +140,7 @@
     },
     {
       "label": "MAY",
-      "valor": 191.0
+      "valor": 192.0
     }
   ],
   "top5_operadores": [
@@ -151,18 +151,18 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1969",
+      "total": "1973",
       "porcentaje": "22.7 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1731",
-      "porcentaje": "19.9 %"
+      "total": "1735",
+      "porcentaje": "20.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "795",
-      "porcentaje": "9.2 %"
+      "porcentaje": "9.1 %"
     },
     {
       "operador": "CESCOBAR",
@@ -239,18 +239,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "154",
-      "disponibles": "145",
-      "porcentaje": "51.5 %"
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "481",
-      "disponibles": "211",
-      "porcentaje": "69.5 %"
+      "ocupadas": "478",
+      "disponibles": "214",
+      "porcentaje": "69.1 %"
     }
   ]
 }

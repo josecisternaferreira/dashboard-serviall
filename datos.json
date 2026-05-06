@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/05/2026 12:20",
+  "timestamp": "06/05/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "106",
+      "valor": "109",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "82.3 %",
+      "valor": "82.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -28,7 +28,7 @@
     },
     {
       "label": "06-05",
-      "valor": 106.0
+      "valor": 109.0
     }
   ],
   "cumplimiento": [
@@ -50,7 +50,7 @@
     },
     {
       "label": "MAY",
-      "valor": 82.3
+      "valor": 82.5
     }
   ],
   "picking_mensual": [
@@ -72,7 +72,7 @@
     },
     {
       "label": "MAY",
-      "valor": 459.0
+      "valor": 462.0
     }
   ],
   "promedio_ruta": [
@@ -140,7 +140,7 @@
     },
     {
       "label": "MAY",
-      "valor": 192.0
+      "valor": 194.0
     }
   ],
   "top5_operadores": [
@@ -156,7 +156,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1737",
+      "total": "1740",
       "porcentaje": "20.0 %"
     },
     {
@@ -248,9 +248,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "478",
-      "disponibles": "214",
-      "porcentaje": "69.1 %"
+      "ocupadas": "479",
+      "disponibles": "213",
+      "porcentaje": "69.2 %"
     }
   ]
 }

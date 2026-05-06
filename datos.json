@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/05/2026 13:00",
+  "timestamp": "06/05/2026 13:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "120",
+      "valor": "125",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "82.9 %",
+      "valor": "83.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -28,7 +28,7 @@
     },
     {
       "label": "06-05",
-      "valor": 120.0
+      "valor": 125.0
     }
   ],
   "cumplimiento": [
@@ -50,7 +50,7 @@
     },
     {
       "label": "MAY",
-      "valor": 82.9
+      "valor": 83.2
     }
   ],
   "picking_mensual": [
@@ -72,7 +72,7 @@
     },
     {
       "label": "MAY",
-      "valor": 473.0
+      "valor": 478.0
     }
   ],
   "promedio_ruta": [
@@ -140,23 +140,23 @@
     },
     {
       "label": "MAY",
-      "valor": 199.0
+      "valor": 202.0
     }
   ],
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
       "total": "2112",
-      "porcentaje": "24.3 %"
+      "porcentaje": "24.2 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1978",
+      "total": "1981",
       "porcentaje": "22.7 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1746",
+      "total": "1748",
       "porcentaje": "20.1 %"
     },
     {
@@ -167,7 +167,7 @@
     {
       "operador": "CESCOBAR",
       "total": "701",
-      "porcentaje": "8.1 %"
+      "porcentaje": "8.0 %"
     }
   ],
   "ocupacion": [
@@ -248,9 +248,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "481",
-      "disponibles": "211",
-      "porcentaje": "69.5 %"
+      "ocupadas": "483",
+      "disponibles": "209",
+      "porcentaje": "69.8 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "05/05/2026 18:00",
+  "timestamp": "06/05/2026 09:23",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "26",
+      "valor": "0",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "151",
+      "valor": "15",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -25,6 +25,10 @@
     {
       "label": "05-05",
       "valor": 151.0
+    },
+    {
+      "label": "06-05",
+      "valor": 15.0
     }
   ],
   "cumplimiento": [
@@ -68,13 +72,13 @@
     },
     {
       "label": "MAY",
-      "valor": 353.0
+      "valor": 368.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1248.0
+      "valor": 1251.0
     },
     {
       "label": "AGUNSA",
@@ -142,28 +146,28 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2253",
-      "porcentaje": "25.0 %"
+      "total": "2112",
+      "porcentaje": "24.6 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1913",
-      "porcentaje": "21.2 %"
+      "total": "1919",
+      "porcentaje": "22.3 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1694",
-      "porcentaje": "18.8 %"
-    },
-    {
-      "operador": "CESCOBAR",
-      "total": "968",
-      "porcentaje": "10.7 %"
+      "total": "1703",
+      "porcentaje": "19.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "795",
-      "porcentaje": "8.8 %"
+      "porcentaje": "9.2 %"
+    },
+    {
+      "operador": "CESCOBAR",
+      "total": "701",
+      "porcentaje": "8.2 %"
     }
   ],
   "ocupacion": [

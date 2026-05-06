@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/05/2026 09:30",
+  "timestamp": "06/05/2026 09:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "19",
+      "valor": "24",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "81.3 %",
+      "valor": "81.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     }
   ],
@@ -28,7 +28,7 @@
     },
     {
       "label": "06-05",
-      "valor": 19.0
+      "valor": 24.0
     }
   ],
   "cumplimiento": [
@@ -50,7 +50,7 @@
     },
     {
       "label": "MAY",
-      "valor": 81.3
+      "valor": 81.4
     }
   ],
   "picking_mensual": [
@@ -72,13 +72,13 @@
     },
     {
       "label": "MAY",
-      "valor": 372.0
+      "valor": 377.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1252.0
+      "valor": 1253.0
     },
     {
       "label": "AGUNSA",
@@ -140,7 +140,7 @@
     },
     {
       "label": "MAY",
-      "valor": 182.0
+      "valor": 183.0
     }
   ],
   "top5_operadores": [
@@ -151,12 +151,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1923",
+      "total": "1924",
       "porcentaje": "22.3 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1703",
+      "total": "1707",
       "porcentaje": "19.8 %"
     },
     {
@@ -248,9 +248,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "483",
-      "disponibles": "209",
-      "porcentaje": "69.8 %"
+      "ocupadas": "484",
+      "disponibles": "208",
+      "porcentaje": "69.9 %"
     }
   ]
 }

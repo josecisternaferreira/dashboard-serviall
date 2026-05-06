@@ -1,14 +1,14 @@
 {
-  "timestamp": "06/05/2026 16:50",
+  "timestamp": "06/05/2026 17:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "38",
+      "valor": "40",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "202",
+      "valor": "208",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "label": "06-05",
-      "valor": 202.0
+      "valor": 208.0
     }
   ],
   "cumplimiento": [
@@ -72,13 +72,13 @@
     },
     {
       "label": "MAY",
-      "valor": 557.0
+      "valor": 563.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1284.0
+      "valor": 1285.0
     },
     {
       "label": "AGUNSA",
@@ -151,12 +151,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2017",
+      "total": "2022",
       "porcentaje": "23.0 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1786",
+      "total": "1787",
       "porcentaje": "20.3 %"
     },
     {
@@ -203,9 +203,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "10",
-      "disponibles": "24",
-      "porcentaje": "29.4 %"
+      "ocupadas": "11",
+      "disponibles": "23",
+      "porcentaje": "32.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -248,9 +248,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "477",
-      "disponibles": "215",
-      "porcentaje": "68.9 %"
+      "ocupadas": "478",
+      "disponibles": "214",
+      "porcentaje": "69.1 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/05/2026 15:50",
+  "timestamp": "06/05/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "165",
+      "valor": "168",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "label": "06-05",
-      "valor": 165.0
+      "valor": 168.0
     }
   ],
   "cumplimiento": [
@@ -72,7 +72,7 @@
     },
     {
       "label": "MAY",
-      "valor": 520.0
+      "valor": 523.0
     }
   ],
   "promedio_ruta": [
@@ -140,7 +140,7 @@
     },
     {
       "label": "MAY",
-      "valor": 216.0
+      "valor": 217.0
     }
   ],
   "top5_operadores": [
@@ -156,7 +156,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1765",
+      "total": "1767",
       "porcentaje": "20.2 %"
     },
     {
@@ -203,18 +203,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "11",
-      "disponibles": "23",
-      "porcentaje": "32.4 %"
+      "ocupadas": "10",
+      "disponibles": "24",
+      "porcentaje": "29.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1227",
-      "disponibles": "253",
-      "porcentaje": "82.9 %"
+      "ocupadas": "1225",
+      "disponibles": "255",
+      "porcentaje": "82.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -239,18 +239,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "156",
-      "disponibles": "143",
-      "porcentaje": "52.2 %"
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "489",
-      "disponibles": "203",
-      "porcentaje": "70.7 %"
+      "ocupadas": "475",
+      "disponibles": "217",
+      "porcentaje": "68.6 %"
     }
   ]
 }

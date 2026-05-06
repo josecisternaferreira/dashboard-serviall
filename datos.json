@@ -1,14 +1,14 @@
 {
-  "timestamp": "06/05/2026 17:00",
+  "timestamp": "06/05/2026 17:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "40",
+      "valor": "42",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "208",
+      "valor": "211",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "label": "06-05",
-      "valor": 208.0
+      "valor": 211.0
     }
   ],
   "cumplimiento": [
@@ -72,13 +72,13 @@
     },
     {
       "label": "MAY",
-      "valor": 563.0
+      "valor": 566.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1285.0
+      "valor": 1286.0
     },
     {
       "label": "AGUNSA",
@@ -156,7 +156,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1787",
+      "total": "1790",
       "porcentaje": "20.3 %"
     },
     {
@@ -239,18 +239,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "155",
-      "disponibles": "144",
-      "porcentaje": "51.8 %"
+      "ocupadas": "157",
+      "disponibles": "142",
+      "porcentaje": "52.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "478",
-      "disponibles": "214",
-      "porcentaje": "69.1 %"
+      "ocupadas": "480",
+      "disponibles": "212",
+      "porcentaje": "69.4 %"
     }
   ]
 }

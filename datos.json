@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/05/2026 09:23",
+  "timestamp": "07/05/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -34,6 +34,10 @@
     {
       "label": "06-05",
       "valor": 224.0
+    },
+    {
+      "label": "07-05",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -77,7 +81,7 @@
     },
     {
       "label": "MAY",
-      "valor": 579.0
+      "valor": 581.0
     }
   ],
   "promedio_ruta": [
@@ -95,7 +99,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 284.0
+      "valor": 285.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -178,7 +182,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2029",
+      "total": "2031",
       "porcentaje": "23.0 %"
     },
     {
@@ -275,9 +279,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "478",
-      "disponibles": "214",
-      "porcentaje": "69.1 %"
+      "ocupadas": "479",
+      "disponibles": "213",
+      "porcentaje": "69.2 %"
     }
   ]
 }

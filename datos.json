@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/05/2026 09:50",
+  "timestamp": "07/05/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "7",
+      "valor": "10",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 7.0
+      "valor": 10.0
     }
   ],
   "cumplimiento": [
@@ -81,7 +81,7 @@
     },
     {
       "label": "MAY",
-      "valor": 586.0
+      "valor": 589.0
     }
   ],
   "promedio_ruta": [
@@ -178,16 +178,16 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2112",
-      "porcentaje": "24.0 %"
+      "porcentaje": "23.9 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2036",
+      "total": "2037",
       "porcentaje": "23.1 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1796",
+      "total": "1798",
       "porcentaje": "20.4 %"
     },
     {
@@ -198,7 +198,7 @@
     {
       "operador": "CESCOBAR",
       "total": "701",
-      "porcentaje": "8.0 %"
+      "porcentaje": "7.9 %"
     }
   ],
   "ocupacion": [
@@ -279,9 +279,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "477",
-      "disponibles": "215",
-      "porcentaje": "68.9 %"
+      "ocupadas": "478",
+      "disponibles": "214",
+      "porcentaje": "69.1 %"
     }
   ]
 }

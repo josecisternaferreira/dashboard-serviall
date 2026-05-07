@@ -1,14 +1,14 @@
 {
-  "timestamp": "06/05/2026 18:20",
+  "timestamp": "07/05/2026 08:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "42",
+      "valor": "0",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "224",
+      "valor": "0",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -212,9 +212,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1224",
-      "disponibles": "256",
-      "porcentaje": "82.7 %"
+      "ocupadas": "1223",
+      "disponibles": "257",
+      "porcentaje": "82.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -248,9 +248,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "479",
-      "disponibles": "213",
-      "porcentaje": "69.2 %"
+      "ocupadas": "477",
+      "disponibles": "215",
+      "porcentaje": "68.9 %"
     }
   ]
 }

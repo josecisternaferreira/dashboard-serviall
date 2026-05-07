@@ -1,19 +1,19 @@
 {
-  "timestamp": "07/05/2026 16:30",
+  "timestamp": "07/05/2026 16:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "23",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "203",
+      "valor": "215",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "86.6 %",
+      "valor": "86.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 203.0
+      "valor": 215.0
     }
   ],
   "cumplimiento": [
@@ -59,7 +59,7 @@
     },
     {
       "label": "MAY",
-      "valor": 86.6
+      "valor": 86.7
     }
   ],
   "picking_mensual": [
@@ -81,17 +81,17 @@
     },
     {
       "label": "MAY",
-      "valor": 782.0
+      "valor": 794.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1318.0
+      "valor": 1320.0
     },
     {
       "label": "SITRANS",
-      "valor": 338.0
+      "valor": 339.0
     },
     {
       "label": "AGUNSA",
@@ -149,7 +149,7 @@
     },
     {
       "label": "MAY",
-      "valor": 277.0
+      "valor": 278.0
     }
   ],
   "fillrate_mensual": [
@@ -177,8 +177,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2138",
-      "porcentaje": "23.7 %"
+      "total": "2145",
+      "porcentaje": "23.8 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -187,7 +187,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1851",
+      "total": "1854",
       "porcentaje": "20.5 %"
     },
     {
@@ -270,9 +270,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "155",
-      "disponibles": "144",
-      "porcentaje": "51.8 %"
+      "ocupadas": "156",
+      "disponibles": "143",
+      "porcentaje": "52.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

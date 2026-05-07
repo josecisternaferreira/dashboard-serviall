@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/05/2026 12:20",
+  "timestamp": "07/05/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "87",
+      "valor": "100",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 87.0
+      "valor": 100.0
     }
   ],
   "cumplimiento": [
@@ -81,13 +81,13 @@
     },
     {
       "label": "MAY",
-      "valor": 666.0
+      "valor": 679.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1300.0
+      "valor": 1301.0
     },
     {
       "label": "AGUNSA",
@@ -95,7 +95,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 334.0
+      "valor": 335.0
     },
     {
       "label": "ESTAFETA",
@@ -182,12 +182,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2075",
+      "total": "2079",
       "porcentaje": "23.3 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1823",
+      "total": "1827",
       "porcentaje": "20.5 %"
     },
     {
@@ -279,9 +279,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "478",
-      "disponibles": "214",
-      "porcentaje": "69.1 %"
+      "ocupadas": "480",
+      "disponibles": "212",
+      "porcentaje": "69.4 %"
     }
   ]
 }

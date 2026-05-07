@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/05/2026 14:10",
+  "timestamp": "07/05/2026 14:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "171",
+      "valor": "175",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 171.0
+      "valor": 175.0
     }
   ],
   "cumplimiento": [
@@ -81,7 +81,7 @@
     },
     {
       "label": "MAY",
-      "valor": 750.0
+      "valor": 754.0
     }
   ],
   "promedio_ruta": [
@@ -174,7 +174,33 @@
       "valor": 99.9
     }
   ],
-  "top5_operadores": [],
+  "top5_operadores": [
+    {
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "2116",
+      "porcentaje": "23.6 %"
+    },
+    {
+      "operador": "DIEGO GANDO",
+      "total": "2112",
+      "porcentaje": "23.5 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1847",
+      "porcentaje": "20.6 %"
+    },
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "795",
+      "porcentaje": "8.8 %"
+    },
+    {
+      "operador": "CESCOBAR",
+      "total": "701",
+      "porcentaje": "7.8 %"
+    }
+  ],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",

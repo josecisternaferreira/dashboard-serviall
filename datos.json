@@ -1,14 +1,14 @@
 {
-  "timestamp": "07/05/2026 16:20",
+  "timestamp": "07/05/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "15",
+      "valor": "20",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "195",
+      "valor": "203",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 195.0
+      "valor": 203.0
     }
   ],
   "cumplimiento": [
@@ -81,13 +81,13 @@
     },
     {
       "label": "MAY",
-      "valor": 774.0
+      "valor": 782.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1316.0
+      "valor": 1318.0
     },
     {
       "label": "SITRANS",
@@ -177,18 +177,18 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2132",
+      "total": "2138",
       "porcentaje": "23.7 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "2112",
-      "porcentaje": "23.5 %"
+      "porcentaje": "23.4 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1851",
-      "porcentaje": "20.6 %"
+      "porcentaje": "20.5 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -279,9 +279,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "479",
-      "disponibles": "213",
-      "porcentaje": "69.2 %"
+      "ocupadas": "483",
+      "disponibles": "209",
+      "porcentaje": "69.8 %"
     }
   ]
 }

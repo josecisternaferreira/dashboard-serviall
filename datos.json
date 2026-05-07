@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/05/2026 12:00",
+  "timestamp": "07/05/2026 12:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "77",
+      "valor": "80",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 77.0
+      "valor": 80.0
     }
   ],
   "cumplimiento": [
@@ -81,13 +81,13 @@
     },
     {
       "label": "MAY",
-      "valor": 656.0
+      "valor": 659.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1299.0
+      "valor": 1300.0
     },
     {
       "label": "AGUNSA",
@@ -187,7 +187,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1820",
+      "total": "1823",
       "porcentaje": "20.5 %"
     },
     {
@@ -243,8 +243,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1226",
-      "disponibles": "254",
+      "ocupadas": "1225",
+      "disponibles": "255",
       "porcentaje": "82.8 %"
     },
     {
@@ -279,9 +279,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "481",
-      "disponibles": "211",
-      "porcentaje": "69.5 %"
+      "ocupadas": "479",
+      "disponibles": "213",
+      "porcentaje": "69.2 %"
     }
   ]
 }

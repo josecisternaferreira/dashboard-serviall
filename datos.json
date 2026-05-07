@@ -1,9 +1,9 @@
 {
-  "timestamp": "07/05/2026 09:10",
+  "timestamp": "07/05/2026 09:19",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -15,6 +15,11 @@
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
       "valor": "83.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
+    },
+    {
+      "titulo": "FILL_RATE_MES_ACTUAL",
+      "valor": "99.9 %",
+      "subtitulo": "Fillrate Mes Actual - Bodega Santiago"
     }
   ],
   "tareas_por_dia": [
@@ -143,6 +148,28 @@
       "valor": 220.0
     }
   ],
+  "fillrate_mensual": [
+    {
+      "label": "ENE",
+      "valor": 100.0
+    },
+    {
+      "label": "FEB",
+      "valor": 100.0
+    },
+    {
+      "label": "MAR",
+      "valor": 100.0
+    },
+    {
+      "label": "ABR",
+      "valor": 100.0
+    },
+    {
+      "label": "MAY",
+      "valor": 99.9
+    }
+  ],
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
@@ -212,9 +239,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1223",
-      "disponibles": "257",
-      "porcentaje": "82.6 %"
+      "ocupadas": "1224",
+      "disponibles": "256",
+      "porcentaje": "82.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -239,9 +266,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "157",
-      "disponibles": "142",
-      "porcentaje": "52.5 %"
+      "ocupadas": "156",
+      "disponibles": "143",
+      "porcentaje": "52.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/05/2026 13:40",
+  "timestamp": "07/05/2026 13:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "150",
+      "valor": "160",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "84.6 %",
+      "valor": "84.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 150.0
+      "valor": 160.0
     }
   ],
   "cumplimiento": [
@@ -59,7 +59,7 @@
     },
     {
       "label": "MAY",
-      "valor": 84.6
+      "valor": 84.8
     }
   ],
   "picking_mensual": [
@@ -81,13 +81,13 @@
     },
     {
       "label": "MAY",
-      "valor": 729.0
+      "valor": 739.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1308.0
+      "valor": 1309.0
     },
     {
       "label": "SITRANS",
@@ -149,7 +149,7 @@
     },
     {
       "label": "MAY",
-      "valor": 241.0
+      "valor": 243.0
     }
   ],
   "fillrate_mensual": [
@@ -178,16 +178,16 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2112",
-      "porcentaje": "23.6 %"
+      "porcentaje": "23.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2099",
-      "porcentaje": "23.4 %"
+      "total": "2105",
+      "porcentaje": "23.5 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1840",
+      "total": "1843",
       "porcentaje": "20.5 %"
     },
     {
@@ -279,9 +279,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "479",
-      "disponibles": "213",
-      "porcentaje": "69.2 %"
+      "ocupadas": "478",
+      "disponibles": "214",
+      "porcentaje": "69.1 %"
     }
   ]
 }

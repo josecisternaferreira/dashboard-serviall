@@ -1,14 +1,14 @@
 {
-  "timestamp": "07/05/2026 17:00",
+  "timestamp": "07/05/2026 17:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "31",
+      "valor": "33",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "234",
+      "valor": "244",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 234.0
+      "valor": 244.0
     }
   ],
   "cumplimiento": [
@@ -51,7 +51,7 @@
     },
     {
       "label": "MAR",
-      "valor": 89.6
+      "valor": 90.1
     },
     {
       "label": "ABR",
@@ -81,13 +81,13 @@
     },
     {
       "label": "MAY",
-      "valor": 813.0
+      "valor": 823.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1323.0
+      "valor": 1325.0
     },
     {
       "label": "SITRANS",
@@ -177,17 +177,17 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2155",
-      "porcentaje": "23.8 %"
+      "total": "2160",
+      "porcentaje": "23.9 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "2112",
-      "porcentaje": "23.4 %"
+      "porcentaje": "23.3 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1856",
+      "total": "1858",
       "porcentaje": "20.5 %"
     },
     {
@@ -198,7 +198,7 @@
     {
       "operador": "CESCOBAR",
       "total": "701",
-      "porcentaje": "7.8 %"
+      "porcentaje": "7.7 %"
     }
   ],
   "ocupacion": [
@@ -279,9 +279,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "480",
-      "disponibles": "212",
-      "porcentaje": "69.4 %"
+      "ocupadas": "481",
+      "disponibles": "211",
+      "porcentaje": "69.5 %"
     }
   ]
 }

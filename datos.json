@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/05/2026 09:30",
+  "timestamp": "07/05/2026 09:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "2",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "83.2 %",
+      "valor": "83.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "07-05",
-      "valor": 2.0
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -59,7 +59,7 @@
     },
     {
       "label": "MAY",
-      "valor": 83.2
+      "valor": 83.3
     }
   ],
   "picking_mensual": [
@@ -81,7 +81,7 @@
     },
     {
       "label": "MAY",
-      "valor": 581.0
+      "valor": 583.0
     }
   ],
   "promedio_ruta": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "MAY",
-      "valor": 220.0
+      "valor": 221.0
     }
   ],
   "fillrate_mensual": [
@@ -182,8 +182,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2031",
-      "porcentaje": "23.0 %"
+      "total": "2033",
+      "porcentaje": "23.1 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -243,9 +243,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1224",
-      "disponibles": "256",
-      "porcentaje": "82.7 %"
+      "ocupadas": "1225",
+      "disponibles": "255",
+      "porcentaje": "82.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -270,18 +270,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "156",
-      "disponibles": "143",
-      "porcentaje": "52.2 %"
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "479",
-      "disponibles": "213",
-      "porcentaje": "69.2 %"
+      "ocupadas": "477",
+      "disponibles": "215",
+      "porcentaje": "68.9 %"
     }
   ]
 }

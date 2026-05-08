@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/05/2026 09:50",
+  "timestamp": "08/05/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "26",
+      "valor": "34",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "label": "08-05",
-      "valor": 26.0
+      "valor": 34.0
     }
   ],
   "cumplimiento": [
@@ -85,13 +85,13 @@
     },
     {
       "label": "MAY",
-      "valor": 877.0
+      "valor": 885.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1335.0
+      "valor": 1336.0
     },
     {
       "label": "SITRANS",
@@ -181,7 +181,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2188",
+      "total": "2191",
       "porcentaje": "24.0 %"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1876",
+      "total": "1880",
       "porcentaje": "20.6 %"
     },
     {
@@ -229,9 +229,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "332",
-      "ocupadas": "91",
-      "disponibles": "241",
-      "porcentaje": "27.4 %"
+      "ocupadas": "90",
+      "disponibles": "242",
+      "porcentaje": "27.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -283,9 +283,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "501",
-      "disponibles": "191",
-      "porcentaje": "72.4 %"
+      "ocupadas": "502",
+      "disponibles": "190",
+      "porcentaje": "72.5 %"
     }
   ]
 }

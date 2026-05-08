@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/05/2026 09:20",
+  "timestamp": "08/05/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "label": "08-05",
-      "valor": 10.0
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -85,7 +85,7 @@
     },
     {
       "label": "MAY",
-      "valor": 861.0
+      "valor": 864.0
     }
   ],
   "promedio_ruta": [
@@ -181,7 +181,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2184",
+      "total": "2185",
       "porcentaje": "24.0 %"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1867",
+      "total": "1868",
       "porcentaje": "20.5 %"
     },
     {
@@ -283,9 +283,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "494",
-      "disponibles": "198",
-      "porcentaje": "71.4 %"
+      "ocupadas": "496",
+      "disponibles": "196",
+      "porcentaje": "71.7 %"
     }
   ]
 }

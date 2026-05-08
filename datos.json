@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/05/2026 10:20",
+  "timestamp": "08/05/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "43",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "label": "08-05",
-      "valor": 43.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -85,7 +85,7 @@
     },
     {
       "label": "MAY",
-      "valor": 894.0
+      "valor": 897.0
     }
   ],
   "promedio_ruta": [
@@ -181,8 +181,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2194",
-      "porcentaje": "24.0 %"
+      "total": "2196",
+      "porcentaje": "24.1 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -283,9 +283,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "505",
-      "disponibles": "187",
-      "porcentaje": "73.0 %"
+      "ocupadas": "506",
+      "disponibles": "186",
+      "porcentaje": "73.1 %"
     }
   ]
 }

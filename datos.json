@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/05/2026 11:50",
+  "timestamp": "08/05/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,12 +13,12 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.9 %",
+      "valor": "95.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.9 %",
+      "valor": "100.0 %",
       "subtitulo": "Fillrate Mes Actual - Bodega Santiago"
     }
   ],
@@ -63,7 +63,7 @@
     },
     {
       "label": "MAY",
-      "valor": 94.9
+      "valor": 95.1
     }
   ],
   "picking_mensual": [
@@ -153,31 +153,10 @@
     },
     {
       "label": "MAY",
-      "valor": 297.0
+      "valor": 305.0
     }
   ],
-  "fillrate_mensual": [
-    {
-      "label": "ENE",
-      "valor": 100.0
-    },
-    {
-      "label": "FEB",
-      "valor": 100.0
-    },
-    {
-      "label": "MAR",
-      "valor": 100.0
-    },
-    {
-      "label": "ABR",
-      "valor": 100.0
-    },
-    {
-      "label": "MAY",
-      "valor": 99.9
-    }
-  ],
+  "fillrate_mensual": [],
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -256,9 +235,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "36",
-      "disponibles": "5",
-      "porcentaje": "87.8 %"
+      "ocupadas": "35",
+      "disponibles": "6",
+      "porcentaje": "85.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -283,9 +262,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "510",
-      "disponibles": "182",
-      "porcentaje": "73.7 %"
+      "ocupadas": "507",
+      "disponibles": "185",
+      "porcentaje": "73.3 %"
     }
   ]
 }

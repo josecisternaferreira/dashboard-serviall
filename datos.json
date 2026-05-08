@@ -1,14 +1,14 @@
 {
-  "timestamp": "08/05/2026 10:10",
+  "timestamp": "08/05/2026 10:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "39",
+      "valor": "43",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "label": "08-05",
-      "valor": 39.0
+      "valor": 43.0
     }
   ],
   "cumplimiento": [
@@ -85,13 +85,13 @@
     },
     {
       "label": "MAY",
-      "valor": 890.0
+      "valor": 894.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1337.0
+      "valor": 1338.0
     },
     {
       "label": "SITRANS",
@@ -181,13 +181,13 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2191",
+      "total": "2194",
       "porcentaje": "24.0 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "2112",
-      "porcentaje": "23.2 %"
+      "porcentaje": "23.1 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -283,9 +283,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "503",
-      "disponibles": "189",
-      "porcentaje": "72.7 %"
+      "ocupadas": "505",
+      "disponibles": "187",
+      "porcentaje": "73.0 %"
     }
   ]
 }

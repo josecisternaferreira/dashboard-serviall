@@ -1,14 +1,14 @@
 {
-  "timestamp": "08/05/2026 12:00",
+  "timestamp": "08/05/2026 12:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "9",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "68",
+      "valor": "70",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "label": "08-05",
-      "valor": 68.0
+      "valor": 70.0
     }
   ],
   "cumplimiento": [
@@ -85,7 +85,7 @@
     },
     {
       "label": "MAY",
-      "valor": 923.0
+      "valor": 925.0
     }
   ],
   "promedio_ruta": [
@@ -115,7 +115,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 58.0
+      "valor": 59.0
     },
     {
       "label": "REPOSICION",
@@ -160,7 +160,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2207",
+      "total": "2209",
       "porcentaje": "24.1 %"
     },
     {
@@ -262,9 +262,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "507",
-      "disponibles": "185",
-      "porcentaje": "73.3 %"
+      "ocupadas": "509",
+      "disponibles": "183",
+      "porcentaje": "73.6 %"
     }
   ]
 }

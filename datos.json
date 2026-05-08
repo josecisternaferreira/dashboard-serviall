@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/05/2026 13:30",
+  "timestamp": "08/05/2026 13:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -20,6 +20,11 @@
       "titulo": "FILL_RATE_MES_ACTUAL",
       "valor": "100.0 %",
       "subtitulo": "Fillrate Mes Actual - Bodega Santiago"
+    },
+    {
+      "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
+      "valor": "2.9 días",
+      "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
   "tareas_por_dia": [
@@ -182,6 +187,50 @@
       "operador": "CESCOBAR",
       "total": "701",
       "porcentaje": "7.7 %"
+    }
+  ],
+  "semana_actual": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "537",
+      "unidades": "47906",
+      "ordenes": "184"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "233",
+      "unidades": "39711",
+      "ordenes": "35"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "63",
+      "unidades": "9792",
+      "ordenes": "41"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "45",
+      "unidades": "11855",
+      "ordenes": "32"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LSAEZ",
+      "tareas": "35",
+      "unidades": "5250",
+      "ordenes": "26"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "1",
+      "unidades": "20",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

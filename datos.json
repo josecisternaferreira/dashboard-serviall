@@ -1,14 +1,14 @@
 {
-  "timestamp": "08/05/2026 11:40",
+  "timestamp": "08/05/2026 11:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "9",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "67",
+      "valor": "68",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "label": "08-05",
-      "valor": 67.0
+      "valor": 68.0
     }
   ],
   "cumplimiento": [
@@ -85,7 +85,7 @@
     },
     {
       "label": "MAY",
-      "valor": 918.0
+      "valor": 923.0
     }
   ],
   "promedio_ruta": [
@@ -119,7 +119,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 37.0
+      "valor": 38.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -283,9 +283,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "508",
-      "disponibles": "184",
-      "porcentaje": "73.4 %"
+      "ocupadas": "510",
+      "disponibles": "182",
+      "porcentaje": "73.7 %"
     }
   ]
 }

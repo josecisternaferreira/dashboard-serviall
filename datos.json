@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/05/2026 11:10",
+  "timestamp": "08/05/2026 11:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "60",
+      "valor": "62",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "label": "08-05",
-      "valor": 60.0
+      "valor": 62.0
     }
   ],
   "cumplimiento": [
@@ -85,7 +85,7 @@
     },
     {
       "label": "MAY",
-      "valor": 911.0
+      "valor": 913.0
     }
   ],
   "promedio_ruta": [
@@ -95,7 +95,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 341.0
+      "valor": 342.0
     },
     {
       "label": "AGUNSA",
@@ -153,7 +153,7 @@
     },
     {
       "label": "MAY",
-      "valor": 295.0
+      "valor": 296.0
     }
   ],
   "fillrate_mensual": [
@@ -283,9 +283,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "506",
-      "disponibles": "186",
-      "porcentaje": "73.1 %"
+      "ocupadas": "507",
+      "disponibles": "185",
+      "porcentaje": "73.3 %"
     }
   ]
 }

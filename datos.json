@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/05/2026 11:00",
+  "timestamp": "08/05/2026 11:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "57",
+      "valor": "60",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.9 %",
+      "valor": "94.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "label": "08-05",
-      "valor": 57.0
+      "valor": 60.0
     }
   ],
   "cumplimiento": [
@@ -63,7 +63,7 @@
     },
     {
       "label": "MAY",
-      "valor": 93.9
+      "valor": 94.9
     }
   ],
   "picking_mensual": [
@@ -85,13 +85,13 @@
     },
     {
       "label": "MAY",
-      "valor": 908.0
+      "valor": 911.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1339.0
+      "valor": 1340.0
     },
     {
       "label": "SITRANS",
@@ -181,7 +181,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2202",
+      "total": "2205",
       "porcentaje": "24.1 %"
     },
     {
@@ -274,9 +274,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "156",
-      "disponibles": "143",
-      "porcentaje": "52.2 %"
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",

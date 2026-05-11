@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/05/2026 09:30",
+  "timestamp": "11/05/2026 09:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "2",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "11-05",
-      "valor": 2.0
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "MAY",
-      "valor": 941.0
+      "valor": 944.0
     }
   ],
   "promedio_ruta": [
@@ -195,7 +195,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2213",
-      "porcentaje": "24.8 %"
+      "porcentaje": "24.7 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -222,8 +222,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
+      "tareas": "3",
+      "unidades": "56",
+      "ordenes": "3"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LSAEZ",
       "tareas": "2",
-      "unidades": "51",
+      "unidades": "1145",
       "ordenes": "2"
     }
   ],

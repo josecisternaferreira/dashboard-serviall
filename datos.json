@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/05/2026 11:30",
+  "timestamp": "11/05/2026 11:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "38",
+      "valor": "40",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "11-05",
-      "valor": 38.0
+      "valor": 40.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "MAY",
-      "valor": 977.0
+      "valor": 979.0
     }
   ],
   "promedio_ruta": [
@@ -195,7 +195,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2213",
-      "porcentaje": "24.7 %"
+      "porcentaje": "24.6 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -222,16 +222,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "23",
-      "unidades": "2341",
-      "ordenes": "20"
+      "tareas": "24",
+      "unidades": "2343",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "15",
-      "unidades": "241",
-      "ordenes": "15"
+      "tareas": "16",
+      "unidades": "251",
+      "ordenes": "16"
     }
   ],
   "ocupacion": [
@@ -312,9 +312,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "492",
-      "disponibles": "200",
-      "porcentaje": "71.1 %"
+      "ocupadas": "494",
+      "disponibles": "198",
+      "porcentaje": "71.4 %"
     }
   ]
 }

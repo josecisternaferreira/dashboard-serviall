@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/05/2026 17:26",
+  "timestamp": "11/05/2026 17:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "93",
+      "valor": "94",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -19,7 +19,7 @@
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
       "valor": "100.0 %",
-      "subtitulo": "Fillrate Mes Actual - Bodega Santiago"
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -54,7 +54,7 @@
     },
     {
       "label": "11-05",
-      "valor": 93.0
+      "valor": 94.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1032.0
+      "valor": 1033.0
     }
   ],
   "promedio_ruta": [
@@ -112,7 +112,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 345.0
+      "valor": 346.0
     },
     {
       "label": "ESTAFETA",
@@ -240,9 +240,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "16",
-      "unidades": "615",
-      "ordenes": "14"
+      "tareas": "17",
+      "unidades": "620",
+      "ordenes": "15"
     }
   ],
   "ocupacion": [
@@ -287,9 +287,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1480",
-      "ocupadas": "1236",
-      "disponibles": "244",
-      "porcentaje": "83.5 %"
+      "ocupadas": "1237",
+      "disponibles": "243",
+      "porcentaje": "83.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",

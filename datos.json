@@ -1,14 +1,14 @@
 {
-  "timestamp": "11/05/2026 11:43",
+  "timestamp": "11/05/2026 11:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "45",
+      "valor": "51",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "11-05",
-      "valor": 45.0
+      "valor": 51.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "MAY",
-      "valor": 984.0
+      "valor": 990.0
     }
   ],
   "promedio_ruta": [
@@ -210,7 +210,7 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "795",
-      "porcentaje": "8.9 %"
+      "porcentaje": "8.8 %"
     },
     {
       "operador": "CESCOBAR",
@@ -222,16 +222,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "25",
-      "unidades": "2543",
-      "ordenes": "22"
+      "tareas": "28",
+      "unidades": "2606",
+      "ordenes": "25"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "20",
-      "unidades": "275",
-      "ordenes": "20"
+      "tareas": "23",
+      "unidades": "283",
+      "ordenes": "22"
     }
   ],
   "ocupacion": [
@@ -312,9 +312,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "495",
-      "disponibles": "197",
-      "porcentaje": "71.5 %"
+      "ocupadas": "494",
+      "disponibles": "198",
+      "porcentaje": "71.4 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/05/2026 12:30",
+  "timestamp": "11/05/2026 12:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "65",
+      "valor": "66",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.2 %",
+      "valor": "96.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "11-05",
-      "valor": 65.0
+      "valor": 66.0
     }
   ],
   "cumplimiento": [
@@ -76,7 +76,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.2
+      "valor": 96.3
     }
   ],
   "picking_mensual": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1004.0
+      "valor": 1005.0
     }
   ],
   "promedio_ruta": [
@@ -166,7 +166,7 @@
     },
     {
       "label": "MAY",
-      "valor": 398.0
+      "valor": 402.0
     }
   ],
   "fillrate_mensual": [
@@ -229,8 +229,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "30",
-      "unidades": "536",
+      "tareas": "31",
+      "unidades": "578",
       "ordenes": "27"
     }
   ],
@@ -312,9 +312,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "495",
-      "disponibles": "197",
-      "porcentaje": "71.5 %"
+      "ocupadas": "496",
+      "disponibles": "196",
+      "porcentaje": "71.7 %"
     }
   ]
 }

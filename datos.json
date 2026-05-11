@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/05/2026 12:13",
+  "timestamp": "11/05/2026 12:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "58",
+      "valor": "61",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "11-05",
-      "valor": 58.0
+      "valor": 61.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "MAY",
-      "valor": 997.0
+      "valor": 1000.0
     }
   ],
   "promedio_ruta": [
@@ -205,7 +205,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1885",
-      "porcentaje": "21.0 %"
+      "porcentaje": "20.9 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -222,16 +222,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "33",
-      "unidades": "2887",
-      "ordenes": "28"
+      "tareas": "34",
+      "unidades": "2912",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "25",
-      "unidades": "319",
-      "ordenes": "23"
+      "tareas": "27",
+      "unidades": "520",
+      "ordenes": "25"
     }
   ],
   "ocupacion": [
@@ -312,9 +312,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "496",
-      "disponibles": "196",
-      "porcentaje": "71.7 %"
+      "ocupadas": "495",
+      "disponibles": "197",
+      "porcentaje": "71.5 %"
     }
   ]
 }

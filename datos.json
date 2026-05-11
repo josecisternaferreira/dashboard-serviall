@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/05/2026 10:23",
+  "timestamp": "11/05/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "19",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "11-05",
-      "valor": 17.0
+      "valor": 19.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "MAY",
-      "valor": 956.0
+      "valor": 958.0
     }
   ],
   "promedio_ruta": [
@@ -108,7 +108,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 344.0
+      "valor": 345.0
     },
     {
       "label": "AGUNSA",
@@ -221,17 +221,17 @@
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "LSAEZ",
+      "tareas": "10",
+      "unidades": "1650",
+      "ordenes": "10"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
       "tareas": "9",
       "unidades": "215",
       "ordenes": "9"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LSAEZ",
-      "tareas": "8",
-      "unidades": "1612",
-      "ordenes": "8"
     }
   ],
   "ocupacion": [

@@ -1,14 +1,14 @@
 {
-  "timestamp": "12/05/2026 10:03",
+  "timestamp": "12/05/2026 10:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "29",
+      "valor": "33",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 29.0
+      "valor": 33.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1064.0
+      "valor": 1068.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 290.0
+      "valor": 291.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -217,7 +217,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "821",
+      "total": "823",
       "porcentaje": "9.1 %"
     },
     {
@@ -244,16 +244,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "26",
-      "unidades": "395",
+      "tareas": "28",
+      "unidades": "416",
       "ordenes": "7"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "21",
-      "unidades": "662",
-      "ordenes": "19"
+      "tareas": "23",
+      "unidades": "669",
+      "ordenes": "21"
     }
   ],
   "ocupacion": [

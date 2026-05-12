@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 11:33",
+  "timestamp": "12/05/2026 11:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "82",
+      "valor": "86",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 82.0
+      "valor": 86.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1119.0
+      "valor": 1123.0
     }
   ],
   "promedio_ruta": [
@@ -207,17 +207,17 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2024",
+      "total": "2026",
       "porcentaje": "22.2 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1899",
+      "total": "1900",
       "porcentaje": "20.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "838",
+      "total": "839",
       "porcentaje": "9.2 %"
     },
     {
@@ -230,9 +230,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "43",
-      "unidades": "1867",
-      "ordenes": "17"
+      "tareas": "44",
+      "unidades": "1877",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -258,19 +258,28 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "14",
-      "unidades": "135",
-      "ordenes": "5"
+      "tareas": "15",
+      "unidades": "2435",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "9",
-      "unidades": "66",
-      "ordenes": "7"
+      "tareas": "11",
+      "unidades": "169",
+      "ordenes": "9"
     }
   ],
   "ocupacion": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "PATIO",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
     {
       "region": "BODEGA SANTIAGO",
       "area": "PTF",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 11:00",
+  "timestamp": "12/05/2026 11:03",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "55",
+      "valor": "56",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 55.0
+      "valor": 56.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1092.0
+      "valor": 1093.0
     }
   ],
   "promedio_ruta": [
@@ -217,7 +217,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "830",
+      "total": "831",
       "porcentaje": "9.1 %"
     },
     {
@@ -236,17 +236,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "36",
+      "unidades": "1332",
+      "ordenes": "10"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
       "tareas": "36",
       "unidades": "1149",
       "ordenes": "29"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "35",
-      "unidades": "1318",
-      "ordenes": "9"
     },
     {
       "region": "BODEGA SANTIAGO",

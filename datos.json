@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 11:13",
+  "timestamp": "12/05/2026 11:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "63",
+      "valor": "72",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 63.0
+      "valor": 72.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1100.0
+      "valor": 1109.0
     }
   ],
   "promedio_ruta": [
@@ -116,11 +116,11 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 348.0
+      "valor": 349.0
     },
     {
       "label": "ESTAFETA",
-      "valor": 295.0
+      "valor": 297.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -207,23 +207,23 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2016",
+      "total": "2020",
       "porcentaje": "22.2 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1895",
+      "total": "1897",
       "porcentaje": "20.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "833",
+      "total": "834",
       "porcentaje": "9.2 %"
     },
     {
       "operador": "CESCOBAR",
       "total": "578",
-      "porcentaje": "6.4 %"
+      "porcentaje": "6.3 %"
     }
   ],
   "semana_actual": [
@@ -237,9 +237,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "38",
-      "unidades": "1336",
-      "ordenes": "12"
+      "tareas": "39",
+      "unidades": "1361",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -251,23 +251,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "32",
-      "unidades": "734",
-      "ordenes": "30"
+      "tareas": "34",
+      "unidades": "744",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "10",
-      "unidades": "114",
+      "tareas": "12",
+      "unidades": "125",
       "ordenes": "4"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "1",
-      "unidades": "2",
-      "ordenes": "1"
+      "tareas": "5",
+      "unidades": "50",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [

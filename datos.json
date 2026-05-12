@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 11:50",
+  "timestamp": "12/05/2026 11:53",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "91",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 91.0
+      "valor": 93.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1128.0
+      "valor": 1130.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 300.0
+      "valor": 301.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -203,11 +203,11 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2213",
-      "porcentaje": "24.3 %"
+      "porcentaje": "24.2 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2029",
+      "total": "2030",
       "porcentaje": "22.2 %"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "841",
+      "total": "842",
       "porcentaje": "9.2 %"
     },
     {
@@ -230,8 +230,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "46",
-      "unidades": "2010",
+      "tareas": "47",
+      "unidades": "2032",
       "ordenes": "19"
     },
     {
@@ -257,17 +257,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "15",
+      "unidades": "278",
+      "ordenes": "10"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
       "tareas": "15",
       "unidades": "2435",
       "ordenes": "6"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "14",
-      "unidades": "273",
-      "ordenes": "10"
     }
   ],
   "ocupacion": [

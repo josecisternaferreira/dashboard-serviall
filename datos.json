@@ -1,9 +1,9 @@
 {
-  "timestamp": "12/05/2026 17:40",
+  "timestamp": "12/05/2026 17:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "35",
+      "valor": "37",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.0 %",
+      "valor": "97.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "label": "MAY",
-      "valor": 97.0
+      "valor": 97.1
     }
   ],
   "picking_mensual": [
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 502.0
+      "valor": 513.0
     }
   ],
   "fillrate_mensual": [
@@ -348,9 +348,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "156",
-      "disponibles": "143",
-      "porcentaje": "52.2 %"
+      "ocupadas": "157",
+      "disponibles": "142",
+      "porcentaje": "52.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",

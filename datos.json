@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 09:05",
+  "timestamp": "12/05/2026 09:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -55,6 +55,10 @@
     {
       "label": "11-05",
       "valor": 96.0
+    },
+    {
+      "label": "12-05",
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1035.0
+      "valor": 1040.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +124,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 104.0
+      "valor": 105.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -213,8 +217,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "795",
-      "porcentaje": "8.8 %"
+      "total": "800",
+      "porcentaje": "8.9 %"
     },
     {
       "operador": "CESCOBAR",
@@ -243,6 +247,13 @@
       "tareas": "18",
       "unidades": "621",
       "ordenes": "16"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "5",
+      "unidades": "31",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

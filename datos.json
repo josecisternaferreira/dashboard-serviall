@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 10:23",
+  "timestamp": "12/05/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "38",
+      "valor": "44",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 38.0
+      "valor": 44.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1073.0
+      "valor": 1080.0
     }
   ],
   "promedio_ruta": [
@@ -116,11 +116,11 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 347.0
+      "valor": 348.0
     },
     {
       "label": "ESTAFETA",
-      "valor": 291.0
+      "valor": 292.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -212,12 +212,12 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1885",
+      "total": "1889",
       "porcentaje": "20.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "825",
+      "total": "826",
       "porcentaje": "9.1 %"
     },
     {
@@ -244,16 +244,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "30",
-      "unidades": "576",
+      "tareas": "31",
+      "unidades": "726",
       "ordenes": "7"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "26",
-      "unidades": "683",
-      "ordenes": "24"
+      "tareas": "27",
+      "unidades": "685",
+      "ordenes": "25"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "4",
+      "unidades": "30",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

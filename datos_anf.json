@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 15:00",
+  "timestamp": "12/05/2026 15:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "53",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "12-05",
-      "valor": 53.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "MAY",
-      "valor": 759.0
+      "valor": 760.0
     }
   ],
   "promedio_ruta": [
@@ -158,7 +158,7 @@
     },
     {
       "label": "MAY",
-      "valor": 254.0
+      "valor": 255.0
     }
   ],
   "fillrate_mensual": [
@@ -259,6 +259,13 @@
       "tareas": "7",
       "unidades": "3232",
       "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

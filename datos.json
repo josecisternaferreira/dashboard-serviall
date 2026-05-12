@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 11:23",
+  "timestamp": "12/05/2026 11:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "73",
+      "valor": "80",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 73.0
+      "valor": 80.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1110.0
+      "valor": 1117.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 297.0
+      "valor": 298.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -207,17 +207,17 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2021",
+      "total": "2023",
       "porcentaje": "22.2 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1897",
+      "total": "1899",
       "porcentaje": "20.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "834",
+      "total": "837",
       "porcentaje": "9.2 %"
     },
     {
@@ -229,17 +229,17 @@
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "42",
+      "unidades": "1367",
+      "ordenes": "16"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
       "tareas": "42",
       "unidades": "3072",
       "ordenes": "35"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "39",
-      "unidades": "1361",
-      "ordenes": "13"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -258,16 +258,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "12",
-      "unidades": "125",
-      "ordenes": "4"
+      "tareas": "14",
+      "unidades": "135",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "6",
-      "unidades": "54",
-      "ordenes": "4"
+      "tareas": "8",
+      "unidades": "64",
+      "ordenes": "6"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 11:30",
+  "timestamp": "12/05/2026 11:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "80",
+      "valor": "82",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.5 %",
+      "valor": "96.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 80.0
+      "valor": 82.0
     }
   ],
   "cumplimiento": [
@@ -80,7 +80,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.5
+      "valor": 96.6
     }
   ],
   "picking_mensual": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1117.0
+      "valor": 1119.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 298.0
+      "valor": 299.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 430.0
+      "valor": 436.0
     }
   ],
   "fillrate_mensual": [
@@ -207,7 +207,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2023",
+      "total": "2024",
       "porcentaje": "22.2 %"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "837",
+      "total": "838",
       "porcentaje": "9.2 %"
     },
     {
@@ -230,9 +230,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "42",
-      "unidades": "1367",
-      "ordenes": "16"
+      "tareas": "43",
+      "unidades": "1867",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -265,9 +265,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "8",
-      "unidades": "64",
-      "ordenes": "6"
+      "tareas": "9",
+      "unidades": "66",
+      "ordenes": "7"
     }
   ],
   "ocupacion": [

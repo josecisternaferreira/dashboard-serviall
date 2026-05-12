@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/05/2026 09:40",
+  "timestamp": "12/05/2026 09:43",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "16",
+      "valor": "18",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "12-05",
-      "valor": 16.0
+      "valor": 18.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1051.0
+      "valor": 1053.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 288.0
+      "valor": 289.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -203,7 +203,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2213",
-      "porcentaje": "24.5 %"
+      "porcentaje": "24.4 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -217,7 +217,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "811",
+      "total": "813",
       "porcentaje": "9.0 %"
     },
     {
@@ -243,17 +243,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "18",
+      "unidades": "195",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
       "tareas": "18",
       "unidades": "621",
       "ordenes": "16"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "16",
-      "unidades": "184",
-      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -307,9 +307,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "35",
-      "disponibles": "6",
-      "porcentaje": "85.4 %"
+      "ocupadas": "36",
+      "disponibles": "5",
+      "porcentaje": "87.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",

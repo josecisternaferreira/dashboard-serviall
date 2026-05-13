@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 10:20",
+  "timestamp": "13/05/2026 10:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "38",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.1 %",
+      "valor": "96.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "13-05",
-      "valor": 38.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -84,7 +84,7 @@
     },
     {
       "label": "MAY",
-      "valor": 97.1
+      "valor": 96.9
     }
   ],
   "picking_mensual": [
@@ -106,17 +106,17 @@
     },
     {
       "label": "MAY",
-      "valor": 1207.0
+      "valor": 1215.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1349.0
+      "valor": 1350.0
     },
     {
       "label": "SITRANS",
-      "valor": 352.0
+      "valor": 353.0
     },
     {
       "label": "AGUNSA",
@@ -178,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 517.0
+      "valor": 518.0
     }
   ],
   "fillrate_mensual": [
@@ -217,11 +217,11 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1814",
-      "porcentaje": "20.5 %"
+      "porcentaje": "20.4 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "876",
+      "total": "879",
       "porcentaje": "9.9 %"
     },
     {
@@ -234,9 +234,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "81",
-      "unidades": "6158",
-      "ordenes": "30"
+      "tareas": "84",
+      "unidades": "6246",
+      "ordenes": "31"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -276,16 +276,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "5",
-      "unidades": "64",
-      "ordenes": "2"
+      "tareas": "7",
+      "unidades": "90",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "SLORCA",
-      "tareas": "3",
-      "unidades": "475",
-      "ordenes": "3"
+      "tareas": "6",
+      "unidades": "613",
+      "ordenes": "6"
     }
   ],
   "ocupacion": [
@@ -348,9 +348,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "35",
-      "disponibles": "6",
-      "porcentaje": "85.4 %"
+      "ocupadas": "36",
+      "disponibles": "5",
+      "porcentaje": "87.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",

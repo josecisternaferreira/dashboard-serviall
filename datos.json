@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 10:40",
+  "timestamp": "13/05/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "46",
+      "valor": "57",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.9 %",
+      "valor": "95.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "13-05",
-      "valor": 46.0
+      "valor": 57.0
     }
   ],
   "cumplimiento": [
@@ -84,7 +84,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.9
+      "valor": 95.8
     }
   ],
   "picking_mensual": [
@@ -106,13 +106,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1215.0
+      "valor": 1226.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1350.0
+      "valor": 1352.0
     },
     {
       "label": "SITRANS",
@@ -178,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 518.0
+      "valor": 524.0
     }
   ],
   "fillrate_mensual": [
@@ -212,7 +212,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1931",
-      "porcentaje": "21.8 %"
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -221,7 +221,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "879",
+      "total": "883",
       "porcentaje": "9.9 %"
     },
     {
@@ -234,8 +234,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "84",
-      "unidades": "6246",
+      "tareas": "88",
+      "unidades": "6542",
       "ordenes": "31"
     },
     {
@@ -276,16 +276,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "7",
-      "unidades": "90",
+      "tareas": "11",
+      "unidades": "193",
       "ordenes": "4"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "SLORCA",
-      "tareas": "6",
-      "unidades": "613",
-      "ordenes": "6"
+      "tareas": "9",
+      "unidades": "1093",
+      "ordenes": "9"
     }
   ],
   "ocupacion": [

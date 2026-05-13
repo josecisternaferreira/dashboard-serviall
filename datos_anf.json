@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 10:20",
+  "timestamp": "13/05/2026 10:41",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "11",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -55,6 +55,10 @@
     {
       "label": "12-05",
       "valor": 61.0
+    },
+    {
+      "label": "13-05",
+      "valor": 11.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 767.0
+      "valor": 778.0
     }
   ],
   "promedio_ruta": [
@@ -112,7 +116,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 248.0
+      "valor": 250.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -186,8 +190,8 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1570",
-      "porcentaje": "24.8 %"
+      "total": "1577",
+      "porcentaje": "24.9 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -221,9 +225,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "60",
-      "unidades": "9965",
-      "ordenes": "9"
+      "tareas": "67",
+      "unidades": "9974",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -242,9 +246,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "10",
-      "unidades": "2147",
-      "ordenes": "9"
+      "tareas": "14",
+      "unidades": "2181",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -319,9 +323,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "194",
-      "disponibles": "296",
-      "porcentaje": "39.6 %"
+      "ocupadas": "196",
+      "disponibles": "294",
+      "porcentaje": "40.0 %"
     }
   ]
 }

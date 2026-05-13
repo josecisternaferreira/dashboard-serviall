@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 13:30",
+  "timestamp": "13/05/2026 13:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "138",
+      "valor": "139",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.9 %",
+      "valor": "96.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "13-05",
-      "valor": 138.0
+      "valor": 139.0
     }
   ],
   "cumplimiento": [
@@ -84,7 +84,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.9
+      "valor": 96.0
     }
   ],
   "picking_mensual": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1307.0
+      "valor": 1308.0
     }
   ],
   "promedio_ruta": [
@@ -178,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 543.0
+      "valor": 544.0
     }
   ],
   "fillrate_mensual": [
@@ -275,17 +275,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "SLORCA",
+      "tareas": "24",
+      "unidades": "1642",
+      "ordenes": "23"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
       "tareas": "23",
       "unidades": "873",
       "ordenes": "12"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "SLORCA",
-      "tareas": "23",
-      "unidades": "1611",
-      "ordenes": "22"
     },
     {
       "region": "BODEGA SANTIAGO",

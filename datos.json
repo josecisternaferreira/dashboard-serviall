@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 12:40",
+  "timestamp": "13/05/2026 12:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "103",
+      "valor": "119",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "13-05",
-      "valor": 103.0
+      "valor": 119.0
     }
   ],
   "cumplimiento": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1272.0
+      "valor": 1288.0
     }
   ],
   "promedio_ruta": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 355.0
+      "valor": 357.0
     },
     {
       "label": "AGUNSA",
@@ -178,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 536.0
+      "valor": 537.0
     }
   ],
   "fillrate_mensual": [
@@ -206,13 +206,13 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2176",
+      "total": "2179",
       "porcentaje": "24.4 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1932",
-      "porcentaje": "21.6 %"
+      "total": "1943",
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -221,7 +221,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "905",
+      "total": "906",
       "porcentaje": "10.1 %"
     },
     {
@@ -234,16 +234,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "110",
-      "unidades": "8080",
-      "ordenes": "37"
+      "tareas": "111",
+      "unidades": "8090",
+      "ordenes": "38"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "42",
-      "unidades": "737",
-      "ordenes": "27"
+      "tareas": "53",
+      "unidades": "757",
+      "ordenes": "28"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -283,16 +283,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "SLORCA",
-      "tareas": "18",
-      "unidades": "1311",
-      "ordenes": "18"
+      "tareas": "19",
+      "unidades": "1329",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "3",
-      "unidades": "16",
-      "ordenes": "2"
+      "tareas": "6",
+      "unidades": "62",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [
@@ -382,9 +382,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "475",
-      "disponibles": "217",
-      "porcentaje": "68.6 %"
+      "ocupadas": "476",
+      "disponibles": "216",
+      "porcentaje": "68.8 %"
     }
   ]
 }

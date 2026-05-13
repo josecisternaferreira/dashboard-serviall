@@ -1,14 +1,14 @@
 {
-  "timestamp": "13/05/2026 10:50",
+  "timestamp": "13/05/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "22",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "13-05",
-      "valor": 15.0
+      "valor": 22.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 782.0
+      "valor": 789.0
     }
   ],
   "promedio_ruta": [
@@ -116,11 +116,11 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 250.0
+      "valor": 251.0
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 168.0
+      "valor": 169.0
     },
     {
       "label": "SITRANS",
@@ -162,7 +162,7 @@
     },
     {
       "label": "MAY",
-      "valor": 264.0
+      "valor": 265.0
     }
   ],
   "fillrate_mensual": [
@@ -190,7 +190,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1577",
+      "total": "1582",
       "porcentaje": "24.9 %"
     },
     {
@@ -225,9 +225,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "67",
-      "unidades": "9974",
-      "ordenes": "10"
+      "tareas": "72",
+      "unidades": "9986",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -246,8 +246,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "16",
-      "unidades": "2192",
+      "tareas": "17",
+      "unidades": "2193",
       "ordenes": "13"
     },
     {
@@ -266,16 +266,16 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JBARRERA",
-      "tareas": "1",
-      "unidades": "1",
-      "ordenes": "1"
+      "usuario": "KHENAO",
+      "tareas": "2",
+      "unidades": "3",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "KHENAO",
+      "usuario": "JBARRERA",
       "tareas": "1",
-      "unidades": "2",
+      "unidades": "1",
       "ordenes": "1"
     }
   ],

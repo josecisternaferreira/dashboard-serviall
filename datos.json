@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 12:00",
+  "timestamp": "13/05/2026 12:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "82",
+      "valor": "87",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "13-05",
-      "valor": 82.0
+      "valor": 87.0
     }
   ],
   "cumplimiento": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1251.0
+      "valor": 1256.0
     }
   ],
   "promedio_ruta": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 354.0
+      "valor": 355.0
     },
     {
       "label": "AGUNSA",
@@ -178,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 527.0
+      "valor": 528.0
     }
   ],
   "fillrate_mensual": [
@@ -221,7 +221,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "897",
+      "total": "899",
       "porcentaje": "10.1 %"
     },
     {
@@ -234,8 +234,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "102",
-      "unidades": "7158",
+      "tareas": "104",
+      "unidades": "7908",
       "ordenes": "36"
     },
     {
@@ -276,16 +276,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "16",
-      "unidades": "344",
-      "ordenes": "5"
+      "tareas": "18",
+      "unidades": "350",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "SLORCA",
-      "tareas": "15",
-      "unidades": "1247",
-      "ordenes": "15"
+      "tareas": "16",
+      "unidades": "1249",
+      "ordenes": "16"
     }
   ],
   "ocupacion": [
@@ -375,9 +375,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "474",
-      "disponibles": "218",
-      "porcentaje": "68.5 %"
+      "ocupadas": "475",
+      "disponibles": "217",
+      "porcentaje": "68.6 %"
     }
   ]
 }

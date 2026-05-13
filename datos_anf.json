@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 12:40",
+  "timestamp": "13/05/2026 12:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "40",
+      "valor": "43",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "13-05",
-      "valor": 40.0
+      "valor": 43.0
     }
   ],
   "cumplimiento": [
@@ -102,13 +102,13 @@
     },
     {
       "label": "MAY",
-      "valor": 807.0
+      "valor": 810.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 890.0
+      "valor": 891.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -162,7 +162,7 @@
     },
     {
       "label": "MAY",
-      "valor": 282.0
+      "valor": 283.0
     }
   ],
   "fillrate_mensual": [
@@ -190,8 +190,8 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1592",
-      "porcentaje": "25.0 %"
+      "total": "1594",
+      "porcentaje": "25.1 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -218,9 +218,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "82",
-      "unidades": "10018",
-      "ordenes": "15"
+      "tareas": "84",
+      "unidades": "10322",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -266,17 +266,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "KHENAO",
+      "usuario": "JBARRERA",
       "tareas": "2",
       "unidades": "3",
       "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JBARRERA",
-      "tareas": "1",
-      "unidades": "1",
-      "ordenes": "1"
+      "usuario": "KHENAO",
+      "tareas": "2",
+      "unidades": "3",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 11:10",
+  "timestamp": "13/05/2026 11:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "62",
+      "valor": "67",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "13-05",
-      "valor": 62.0
+      "valor": 67.0
     }
   ],
   "cumplimiento": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1231.0
+      "valor": 1236.0
     }
   ],
   "promedio_ruta": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 353.0
+      "valor": 354.0
     },
     {
       "label": "AGUNSA",
@@ -178,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 524.0
+      "valor": 525.0
     }
   ],
   "fillrate_mensual": [
@@ -221,7 +221,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "886",
+      "total": "888",
       "porcentaje": "10.0 %"
     },
     {
@@ -234,9 +234,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "91",
-      "unidades": "6578",
-      "ordenes": "31"
+      "tareas": "93",
+      "unidades": "6660",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -276,16 +276,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "12",
-      "unidades": "211",
+      "tareas": "14",
+      "unidades": "232",
       "ordenes": "4"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "SLORCA",
-      "tareas": "10",
-      "unidades": "1163",
-      "ordenes": "10"
+      "tareas": "11",
+      "unidades": "1165",
+      "ordenes": "11"
     }
   ],
   "ocupacion": [
@@ -375,9 +375,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "471",
-      "disponibles": "221",
-      "porcentaje": "68.1 %"
+      "ocupadas": "473",
+      "disponibles": "219",
+      "porcentaje": "68.4 %"
     }
   ]
 }

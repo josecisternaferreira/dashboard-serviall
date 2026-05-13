@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 10:00",
+  "timestamp": "13/05/2026 10:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "31",
+      "valor": "35",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "13-05",
-      "valor": 31.0
+      "valor": 35.0
     }
   ],
   "cumplimiento": [
@@ -106,13 +106,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1200.0
+      "valor": 1204.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1348.0
+      "valor": 1349.0
     },
     {
       "label": "SITRANS",
@@ -178,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 516.0
+      "valor": 517.0
     }
   ],
   "fillrate_mensual": [
@@ -221,8 +221,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "872",
-      "porcentaje": "9.8 %"
+      "total": "874",
+      "porcentaje": "9.9 %"
     },
     {
       "operador": "CESCOBAR",
@@ -234,9 +234,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "77",
-      "unidades": "6142",
-      "ordenes": "28"
+      "tareas": "79",
+      "unidades": "6151",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -275,17 +275,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
+      "tareas": "4",
+      "unidades": "44",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "SLORCA",
       "tareas": "3",
       "unidades": "475",
       "ordenes": "3"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "2",
-      "unidades": "33",
-      "ordenes": "1"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/05/2026 10:41",
+  "timestamp": "13/05/2026 10:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "11",
+      "valor": "15",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "13-05",
-      "valor": 11.0
+      "valor": 15.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "MAY",
-      "valor": 778.0
+      "valor": 782.0
     }
   ],
   "promedio_ruta": [
@@ -201,7 +201,7 @@
     {
       "operador": "LUIS ARDILES",
       "total": "915",
-      "porcentaje": "14.5 %"
+      "porcentaje": "14.4 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -210,7 +210,7 @@
     },
     {
       "operador": "JHONY MONTONYA",
-      "total": "654",
+      "total": "655",
       "porcentaje": "10.3 %"
     }
   ],
@@ -218,9 +218,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JMONTOYA",
-      "tareas": "74",
-      "unidades": "2275",
-      "ordenes": "18"
+      "tareas": "75",
+      "unidades": "2278",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -246,9 +246,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "14",
-      "unidades": "2181",
-      "ordenes": "11"
+      "tareas": "16",
+      "unidades": "2192",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -270,6 +270,13 @@
       "tareas": "1",
       "unidades": "1",
       "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "1",
+      "unidades": "2",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -287,9 +294,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1102",
-      "disponibles": "808",
-      "porcentaje": "57.7 %"
+      "ocupadas": "1104",
+      "disponibles": "806",
+      "porcentaje": "57.8 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

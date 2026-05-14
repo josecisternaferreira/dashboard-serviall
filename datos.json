@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 10:50",
+  "timestamp": "14/05/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "76",
+      "valor": "87",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "14-05",
-      "valor": 76.0
+      "valor": 87.0
     }
   ],
   "cumplimiento": [
@@ -110,7 +110,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1436.0
+      "valor": 1447.0
     }
   ],
   "promedio_ruta": [
@@ -120,11 +120,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 364.0
+      "valor": 365.0
     },
     {
       "label": "AGUNSA",
-      "valor": 353.0
+      "valor": 354.0
     },
     {
       "label": "ESTAFETA",
@@ -182,7 +182,7 @@
     },
     {
       "label": "MAY",
-      "valor": 581.0
+      "valor": 582.0
     }
   ],
   "fillrate_mensual": [
@@ -215,7 +215,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1987",
+      "total": "1992",
       "porcentaje": "21.9 %"
     },
     {
@@ -245,23 +245,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "97",
-      "unidades": "2630",
-      "ordenes": "44"
+      "tareas": "102",
+      "unidades": "2640",
+      "ordenes": "49"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "64",
-      "unidades": "8851",
+      "tareas": "69",
+      "unidades": "11101",
       "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "38",
-      "unidades": "1191",
-      "ordenes": "31"
+      "tareas": "39",
+      "unidades": "1231",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -386,9 +386,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "482",
-      "disponibles": "210",
-      "porcentaje": "69.7 %"
+      "ocupadas": "483",
+      "disponibles": "209",
+      "porcentaje": "69.8 %"
     }
   ]
 }

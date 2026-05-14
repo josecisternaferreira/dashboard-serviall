@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 13:10",
+  "timestamp": "14/05/2026 13:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "51",
+      "valor": "52",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "14-05",
-      "valor": 51.0
+      "valor": 52.0
     }
   ],
   "cumplimiento": [
@@ -106,13 +106,13 @@
     },
     {
       "label": "MAY",
-      "valor": 905.0
+      "valor": 906.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 904.0
+      "valor": 905.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -166,7 +166,7 @@
     },
     {
       "label": "MAY",
-      "valor": 324.0
+      "valor": 325.0
     }
   ],
   "fillrate_mensual": [
@@ -195,12 +195,12 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1637",
-      "porcentaje": "25.4 %"
+      "porcentaje": "25.3 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1101",
-      "porcentaje": "17.1 %"
+      "porcentaje": "17.0 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -263,17 +263,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "7",
+      "unidades": "559",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
       "tareas": "7",
       "unidades": "3232",
       "ordenes": "5"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "KHENAO",
-      "tareas": "6",
-      "unidades": "59",
-      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

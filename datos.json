@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 11:40",
+  "timestamp": "14/05/2026 11:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "99",
+      "valor": "100",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "14-05",
-      "valor": 99.0
+      "valor": 100.0
     }
   ],
   "cumplimiento": [
@@ -110,7 +110,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1459.0
+      "valor": 1460.0
     }
   ],
   "promedio_ruta": [
@@ -259,9 +259,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "48",
-      "unidades": "1307",
-      "ordenes": "38"
+      "tareas": "49",
+      "unidades": "1312",
+      "ordenes": "39"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -386,9 +386,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "487",
-      "disponibles": "205",
-      "porcentaje": "70.4 %"
+      "ocupadas": "480",
+      "disponibles": "212",
+      "porcentaje": "69.4 %"
     }
   ]
 }

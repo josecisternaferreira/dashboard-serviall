@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 09:00",
+  "timestamp": "14/05/2026 09:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -63,6 +63,10 @@
     {
       "label": "13-05",
       "valor": 191.0
+    },
+    {
+      "label": "14-05",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -106,7 +110,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1360.0
+      "valor": 1364.0
     }
   ],
   "promedio_ruta": [
@@ -136,7 +140,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 60.0
+      "valor": 61.0
     },
     {
       "label": "REPOSICION",
@@ -221,7 +225,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "934",
+      "total": "938",
       "porcentaje": "10.4 %"
     },
     {
@@ -234,9 +238,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "139",
-      "unidades": "9816",
-      "ordenes": "46"
+      "tareas": "143",
+      "unidades": "10422",
+      "ordenes": "47"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 12:20",
+  "timestamp": "14/05/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "45",
+      "valor": "49",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.5 %",
+      "valor": "92.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "14-05",
-      "valor": 45.0
+      "valor": 49.0
     }
   ],
   "cumplimiento": [
@@ -84,7 +84,7 @@
     },
     {
       "label": "MAY",
-      "valor": 92.5
+      "valor": 92.6
     }
   ],
   "picking_mensual": [
@@ -106,13 +106,13 @@
     },
     {
       "label": "MAY",
-      "valor": 899.0
+      "valor": 903.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 903.0
+      "valor": 904.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -166,7 +166,7 @@
     },
     {
       "label": "MAY",
-      "valor": 322.0
+      "valor": 323.0
     }
   ],
   "fillrate_mensual": [
@@ -199,7 +199,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "1095",
+      "total": "1099",
       "porcentaje": "17.0 %"
     },
     {
@@ -215,7 +215,7 @@
     {
       "operador": "JHONY MONTONYA",
       "total": "668",
-      "porcentaje": "10.4 %"
+      "porcentaje": "10.3 %"
     }
   ],
   "semana_actual": [
@@ -236,8 +236,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "71",
-      "unidades": "10203",
+      "tareas": "75",
+      "unidades": "10246",
       "ordenes": "27"
     },
     {
@@ -334,9 +334,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "194",
-      "disponibles": "296",
-      "porcentaje": "39.6 %"
+      "ocupadas": "195",
+      "disponibles": "295",
+      "porcentaje": "39.8 %"
     }
   ]
 }

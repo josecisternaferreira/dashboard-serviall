@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 10:40",
+  "timestamp": "14/05/2026 10:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "25",
+      "valor": "28",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.3 %",
+      "valor": "93.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "14-05",
-      "valor": 25.0
+      "valor": 28.0
     }
   ],
   "cumplimiento": [
@@ -84,7 +84,7 @@
     },
     {
       "label": "MAY",
-      "valor": 93.3
+      "valor": 93.0
     }
   ],
   "picking_mensual": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "MAY",
-      "valor": 879.0
+      "valor": 882.0
     }
   ],
   "promedio_ruta": [
@@ -166,7 +166,7 @@
     },
     {
       "label": "MAY",
-      "valor": 312.0
+      "valor": 313.0
     }
   ],
   "fillrate_mensual": [
@@ -199,7 +199,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "1085",
+      "total": "1086",
       "porcentaje": "16.9 %"
     },
     {
@@ -210,11 +210,11 @@
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "698",
-      "porcentaje": "10.9 %"
+      "porcentaje": "10.8 %"
     },
     {
       "operador": "JHONY MONTONYA",
-      "total": "667",
+      "total": "668",
       "porcentaje": "10.4 %"
     }
   ],
@@ -229,16 +229,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JMONTOYA",
-      "tareas": "87",
-      "unidades": "2550",
-      "ordenes": "22"
+      "tareas": "88",
+      "unidades": "2690",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "61",
-      "unidades": "8164",
-      "ordenes": "21"
+      "tareas": "62",
+      "unidades": "8190",
+      "ordenes": "22"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -271,8 +271,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
-      "tareas": "5",
-      "unidades": "55",
+      "tareas": "6",
+      "unidades": "59",
       "ordenes": "3"
     },
     {
@@ -334,9 +334,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "199",
-      "disponibles": "291",
-      "porcentaje": "40.6 %"
+      "ocupadas": "198",
+      "disponibles": "292",
+      "porcentaje": "40.4 %"
     }
   ]
 }

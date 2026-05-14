@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 15:30",
+  "timestamp": "14/05/2026 15:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "195",
+      "valor": "197",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "14-05",
-      "valor": 195.0
+      "valor": 197.0
     }
   ],
   "cumplimiento": [
@@ -110,13 +110,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1555.0
+      "valor": 1558.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1392.0
+      "valor": 1393.0
     },
     {
       "label": "SITRANS",
@@ -144,7 +144,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 33.0
+      "valor": 34.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -182,7 +182,7 @@
     },
     {
       "label": "MAY",
-      "valor": 601.0
+      "valor": 602.0
     }
   ],
   "fillrate_mensual": [
@@ -215,7 +215,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2019",
+      "total": "2021",
       "porcentaje": "21.9 %"
     },
     {
@@ -245,9 +245,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "129",
-      "unidades": "3510",
-      "ordenes": "56"
+      "tareas": "131",
+      "unidades": "3564",
+      "ordenes": "57"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -377,18 +377,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "153",
-      "disponibles": "146",
-      "porcentaje": "51.2 %"
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "482",
-      "disponibles": "210",
-      "porcentaje": "69.7 %"
+      "ocupadas": "485",
+      "disponibles": "207",
+      "porcentaje": "70.1 %"
     }
   ]
 }

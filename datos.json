@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 18:00",
+  "timestamp": "14/05/2026 18:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -350,9 +350,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1240",
-      "disponibles": "241",
-      "porcentaje": "83.7 %"
+      "ocupadas": "1234",
+      "disponibles": "247",
+      "porcentaje": "83.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -377,18 +377,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "154",
-      "disponibles": "145",
-      "porcentaje": "51.5 %"
+      "ocupadas": "152",
+      "disponibles": "147",
+      "porcentaje": "50.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "485",
-      "disponibles": "207",
-      "porcentaje": "70.1 %"
+      "ocupadas": "464",
+      "disponibles": "228",
+      "porcentaje": "67.1 %"
     }
   ]
 }

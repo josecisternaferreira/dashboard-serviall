@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 16:20",
+  "timestamp": "14/05/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "207",
+      "valor": "211",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "14-05",
-      "valor": 207.0
+      "valor": 211.0
     }
   ],
   "cumplimiento": [
@@ -110,13 +110,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1569.0
+      "valor": 1573.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1394.0
+      "valor": 1395.0
     },
     {
       "label": "SITRANS",
@@ -215,8 +215,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2024",
-      "porcentaje": "21.9 %"
+      "total": "2027",
+      "porcentaje": "22.0 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -225,7 +225,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "995",
+      "total": "996",
       "porcentaje": "10.8 %"
     },
     {
@@ -238,16 +238,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "200",
-      "unidades": "13646",
-      "ordenes": "68"
+      "tareas": "201",
+      "unidades": "13746",
+      "ordenes": "69"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "134",
-      "unidades": "4723",
-      "ordenes": "58"
+      "tareas": "137",
+      "unidades": "4933",
+      "ordenes": "60"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -386,9 +386,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "489",
-      "disponibles": "203",
-      "porcentaje": "70.7 %"
+      "ocupadas": "488",
+      "disponibles": "204",
+      "porcentaje": "70.5 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/05/2026 09:00",
+  "timestamp": "14/05/2026 09:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.8 %",
+      "valor": "94.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -59,6 +59,10 @@
     {
       "label": "13-05",
       "valor": 87.0
+    },
+    {
+      "label": "14-05",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -80,7 +84,7 @@
     },
     {
       "label": "MAY",
-      "valor": 94.8
+      "valor": 94.5
     }
   ],
   "picking_mensual": [
@@ -102,7 +106,7 @@
     },
     {
       "label": "MAY",
-      "valor": 854.0
+      "valor": 856.0
     }
   ],
   "promedio_ruta": [
@@ -162,7 +166,7 @@
     },
     {
       "label": "MAY",
-      "valor": 306.0
+      "valor": 307.0
     }
   ],
   "fillrate_mensual": [
@@ -190,8 +194,8 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1623",
-      "porcentaje": "25.3 %"
+      "total": "1625",
+      "porcentaje": "25.4 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -218,9 +222,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "113",
-      "unidades": "12484",
-      "ordenes": "26"
+      "tareas": "115",
+      "unidades": "12525",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -303,9 +307,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "32",
-      "ocupadas": "25",
-      "disponibles": "7",
-      "porcentaje": "78.1 %"
+      "ocupadas": "26",
+      "disponibles": "6",
+      "porcentaje": "81.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

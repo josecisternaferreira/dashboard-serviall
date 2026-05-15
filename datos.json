@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/05/2026 10:10",
+  "timestamp": "15/05/2026 10:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "69",
+      "valor": "76",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "15-05",
-      "valor": 69.0
+      "valor": 76.0
     }
   ],
   "cumplimiento": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1655.0
+      "valor": 1662.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1408.0
+      "valor": 1410.0
     },
     {
       "label": "SITRANS",
@@ -186,7 +186,7 @@
     },
     {
       "label": "MAY",
-      "valor": 650.0
+      "valor": 654.0
     }
   ],
   "fillrate_mensual": [
@@ -219,17 +219,17 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2065",
+      "total": "2066",
       "porcentaje": "22.2 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1856",
-      "porcentaje": "19.9 %"
+      "total": "1860",
+      "porcentaje": "20.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1023",
+      "total": "1025",
       "porcentaje": "11.0 %"
     },
     {
@@ -242,15 +242,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "228",
-      "unidades": "15146",
+      "tareas": "230",
+      "unidades": "15215",
       "ordenes": "71"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "175",
-      "unidades": "18794",
+      "tareas": "176",
+      "unidades": "19114",
       "ordenes": "65"
     },
     {
@@ -263,9 +263,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "66",
-      "unidades": "4472",
-      "ordenes": "22"
+      "tareas": "70",
+      "unidades": "4548",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -390,9 +390,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "464",
-      "disponibles": "228",
-      "porcentaje": "67.1 %"
+      "ocupadas": "466",
+      "disponibles": "226",
+      "porcentaje": "67.3 %"
     }
   ]
 }

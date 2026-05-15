@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/05/2026 11:30",
+  "timestamp": "15/05/2026 11:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "104",
+      "valor": "108",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "15-05",
-      "valor": 104.0
+      "valor": 108.0
     }
   ],
   "cumplimiento": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1698.0
+      "valor": 1702.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1415.0
+      "valor": 1416.0
     },
     {
       "label": "SITRANS",
@@ -219,7 +219,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2073",
+      "total": "2076",
       "porcentaje": "22.2 %"
     },
     {
@@ -229,7 +229,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1042",
+      "total": "1043",
       "porcentaje": "11.2 %"
     },
     {
@@ -242,15 +242,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "247",
-      "unidades": "16838",
+      "tareas": "248",
+      "unidades": "16848",
       "ordenes": "71"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "183",
-      "unidades": "20544",
+      "tareas": "186",
+      "unidades": "21484",
       "ordenes": "65"
     },
     {
@@ -336,9 +336,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "332",
-      "ocupadas": "88",
-      "disponibles": "244",
-      "porcentaje": "26.5 %"
+      "ocupadas": "84",
+      "disponibles": "248",
+      "porcentaje": "25.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -390,9 +390,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "461",
-      "disponibles": "231",
-      "porcentaje": "66.6 %"
+      "ocupadas": "463",
+      "disponibles": "229",
+      "porcentaje": "66.9 %"
     }
   ]
 }

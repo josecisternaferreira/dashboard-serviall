@@ -1,19 +1,19 @@
 {
-  "timestamp": "15/05/2026 14:40",
+  "timestamp": "15/05/2026 14:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "11",
+      "valor": "12",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "148",
+      "valor": "151",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.2 %",
+      "valor": "96.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "15-05",
-      "valor": 148.0
+      "valor": 151.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +92,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.2
+      "valor": 96.3
     }
   ],
   "picking_mensual": [
@@ -114,7 +114,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1742.0
+      "valor": 1745.0
     }
   ],
   "promedio_ruta": [
@@ -124,11 +124,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 366.0
+      "valor": 367.0
     },
     {
       "label": "AGUNSA",
-      "valor": 361.0
+      "valor": 362.0
     },
     {
       "label": "ESTAFETA",
@@ -186,7 +186,7 @@
     },
     {
       "label": "MAY",
-      "valor": 692.0
+      "valor": 694.0
     }
   ],
   "fillrate_mensual": [
@@ -219,7 +219,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2091",
+      "total": "2094",
       "porcentaje": "22.3 %"
     },
     {
@@ -249,9 +249,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "201",
-      "unidades": "22451",
-      "ordenes": "65"
+      "tareas": "204",
+      "unidades": "28253",
+      "ordenes": "68"
     },
     {
       "region": "BODEGA SANTIAGO",

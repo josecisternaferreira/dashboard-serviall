@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/05/2026 10:50",
+  "timestamp": "15/05/2026 11:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "17",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "15-05",
-      "valor": 13.0
+      "valor": 17.0
     }
   ],
   "cumplimiento": [
@@ -110,7 +110,7 @@
     },
     {
       "label": "MAY",
-      "valor": 961.0
+      "valor": 965.0
     }
   ],
   "promedio_ruta": [
@@ -124,7 +124,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 256.0
+      "valor": 257.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -198,7 +198,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1653",
+      "total": "1654",
       "porcentaje": "25.4 %"
     },
     {
@@ -226,9 +226,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "143",
-      "unidades": "16733",
-      "ordenes": "30"
+      "tareas": "144",
+      "unidades": "16758",
+      "ordenes": "31"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -267,6 +267,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "8",
+      "unidades": "97",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
       "tareas": "8",
       "unidades": "1659",
@@ -278,13 +285,6 @@
       "tareas": "7",
       "unidades": "3232",
       "ordenes": "5"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JBARRERA",
-      "tareas": "5",
-      "unidades": "53",
-      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

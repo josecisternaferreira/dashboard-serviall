@@ -1,14 +1,14 @@
 {
-  "timestamp": "14/05/2026 18:10",
+  "timestamp": "15/05/2026 08:54",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "33",
+      "valor": "0",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "223",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -67,6 +67,10 @@
     {
       "label": "14-05",
       "valor": 223.0
+    },
+    {
+      "label": "15-05",
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -110,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1586.0
+      "valor": 1591.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1395.0
+      "valor": 1396.0
     },
     {
       "label": "SITRANS",
@@ -215,12 +219,12 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2037",
-      "porcentaje": "22.0 %"
+      "total": "2040",
+      "porcentaje": "22.1 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1842",
+      "total": "1844",
       "porcentaje": "19.9 %"
     },
     {
@@ -245,9 +249,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "147",
-      "unidades": "5008",
-      "ordenes": "64"
+      "tareas": "150",
+      "unidades": "5108",
+      "ordenes": "65"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -266,9 +270,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "52",
-      "unidades": "3752",
-      "ordenes": "19"
+      "tareas": "54",
+      "unidades": "3822",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -341,9 +345,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "13",
-      "disponibles": "21",
-      "porcentaje": "38.2 %"
+      "ocupadas": "12",
+      "disponibles": "22",
+      "porcentaje": "35.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -386,9 +390,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "464",
-      "disponibles": "228",
-      "porcentaje": "67.1 %"
+      "ocupadas": "461",
+      "disponibles": "231",
+      "porcentaje": "66.6 %"
     }
   ]
 }

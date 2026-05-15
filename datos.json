@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/05/2026 10:40",
+  "timestamp": "15/05/2026 10:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "86",
+      "valor": "88",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.0 %",
+      "valor": "96.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "15-05",
-      "valor": 86.0
+      "valor": 88.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +92,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.0
+      "valor": 96.1
     }
   ],
   "picking_mensual": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1672.0
+      "valor": 1674.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1411.0
+      "valor": 1412.0
     },
     {
       "label": "SITRANS",
@@ -186,7 +186,7 @@
     },
     {
       "label": "MAY",
-      "valor": 658.0
+      "valor": 659.0
     }
   ],
   "fillrate_mensual": [
@@ -219,7 +219,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2067",
+      "total": "2069",
       "porcentaje": "22.2 %"
     },
     {
@@ -249,8 +249,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "177",
-      "unidades": "19139",
+      "tareas": "179",
+      "unidades": "19344",
       "ordenes": "65"
     },
     {
@@ -354,9 +354,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1234",
-      "disponibles": "247",
-      "porcentaje": "83.3 %"
+      "ocupadas": "1235",
+      "disponibles": "246",
+      "porcentaje": "83.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",

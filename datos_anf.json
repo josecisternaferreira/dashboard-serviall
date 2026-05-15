@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/05/2026 09:20",
+  "timestamp": "15/05/2026 09:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -63,6 +63,10 @@
     {
       "label": "14-05",
       "valor": 94.0
+    },
+    {
+      "label": "15-05",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -106,13 +110,13 @@
     },
     {
       "label": "MAY",
-      "valor": 948.0
+      "valor": 949.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 905.0
+      "valor": 906.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -194,7 +198,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1645",
+      "total": "1646",
       "porcentaje": "25.3 %"
     },
     {
@@ -222,9 +226,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "135",
-      "unidades": "13920",
-      "ordenes": "29"
+      "tareas": "136",
+      "unidades": "13960",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

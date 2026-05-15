@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/05/2026 11:50",
+  "timestamp": "15/05/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "113",
+      "valor": "118",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "15-05",
-      "valor": 113.0
+      "valor": 118.0
     }
   ],
   "cumplimiento": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1707.0
+      "valor": 1712.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1417.0
+      "valor": 1418.0
     },
     {
       "label": "SITRANS",
@@ -229,7 +229,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1046",
+      "total": "1051",
       "porcentaje": "11.2 %"
     },
     {
@@ -242,8 +242,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "251",
-      "unidades": "16984",
+      "tareas": "256",
+      "unidades": "17007",
       "ordenes": "71"
     },
     {
@@ -390,9 +390,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "465",
-      "disponibles": "227",
-      "porcentaje": "67.2 %"
+      "ocupadas": "463",
+      "disponibles": "229",
+      "porcentaje": "66.9 %"
     }
   ]
 }

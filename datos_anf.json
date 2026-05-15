@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/05/2026 13:10",
+  "timestamp": "15/05/2026 13:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "52",
+      "valor": "53",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "15-05",
-      "valor": 52.0
+      "valor": 53.0
     }
   ],
   "cumplimiento": [
@@ -110,7 +110,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1000.0
+      "valor": 1001.0
     }
   ],
   "promedio_ruta": [
@@ -213,7 +213,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "706",
+      "total": "707",
       "porcentaje": "10.8 %"
     },
     {
@@ -246,17 +246,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "46",
+      "unidades": "3769",
+      "ordenes": "26"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
       "tareas": "45",
       "unidades": "2543",
       "ordenes": "23"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "45",
-      "unidades": "3765",
-      "ordenes": "25"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

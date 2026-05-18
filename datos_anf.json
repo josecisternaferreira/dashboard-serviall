@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 15:01",
+  "timestamp": "18/05/2026 15:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "75",
+      "valor": "77",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "18-05",
-      "valor": 75.0
+      "valor": 77.0
     }
   ],
   "cumplimiento": [
@@ -114,7 +114,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1082.0
+      "valor": 1084.0
     }
   ],
   "promedio_ruta": [
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 385.0
+      "valor": 386.0
     }
   ],
   "fillrate_mensual": [
@@ -217,7 +217,7 @@
     },
     {
       "operador": "JHONY MONTONYA",
-      "total": "697",
+      "total": "699",
       "porcentaje": "10.7 %"
     },
     {
@@ -243,17 +243,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JMONTOYA",
+      "tareas": "10",
+      "unidades": "1329",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
       "tareas": "9",
       "unidades": "321",
       "ordenes": "7"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JMONTOYA",
-      "tareas": "8",
-      "unidades": "1322",
-      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

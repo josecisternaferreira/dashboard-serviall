@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 10:50",
+  "timestamp": "18/05/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "2",
+      "valor": "8",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "18-05",
-      "valor": 2.0
+      "valor": 8.0
     }
   ],
   "cumplimiento": [
@@ -122,13 +122,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1830.0
+      "valor": 1836.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1423.0
+      "valor": 1424.0
     },
     {
       "label": "SITRANS",
@@ -223,12 +223,12 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2190",
-      "porcentaje": "23.7 %"
+      "porcentaje": "23.6 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2038",
-      "porcentaje": "22.0 %"
+      "total": "2044",
+      "porcentaje": "22.1 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -247,6 +247,13 @@
     }
   ],
   "semana_actual": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "6",
+      "unidades": "64",
+      "ordenes": "1"
+    },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 10:20",
+  "timestamp": "18/05/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "18-05",
-      "valor": 1.0
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -122,7 +122,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1829.0
+      "valor": 1830.0
     }
   ],
   "promedio_ruta": [
@@ -237,7 +237,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1063",
+      "total": "1064",
       "porcentaje": "11.5 %"
     },
     {
@@ -250,9 +250,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "1",
-      "unidades": "9",
-      "ordenes": "1"
+      "tareas": "2",
+      "unidades": "19",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -342,9 +342,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "470",
-      "disponibles": "222",
-      "porcentaje": "67.9 %"
+      "ocupadas": "471",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

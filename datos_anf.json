@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 14:02",
+  "timestamp": "18/05/2026 14:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "71",
+      "valor": "75",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.7 %",
+      "valor": "93.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "18-05",
-      "valor": 71.0
+      "valor": 75.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +92,7 @@
     },
     {
       "label": "MAY",
-      "valor": 93.7
+      "valor": 93.8
     }
   ],
   "picking_mensual": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1078.0
+      "valor": 1082.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 920.0
+      "valor": 921.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 381.0
+      "valor": 384.0
     }
   ],
   "fillrate_mensual": [
@@ -203,7 +203,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1695",
-      "porcentaje": "26.1 %"
+      "porcentaje": "26.0 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -217,13 +217,13 @@
     },
     {
       "operador": "JHONY MONTONYA",
-      "total": "694",
+      "total": "697",
       "porcentaje": "10.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "680",
-      "porcentaje": "10.5 %"
+      "porcentaje": "10.4 %"
     }
   ],
   "semana_actual": [
@@ -244,16 +244,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "8",
-      "unidades": "320",
-      "ordenes": "6"
+      "tareas": "9",
+      "unidades": "321",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JMONTOYA",
-      "tareas": "5",
-      "unidades": "16",
-      "ordenes": "3"
+      "tareas": "8",
+      "unidades": "1322",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "18/05/2026 12:10",
+  "timestamp": "18/05/2026 12:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "25",
+      "valor": "29",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "18-05",
-      "valor": 25.0
+      "valor": 29.0
     }
   ],
   "cumplimiento": [
@@ -122,13 +122,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1853.0
+      "valor": 1857.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1427.0
+      "valor": 1428.0
     },
     {
       "label": "SITRANS",
@@ -227,7 +227,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2061",
+      "total": "2063",
       "porcentaje": "22.2 %"
     },
     {
@@ -250,9 +250,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "23",
-      "unidades": "536",
+      "tareas": "25",
+      "unidades": "559",
       "ordenes": "4"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
+      "tareas": "2",
+      "unidades": "21",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -349,9 +356,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "469",
-      "disponibles": "223",
-      "porcentaje": "67.8 %"
+      "ocupadas": "470",
+      "disponibles": "222",
+      "porcentaje": "67.9 %"
     }
   ]
 }

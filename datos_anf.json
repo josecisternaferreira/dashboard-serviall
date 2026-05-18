@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 12:10",
+  "timestamp": "18/05/2026 12:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "43",
+      "valor": "51",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.5 %",
+      "valor": "93.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "18-05",
-      "valor": 43.0
+      "valor": 51.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +92,7 @@
     },
     {
       "label": "MAY",
-      "valor": 93.5
+      "valor": 93.6
     }
   ],
   "picking_mensual": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1050.0
+      "valor": 1058.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 915.0
+      "valor": 916.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 370.0
+      "valor": 374.0
     }
   ],
   "fillrate_mensual": [
@@ -203,7 +203,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1687",
-      "porcentaje": "26.1 %"
+      "porcentaje": "26.0 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -230,8 +230,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "16",
-      "unidades": "2188",
+      "tareas": "21",
+      "unidades": "4432",
       "ordenes": "3"
     },
     {
@@ -243,16 +243,16 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "KHENAO",
-      "tareas": "4",
-      "unidades": "333",
-      "ordenes": "2"
+      "usuario": "AGUERRERO",
+      "tareas": "6",
+      "unidades": "269",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "AGUERRERO",
-      "tareas": "3",
-      "unidades": "241",
+      "usuario": "KHENAO",
+      "tareas": "4",
+      "unidades": "333",
       "ordenes": "2"
     },
     {
@@ -321,9 +321,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "199",
-      "disponibles": "291",
-      "porcentaje": "40.6 %"
+      "ocupadas": "200",
+      "disponibles": "290",
+      "porcentaje": "40.8 %"
     }
   ]
 }

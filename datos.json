@@ -1,14 +1,14 @@
 {
-  "timestamp": "18/05/2026 12:40",
+  "timestamp": "18/05/2026 17:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "12",
+      "valor": "15",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "40",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "18-05",
-      "valor": 40.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -122,13 +122,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1868.0
+      "valor": 1874.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1430.0
+      "valor": 1431.0
     },
     {
       "label": "SITRANS",
@@ -194,7 +194,7 @@
     },
     {
       "label": "MAY",
-      "valor": 756.0
+      "valor": 758.0
     }
   ],
   "fillrate_mensual": [
@@ -223,17 +223,17 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2190",
-      "porcentaje": "23.6 %"
+      "porcentaje": "23.5 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2071",
+      "total": "2074",
       "porcentaje": "22.3 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1772",
-      "porcentaje": "19.1 %"
+      "porcentaje": "19.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -243,22 +243,22 @@
     {
       "operador": "CESCOBAR",
       "total": "544",
-      "porcentaje": "5.9 %"
+      "porcentaje": "5.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "33",
-      "unidades": "848",
-      "ordenes": "5"
+      "tareas": "36",
+      "unidades": "862",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "5",
-      "unidades": "114",
+      "tareas": "8",
+      "unidades": "2214",
       "ordenes": "2"
     },
     {
@@ -320,8 +320,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1236",
-      "disponibles": "245",
+      "ocupadas": "1237",
+      "disponibles": "244",
       "porcentaje": "83.5 %"
     },
     {
@@ -356,9 +356,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "470",
-      "disponibles": "222",
-      "porcentaje": "67.9 %"
+      "ocupadas": "471",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

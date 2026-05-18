@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 17:02",
+  "timestamp": "18/05/2026 17:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "90",
+      "valor": "97",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.8 %",
+      "valor": "93.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "18-05",
-      "valor": 90.0
+      "valor": 97.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +92,7 @@
     },
     {
       "label": "MAY",
-      "valor": 93.8
+      "valor": 93.9
     }
   ],
   "picking_mensual": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1097.0
+      "valor": 1104.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 924.0
+      "valor": 925.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 390.0
+      "valor": 391.0
     }
   ],
   "fillrate_mensual": [
@@ -212,8 +212,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "890",
-      "porcentaje": "13.6 %"
+      "total": "897",
+      "porcentaje": "13.7 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -257,6 +257,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "7",
+      "unidades": "1017",
+      "ordenes": "3"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
       "tareas": "4",
       "unidades": "333",
@@ -285,9 +292,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1110",
-      "disponibles": "800",
-      "porcentaje": "58.1 %"
+      "ocupadas": "1114",
+      "disponibles": "796",
+      "porcentaje": "58.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -321,9 +328,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "202",
-      "disponibles": "288",
-      "porcentaje": "41.2 %"
+      "ocupadas": "205",
+      "disponibles": "285",
+      "porcentaje": "41.8 %"
     }
   ]
 }

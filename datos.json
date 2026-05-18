@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 16:02",
+  "timestamp": "18/05/2026 12:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "23",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.5 %",
+      "valor": "96.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "18-05",
-      "valor": 23.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -100,7 +100,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.5
+      "valor": 96.6
     }
   ],
   "picking_mensual": [
@@ -122,7 +122,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1851.0
+      "valor": 1853.0
     }
   ],
   "promedio_ruta": [
@@ -194,7 +194,7 @@
     },
     {
       "label": "MAY",
-      "valor": 752.0
+      "valor": 754.0
     }
   ],
   "fillrate_mensual": [
@@ -227,7 +227,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2060",
+      "total": "2061",
       "porcentaje": "22.2 %"
     },
     {
@@ -250,8 +250,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "22",
-      "unidades": "506",
+      "tareas": "23",
+      "unidades": "536",
       "ordenes": "4"
     },
     {
@@ -340,18 +340,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "155",
-      "disponibles": "144",
-      "porcentaje": "51.8 %"
+      "ocupadas": "156",
+      "disponibles": "143",
+      "porcentaje": "52.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "468",
-      "disponibles": "224",
-      "porcentaje": "67.6 %"
+      "ocupadas": "469",
+      "disponibles": "223",
+      "porcentaje": "67.8 %"
     }
   ]
 }

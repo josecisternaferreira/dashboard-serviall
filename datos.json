@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 14:01",
+  "timestamp": "18/05/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "59",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.6 %",
+      "valor": "96.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "18-05",
-      "valor": 54.0
+      "valor": 59.0
     }
   ],
   "cumplimiento": [
@@ -100,7 +100,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.6
+      "valor": 96.4
     }
   ],
   "picking_mensual": [
@@ -122,7 +122,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1882.0
+      "valor": 1887.0
     }
   ],
   "promedio_ruta": [
@@ -132,7 +132,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 372.0
+      "valor": 373.0
     },
     {
       "label": "AGUNSA",
@@ -194,7 +194,7 @@
     },
     {
       "label": "MAY",
-      "valor": 766.0
+      "valor": 772.0
     }
   ],
   "fillrate_mensual": [
@@ -263,17 +263,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "LSAEZ",
+      "tareas": "8",
+      "unidades": "1157",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
       "tareas": "4",
       "unidades": "379",
       "ordenes": "4"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LSAEZ",
-      "tareas": "3",
-      "unidades": "550",
-      "ordenes": "3"
     }
   ],
   "ocupacion": [

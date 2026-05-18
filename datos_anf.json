@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 11:00",
+  "timestamp": "18/05/2026 11:10",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 367.0
+      "valor": 368.0
     }
   ],
   "fillrate_mensual": [
@@ -257,18 +257,18 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1110",
-      "disponibles": "800",
-      "porcentaje": "58.1 %"
+      "ocupadas": "1107",
+      "disponibles": "803",
+      "porcentaje": "58.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "32",
-      "ocupadas": "26",
-      "disponibles": "6",
-      "porcentaje": "81.3 %"
+      "ocupadas": "25",
+      "disponibles": "7",
+      "porcentaje": "78.1 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -293,9 +293,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "200",
-      "disponibles": "290",
-      "porcentaje": "40.8 %"
+      "ocupadas": "195",
+      "disponibles": "295",
+      "porcentaje": "39.8 %"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "timestamp": "15/05/2026 16:00",
+  "timestamp": "18/05/2026 09:25",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "13",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "173",
+      "valor": "0",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.3 %",
+      "valor": "96.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -70,7 +70,11 @@
     },
     {
       "label": "15-05",
-      "valor": 173.0
+      "valor": 175.0
+    },
+    {
+      "label": "16-05",
+      "valor": 59.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +96,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.3
+      "valor": 96.5
     }
   ],
   "picking_mensual": [
@@ -114,7 +118,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1767.0
+      "valor": 1828.0
     }
   ],
   "promedio_ruta": [
@@ -124,11 +128,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 368.0
+      "valor": 371.0
     },
     {
       "label": "AGUNSA",
-      "valor": 365.0
+      "valor": 367.0
     },
     {
       "label": "ESTAFETA",
@@ -136,7 +140,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 110.0
+      "valor": 112.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -144,7 +148,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 61.0
+      "valor": 64.0
     },
     {
       "label": "REPOSICION",
@@ -152,7 +156,7 @@
     },
     {
       "label": "REPO. MULTINIVEL",
-      "valor": 30.0
+      "valor": 31.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -186,7 +190,7 @@
     },
     {
       "label": "MAY",
-      "valor": 702.0
+      "valor": 742.0
     }
   ],
   "fillrate_mensual": [
@@ -215,92 +219,36 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2190",
-      "porcentaje": "23.3 %"
+      "porcentaje": "23.7 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2116",
-      "porcentaje": "22.5 %"
+      "total": "2038",
+      "porcentaje": "22.0 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1867",
-      "porcentaje": "19.8 %"
+      "total": "1772",
+      "porcentaje": "19.1 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1062",
-      "porcentaje": "11.3 %"
+      "porcentaje": "11.5 %"
     },
     {
       "operador": "CESCOBAR",
       "total": "544",
-      "porcentaje": "5.8 %"
+      "porcentaje": "5.9 %"
     }
   ],
   "semana_actual": [
     {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "267",
-      "unidades": "18176",
-      "ordenes": "72"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "226",
-      "unidades": "29102",
-      "ordenes": "89"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "MTORRES",
-      "tareas": "77",
-      "unidades": "4746",
-      "ordenes": "27"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LSAEZ",
-      "tareas": "73",
-      "unidades": "11741",
-      "ordenes": "43"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "60",
-      "unidades": "1495",
-      "ordenes": "46"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "43",
-      "unidades": "820",
-      "ordenes": "40"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "SLORCA",
-      "tareas": "29",
-      "unidades": "1884",
-      "ordenes": "27"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "23",
-      "unidades": "873",
-      "ordenes": "12"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "FESTUPIÑAN",
-      "tareas": "17",
-      "unidades": "1031",
-      "ordenes": "9"
+      "region": "",
+      "usuario": "",
+      "tareas": "",
+      "unidades": "",
+      "ordenes": ""
     }
   ],
   "ocupacion": [
@@ -390,9 +338,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "466",
-      "disponibles": "226",
-      "porcentaje": "67.3 %"
+      "ocupadas": "471",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 15:32",
+  "timestamp": "18/05/2026 16:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "77",
+      "valor": "88",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "18-05",
-      "valor": 77.0
+      "valor": 88.0
     }
   ],
   "cumplimiento": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1084.0
+      "valor": 1095.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 921.0
+      "valor": 923.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 386.0
+      "valor": 388.0
     }
   ],
   "fillrate_mensual": [
@@ -208,17 +208,17 @@
     {
       "operador": "YEIMY RINCON",
       "total": "1104",
-      "porcentaje": "17.0 %"
+      "porcentaje": "16.9 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "890",
-      "porcentaje": "13.7 %"
+      "porcentaje": "13.6 %"
     },
     {
       "operador": "JHONY MONTONYA",
-      "total": "699",
-      "porcentaje": "10.7 %"
+      "total": "707",
+      "porcentaje": "10.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -230,9 +230,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "29",
-      "unidades": "5521",
-      "ordenes": "3"
+      "tareas": "32",
+      "unidades": "7057",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -244,9 +244,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JMONTOYA",
-      "tareas": "10",
-      "unidades": "1329",
-      "ordenes": "5"
+      "tareas": "18",
+      "unidades": "7639",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -321,9 +321,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "200",
-      "disponibles": "290",
-      "porcentaje": "40.8 %"
+      "ocupadas": "202",
+      "disponibles": "288",
+      "porcentaje": "41.2 %"
     }
   ]
 }

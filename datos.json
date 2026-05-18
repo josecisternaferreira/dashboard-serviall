@@ -1,14 +1,14 @@
 {
-  "timestamp": "18/05/2026 10:10",
+  "timestamp": "18/05/2026 10:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "3",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -75,6 +75,10 @@
     {
       "label": "16-05",
       "valor": 59.0
+    },
+    {
+      "label": "18-05",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -118,13 +122,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1828.0
+      "valor": 1829.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1422.0
+      "valor": 1423.0
     },
     {
       "label": "SITRANS",
@@ -233,7 +237,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1062",
+      "total": "1063",
       "porcentaje": "11.5 %"
     },
     {
@@ -244,11 +248,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "1",
+      "unidades": "9",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

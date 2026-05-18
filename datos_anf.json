@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 13:31",
+  "timestamp": "18/05/2026 14:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "69",
+      "valor": "71",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "18-05",
-      "valor": 69.0
+      "valor": 71.0
     }
   ],
   "cumplimiento": [
@@ -114,7 +114,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1076.0
+      "valor": 1078.0
     }
   ],
   "promedio_ruta": [
@@ -174,7 +174,7 @@
     },
     {
       "label": "MAY",
-      "valor": 380.0
+      "valor": 381.0
     }
   ],
   "fillrate_mensual": [
@@ -217,8 +217,8 @@
     },
     {
       "operador": "JHONY MONTONYA",
-      "total": "692",
-      "porcentaje": "10.6 %"
+      "total": "694",
+      "porcentaje": "10.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -250,17 +250,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JMONTOYA",
+      "tareas": "5",
+      "unidades": "16",
+      "ordenes": "3"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
       "tareas": "4",
       "unidades": "333",
       "ordenes": "2"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JMONTOYA",
-      "tareas": "3",
-      "unidades": "10",
-      "ordenes": "1"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -321,9 +321,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "199",
-      "disponibles": "291",
-      "porcentaje": "40.6 %"
+      "ocupadas": "200",
+      "disponibles": "290",
+      "porcentaje": "40.8 %"
     }
   ]
 }

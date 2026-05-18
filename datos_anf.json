@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/05/2026 16:00",
+  "timestamp": "18/05/2026 09:25",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "59",
+      "valor": "0",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -170,7 +170,7 @@
     },
     {
       "label": "MAY",
-      "valor": 364.0
+      "valor": 365.0
     }
   ],
   "fillrate_mensual": [
@@ -199,99 +199,36 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1671",
-      "porcentaje": "25.5 %"
+      "porcentaje": "26.0 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1103",
-      "porcentaje": "16.8 %"
+      "porcentaje": "17.1 %"
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "924",
-      "porcentaje": "14.1 %"
-    },
-    {
-      "operador": "SEBASTIAN OCARANZA",
-      "total": "707",
-      "porcentaje": "10.8 %"
+      "total": "890",
+      "porcentaje": "13.8 %"
     },
     {
       "operador": "JHONY MONTONYA",
       "total": "689",
-      "porcentaje": "10.5 %"
+      "porcentaje": "10.7 %"
+    },
+    {
+      "operador": "SEBASTIAN OCARANZA",
+      "total": "680",
+      "porcentaje": "10.6 %"
     }
   ],
   "semana_actual": [
     {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "161",
-      "unidades": "17233",
-      "ordenes": "38"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JMONTOYA",
-      "tareas": "109",
-      "unidades": "2730",
-      "ordenes": "25"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "79",
-      "unidades": "10342",
-      "ordenes": "30"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "46",
-      "unidades": "3769",
-      "ordenes": "26"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "AGUERRERO",
-      "tareas": "45",
-      "unidades": "2543",
-      "ordenes": "23"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "19",
-      "unidades": "1712",
-      "ordenes": "16"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "KHENAO",
-      "tareas": "10",
-      "unidades": "1665",
-      "ordenes": "5"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JBARRERA",
-      "tareas": "9",
-      "unidades": "101",
-      "ordenes": "6"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "7",
-      "unidades": "218",
-      "ordenes": "4"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "7",
-      "unidades": "3232",
-      "ordenes": "5"
+      "region": "",
+      "usuario": "",
+      "tareas": "",
+      "unidades": "",
+      "ordenes": ""
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/05/2026 10:30",
+  "timestamp": "18/05/2026 10:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "3",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "18-05",
-      "valor": 3.0
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -114,7 +114,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1010.0
+      "valor": 1011.0
     }
   ],
   "promedio_ruta": [
@@ -207,8 +207,8 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "1103",
-      "porcentaje": "17.1 %"
+      "total": "1104",
+      "porcentaje": "17.2 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -233,6 +233,13 @@
       "tareas": "3",
       "unidades": "104",
       "ordenes": "3"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -250,8 +257,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1109",
-      "disponibles": "801",
+      "ocupadas": "1110",
+      "disponibles": "800",
       "porcentaje": "58.1 %"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/05/2026 11:32",
+  "timestamp": "19/05/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "41",
+      "valor": "47",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.0 %",
+      "valor": "94.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "label": "19-05",
-      "valor": 41.0
+      "valor": 47.0
     }
   ],
   "cumplimiento": [
@@ -96,7 +96,7 @@
     },
     {
       "label": "MAY",
-      "valor": 94.0
+      "valor": 94.1
     }
   ],
   "picking_mensual": [
@@ -118,13 +118,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1145.0
+      "valor": 1151.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 925.0
+      "valor": 926.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -178,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 401.0
+      "valor": 406.0
     }
   ],
   "fillrate_mensual": [
@@ -217,7 +217,7 @@
     {
       "operador": "LUIS ARDILES",
       "total": "897",
-      "porcentaje": "13.7 %"
+      "porcentaje": "13.6 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -264,6 +264,13 @@
       "usuario": "LARDILES",
       "tareas": "7",
       "unidades": "1017",
+      "ordenes": "3"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "6",
+      "unidades": "43",
       "ordenes": "3"
     },
     {

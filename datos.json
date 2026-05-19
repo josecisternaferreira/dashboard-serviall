@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/05/2026 15:31",
+  "timestamp": "19/05/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "25",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "136",
+      "valor": "139",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "19-05",
-      "valor": 136.0
+      "valor": 139.0
     }
   ],
   "cumplimiento": [
@@ -126,7 +126,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2058.0
+      "valor": 2061.0
     }
   ],
   "promedio_ruta": [
@@ -198,7 +198,7 @@
     },
     {
       "label": "MAY",
-      "valor": 825.0
+      "valor": 828.0
     }
   ],
   "fillrate_mensual": [
@@ -231,7 +231,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2109",
+      "total": "2110",
       "porcentaje": "22.2 %"
     },
     {
@@ -254,16 +254,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "71",
-      "unidades": "6312",
-      "ordenes": "19"
+      "tareas": "72",
+      "unidades": "6379",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "46",
-      "unidades": "4413",
-      "ordenes": "36"
+      "tareas": "48",
+      "unidades": "4462",
+      "ordenes": "38"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -386,18 +386,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "154",
-      "disponibles": "145",
-      "porcentaje": "51.5 %"
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "465",
-      "disponibles": "227",
-      "porcentaje": "67.2 %"
+      "ocupadas": "466",
+      "disponibles": "226",
+      "porcentaje": "67.3 %"
     }
   ]
 }

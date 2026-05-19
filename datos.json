@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/05/2026 17:01",
+  "timestamp": "19/05/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "31",
+      "valor": "33",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "146",
+      "valor": "148",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "19-05",
-      "valor": 146.0
+      "valor": 148.0
     }
   ],
   "cumplimiento": [
@@ -126,7 +126,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2068.0
+      "valor": 2070.0
     }
   ],
   "promedio_ruta": [
@@ -198,7 +198,7 @@
     },
     {
       "label": "MAY",
-      "valor": 828.0
+      "valor": 831.0
     }
   ],
   "fillrate_mensual": [
@@ -231,8 +231,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2111",
-      "porcentaje": "22.2 %"
+      "total": "2114",
+      "porcentaje": "22.3 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -254,9 +254,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "73",
-      "unidades": "6384",
-      "ordenes": "21"
+      "tareas": "76",
+      "unidades": "6529",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -359,9 +359,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1247",
-      "disponibles": "234",
-      "porcentaje": "84.2 %"
+      "ocupadas": "1248",
+      "disponibles": "233",
+      "porcentaje": "84.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -386,18 +386,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "156",
-      "disponibles": "143",
-      "porcentaje": "52.2 %"
+      "ocupadas": "157",
+      "disponibles": "142",
+      "porcentaje": "52.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "467",
-      "disponibles": "225",
-      "porcentaje": "67.5 %"
+      "ocupadas": "474",
+      "disponibles": "218",
+      "porcentaje": "68.5 %"
     }
   ]
 }

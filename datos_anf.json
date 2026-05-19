@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/05/2026 09:31",
+  "timestamp": "19/05/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.9 %",
+      "valor": "94.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -71,6 +71,10 @@
     {
       "label": "18-05",
       "valor": 97.0
+    },
+    {
+      "label": "19-05",
+      "valor": 8.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +96,7 @@
     },
     {
       "label": "MAY",
-      "valor": 93.9
+      "valor": 94.0
     }
   ],
   "picking_mensual": [
@@ -114,7 +118,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1104.0
+      "valor": 1112.0
     }
   ],
   "promedio_ruta": [
@@ -128,7 +132,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 259.0
+      "valor": 260.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -174,7 +178,7 @@
     },
     {
       "label": "MAY",
-      "valor": 392.0
+      "valor": 398.0
     }
   ],
   "fillrate_mensual": [
@@ -203,7 +207,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1695",
-      "porcentaje": "26.0 %"
+      "porcentaje": "25.9 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -217,8 +221,8 @@
     },
     {
       "operador": "JHONY MONTONYA",
-      "total": "707",
-      "porcentaje": "10.8 %"
+      "total": "710",
+      "porcentaje": "10.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -244,16 +248,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JMONTOYA",
-      "tareas": "18",
-      "unidades": "7639",
-      "ordenes": "6"
+      "tareas": "21",
+      "unidades": "7664",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "9",
-      "unidades": "321",
-      "ordenes": "7"
+      "tareas": "14",
+      "unidades": "379",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -292,9 +296,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1114",
-      "disponibles": "796",
-      "porcentaje": "58.3 %"
+      "ocupadas": "1115",
+      "disponibles": "795",
+      "porcentaje": "58.4 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -328,9 +332,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "204",
-      "disponibles": "286",
-      "porcentaje": "41.6 %"
+      "ocupadas": "202",
+      "disponibles": "288",
+      "porcentaje": "41.2 %"
     }
   ]
 }

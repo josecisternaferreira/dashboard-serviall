@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/05/2026 14:31",
+  "timestamp": "19/05/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "8",
+      "valor": "14",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "127",
+      "valor": "129",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "19-05",
-      "valor": 127.0
+      "valor": 129.0
     }
   ],
   "cumplimiento": [
@@ -126,7 +126,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2049.0
+      "valor": 2051.0
     }
   ],
   "promedio_ruta": [
@@ -136,7 +136,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 384.0
+      "valor": 385.0
     },
     {
       "label": "AGUNSA",
@@ -198,7 +198,7 @@
     },
     {
       "label": "MAY",
-      "valor": 819.0
+      "valor": 822.0
     }
   ],
   "fillrate_mensual": [
@@ -227,7 +227,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2213",
-      "porcentaje": "23.4 %"
+      "porcentaje": "23.3 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -246,7 +246,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "570",
+      "total": "571",
       "porcentaje": "6.0 %"
     }
   ],
@@ -261,16 +261,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "45",
-      "unidades": "4412",
-      "ordenes": "35"
+      "tareas": "46",
+      "unidades": "4413",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "37",
-      "unidades": "5012",
-      "ordenes": "33"
+      "tareas": "38",
+      "unidades": "5023",
+      "ordenes": "34"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -359,8 +359,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1245",
-      "disponibles": "236",
+      "ocupadas": "1246",
+      "disponibles": "235",
       "porcentaje": "84.1 %"
     },
     {

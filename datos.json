@@ -1,19 +1,19 @@
 {
-  "timestamp": "20/05/2026 15:31",
+  "timestamp": "20/05/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "18",
+      "valor": "20",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "140",
+      "valor": "152",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.3 %",
+      "valor": "95.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "20-05",
-      "valor": 140.0
+      "valor": 152.0
     }
   ],
   "cumplimiento": [
@@ -108,7 +108,7 @@
     },
     {
       "label": "MAY",
-      "valor": 96.3
+      "valor": 95.3
     }
   ],
   "picking_mensual": [
@@ -130,13 +130,13 @@
     },
     {
       "label": "MAY",
-      "valor": 2226.0
+      "valor": 2238.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1465.0
+      "valor": 1467.0
     },
     {
       "label": "SITRANS",
@@ -202,7 +202,7 @@
     },
     {
       "label": "MAY",
-      "valor": 854.0
+      "valor": 867.0
     }
   ],
   "fillrate_mensual": [
@@ -230,8 +230,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2173",
-      "porcentaje": "23.3 %"
+      "total": "2184",
+      "porcentaje": "23.4 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -241,7 +241,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1544",
-      "porcentaje": "16.6 %"
+      "porcentaje": "16.5 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -258,8 +258,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "135",
-      "unidades": "14943",
+      "tareas": "146",
+      "unidades": "15243",
       "ordenes": "27"
     },
     {
@@ -300,9 +300,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "13",
-      "unidades": "2107",
-      "ordenes": "12"
+      "tareas": "14",
+      "unidades": "2207",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA SANTIAGO",

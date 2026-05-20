@@ -1,19 +1,19 @@
 {
-  "timestamp": "20/05/2026 16:01",
+  "timestamp": "20/05/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "26",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "152",
+      "valor": "161",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.3 %",
+      "valor": "94.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "20-05",
-      "valor": 152.0
+      "valor": 161.0
     }
   ],
   "cumplimiento": [
@@ -108,7 +108,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.3
+      "valor": 94.9
     }
   ],
   "picking_mensual": [
@@ -130,13 +130,13 @@
     },
     {
       "label": "MAY",
-      "valor": 2238.0
+      "valor": 2247.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1467.0
+      "valor": 1469.0
     },
     {
       "label": "SITRANS",
@@ -202,7 +202,7 @@
     },
     {
       "label": "MAY",
-      "valor": 867.0
+      "valor": 883.0
     }
   ],
   "fillrate_mensual": [
@@ -230,7 +230,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2184",
+      "total": "2186",
       "porcentaje": "23.4 %"
     },
     {
@@ -258,8 +258,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "146",
-      "unidades": "15243",
+      "tareas": "148",
+      "unidades": "15523",
       "ordenes": "27"
     },
     {
@@ -279,9 +279,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "47",
-      "unidades": "6326",
-      "ordenes": "13"
+      "tareas": "53",
+      "unidades": "6354",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -300,9 +300,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "14",
-      "unidades": "2207",
-      "ordenes": "13"
+      "tareas": "15",
+      "unidades": "2209",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -406,9 +406,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "472",
-      "disponibles": "220",
-      "porcentaje": "68.2 %"
+      "ocupadas": "471",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

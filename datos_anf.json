@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/05/2026 15:01",
+  "timestamp": "20/05/2026 15:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "155",
+      "valor": "161",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "20-05",
-      "valor": 155.0
+      "valor": 161.0
     }
   ],
   "cumplimiento": [
@@ -122,21 +122,21 @@
     },
     {
       "label": "MAY",
-      "valor": 1337.0
+      "valor": 1343.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 944.0
+      "valor": 945.0
+    },
+    {
+      "label": "DESPACHO-CLIENTE",
+      "valor": 272.0
     },
     {
       "label": "SUCURSAL.FINNING",
       "valor": 272.0
-    },
-    {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 271.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -182,7 +182,7 @@
     },
     {
       "label": "MAY",
-      "valor": 451.0
+      "valor": 454.0
     }
   ],
   "fillrate_mensual": [
@@ -226,7 +226,7 @@
     {
       "operador": "JHONY MONTONYA",
       "total": "725",
-      "porcentaje": "11.3 %"
+      "porcentaje": "11.2 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -238,9 +238,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "80",
-      "unidades": "17511",
-      "ordenes": "15"
+      "tareas": "84",
+      "unidades": "17536",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -259,9 +259,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "42",
-      "unidades": "1179",
-      "ordenes": "17"
+      "tareas": "45",
+      "unidades": "1579",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

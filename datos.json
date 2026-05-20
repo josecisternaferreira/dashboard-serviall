@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/05/2026 13:31",
+  "timestamp": "20/05/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "102",
+      "valor": "128",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "20-05",
-      "valor": 102.0
+      "valor": 128.0
     }
   ],
   "cumplimiento": [
@@ -130,13 +130,13 @@
     },
     {
       "label": "MAY",
-      "valor": 2188.0
+      "valor": 2214.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1460.0
+      "valor": 1463.0
     },
     {
       "label": "SITRANS",
@@ -144,7 +144,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 379.0
+      "valor": 380.0
     },
     {
       "label": "ESTAFETA",
@@ -230,7 +230,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2162",
+      "total": "2170",
       "porcentaje": "23.3 %"
     },
     {
@@ -258,9 +258,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "124",
-      "unidades": "11219",
+      "tareas": "132",
+      "unidades": "11558",
       "ordenes": "27"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "SLORCA",
+      "tareas": "57",
+      "unidades": "2238",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -271,17 +278,10 @@
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "SLORCA",
-      "tareas": "51",
-      "unidades": "2178",
-      "ordenes": "24"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "38",
-      "unidades": "5165",
-      "ordenes": "11"
+      "tareas": "42",
+      "unidades": "5772",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -299,6 +299,13 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "13",
+      "unidades": "2107",
+      "ordenes": "12"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
       "tareas": "9",
       "unidades": "1180",
@@ -310,13 +317,6 @@
       "tareas": "6",
       "unidades": "63",
       "ordenes": "4"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "6",
-      "unidades": "77",
-      "ordenes": "6"
     }
   ],
   "ocupacion": [
@@ -397,9 +397,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "157",
-      "disponibles": "142",
-      "porcentaje": "52.5 %"
+      "ocupadas": "156",
+      "disponibles": "143",
+      "porcentaje": "52.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

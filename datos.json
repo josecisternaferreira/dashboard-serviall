@@ -1,14 +1,14 @@
 {
-  "timestamp": "20/05/2026 11:01",
+  "timestamp": "20/05/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "2",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "21",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "20-05",
-      "valor": 10.0
+      "valor": 21.0
     }
   ],
   "cumplimiento": [
@@ -130,13 +130,13 @@
     },
     {
       "label": "MAY",
-      "valor": 2096.0
+      "valor": 2107.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1445.0
+      "valor": 1447.0
     },
     {
       "label": "SITRANS",
@@ -202,7 +202,7 @@
     },
     {
       "label": "MAY",
-      "valor": 836.0
+      "valor": 838.0
     }
   ],
   "fillrate_mensual": [
@@ -236,7 +236,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2119",
-      "porcentaje": "23.1 %"
+      "porcentaje": "23.0 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -245,7 +245,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1069",
+      "total": "1071",
       "porcentaje": "11.6 %"
     },
     {
@@ -279,9 +279,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "SLORCA",
-      "tareas": "28",
-      "unidades": "1156",
-      "ordenes": "11"
+      "tareas": "36",
+      "unidades": "1175",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -300,8 +300,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "7",
-      "unidades": "517",
+      "tareas": "9",
+      "unidades": "1180",
       "ordenes": "6"
     },
     {

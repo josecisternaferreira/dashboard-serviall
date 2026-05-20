@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/05/2026 14:02",
+  "timestamp": "20/05/2026 14:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "135",
+      "valor": "155",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "20-05",
-      "valor": 135.0
+      "valor": 155.0
     }
   ],
   "cumplimiento": [
@@ -122,7 +122,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1317.0
+      "valor": 1337.0
     }
   ],
   "promedio_ruta": [
@@ -136,7 +136,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 267.0
+      "valor": 271.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -211,17 +211,17 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1732",
-      "porcentaje": "27.0 %"
+      "porcentaje": "26.9 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1095",
-      "porcentaje": "17.1 %"
+      "porcentaje": "17.0 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "768",
-      "porcentaje": "12.0 %"
+      "porcentaje": "11.9 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -265,6 +265,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "34",
+      "unidades": "176",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
       "tareas": "31",
       "unidades": "2756",
@@ -276,13 +283,6 @@
       "tareas": "15",
       "unidades": "4880",
       "ordenes": "4"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JBARRERA",
-      "tareas": "14",
-      "unidades": "107",
-      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -343,9 +343,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "204",
-      "disponibles": "286",
-      "porcentaje": "41.6 %"
+      "ocupadas": "206",
+      "disponibles": "284",
+      "porcentaje": "42.0 %"
     }
   ]
 }

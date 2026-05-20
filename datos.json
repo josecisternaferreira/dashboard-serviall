@@ -1,14 +1,14 @@
 {
-  "timestamp": "20/05/2026 10:01",
+  "timestamp": "20/05/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -83,6 +83,10 @@
     {
       "label": "19-05",
       "valor": 154.0
+    },
+    {
+      "label": "20-05",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -126,7 +130,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2076.0
+      "valor": 2090.0
     }
   ],
   "promedio_ruta": [
@@ -160,7 +164,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 35.0
+      "valor": 37.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -198,7 +202,7 @@
     },
     {
       "label": "MAY",
-      "valor": 835.0
+      "valor": 836.0
     }
   ],
   "fillrate_mensual": [
@@ -274,17 +278,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "SLORCA",
+      "tareas": "24",
+      "unidades": "1043",
+      "ordenes": "9"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
       "tareas": "23",
       "unidades": "1145",
       "ordenes": "22"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "SLORCA",
-      "tareas": "20",
-      "unidades": "893",
-      "ordenes": "8"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -395,9 +399,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "469",
-      "disponibles": "223",
-      "porcentaje": "67.8 %"
+      "ocupadas": "470",
+      "disponibles": "222",
+      "porcentaje": "67.9 %"
     }
   ]
 }

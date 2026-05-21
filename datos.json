@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/05/2026 11:31",
+  "timestamp": "21/05/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "31",
+      "valor": "42",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.1 %",
+      "valor": "95.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "21-05",
-      "valor": 31.0
+      "valor": 42.0
     }
   ],
   "cumplimiento": [
@@ -112,7 +112,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.1
+      "valor": 95.0
     }
   ],
   "picking_mensual": [
@@ -134,13 +134,13 @@
     },
     {
       "label": "MAY",
-      "valor": 2302.0
+      "valor": 2313.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1477.0
+      "valor": 1479.0
     },
     {
       "label": "SITRANS",
@@ -206,7 +206,7 @@
     },
     {
       "label": "MAY",
-      "valor": 910.0
+      "valor": 913.0
     }
   ],
   "fillrate_mensual": [
@@ -234,8 +234,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2223",
-      "porcentaje": "23.7 %"
+      "total": "2235",
+      "porcentaje": "23.8 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -262,9 +262,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "185",
-      "unidades": "16958",
-      "ordenes": "43"
+      "tareas": "197",
+      "unidades": "18884",
+      "ordenes": "46"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -410,9 +410,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "469",
-      "disponibles": "223",
-      "porcentaje": "67.8 %"
+      "ocupadas": "470",
+      "disponibles": "222",
+      "porcentaje": "67.9 %"
     }
   ]
 }

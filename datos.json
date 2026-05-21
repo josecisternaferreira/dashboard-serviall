@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/05/2026 11:01",
+  "timestamp": "21/05/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "22",
+      "valor": "31",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.0 %",
+      "valor": "95.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "21-05",
-      "valor": 22.0
+      "valor": 31.0
     }
   ],
   "cumplimiento": [
@@ -112,7 +112,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.0
+      "valor": 95.1
     }
   ],
   "picking_mensual": [
@@ -134,7 +134,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2293.0
+      "valor": 2302.0
     }
   ],
   "promedio_ruta": [
@@ -148,7 +148,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 381.0
+      "valor": 382.0
     },
     {
       "label": "ESTAFETA",
@@ -206,7 +206,7 @@
     },
     {
       "label": "MAY",
-      "valor": 906.0
+      "valor": 910.0
     }
   ],
   "fillrate_mensual": [
@@ -234,18 +234,18 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2218",
-      "porcentaje": "23.6 %"
+      "total": "2223",
+      "porcentaje": "23.7 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2136",
-      "porcentaje": "22.8 %"
+      "porcentaje": "22.7 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1544",
-      "porcentaje": "16.5 %"
+      "porcentaje": "16.4 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -262,9 +262,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "180",
-      "unidades": "16836",
-      "ordenes": "39"
+      "tareas": "185",
+      "unidades": "16958",
+      "ordenes": "43"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -304,9 +304,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "19",
-      "unidades": "2240",
-      "ordenes": "15"
+      "tareas": "22",
+      "unidades": "2257",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -410,9 +410,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "473",
-      "disponibles": "219",
-      "porcentaje": "68.4 %"
+      "ocupadas": "469",
+      "disponibles": "223",
+      "porcentaje": "67.8 %"
     }
   ]
 }

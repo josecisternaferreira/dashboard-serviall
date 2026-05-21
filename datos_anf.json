@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/05/2026 11:02",
+  "timestamp": "21/05/2026 11:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "5",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.4 %",
+      "valor": "94.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "21-05",
-      "valor": 5.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -104,7 +104,7 @@
     },
     {
       "label": "MAY",
-      "valor": 94.4
+      "valor": 94.5
     }
   ],
   "picking_mensual": [
@@ -126,7 +126,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1375.0
+      "valor": 1395.0
     }
   ],
   "promedio_ruta": [
@@ -135,12 +135,12 @@
       "valor": 946.0
     },
     {
-      "label": "SUCURSAL.FINNING",
-      "valor": 275.0
+      "label": "DESPACHO-CLIENTE",
+      "valor": 276.0
     },
     {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 274.0
+      "label": "SUCURSAL.FINNING",
+      "valor": 275.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -148,7 +148,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 83.0
+      "valor": 84.0
     },
     {
       "label": "ESTAFETA",
@@ -156,7 +156,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 74.0
+      "valor": 75.0
     },
     {
       "label": "AGUNSA",
@@ -186,7 +186,7 @@
     },
     {
       "label": "MAY",
-      "valor": 467.0
+      "valor": 470.0
     }
   ],
   "fillrate_mensual": [
@@ -215,17 +215,17 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1741",
-      "porcentaje": "26.9 %"
+      "porcentaje": "26.8 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1095",
-      "porcentaje": "16.9 %"
+      "porcentaje": "16.8 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "768",
-      "porcentaje": "11.9 %"
+      "porcentaje": "11.8 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -242,9 +242,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "98",
-      "unidades": "18556",
-      "ordenes": "21"
+      "tareas": "100",
+      "unidades": "19706",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -263,16 +263,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "49",
-      "unidades": "1765",
-      "ordenes": "20"
+      "tareas": "64",
+      "unidades": "2148",
+      "ordenes": "24"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "38",
-      "unidades": "205",
-      "ordenes": "10"
+      "tareas": "41",
+      "unidades": "208",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

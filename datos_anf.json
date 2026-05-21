@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/05/2026 10:32",
+  "timestamp": "21/05/2026 11:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -79,6 +79,10 @@
     {
       "label": "20-05",
       "valor": 188.0
+    },
+    {
+      "label": "21-05",
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -122,7 +126,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1370.0
+      "valor": 1375.0
     }
   ],
   "promedio_ruta": [
@@ -136,7 +140,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 273.0
+      "valor": 274.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -182,7 +186,7 @@
     },
     {
       "label": "MAY",
-      "valor": 463.0
+      "valor": 467.0
     }
   ],
   "fillrate_mensual": [
@@ -210,7 +214,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1740",
+      "total": "1741",
       "porcentaje": "26.9 %"
     },
     {
@@ -231,7 +235,7 @@
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "651",
-      "porcentaje": "10.1 %"
+      "porcentaje": "10.0 %"
     }
   ],
   "semana_actual": [
@@ -245,9 +249,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "69",
-      "unidades": "8710",
-      "ordenes": "18"
+      "tareas": "70",
+      "unidades": "8711",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -259,9 +263,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "45",
-      "unidades": "1579",
-      "ordenes": "18"
+      "tareas": "49",
+      "unidades": "1765",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

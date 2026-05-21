@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/05/2026 13:31",
+  "timestamp": "21/05/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "60",
+      "valor": "61",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "21-05",
-      "valor": 60.0
+      "valor": 61.0
     }
   ],
   "cumplimiento": [
@@ -134,7 +134,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2331.0
+      "valor": 2332.0
     }
   ],
   "promedio_ruta": [
@@ -206,7 +206,7 @@
     },
     {
       "label": "MAY",
-      "valor": 926.0
+      "valor": 928.0
     }
   ],
   "fillrate_mensual": [
@@ -254,7 +254,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "576",
+      "total": "577",
       "porcentaje": "6.1 %"
     }
   ],
@@ -290,9 +290,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "45",
-      "unidades": "5720",
-      "ordenes": "40"
+      "tareas": "46",
+      "unidades": "5728",
+      "ordenes": "41"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -410,9 +410,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "470",
-      "disponibles": "222",
-      "porcentaje": "67.9 %"
+      "ocupadas": "471",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

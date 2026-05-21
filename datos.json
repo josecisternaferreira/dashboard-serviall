@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/05/2026 13:01",
+  "timestamp": "21/05/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "59",
+      "valor": "60",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.0 %",
+      "valor": "94.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "21-05",
-      "valor": 59.0
+      "valor": 60.0
     }
   ],
   "cumplimiento": [
@@ -112,7 +112,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.0
+      "valor": 94.9
     }
   ],
   "picking_mensual": [
@@ -134,7 +134,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2330.0
+      "valor": 2331.0
     }
   ],
   "promedio_ruta": [
@@ -206,7 +206,7 @@
     },
     {
       "label": "MAY",
-      "valor": 923.0
+      "valor": 926.0
     }
   ],
   "fillrate_mensual": [
@@ -254,7 +254,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "575",
+      "total": "576",
       "porcentaje": "6.1 %"
     }
   ],
@@ -290,8 +290,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "44",
-      "unidades": "5693",
+      "tareas": "45",
+      "unidades": "5720",
       "ordenes": "40"
     },
     {
@@ -365,9 +365,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "12",
-      "disponibles": "22",
-      "porcentaje": "35.3 %"
+      "ocupadas": "13",
+      "disponibles": "21",
+      "porcentaje": "38.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

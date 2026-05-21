@@ -1,14 +1,14 @@
 {
-  "timestamp": "21/05/2026 15:01",
+  "timestamp": "21/05/2026 15:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "3",
+      "valor": "4",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "62",
+      "valor": "65",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "21-05",
-      "valor": 62.0
+      "valor": 65.0
     }
   ],
   "cumplimiento": [
@@ -134,7 +134,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2333.0
+      "valor": 2336.0
     }
   ],
   "promedio_ruta": [
@@ -206,7 +206,7 @@
     },
     {
       "label": "MAY",
-      "valor": 944.0
+      "valor": 946.0
     }
   ],
   "fillrate_mensual": [
@@ -234,8 +234,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2246",
-      "porcentaje": "23.8 %"
+      "total": "2249",
+      "porcentaje": "23.9 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -262,9 +262,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "208",
-      "unidades": "19124",
-      "ordenes": "57"
+      "tareas": "211",
+      "unidades": "19235",
+      "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -329,9 +329,9 @@
       "area": "PATIO",
       "tipo": "PISO",
       "total": "1",
-      "ocupadas": "0",
-      "disponibles": "1",
-      "porcentaje": "0.0 %"
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -347,9 +347,9 @@
       "area": "Z-CANTI",
       "tipo": "ACTIVO",
       "total": "18",
-      "ocupadas": "13",
-      "disponibles": "5",
-      "porcentaje": "72.2 %"
+      "ocupadas": "14",
+      "disponibles": "4",
+      "porcentaje": "77.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -410,9 +410,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "471",
-      "disponibles": "221",
-      "porcentaje": "68.1 %"
+      "ocupadas": "472",
+      "disponibles": "220",
+      "porcentaje": "68.2 %"
     }
   ]
 }

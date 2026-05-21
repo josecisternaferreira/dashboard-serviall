@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/05/2026 12:31",
+  "timestamp": "21/05/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "51",
+      "valor": "59",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "21-05",
-      "valor": 51.0
+      "valor": 59.0
     }
   ],
   "cumplimiento": [
@@ -134,7 +134,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2322.0
+      "valor": 2330.0
     }
   ],
   "promedio_ruta": [
@@ -144,7 +144,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 388.0
+      "valor": 389.0
     },
     {
       "label": "AGUNSA",
@@ -206,7 +206,7 @@
     },
     {
       "label": "MAY",
-      "valor": 919.0
+      "valor": 923.0
     }
   ],
   "fillrate_mensual": [
@@ -234,7 +234,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2240",
+      "total": "2245",
       "porcentaje": "23.8 %"
     },
     {
@@ -254,7 +254,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "572",
+      "total": "575",
       "porcentaje": "6.1 %"
     }
   ],
@@ -262,9 +262,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "202",
-      "unidades": "18954",
-      "ordenes": "51"
+      "tareas": "207",
+      "unidades": "19024",
+      "ordenes": "56"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -290,9 +290,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "41",
-      "unidades": "5049",
-      "ordenes": "37"
+      "tareas": "44",
+      "unidades": "5693",
+      "ordenes": "40"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "156",
-      "disponibles": "143",
-      "porcentaje": "52.2 %"
+      "ocupadas": "157",
+      "disponibles": "142",
+      "porcentaje": "52.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",

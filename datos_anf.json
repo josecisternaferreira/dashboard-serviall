@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 11:02",
+  "timestamp": "25/05/2026 11:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "69",
+      "valor": "77",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.4 %",
+      "valor": "94.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "25-05",
-      "valor": 69.0
+      "valor": 77.0
     }
   ],
   "cumplimiento": [
@@ -108,7 +108,7 @@
     },
     {
       "label": "MAY",
-      "valor": 94.4
+      "valor": 94.2
     }
   ],
   "picking_mensual": [
@@ -130,13 +130,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1467.0
+      "valor": 1475.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 953.0
+      "valor": 954.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -144,7 +144,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 275.0
+      "valor": 276.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -190,7 +190,7 @@
     },
     {
       "label": "MAY",
-      "valor": 484.0
+      "valor": 485.0
     }
   ],
   "fillrate_mensual": [
@@ -223,8 +223,8 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "1074",
-      "porcentaje": "16.6 %"
+      "total": "1080",
+      "porcentaje": "16.7 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -253,8 +253,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "15",
-      "unidades": "1017",
+      "tareas": "21",
+      "unidades": "1456",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "16",
+      "unidades": "2487",
       "ordenes": "6"
     },
     {
@@ -263,13 +270,6 @@
       "tareas": "14",
       "unidades": "282",
       "ordenes": "5"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "14",
-      "unidades": "2475",
-      "ordenes": "6"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 09:31",
+  "timestamp": "25/05/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "8",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "25-05",
-      "valor": 6.0
+      "valor": 8.0
     }
   ],
   "cumplimiento": [
@@ -138,7 +138,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2342.0
+      "valor": 2344.0
     }
   ],
   "promedio_ruta": [
@@ -152,7 +152,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 383.0
+      "valor": 384.0
     },
     {
       "label": "ESTAFETA",
@@ -210,7 +210,7 @@
     },
     {
       "label": "MAY",
-      "valor": 952.0
+      "valor": 953.0
     }
   ],
   "fillrate_mensual": [
@@ -238,7 +238,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2255",
+      "total": "2257",
       "porcentaje": "24.2 %"
     },
     {
@@ -266,9 +266,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "6",
-      "unidades": "40",
-      "ordenes": "5"
+      "tareas": "8",
+      "unidades": "139",
+      "ordenes": "7"
     }
   ],
   "ocupacion": [
@@ -322,8 +322,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1245",
-      "disponibles": "236",
+      "ocupadas": "1246",
+      "disponibles": "235",
       "porcentaje": "84.1 %"
     },
     {
@@ -358,9 +358,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "474",
-      "disponibles": "218",
-      "porcentaje": "68.5 %"
+      "ocupadas": "470",
+      "disponibles": "222",
+      "porcentaje": "67.9 %"
     }
   ]
 }

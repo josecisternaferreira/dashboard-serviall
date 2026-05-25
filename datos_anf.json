@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 13:02",
+  "timestamp": "25/05/2026 13:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "91",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.3 %",
+      "valor": "94.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "25-05",
-      "valor": 91.0
+      "valor": 93.0
     }
   ],
   "cumplimiento": [
@@ -108,7 +108,7 @@
     },
     {
       "label": "MAY",
-      "valor": 94.3
+      "valor": 94.4
     }
   ],
   "picking_mensual": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1489.0
+      "valor": 1491.0
     }
   ],
   "promedio_ruta": [
@@ -190,7 +190,7 @@
     },
     {
       "label": "MAY",
-      "valor": 492.0
+      "valor": 496.0
     }
   ],
   "fillrate_mensual": [
@@ -219,7 +219,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1767",
-      "porcentaje": "27.3 %"
+      "porcentaje": "27.2 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -277,6 +277,13 @@
       "tareas": "7",
       "unidades": "1300",
       "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "2",
+      "unidades": "11",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

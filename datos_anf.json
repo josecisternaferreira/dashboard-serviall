@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 16:01",
+  "timestamp": "25/05/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "139",
+      "valor": "143",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "25-05",
-      "valor": 139.0
+      "valor": 143.0
     }
   ],
   "cumplimiento": [
@@ -130,13 +130,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1537.0
+      "valor": 1541.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 960.0
+      "valor": 961.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -190,7 +190,7 @@
     },
     {
       "label": "MAY",
-      "valor": 500.0
+      "valor": 504.0
     }
   ],
   "fillrate_mensual": [
@@ -218,13 +218,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1767",
+      "total": "1768",
       "porcentaje": "27.1 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "1112",
-      "porcentaje": "17.0 %"
+      "total": "1115",
+      "porcentaje": "17.1 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -246,16 +246,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "53",
-      "unidades": "2424",
+      "tareas": "56",
+      "unidades": "2564",
       "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "26",
-      "unidades": "3400",
-      "ordenes": "3"
+      "tareas": "27",
+      "unidades": "3401",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -301,9 +301,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1110",
-      "disponibles": "800",
-      "porcentaje": "58.1 %"
+      "ocupadas": "1111",
+      "disponibles": "799",
+      "porcentaje": "58.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

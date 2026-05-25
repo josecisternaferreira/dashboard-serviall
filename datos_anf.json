@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 09:02",
+  "timestamp": "25/05/2026 09:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -83,6 +83,10 @@
     {
       "label": "21-05",
       "valor": 28.0
+    },
+    {
+      "label": "25-05",
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -126,7 +130,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1398.0
+      "valor": 1403.0
     }
   ],
   "promedio_ruta": [
@@ -144,7 +148,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 186.0
+      "valor": 187.0
     },
     {
       "label": "SITRANS",
@@ -214,7 +218,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1741",
+      "total": "1743",
       "porcentaje": "27.2 %"
     },
     {
@@ -240,11 +244,18 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "3",
+      "unidades": "6",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "2",
+      "unidades": "24",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -298,9 +309,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "208",
-      "disponibles": "282",
-      "porcentaje": "42.4 %"
+      "ocupadas": "207",
+      "disponibles": "283",
+      "porcentaje": "42.2 %"
     }
   ]
 }

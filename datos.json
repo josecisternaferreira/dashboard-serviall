@@ -1,14 +1,14 @@
 {
-  "timestamp": "25/05/2026 10:01",
+  "timestamp": "25/05/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "8",
+      "valor": "12",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "25-05",
-      "valor": 8.0
+      "valor": 12.0
     }
   ],
   "cumplimiento": [
@@ -138,7 +138,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2344.0
+      "valor": 2348.0
     }
   ],
   "promedio_ruta": [
@@ -148,7 +148,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 389.0
+      "valor": 390.0
     },
     {
       "label": "AGUNSA",
@@ -210,7 +210,7 @@
     },
     {
       "label": "MAY",
-      "valor": 953.0
+      "valor": 964.0
     }
   ],
   "fillrate_mensual": [
@@ -238,8 +238,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2257",
-      "porcentaje": "24.2 %"
+      "total": "2261",
+      "porcentaje": "24.3 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -259,16 +259,16 @@
     {
       "operador": "LEONARDO SAEZ",
       "total": "573",
-      "porcentaje": "6.2 %"
+      "porcentaje": "6.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "8",
-      "unidades": "139",
-      "ordenes": "7"
+      "tareas": "12",
+      "unidades": "146",
+      "ordenes": "11"
     }
   ],
   "ocupacion": [
@@ -358,9 +358,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "470",
-      "disponibles": "222",
-      "porcentaje": "67.9 %"
+      "ocupadas": "469",
+      "disponibles": "223",
+      "porcentaje": "67.8 %"
     }
   ]
 }

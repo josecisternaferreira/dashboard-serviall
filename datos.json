@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 13:01",
+  "timestamp": "25/05/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "46",
+      "valor": "57",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "25-05",
-      "valor": 46.0
+      "valor": 57.0
     }
   ],
   "cumplimiento": [
@@ -138,7 +138,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2383.0
+      "valor": 2394.0
     }
   ],
   "promedio_ruta": [
@@ -160,7 +160,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 113.0
+      "valor": 114.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -168,7 +168,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 68.0
+      "valor": 69.0
     },
     {
       "label": "REPOSICION",
@@ -210,7 +210,7 @@
     },
     {
       "label": "MAY",
-      "valor": 995.0
+      "valor": 1009.0
     }
   ],
   "fillrate_mensual": [
@@ -238,8 +238,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2293",
-      "porcentaje": "24.5 %"
+      "total": "2301",
+      "porcentaje": "24.6 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -266,9 +266,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "44",
-      "unidades": "1280",
+      "tareas": "52",
+      "unidades": "1455",
       "ordenes": "30"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "4",
+      "unidades": "56",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -365,9 +372,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "474",
-      "disponibles": "218",
-      "porcentaje": "68.5 %"
+      "ocupadas": "472",
+      "disponibles": "220",
+      "porcentaje": "68.2 %"
     }
   ]
 }

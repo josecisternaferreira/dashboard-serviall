@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 17:01",
+  "timestamp": "25/05/2026 17:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "143",
+      "valor": "151",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "25-05",
-      "valor": 143.0
+      "valor": 151.0
     }
   ],
   "cumplimiento": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1541.0
+      "valor": 1549.0
     }
   ],
   "promedio_ruta": [
@@ -139,12 +139,12 @@
       "valor": 961.0
     },
     {
-      "label": "SUCURSAL.FINNING",
+      "label": "DESPACHO-CLIENTE",
       "valor": 281.0
     },
     {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 279.0
+      "label": "SUCURSAL.FINNING",
+      "valor": 281.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -190,7 +190,7 @@
     },
     {
       "label": "MAY",
-      "valor": 505.0
+      "valor": 507.0
     }
   ],
   "fillrate_mensual": [
@@ -218,18 +218,18 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1768",
+      "total": "1772",
       "porcentaje": "27.1 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1115",
-      "porcentaje": "17.1 %"
+      "porcentaje": "17.0 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "768",
-      "porcentaje": "11.8 %"
+      "porcentaje": "11.7 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -253,9 +253,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "27",
-      "unidades": "3401",
-      "ordenes": "4"
+      "tareas": "31",
+      "unidades": "3481",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -267,9 +267,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "16",
-      "unidades": "297",
-      "ordenes": "7"
+      "tareas": "20",
+      "unidades": "616",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

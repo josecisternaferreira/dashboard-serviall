@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 09:01",
+  "timestamp": "25/05/2026 09:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.0 %",
+      "valor": "95.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -91,6 +91,10 @@
     {
       "label": "21-05",
       "valor": 65.0
+    },
+    {
+      "label": "25-05",
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -112,7 +116,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.0
+      "valor": 95.1
     }
   ],
   "picking_mensual": [
@@ -134,7 +138,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2336.0
+      "valor": 2342.0
     }
   ],
   "promedio_ruta": [
@@ -160,7 +164,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 108.0
+      "valor": 109.0
     },
     {
       "label": "ENEA-FINNING",
@@ -206,7 +210,7 @@
     },
     {
       "label": "MAY",
-      "valor": 949.0
+      "valor": 952.0
     }
   ],
   "fillrate_mensual": [
@@ -234,7 +238,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2249",
+      "total": "2255",
       "porcentaje": "24.2 %"
     },
     {
@@ -260,11 +264,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "6",
+      "unidades": "40",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -300,9 +304,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "332",
-      "ocupadas": "84",
-      "disponibles": "248",
-      "porcentaje": "25.3 %"
+      "ocupadas": "83",
+      "disponibles": "249",
+      "porcentaje": "25.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -318,8 +322,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1246",
-      "disponibles": "235",
+      "ocupadas": "1245",
+      "disponibles": "236",
       "porcentaje": "84.1 %"
     },
     {
@@ -354,9 +358,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "473",
-      "disponibles": "219",
-      "porcentaje": "68.4 %"
+      "ocupadas": "474",
+      "disponibles": "218",
+      "porcentaje": "68.5 %"
     }
   ]
 }

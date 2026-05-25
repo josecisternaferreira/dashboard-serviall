@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 13:32",
+  "timestamp": "25/05/2026 14:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "93",
+      "valor": "104",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "25-05",
-      "valor": 93.0
+      "valor": 104.0
     }
   ],
   "cumplimiento": [
@@ -130,13 +130,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1491.0
+      "valor": 1502.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 955.0
+      "valor": 958.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -224,7 +224,7 @@
     {
       "operador": "YEIMY RINCON",
       "total": "1087",
-      "porcentaje": "16.8 %"
+      "porcentaje": "16.7 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -239,7 +239,7 @@
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "633",
-      "porcentaje": "9.8 %"
+      "porcentaje": "9.7 %"
     }
   ],
   "semana_actual": [
@@ -273,17 +273,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "13",
+      "unidades": "4360",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
       "tareas": "7",
       "unidades": "1300",
       "ordenes": "5"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "KHENAO",
-      "tareas": "2",
-      "unidades": "11",
-      "ordenes": "1"
     }
   ],
   "ocupacion": [

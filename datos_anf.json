@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/05/2026 14:02",
+  "timestamp": "25/05/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "104",
+      "valor": "109",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "25-05",
-      "valor": 104.0
+      "valor": 109.0
     }
   ],
   "cumplimiento": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1502.0
+      "valor": 1507.0
     }
   ],
   "promedio_ruta": [
@@ -259,6 +259,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "18",
+      "unidades": "4372",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
       "tareas": "16",
       "unidades": "2487",
@@ -270,13 +277,6 @@
       "tareas": "14",
       "unidades": "282",
       "ordenes": "5"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "KHENAO",
-      "tareas": "13",
-      "unidades": "4360",
-      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -337,9 +337,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "207",
-      "disponibles": "283",
-      "porcentaje": "42.2 %"
+      "ocupadas": "206",
+      "disponibles": "284",
+      "porcentaje": "42.0 %"
     }
   ]
 }

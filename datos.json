@@ -1,9 +1,9 @@
 {
-  "timestamp": "26/05/2026 17:01",
+  "timestamp": "26/05/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "35",
+      "valor": "42",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -214,7 +214,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1089.0
+      "valor": 1095.0
     }
   ],
   "fillrate_mensual": [
@@ -361,9 +361,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1247",
-      "disponibles": "234",
-      "porcentaje": "84.2 %"
+      "ocupadas": "1250",
+      "disponibles": "231",
+      "porcentaje": "84.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -397,9 +397,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "450",
-      "disponibles": "242",
-      "porcentaje": "65.0 %"
+      "ocupadas": "454",
+      "disponibles": "238",
+      "porcentaje": "65.6 %"
     }
   ]
 }

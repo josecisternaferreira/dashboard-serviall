@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/05/2026 09:31",
+  "timestamp": "26/05/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "8",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "26-05",
-      "valor": 8.0
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -134,13 +134,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1557.0
+      "valor": 1562.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 962.0
+      "valor": 963.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -194,7 +194,7 @@
     },
     {
       "label": "MAY",
-      "valor": 510.0
+      "valor": 512.0
     }
   ],
   "fillrate_mensual": [
@@ -222,7 +222,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1776",
+      "total": "1779",
       "porcentaje": "27.1 %"
     },
     {
@@ -232,7 +232,7 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "770",
+      "total": "772",
       "porcentaje": "11.8 %"
     },
     {
@@ -257,9 +257,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "35",
-      "unidades": "3948",
-      "ordenes": "8"
+      "tareas": "38",
+      "unidades": "4251",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -285,8 +285,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "9",
-      "unidades": "1612",
+      "tareas": "11",
+      "unidades": "1708",
       "ordenes": "6"
     }
   ],

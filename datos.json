@@ -1,14 +1,14 @@
 {
-  "timestamp": "26/05/2026 09:31",
+  "timestamp": "26/05/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "36",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "26-05",
-      "valor": 10.0
+      "valor": 36.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +142,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2433.0
+      "valor": 2459.0
     }
   ],
   "promedio_ruta": [
@@ -160,11 +160,11 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 315.0
+      "valor": 319.0
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 114.0
+      "valor": 115.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -214,7 +214,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1037.0
+      "valor": 1040.0
     }
   ],
   "fillrate_mensual": [
@@ -242,17 +242,17 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2318",
-      "porcentaje": "24.6 %"
+      "total": "2331",
+      "porcentaje": "24.7 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2107",
-      "porcentaje": "22.4 %"
+      "total": "2119",
+      "porcentaje": "22.5 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1479",
+      "total": "1481",
       "porcentaje": "15.7 %"
     },
     {
@@ -270,9 +270,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "69",
-      "unidades": "4574",
-      "ordenes": "38"
+      "tareas": "82",
+      "unidades": "5018",
+      "ordenes": "42"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "21",
+      "unidades": "926",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -280,13 +287,6 @@
       "tareas": "11",
       "unidades": "165",
       "ordenes": "9"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "FESTUPIÑAN",
-      "tareas": "9",
-      "unidades": "869",
-      "ordenes": "3"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -301,6 +301,13 @@
       "tareas": "2",
       "unidades": "60",
       "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "2",
+      "unidades": "35",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

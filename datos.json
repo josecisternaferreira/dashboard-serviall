@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/05/2026 13:31",
+  "timestamp": "26/05/2026 14:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "167",
+      "valor": "187",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "26-05",
-      "valor": 167.0
+      "valor": 187.0
     }
   ],
   "cumplimiento": [
@@ -142,13 +142,13 @@
     },
     {
       "label": "MAY",
-      "valor": 2590.0
+      "valor": 2610.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1495.0
+      "valor": 1499.0
     },
     {
       "label": "SITRANS",
@@ -214,7 +214,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1063.0
+      "valor": 1071.0
     }
   ],
   "fillrate_mensual": [
@@ -243,16 +243,16 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2350",
-      "porcentaje": "24.6 %"
+      "porcentaje": "24.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2181",
-      "porcentaje": "22.8 %"
+      "total": "2192",
+      "porcentaje": "22.9 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1528",
+      "total": "1537",
       "porcentaje": "16.0 %"
     },
     {
@@ -277,16 +277,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "83",
-      "unidades": "2909",
-      "ordenes": "34"
+      "tareas": "94",
+      "unidades": "2989",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "49",
-      "unidades": "3912",
-      "ordenes": "19"
+      "tareas": "58",
+      "unidades": "4187",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -397,9 +397,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "446",
-      "disponibles": "246",
-      "porcentaje": "64.5 %"
+      "ocupadas": "448",
+      "disponibles": "244",
+      "porcentaje": "64.7 %"
     }
   ]
 }

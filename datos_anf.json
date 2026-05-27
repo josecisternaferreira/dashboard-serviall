@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/05/2026 12:01",
+  "timestamp": "27/05/2026 12:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "40",
+      "valor": "44",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "27-05",
-      "valor": 40.0
+      "valor": 44.0
     }
   ],
   "cumplimiento": [
@@ -138,7 +138,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1643.0
+      "valor": 1647.0
     }
   ],
   "promedio_ruta": [
@@ -159,12 +159,12 @@
       "valor": 190.0
     },
     {
-      "label": "SITRANS",
+      "label": "ESTAFETA",
       "valor": 86.0
     },
     {
-      "label": "ESTAFETA",
-      "valor": 85.0
+      "label": "SITRANS",
+      "valor": 86.0
     },
     {
       "label": "SQM_MRP",
@@ -198,7 +198,7 @@
     },
     {
       "label": "MAY",
-      "valor": 560.0
+      "valor": 561.0
     }
   ],
   "fillrate_mensual": [
@@ -236,8 +236,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "718",
-      "porcentaje": "11.3 %"
+      "total": "721",
+      "porcentaje": "11.4 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -282,15 +282,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
-      "tareas": "25",
-      "unidades": "5125",
-      "ordenes": "8"
+      "tareas": "26",
+      "unidades": "5185",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "22",
-      "unidades": "5008",
+      "tareas": "25",
+      "unidades": "5158",
       "ordenes": "11"
     },
     {
@@ -352,9 +352,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "207",
-      "disponibles": "283",
-      "porcentaje": "42.2 %"
+      "ocupadas": "208",
+      "disponibles": "282",
+      "porcentaje": "42.4 %"
     }
   ]
 }

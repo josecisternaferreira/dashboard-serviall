@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/05/2026 11:01",
+  "timestamp": "27/05/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "11",
+      "valor": "14",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "27-05",
-      "valor": 11.0
+      "valor": 14.0
     }
   ],
   "cumplimiento": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2662.0
+      "valor": 2665.0
     }
   ],
   "promedio_ruta": [
@@ -218,7 +218,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1129.0
+      "valor": 1133.0
     }
   ],
   "fillrate_mensual": [
@@ -256,7 +256,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1503",
+      "total": "1506",
       "porcentaje": "16.1 %"
     },
     {
@@ -288,9 +288,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "81",
-      "unidades": "4957",
-      "ordenes": "30"
+      "tareas": "84",
+      "unidades": "5029",
+      "ordenes": "31"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -365,9 +365,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1250",
-      "disponibles": "231",
-      "porcentaje": "84.4 %"
+      "ocupadas": "1251",
+      "disponibles": "230",
+      "porcentaje": "84.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "456",
-      "disponibles": "236",
-      "porcentaje": "65.9 %"
+      "ocupadas": "455",
+      "disponibles": "237",
+      "porcentaje": "65.8 %"
     }
   ]
 }

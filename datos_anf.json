@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/05/2026 13:02",
+  "timestamp": "27/05/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "50",
+      "valor": "55",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.8 %",
+      "valor": "94.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "27-05",
-      "valor": 50.0
+      "valor": 55.0
     }
   ],
   "cumplimiento": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "MAY",
-      "valor": 94.8
+      "valor": 94.9
     }
   ],
   "picking_mensual": [
@@ -138,7 +138,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1653.0
+      "valor": 1658.0
     }
   ],
   "promedio_ruta": [
@@ -160,7 +160,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 87.0
+      "valor": 88.0
     },
     {
       "label": "SITRANS",
@@ -198,7 +198,7 @@
     },
     {
       "label": "MAY",
-      "valor": 563.0
+      "valor": 566.0
     }
   ],
   "fillrate_mensual": [
@@ -236,8 +236,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "727",
-      "porcentaje": "11.4 %"
+      "total": "732",
+      "porcentaje": "11.5 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -275,8 +275,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "31",
-      "unidades": "5778",
+      "tareas": "36",
+      "unidades": "6513",
       "ordenes": "11"
     },
     {
@@ -316,9 +316,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1113",
-      "disponibles": "797",
-      "porcentaje": "58.3 %"
+      "ocupadas": "1112",
+      "disponibles": "798",
+      "porcentaje": "58.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

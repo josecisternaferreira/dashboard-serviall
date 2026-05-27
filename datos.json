@@ -1,14 +1,14 @@
 {
-  "timestamp": "27/05/2026 12:31",
+  "timestamp": "27/05/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "16",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "25",
+      "valor": "29",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "27-05",
-      "valor": 25.0
+      "valor": 29.0
     }
   ],
   "cumplimiento": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2676.0
+      "valor": 2680.0
     }
   ],
   "promedio_ruta": [
@@ -172,7 +172,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 109.0
+      "valor": 110.0
     },
     {
       "label": "ENEA-FINNING",
@@ -218,7 +218,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1139.0
+      "valor": 1143.0
     }
   ],
   "fillrate_mensual": [
@@ -252,11 +252,11 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1980",
-      "porcentaje": "21.2 %"
+      "porcentaje": "21.1 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1515",
+      "total": "1519",
       "porcentaje": "16.2 %"
     },
     {
@@ -288,9 +288,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "93",
-      "unidades": "5070",
-      "ordenes": "36"
+      "tareas": "97",
+      "unidades": "5282",
+      "ordenes": "38"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "454",
-      "disponibles": "238",
-      "porcentaje": "65.6 %"
+      "ocupadas": "455",
+      "disponibles": "237",
+      "porcentaje": "65.8 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/05/2026 10:31",
+  "timestamp": "27/05/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.6 %",
+      "valor": "95.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.6
+      "valor": 95.7
     }
   ],
   "picking_mensual": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2660.0
+      "valor": 2662.0
     }
   ],
   "promedio_ruta": [
@@ -184,7 +184,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 34.0
+      "valor": 35.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -218,7 +218,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1122.0
+      "valor": 1129.0
     }
   ],
   "fillrate_mensual": [
@@ -356,18 +356,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "13",
-      "disponibles": "21",
-      "porcentaje": "38.2 %"
+      "ocupadas": "14",
+      "disponibles": "20",
+      "porcentaje": "41.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1252",
-      "disponibles": "229",
-      "porcentaje": "84.5 %"
+      "ocupadas": "1250",
+      "disponibles": "231",
+      "porcentaje": "84.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "454",
-      "disponibles": "238",
-      "porcentaje": "65.6 %"
+      "ocupadas": "456",
+      "disponibles": "236",
+      "porcentaje": "65.9 %"
     }
   ]
 }

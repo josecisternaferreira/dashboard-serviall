@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/05/2026 16:02",
+  "timestamp": "27/05/2026 16:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "74",
+      "valor": "83",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "27-05",
-      "valor": 74.0
+      "valor": 83.0
     }
   ],
   "cumplimiento": [
@@ -138,17 +138,17 @@
     },
     {
       "label": "MAY",
-      "valor": 1677.0
+      "valor": 1686.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 966.0
+      "valor": 967.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 286.0
+      "valor": 287.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -160,7 +160,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 88.0
+      "valor": 89.0
     },
     {
       "label": "SITRANS",
@@ -198,7 +198,7 @@
     },
     {
       "label": "MAY",
-      "valor": 567.0
+      "valor": 570.0
     }
   ],
   "fillrate_mensual": [
@@ -226,13 +226,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1801",
-      "porcentaje": "28.2 %"
+      "total": "1807",
+      "porcentaje": "28.3 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1000",
-      "porcentaje": "15.7 %"
+      "porcentaje": "15.6 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -253,17 +253,17 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "66",
+      "unidades": "7081",
+      "ordenes": "21"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "63",
       "unidades": "2671",
       "ordenes": "15"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "60",
-      "unidades": "7052",
-      "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -282,9 +282,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "34",
-      "unidades": "3166",
-      "ordenes": "22"
+      "tareas": "37",
+      "unidades": "3241",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -352,9 +352,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "213",
-      "disponibles": "277",
-      "porcentaje": "43.5 %"
+      "ocupadas": "214",
+      "disponibles": "276",
+      "porcentaje": "43.7 %"
     }
   ]
 }

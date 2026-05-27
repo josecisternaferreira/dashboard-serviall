@@ -1,14 +1,14 @@
 {
-  "timestamp": "27/05/2026 12:01",
+  "timestamp": "27/05/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "7",
+      "valor": "16",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "24",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "27-05",
-      "valor": 24.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2675.0
+      "valor": 2676.0
     }
   ],
   "promedio_ruta": [
@@ -218,7 +218,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1138.0
+      "valor": 1139.0
     }
   ],
   "fillrate_mensual": [
@@ -256,7 +256,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1514",
+      "total": "1515",
       "porcentaje": "16.2 %"
     },
     {
@@ -288,9 +288,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "92",
-      "unidades": "5069",
-      "ordenes": "35"
+      "tareas": "93",
+      "unidades": "5070",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -347,18 +347,18 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "332",
-      "ocupadas": "83",
-      "disponibles": "249",
-      "porcentaje": "25.0 %"
+      "ocupadas": "82",
+      "disponibles": "250",
+      "porcentaje": "24.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "14",
-      "disponibles": "20",
-      "porcentaje": "41.2 %"
+      "ocupadas": "13",
+      "disponibles": "21",
+      "porcentaje": "38.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -392,18 +392,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "156",
-      "disponibles": "143",
-      "porcentaje": "52.2 %"
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "455",
-      "disponibles": "237",
-      "porcentaje": "65.8 %"
+      "ocupadas": "454",
+      "disponibles": "238",
+      "porcentaje": "65.6 %"
     }
   ]
 }

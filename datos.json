@@ -1,14 +1,14 @@
 {
-  "timestamp": "27/05/2026 13:31",
+  "timestamp": "27/05/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "17",
+      "valor": "19",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "37",
+      "valor": "44",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "27-05",
-      "valor": 37.0
+      "valor": 44.0
     }
   ],
   "cumplimiento": [
@@ -146,21 +146,21 @@
     },
     {
       "label": "MAY",
-      "valor": 2688.0
+      "valor": 2695.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1507.0
+      "valor": 1508.0
+    },
+    {
+      "label": "AGUNSA",
+      "valor": 396.0
     },
     {
       "label": "SITRANS",
       "valor": 396.0
-    },
-    {
-      "label": "AGUNSA",
-      "valor": 395.0
     },
     {
       "label": "ESTAFETA",
@@ -218,7 +218,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1145.0
+      "valor": 1147.0
     }
   ],
   "fillrate_mensual": [
@@ -256,7 +256,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1528",
+      "total": "1532",
       "porcentaje": "16.3 %"
     },
     {
@@ -281,9 +281,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "106",
-      "unidades": "5434",
-      "ordenes": "45"
+      "tareas": "110",
+      "unidades": "5499",
+      "ordenes": "48"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -302,9 +302,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "7",
-      "unidades": "36",
-      "ordenes": "5"
+      "tareas": "9",
+      "unidades": "56",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "453",
-      "disponibles": "239",
-      "porcentaje": "65.5 %"
+      "ocupadas": "454",
+      "disponibles": "238",
+      "porcentaje": "65.6 %"
     }
   ]
 }

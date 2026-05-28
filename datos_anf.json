@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/05/2026 09:02",
+  "timestamp": "28/05/2026 09:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "15",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -95,6 +95,10 @@
     {
       "label": "27-05",
       "valor": 83.0
+    },
+    {
+      "label": "28-05",
+      "valor": 15.0
     }
   ],
   "cumplimiento": [
@@ -138,13 +142,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1686.0
+      "valor": 1701.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 967.0
+      "valor": 968.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -160,7 +164,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 89.0
+      "valor": 90.0
     },
     {
       "label": "SITRANS",
@@ -226,12 +230,12 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1807",
+      "total": "1815",
       "porcentaje": "28.3 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "1000",
+      "total": "1002",
       "porcentaje": "15.6 %"
     },
     {
@@ -254,16 +258,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "66",
-      "unidades": "7081",
-      "ordenes": "21"
+      "tareas": "74",
+      "unidades": "10067",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "63",
-      "unidades": "2671",
-      "ordenes": "15"
+      "tareas": "65",
+      "unidades": "2811",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -282,9 +286,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "37",
-      "unidades": "3241",
-      "ordenes": "23"
+      "tareas": "42",
+      "unidades": "3373",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -352,9 +356,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "213",
-      "disponibles": "277",
-      "porcentaje": "43.5 %"
+      "ocupadas": "217",
+      "disponibles": "273",
+      "porcentaje": "44.3 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/05/2026 09:32",
+  "timestamp": "28/05/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "17",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "28-05",
-      "valor": 15.0
+      "valor": 17.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +142,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1701.0
+      "valor": 1703.0
     }
   ],
   "promedio_ruta": [
@@ -235,13 +235,13 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "1002",
-      "porcentaje": "15.6 %"
+      "total": "1003",
+      "porcentaje": "15.7 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "740",
-      "porcentaje": "11.6 %"
+      "porcentaje": "11.5 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -265,8 +265,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "65",
-      "unidades": "2811",
+      "tareas": "66",
+      "unidades": "3586",
       "ordenes": "16"
     },
     {
@@ -286,9 +286,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "42",
-      "unidades": "3373",
-      "ordenes": "26"
+      "tareas": "43",
+      "unidades": "3385",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -356,9 +356,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "217",
-      "disponibles": "273",
-      "porcentaje": "44.3 %"
+      "ocupadas": "214",
+      "disponibles": "276",
+      "porcentaje": "43.7 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/05/2026 13:32",
+  "timestamp": "28/05/2026 14:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "104",
+      "valor": "108",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.1 %",
+      "valor": "95.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "28-05",
-      "valor": 104.0
+      "valor": 108.0
     }
   ],
   "cumplimiento": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.1
+      "valor": 95.2
     }
   ],
   "picking_mensual": [
@@ -142,13 +142,13 @@
     },
     {
       "label": "MAY",
-      "valor": 1807.0
+      "valor": 1815.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 977.0
+      "valor": 978.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -180,7 +180,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 19.0
+      "valor": 20.0
     }
   ],
   "despachos_mes": [
@@ -202,7 +202,7 @@
     },
     {
       "label": "MAY",
-      "valor": 594.0
+      "valor": 598.0
     }
   ],
   "fillrate_mensual": [
@@ -264,17 +264,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "80",
+      "unidades": "6045",
+      "ordenes": "34"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
       "tareas": "80",
       "unidades": "11741",
       "ordenes": "28"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "76",
-      "unidades": "5185",
-      "ordenes": "34"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

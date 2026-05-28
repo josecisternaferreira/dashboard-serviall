@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/05/2026 13:01",
+  "timestamp": "28/05/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "102",
+      "valor": "108",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "28-05",
-      "valor": 102.0
+      "valor": 108.0
     }
   ],
   "cumplimiento": [
@@ -150,7 +150,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2836.0
+      "valor": 2842.0
     }
   ],
   "promedio_ruta": [
@@ -160,7 +160,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 397.0
+      "valor": 398.0
     },
     {
       "label": "AGUNSA",
@@ -176,7 +176,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 110.0
+      "valor": 111.0
     },
     {
       "label": "ENEA-FINNING",
@@ -255,18 +255,18 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2037",
+      "total": "2040",
       "porcentaje": "21.4 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1614",
+      "total": "1617",
       "porcentaje": "17.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1071",
-      "porcentaje": "11.3 %"
+      "porcentaje": "11.2 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -278,16 +278,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "192",
-      "unidades": "11616",
-      "ordenes": "65"
+      "tareas": "195",
+      "unidades": "11764",
+      "ordenes": "68"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "168",
-      "unidades": "7463",
-      "ordenes": "67"
+      "tareas": "171",
+      "unidades": "7935",
+      "ordenes": "69"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -412,9 +412,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "462",
-      "disponibles": "230",
-      "porcentaje": "66.8 %"
+      "ocupadas": "460",
+      "disponibles": "232",
+      "porcentaje": "66.5 %"
     }
   ]
 }

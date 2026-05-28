@@ -1,9 +1,9 @@
 {
-  "timestamp": "28/05/2026 17:31",
+  "timestamp": "28/05/2026 18:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "23",
+      "valor": "28",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -247,7 +247,174 @@
       "valor": 99.9
     }
   ],
-  "top5_operadores": [],
-  "semana_actual": [],
-  "ocupacion": []
+  "top5_operadores": [
+    {
+      "operador": "DIEGO GANDO",
+      "total": "2351",
+      "porcentaje": "24.6 %"
+    },
+    {
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "2046",
+      "porcentaje": "21.4 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1622",
+      "porcentaje": "17.0 %"
+    },
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1071",
+      "porcentaje": "11.2 %"
+    },
+    {
+      "operador": "LEONARDO SAEZ",
+      "total": "574",
+      "porcentaje": "6.0 %"
+    }
+  ],
+  "semana_actual": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "200",
+      "unidades": "11856",
+      "ordenes": "71"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "177",
+      "unidades": "8017",
+      "ordenes": "74"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "102",
+      "unidades": "6171",
+      "ordenes": "53"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "26",
+      "unidades": "869",
+      "ordenes": "21"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "9",
+      "unidades": "56",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "CFUENTES",
+      "tareas": "2",
+      "unidades": "60",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LSAEZ",
+      "tareas": "1",
+      "unidades": "1000",
+      "ordenes": "1"
+    }
+  ],
+  "ocupacion": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "PATIO",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CANTI",
+      "tipo": "ACTIVO",
+      "total": "18",
+      "ocupadas": "14",
+      "disponibles": "4",
+      "porcentaje": "77.8 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "ACTIVO",
+      "total": "332",
+      "ocupadas": "83",
+      "disponibles": "249",
+      "porcentaje": "25.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "RESERVA",
+      "total": "34",
+      "ocupadas": "14",
+      "disponibles": "20",
+      "porcentaje": "41.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "ACTIVO",
+      "total": "1481",
+      "ocupadas": "1241",
+      "disponibles": "240",
+      "porcentaje": "83.8 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "41",
+      "ocupadas": "37",
+      "disponibles": "4",
+      "porcentaje": "90.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "299",
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "692",
+      "ocupadas": "459",
+      "disponibles": "233",
+      "porcentaje": "66.3 %"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/05/2026 16:32",
+  "timestamp": "28/05/2026 17:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "130",
+      "valor": "137",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.2 %",
+      "valor": "95.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "28-05",
-      "valor": 130.0
+      "valor": 137.0
     }
   ],
   "cumplimiento": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.2
+      "valor": 95.3
     }
   ],
   "picking_mensual": [
@@ -142,7 +142,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1839.0
+      "valor": 1846.0
     }
   ],
   "promedio_ruta": [
@@ -151,16 +151,16 @@
       "valor": 978.0
     },
     {
+      "label": "DESPACHO-CLIENTE",
+      "valor": 292.0
+    },
+    {
       "label": "SUCURSAL.FINNING",
       "valor": 292.0
     },
     {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 291.0
-    },
-    {
       "label": "CLIENTE RETIRA",
-      "valor": 190.0
+      "valor": 191.0
     },
     {
       "label": "ESTAFETA",
@@ -202,7 +202,7 @@
     },
     {
       "label": "MAY",
-      "valor": 603.0
+      "valor": 615.0
     }
   ],
   "fillrate_mensual": [
@@ -231,12 +231,12 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1831",
-      "porcentaje": "28.1 %"
+      "porcentaje": "28.0 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1028",
-      "porcentaje": "15.8 %"
+      "porcentaje": "15.7 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -279,9 +279,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "64",
-      "unidades": "1903",
-      "ordenes": "36"
+      "tareas": "71",
+      "unidades": "2146",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -363,9 +363,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "224",
-      "disponibles": "266",
-      "porcentaje": "45.7 %"
+      "ocupadas": "225",
+      "disponibles": "265",
+      "porcentaje": "45.9 %"
     }
   ]
 }

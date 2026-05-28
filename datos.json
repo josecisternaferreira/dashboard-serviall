@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/05/2026 12:31",
+  "timestamp": "28/05/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "90",
+      "valor": "102",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "28-05",
-      "valor": 90.0
+      "valor": 102.0
     }
   ],
   "cumplimiento": [
@@ -150,20 +150,20 @@
     },
     {
       "label": "MAY",
-      "valor": 2824.0
+      "valor": 2836.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1531.0
-    },
-    {
-      "label": "AGUNSA",
-      "valor": 396.0
+      "valor": 1533.0
     },
     {
       "label": "SITRANS",
+      "valor": 397.0
+    },
+    {
+      "label": "AGUNSA",
       "valor": 396.0
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 3.0
+      "valor": 2.0
     },
     {
       "label": "VARMONTT",
@@ -222,7 +222,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1184.0
+      "valor": 1187.0
     }
   ],
   "fillrate_mensual": [
@@ -255,13 +255,13 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2028",
-      "porcentaje": "21.3 %"
+      "total": "2037",
+      "porcentaje": "21.4 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1611",
-      "porcentaje": "16.9 %"
+      "total": "1614",
+      "porcentaje": "17.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -278,16 +278,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "189",
-      "unidades": "10208",
-      "ordenes": "63"
+      "tareas": "192",
+      "unidades": "11616",
+      "ordenes": "65"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "159",
-      "unidades": "7160",
-      "ordenes": "62"
+      "tareas": "168",
+      "unidades": "7463",
+      "ordenes": "67"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -376,9 +376,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1241",
-      "disponibles": "240",
-      "porcentaje": "83.8 %"
+      "ocupadas": "1240",
+      "disponibles": "241",
+      "porcentaje": "83.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/05/2026 11:32",
+  "timestamp": "29/05/2026 12:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "20",
+      "valor": "29",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.2 %",
+      "valor": "95.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "29-05",
-      "valor": 20.0
+      "valor": 29.0
     }
   ],
   "cumplimiento": [
@@ -124,7 +124,7 @@
     },
     {
       "label": "MAY",
-      "valor": 95.2
+      "valor": 95.3
     }
   ],
   "picking_mensual": [
@@ -146,17 +146,17 @@
     },
     {
       "label": "MAY",
-      "valor": 1866.0
+      "valor": 1875.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 978.0
+      "valor": 980.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 294.0
+      "valor": 295.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -206,7 +206,7 @@
     },
     {
       "label": "MAY",
-      "valor": 631.0
+      "valor": 636.0
     }
   ],
   "fillrate_mensual": [
@@ -234,7 +234,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1838",
+      "total": "1843",
       "porcentaje": "28.1 %"
     },
     {
@@ -262,9 +262,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "97",
-      "unidades": "12223",
-      "ordenes": "35"
+      "tareas": "102",
+      "unidades": "12369",
+      "ordenes": "36"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "92",
+      "unidades": "6396",
+      "ordenes": "41"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -272,13 +279,6 @@
       "tareas": "91",
       "unidades": "5736",
       "ordenes": "19"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "87",
-      "unidades": "6352",
-      "ordenes": "37"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

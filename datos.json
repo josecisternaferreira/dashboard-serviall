@@ -1,14 +1,14 @@
 {
-  "timestamp": "29/05/2026 10:01",
+  "timestamp": "29/05/2026 10:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "47",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "29-05",
-      "valor": 17.0
+      "valor": 47.0
     }
   ],
   "cumplimiento": [
@@ -154,7 +154,7 @@
     },
     {
       "label": "MAY",
-      "valor": 2873.0
+      "valor": 2903.0
     }
   ],
   "promedio_ruta": [
@@ -164,11 +164,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 400.0
+      "valor": 404.0
     },
     {
       "label": "AGUNSA",
-      "valor": 398.0
+      "valor": 400.0
     },
     {
       "label": "ESTAFETA",
@@ -226,7 +226,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1225.0
+      "valor": 1231.0
     }
   ],
   "fillrate_mensual": [
@@ -255,17 +255,17 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2351",
-      "porcentaje": "24.6 %"
+      "porcentaje": "24.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2057",
-      "porcentaje": "21.5 %"
+      "total": "2067",
+      "porcentaje": "21.6 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1628",
-      "porcentaje": "17.0 %"
+      "total": "1638",
+      "porcentaje": "17.1 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -282,16 +282,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "206",
-      "unidades": "12229",
-      "ordenes": "77"
+      "tareas": "216",
+      "unidades": "12951",
+      "ordenes": "86"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "188",
-      "unidades": "8189",
-      "ordenes": "83"
+      "tareas": "198",
+      "unidades": "8784",
+      "ordenes": "93"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -303,9 +303,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "26",
-      "unidades": "869",
-      "ordenes": "21"
+      "tareas": "36",
+      "unidades": "901",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -416,9 +416,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "449",
-      "disponibles": "243",
-      "porcentaje": "64.9 %"
+      "ocupadas": "450",
+      "disponibles": "242",
+      "porcentaje": "65.0 %"
     }
   ]
 }

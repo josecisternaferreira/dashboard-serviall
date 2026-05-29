@@ -1,14 +1,14 @@
 {
-  "timestamp": "29/05/2026 12:31",
+  "timestamp": "29/05/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "9",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "101",
+      "valor": "105",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "29-05",
-      "valor": 101.0
+      "valor": 105.0
     }
   ],
   "cumplimiento": [
@@ -154,13 +154,13 @@
     },
     {
       "label": "MAY",
-      "valor": 2957.0
+      "valor": 2961.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1536.0
+      "valor": 1537.0
     },
     {
       "label": "SITRANS",
@@ -226,7 +226,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1243.0
+      "valor": 1251.0
     }
   ],
   "fillrate_mensual": [
@@ -259,7 +259,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2090",
+      "total": "2094",
       "porcentaje": "21.7 %"
     },
     {
@@ -289,9 +289,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "221",
-      "unidades": "9216",
-      "ordenes": "109"
+      "tareas": "225",
+      "unidades": "9246",
+      "ordenes": "111"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -362,9 +362,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "332",
-      "ocupadas": "85",
-      "disponibles": "247",
-      "porcentaje": "25.6 %"
+      "ocupadas": "86",
+      "disponibles": "246",
+      "porcentaje": "25.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -380,8 +380,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1240",
-      "disponibles": "241",
+      "ocupadas": "1239",
+      "disponibles": "242",
       "porcentaje": "83.7 %"
     },
     {

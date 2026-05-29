@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/05/2026 12:31",
+  "timestamp": "29/05/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "38",
+      "valor": "41",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "29-05",
-      "valor": 38.0
+      "valor": 41.0
     }
   ],
   "cumplimiento": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "MAY",
-      "valor": 1884.0
+      "valor": 1887.0
     }
   ],
   "promedio_ruta": [
@@ -172,7 +172,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 87.0
+      "valor": 88.0
     },
     {
       "label": "SQM_MRP",
@@ -234,13 +234,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1848",
+      "total": "1849",
       "porcentaje": "28.1 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1028",
-      "porcentaje": "15.7 %"
+      "porcentaje": "15.6 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -262,9 +262,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "107",
-      "unidades": "12436",
-      "ordenes": "40"
+      "tareas": "108",
+      "unidades": "12446",
+      "ordenes": "41"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -311,9 +311,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "4",
-      "unidades": "8",
-      "ordenes": "2"
+      "tareas": "6",
+      "unidades": "24",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -338,8 +338,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1117",
-      "disponibles": "793",
+      "ocupadas": "1118",
+      "disponibles": "792",
       "porcentaje": "58.5 %"
     },
     {

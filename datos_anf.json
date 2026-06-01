@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 13:31",
+  "timestamp": "01/06/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "112",
+      "valor": "122",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 112.0
+      "valor": 122.0
     }
   ],
   "cumplimiento": [
@@ -82,13 +82,13 @@
     },
     {
       "label": "JUN",
-      "valor": 112.0
+      "valor": 122.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 828.0
+      "valor": 829.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -146,7 +146,7 @@
     },
     {
       "label": "JUN",
-      "valor": 17.0
+      "valor": 18.0
     }
   ],
   "fillrate_mensual": [
@@ -178,7 +178,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1897",
+      "total": "1901",
       "porcentaje": "28.8 %"
     },
     {
@@ -205,17 +205,17 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "44",
-      "unidades": "7023",
-      "ordenes": "13"
+      "usuario": "LCARRIZO",
+      "tareas": "49",
+      "unidades": "5648",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "43",
-      "unidades": "5311",
-      "ordenes": "8"
+      "usuario": "ZCARVAJAL",
+      "tareas": "48",
+      "unidades": "7043",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -276,9 +276,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "216",
-      "disponibles": "274",
-      "porcentaje": "44.1 %"
+      "ocupadas": "219",
+      "disponibles": "271",
+      "porcentaje": "44.7 %"
     }
   ]
 }

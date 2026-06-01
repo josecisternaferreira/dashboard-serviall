@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 10:31",
+  "timestamp": "01/06/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "27",
+      "valor": "29",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 27.0
+      "valor": 29.0
     }
   ],
   "cumplimiento": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "JUN",
-      "valor": 27.0
+      "valor": 29.0
     }
   ],
   "promedio_ruta": [
@@ -108,7 +108,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 111.0
+      "valor": 93.0
     },
     {
       "label": "ENEA-FINNING",
@@ -200,7 +200,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1609",
+      "total": "1611",
       "porcentaje": "17.0 %"
     },
     {
@@ -221,6 +221,13 @@
       "tareas": "27",
       "unidades": "434",
       "ordenes": "17"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "2",
+      "unidades": "3",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -274,9 +281,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1244",
-      "disponibles": "237",
-      "porcentaje": "84.0 %"
+      "ocupadas": "1243",
+      "disponibles": "238",
+      "porcentaje": "83.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",

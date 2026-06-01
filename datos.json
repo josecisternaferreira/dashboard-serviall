@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 11:01",
+  "timestamp": "01/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "29",
+      "valor": "36",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 29.0
+      "valor": 36.0
     }
   ],
   "cumplimiento": [
@@ -82,13 +82,13 @@
     },
     {
       "label": "JUN",
-      "valor": 29.0
+      "valor": 36.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1283.0
+      "valor": 1284.0
     },
     {
       "label": "SITRANS",
@@ -104,7 +104,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 116.0
+      "valor": 97.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 3.0
+      "valor": 6.0
     }
   ],
   "fillrate_mensual": [
@@ -195,12 +195,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1996",
+      "total": "1997",
       "porcentaje": "21.0 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1611",
+      "total": "1617",
       "porcentaje": "17.0 %"
     },
     {
@@ -218,16 +218,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "27",
-      "unidades": "434",
-      "ordenes": "17"
+      "tareas": "28",
+      "unidades": "435",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "2",
-      "unidades": "3",
-      "ordenes": "2"
+      "tareas": "8",
+      "unidades": "11",
+      "ordenes": "7"
     }
   ],
   "ocupacion": [
@@ -281,9 +281,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1243",
-      "disponibles": "238",
-      "porcentaje": "83.9 %"
+      "ocupadas": "1244",
+      "disponibles": "237",
+      "porcentaje": "84.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 15:01",
+  "timestamp": "01/06/2026 15:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "127",
+      "valor": "141",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 127.0
+      "valor": 141.0
     }
   ],
   "cumplimiento": [
@@ -82,13 +82,13 @@
     },
     {
       "label": "JUN",
-      "valor": 127.0
+      "valor": 141.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 830.0
+      "valor": 832.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -178,13 +178,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1902",
-      "porcentaje": "28.8 %"
+      "total": "1910",
+      "porcentaje": "28.9 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "1027",
-      "porcentaje": "15.6 %"
+      "porcentaje": "15.5 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -206,16 +206,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "53",
-      "unidades": "7452",
-      "ordenes": "11"
+      "tareas": "59",
+      "unidades": "7724",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "49",
-      "unidades": "7051",
-      "ordenes": "14"
+      "tareas": "57",
+      "unidades": "8311",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

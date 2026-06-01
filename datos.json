@@ -1,14 +1,14 @@
 {
-  "timestamp": "01/06/2026 15:01",
+  "timestamp": "01/06/2026 15:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "15",
+      "valor": "22",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "60",
+      "valor": "61",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 60.0
+      "valor": 61.0
     }
   ],
   "cumplimiento": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "JUN",
-      "valor": 60.0
+      "valor": 61.0
     }
   ],
   "promedio_ruta": [
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 34.0
+      "valor": 36.0
     }
   ],
   "fillrate_mensual": [
@@ -228,6 +228,13 @@
       "tareas": "8",
       "unidades": "11",
       "ordenes": "7"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "1",
+      "unidades": "2",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -317,9 +324,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "462",
-      "disponibles": "230",
-      "porcentaje": "66.8 %"
+      "ocupadas": "461",
+      "disponibles": "231",
+      "porcentaje": "66.6 %"
     }
   ]
 }

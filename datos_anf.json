@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 10:31",
+  "timestamp": "01/06/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "32",
+      "valor": "34",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 32.0
+      "valor": 34.0
     }
   ],
   "cumplimiento": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "JUN",
-      "valor": 32.0
+      "valor": 34.0
     }
   ],
   "promedio_ruta": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "JUN",
-      "valor": 6.0
+      "valor": 7.0
     }
   ],
   "fillrate_mensual": [
@@ -178,8 +178,8 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1871",
-      "porcentaje": "28.7 %"
+      "total": "1873",
+      "porcentaje": "28.8 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -206,8 +206,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "18",
-      "unidades": "437",
+      "tareas": "20",
+      "unidades": "707",
       "ordenes": "6"
     },
     {
@@ -269,9 +269,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "224",
-      "disponibles": "266",
-      "porcentaje": "45.7 %"
+      "ocupadas": "225",
+      "disponibles": "265",
+      "porcentaje": "45.9 %"
     }
   ]
 }

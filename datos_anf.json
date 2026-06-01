@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 11:01",
+  "timestamp": "01/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "34",
+      "valor": "41",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 34.0
+      "valor": 41.0
     }
   ],
   "cumplimiento": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "JUN",
-      "valor": 34.0
+      "valor": 41.0
     }
   ],
   "promedio_ruta": [
@@ -91,11 +91,11 @@
       "valor": 817.0
     },
     {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 248.0
+      "label": "SUCURSAL.FINNING",
+      "valor": 250.0
     },
     {
-      "label": "SUCURSAL.FINNING",
+      "label": "DESPACHO-CLIENTE",
       "valor": 248.0
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "label": "JUN",
-      "valor": 7.0
+      "valor": 10.0
     }
   ],
   "fillrate_mensual": [
@@ -178,7 +178,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1873",
+      "total": "1880",
       "porcentaje": "28.8 %"
     },
     {
@@ -194,21 +194,21 @@
     {
       "operador": "LUIS ARDILES",
       "total": "713",
-      "porcentaje": "11.0 %"
+      "porcentaje": "10.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "596",
-      "porcentaje": "9.2 %"
+      "porcentaje": "9.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "20",
-      "unidades": "707",
-      "ordenes": "6"
+      "tareas": "27",
+      "unidades": "783",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -269,9 +269,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "225",
-      "disponibles": "265",
-      "porcentaje": "45.9 %"
+      "ocupadas": "217",
+      "disponibles": "273",
+      "porcentaje": "44.3 %"
     }
   ]
 }

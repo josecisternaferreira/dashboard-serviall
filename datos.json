@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/05/2026 19:31",
+  "timestamp": "31/05/2026 20:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,13 +13,13 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.7 %",
-      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
+      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO",
+      "subtitulo": ""
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.9 %",
-      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
+      "valor": "FILLRATE MES ACTUAL - BODEGA SANTIAGO",
+      "subtitulo": ""
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,92 +27,7 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "04-05",
-      "valor": 193.0
-    },
-    {
-      "label": "05-05",
-      "valor": 151.0
-    },
-    {
-      "label": "06-05",
-      "valor": 224.0
-    },
-    {
-      "label": "07-05",
-      "valor": 272.0
-    },
-    {
-      "label": "08-05",
-      "valor": 76.0
-    },
-    {
-      "label": "09-05",
-      "valor": 8.0
-    },
-    {
-      "label": "11-05",
-      "valor": 96.0
-    },
-    {
-      "label": "12-05",
-      "valor": 132.0
-    },
-    {
-      "label": "13-05",
-      "valor": 191.0
-    },
-    {
-      "label": "14-05",
-      "valor": 223.0
-    },
-    {
-      "label": "15-05",
-      "valor": 175.0
-    },
-    {
-      "label": "16-05",
-      "valor": 59.0
-    },
-    {
-      "label": "18-05",
-      "valor": 92.0
-    },
-    {
-      "label": "19-05",
-      "valor": 154.0
-    },
-    {
-      "label": "20-05",
-      "valor": 183.0
-    },
-    {
-      "label": "21-05",
-      "valor": 65.0
-    },
-    {
-      "label": "25-05",
-      "valor": 86.0
-    },
-    {
-      "label": "26-05",
-      "valor": 226.0
-    },
-    {
-      "label": "27-05",
-      "valor": 83.0
-    },
-    {
-      "label": "28-05",
-      "valor": 122.0
-    },
-    {
-      "label": "29-05",
-      "valor": 114.0
-    }
-  ],
+  "tareas_por_dia": [],
   "cumplimiento": [
     {
       "label": "ENE",

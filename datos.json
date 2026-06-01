@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 09:01",
+  "timestamp": "01/06/2026 09:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -27,7 +27,12 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "01-06",
+      "valor": 8.0
+    }
+  ],
   "cumplimiento": [
     {
       "label": "ENE",
@@ -74,6 +79,10 @@
     {
       "label": "MAY",
       "valor": 2970.0
+    },
+    {
+      "label": "JUN",
+      "valor": 8.0
     }
   ],
   "promedio_ruta": [
@@ -82,12 +91,12 @@
       "valor": 1537.0
     },
     {
-      "label": "SITRANS",
-      "valor": 409.0
-    },
-    {
       "label": "AGUNSA",
       "valor": 404.0
+    },
+    {
+      "label": "SITRANS",
+      "valor": 342.0
     },
     {
       "label": "ESTAFETA",
@@ -182,12 +191,12 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2343",
-      "porcentaje": "24.8 %"
+      "porcentaje": "24.7 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1969",
-      "porcentaje": "20.8 %"
+      "total": "1977",
+      "porcentaje": "20.9 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -207,11 +216,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "8",
+      "unidades": "29",
+      "ordenes": "8"
     }
   ],
   "ocupacion": [
@@ -301,9 +310,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "463",
-      "disponibles": "229",
-      "porcentaje": "66.9 %"
+      "ocupadas": "461",
+      "disponibles": "231",
+      "porcentaje": "66.6 %"
     }
   ]
 }

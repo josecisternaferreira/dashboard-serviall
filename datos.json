@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 12:01",
+  "timestamp": "01/06/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "39",
+      "valor": "40",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 39.0
+      "valor": 40.0
     }
   ],
   "cumplimiento": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "JUN",
-      "valor": 39.0
+      "valor": 40.0
     }
   ],
   "promedio_ruta": [
@@ -104,7 +104,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 97.0
+      "valor": 98.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 10.0
+      "valor": 13.0
     }
   ],
   "fillrate_mensual": [
@@ -195,7 +195,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2000",
+      "total": "2002",
       "porcentaje": "21.1 %"
     },
     {
@@ -218,9 +218,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "31",
-      "unidades": "716",
-      "ordenes": "21"
+      "tareas": "33",
+      "unidades": "735",
+      "ordenes": "22"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -281,9 +281,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1244",
-      "disponibles": "237",
-      "porcentaje": "84.0 %"
+      "ocupadas": "1245",
+      "disponibles": "236",
+      "porcentaje": "84.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -308,18 +308,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "153",
-      "disponibles": "146",
-      "porcentaje": "51.2 %"
+      "ocupadas": "152",
+      "disponibles": "147",
+      "porcentaje": "50.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "461",
-      "disponibles": "231",
-      "porcentaje": "66.6 %"
+      "ocupadas": "458",
+      "disponibles": "234",
+      "porcentaje": "66.2 %"
     }
   ]
 }

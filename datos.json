@@ -1,14 +1,14 @@
 {
-  "timestamp": "01/06/2026 14:01",
+  "timestamp": "01/06/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "9",
+      "valor": "13",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "59",
+      "valor": "60",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 59.0
+      "valor": 60.0
     }
   ],
   "cumplimiento": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "JUN",
-      "valor": 59.0
+      "valor": 60.0
     }
   ],
   "promedio_ruta": [
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 31.0
+      "valor": 32.0
     }
   ],
   "fillrate_mensual": [
@@ -195,7 +195,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2020",
+      "total": "2021",
       "porcentaje": "21.2 %"
     },
     {
@@ -218,8 +218,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "51",
-      "unidades": "1229",
+      "tareas": "52",
+      "unidades": "1323",
       "ordenes": "31"
     },
     {
@@ -281,8 +281,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1245",
-      "disponibles": "236",
+      "ocupadas": "1246",
+      "disponibles": "235",
       "porcentaje": "84.1 %"
     },
     {

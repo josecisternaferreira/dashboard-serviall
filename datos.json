@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 09:31",
+  "timestamp": "01/06/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "8",
+      "valor": "17",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 8.0
+      "valor": 17.0
     }
   ],
   "cumplimiento": [
@@ -82,13 +82,13 @@
     },
     {
       "label": "JUN",
-      "valor": 8.0
+      "valor": 17.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1537.0
+      "valor": 1282.0
     },
     {
       "label": "AGUNSA",
@@ -96,7 +96,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 342.0
+      "valor": 343.0
     },
     {
       "label": "ESTAFETA",
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2.0
+      "valor": 3.0
     }
   ],
   "fillrate_mensual": [
@@ -195,8 +195,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1977",
-      "porcentaje": "20.9 %"
+      "total": "1986",
+      "porcentaje": "21.0 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -218,9 +218,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "8",
-      "unidades": "29",
-      "ordenes": "8"
+      "tareas": "17",
+      "unidades": "255",
+      "ordenes": "15"
     }
   ],
   "ocupacion": [

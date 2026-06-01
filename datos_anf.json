@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 16:01",
+  "timestamp": "01/06/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "160",
+      "valor": "161",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.0 %",
+      "valor": "97.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 160.0
+      "valor": 161.0
     }
   ],
   "cumplimiento": [
@@ -56,7 +56,7 @@
     },
     {
       "label": "JUN",
-      "valor": 96.0
+      "valor": 97.1
     }
   ],
   "picking_mensual": [
@@ -82,7 +82,7 @@
     },
     {
       "label": "JUN",
-      "valor": 160.0
+      "valor": 161.0
     }
   ],
   "promedio_ruta": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "JUN",
-      "valor": 25.0
+      "valor": 34.0
     }
   ],
   "fillrate_mensual": [
@@ -193,8 +193,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "713",
-      "porcentaje": "10.7 %"
+      "total": "714",
+      "porcentaje": "10.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -230,6 +230,13 @@
       "tareas": "17",
       "unidades": "207",
       "ordenes": "9"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

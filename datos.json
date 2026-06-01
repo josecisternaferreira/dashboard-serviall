@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 10:01",
+  "timestamp": "01/06/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "27",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-06",
-      "valor": 17.0
+      "valor": 27.0
     }
   ],
   "cumplimiento": [
@@ -82,21 +82,21 @@
     },
     {
       "label": "JUN",
-      "valor": 17.0
+      "valor": 27.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1282.0
-    },
-    {
-      "label": "AGUNSA",
-      "valor": 404.0
+      "valor": 1283.0
     },
     {
       "label": "SITRANS",
       "valor": 343.0
+    },
+    {
+      "label": "AGUNSA",
+      "valor": 337.0
     },
     {
       "label": "ESTAFETA",
@@ -195,7 +195,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1986",
+      "total": "1996",
       "porcentaje": "21.0 %"
     },
     {
@@ -211,16 +211,16 @@
     {
       "operador": "LEONARDO SAEZ",
       "total": "574",
-      "porcentaje": "6.1 %"
+      "porcentaje": "6.0 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "17",
-      "unidades": "255",
-      "ordenes": "15"
+      "tareas": "27",
+      "unidades": "434",
+      "ordenes": "17"
     }
   ],
   "ocupacion": [
@@ -274,9 +274,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1481",
-      "ocupadas": "1246",
-      "disponibles": "235",
-      "porcentaje": "84.1 %"
+      "ocupadas": "1244",
+      "disponibles": "237",
+      "porcentaje": "84.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

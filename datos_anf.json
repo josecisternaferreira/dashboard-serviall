@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/06/2026 09:01",
+  "timestamp": "01/06/2026 09:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,18 +8,18 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "FILLRATE MES ACTUAL - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,7 +27,12 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "01-06",
+      "valor": 2.0
+    }
+  ],
   "cumplimiento": [
     {
       "label": "ENE",
@@ -48,6 +53,10 @@
     {
       "label": "MAY",
       "valor": 95.2
+    },
+    {
+      "label": "JUN",
+      "valor": 100.0
     }
   ],
   "picking_mensual": [
@@ -70,6 +79,10 @@
     {
       "label": "MAY",
       "valor": 1891.0
+    },
+    {
+      "label": "JUN",
+      "valor": 2.0
     }
   ],
   "promedio_ruta": [
@@ -78,12 +91,12 @@
       "valor": 980.0
     },
     {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 296.0
-    },
-    {
       "label": "SUCURSAL.FINNING",
       "valor": 293.0
+    },
+    {
+      "label": "DESPACHO-CLIENTE",
+      "valor": 247.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -99,7 +112,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 79.0
+      "valor": 66.0
     },
     {
       "label": "AGUNSA",
@@ -130,6 +143,10 @@
     {
       "label": "MAY",
       "valor": 651.0
+    },
+    {
+      "label": "JUN",
+      "valor": 2.0
     }
   ],
   "fillrate_mensual": [
@@ -152,12 +169,16 @@
     {
       "label": "MAY",
       "valor": 99.8
+    },
+    {
+      "label": "JUN",
+      "valor": 100.0
     }
   ],
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1853",
+      "total": "1855",
       "porcentaje": "28.6 %"
     },
     {
@@ -183,11 +204,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "2",
+      "unidades": "18",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

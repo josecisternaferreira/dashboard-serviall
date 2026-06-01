@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/05/2026 19:32",
+  "timestamp": "31/05/2026 20:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,13 +13,13 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.2 %",
-      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
+      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA",
+      "subtitulo": ""
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.8 %",
-      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
+      "valor": "FILLRATE MES ACTUAL - BODEGA LA NEGRA",
+      "subtitulo": ""
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,84 +27,7 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "04-05",
-      "valor": 155.0
-    },
-    {
-      "label": "05-05",
-      "valor": 96.0
-    },
-    {
-      "label": "06-05",
-      "valor": 122.0
-    },
-    {
-      "label": "07-05",
-      "valor": 54.0
-    },
-    {
-      "label": "08-05",
-      "valor": 70.0
-    },
-    {
-      "label": "11-05",
-      "valor": 191.0
-    },
-    {
-      "label": "12-05",
-      "valor": 61.0
-    },
-    {
-      "label": "13-05",
-      "valor": 87.0
-    },
-    {
-      "label": "14-05",
-      "valor": 94.0
-    },
-    {
-      "label": "15-05",
-      "valor": 59.0
-    },
-    {
-      "label": "18-05",
-      "valor": 97.0
-    },
-    {
-      "label": "19-05",
-      "valor": 78.0
-    },
-    {
-      "label": "20-05",
-      "valor": 188.0
-    },
-    {
-      "label": "21-05",
-      "valor": 28.0
-    },
-    {
-      "label": "25-05",
-      "valor": 151.0
-    },
-    {
-      "label": "26-05",
-      "valor": 54.0
-    },
-    {
-      "label": "27-05",
-      "valor": 83.0
-    },
-    {
-      "label": "28-05",
-      "valor": 137.0
-    },
-    {
-      "label": "29-05",
-      "valor": 45.0
-    }
-  ],
+  "tareas_por_dia": [],
   "cumplimiento": [
     {
       "label": "ENE",

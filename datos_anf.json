@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/06/2026 11:32",
+  "timestamp": "02/06/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "18",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.6 %",
+      "valor": "97.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "02-06",
-      "valor": 17.0
+      "valor": 18.0
     }
   ],
   "cumplimiento": [
@@ -60,7 +60,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.6
+      "valor": 97.8
     }
   ],
   "picking_mensual": [
@@ -86,7 +86,7 @@
     },
     {
       "label": "JUN",
-      "valor": 178.0
+      "valor": 179.0
     }
   ],
   "promedio_ruta": [
@@ -150,7 +150,7 @@
     },
     {
       "label": "JUN",
-      "valor": 41.0
+      "valor": 45.0
     }
   ],
   "fillrate_mensual": [
@@ -231,9 +231,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
-      "tareas": "17",
-      "unidades": "207",
-      "ordenes": "9"
+      "tareas": "18",
+      "unidades": "227",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,19 +1,19 @@
 {
-  "timestamp": "03/06/2026 02:31",
+  "timestamp": "03/06/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "28",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.2 %",
+      "valor": "96.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "0.9 días",
+      "valor": "0.8 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
     }
   ],
@@ -35,6 +35,10 @@
     {
       "label": "02-06",
       "valor": 57.0
+    },
+    {
+      "label": "03-06",
+      "valor": 28.0
     }
   ],
   "cumplimiento": [
@@ -60,7 +64,7 @@
     },
     {
       "label": "JUN",
-      "valor": 98.2
+      "valor": 96.9
     }
   ],
   "picking_mensual": [
@@ -86,25 +90,25 @@
     },
     {
       "label": "JUN",
-      "valor": 218.0
+      "valor": 246.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 840.0
+      "valor": 841.0
+    },
+    {
+      "label": "SUCURSAL.FINNING",
+      "valor": 253.0
     },
     {
       "label": "DESPACHO-CLIENTE",
       "valor": 251.0
     },
     {
-      "label": "SUCURSAL.FINNING",
-      "valor": 250.0
-    },
-    {
       "label": "CLIENTE RETIRA",
-      "valor": 160.0
+      "valor": 161.0
     },
     {
       "label": "ESTAFETA",
@@ -112,7 +116,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 73.0
+      "valor": 74.0
     },
     {
       "label": "SQM_MRP",
@@ -150,7 +154,7 @@
     },
     {
       "label": "JUN",
-      "valor": 55.0
+      "valor": 64.0
     }
   ],
   "fillrate_mensual": [
@@ -182,51 +186,51 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1927",
-      "porcentaje": "28.8 %"
+      "total": "1928",
+      "porcentaje": "30.1 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "1039",
-      "porcentaje": "15.5 %"
+      "total": "928",
+      "porcentaje": "14.5 %"
     },
     {
       "operador": "JHONY MONTONYA",
-      "total": "728",
-      "porcentaje": "10.9 %"
+      "total": "727",
+      "porcentaje": "11.3 %"
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "721",
-      "porcentaje": "10.8 %"
+      "total": "627",
+      "porcentaje": "9.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "596",
-      "porcentaje": "8.9 %"
+      "total": "592",
+      "porcentaje": "9.2 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "81",
-      "unidades": "10512",
-      "ordenes": "22"
+      "tareas": "86",
+      "unidades": "10586",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "74",
-      "unidades": "9201",
+      "tareas": "75",
+      "unidades": "9203",
       "ordenes": "21"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "37",
-      "unidades": "3953",
-      "ordenes": "4"
+      "tareas": "44",
+      "unidades": "4224",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -237,10 +241,24 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "8",
+      "unidades": "138",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
       "tareas": "8",
       "unidades": "709",
       "ordenes": "2"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "7",
+      "unidades": "236",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

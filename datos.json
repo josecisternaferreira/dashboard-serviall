@@ -1,19 +1,19 @@
 {
-  "timestamp": "03/06/2026 14:01",
+  "timestamp": "03/06/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "8",
+      "valor": "12",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "104",
+      "valor": "111",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.9 %",
+      "valor": "93.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "label": "03-06",
-      "valor": 104.0
+      "valor": 111.0
     }
   ],
   "cumplimiento": [
@@ -64,7 +64,7 @@
     },
     {
       "label": "JUN",
-      "valor": 92.9
+      "valor": 93.2
     }
   ],
   "picking_mensual": [
@@ -90,13 +90,13 @@
     },
     {
       "label": "JUN",
-      "valor": 498.0
+      "valor": 505.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1329.0
+      "valor": 1330.0
     },
     {
       "label": "SITRANS",
@@ -166,7 +166,7 @@
     },
     {
       "label": "JUN",
-      "valor": 182.0
+      "valor": 192.0
     }
   ],
   "fillrate_mensual": [
@@ -203,7 +203,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2227",
+      "total": "2234",
       "porcentaje": "23.2 %"
     },
     {
@@ -226,9 +226,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "258",
-      "unidades": "21390",
-      "ordenes": "80"
+      "tareas": "265",
+      "unidades": "21671",
+      "ordenes": "84"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -322,17 +322,17 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "14",
-      "disponibles": "20",
-      "porcentaje": "41.2 %"
+      "ocupadas": "15",
+      "disponibles": "19",
+      "porcentaje": "44.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
-      "total": "1481",
+      "total": "1482",
       "ocupadas": "1261",
-      "disponibles": "220",
+      "disponibles": "221",
       "porcentaje": "85.1 %"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "timestamp": "03/06/2026 17:01",
+  "timestamp": "03/06/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "19",
+      "valor": "25",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -166,7 +166,7 @@
     },
     {
       "label": "JUN",
-      "valor": 202.0
+      "valor": 203.0
     }
   ],
   "fillrate_mensual": [
@@ -322,9 +322,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "15",
-      "disponibles": "19",
-      "porcentaje": "44.1 %"
+      "ocupadas": "14",
+      "disponibles": "20",
+      "porcentaje": "41.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -358,18 +358,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "155",
-      "disponibles": "144",
-      "porcentaje": "51.8 %"
+      "ocupadas": "154",
+      "disponibles": "145",
+      "porcentaje": "51.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "447",
-      "disponibles": "245",
-      "porcentaje": "64.6 %"
+      "ocupadas": "448",
+      "disponibles": "244",
+      "porcentaje": "64.7 %"
     }
   ]
 }

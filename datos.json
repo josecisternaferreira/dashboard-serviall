@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/06/2026 15:31",
+  "timestamp": "03/06/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.4 %",
+      "valor": "93.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "label": "JUN",
-      "valor": 93.4
+      "valor": 93.5
     }
   ],
   "picking_mensual": [
@@ -166,7 +166,7 @@
     },
     {
       "label": "JUN",
-      "valor": 198.0
+      "valor": 199.0
     }
   ],
   "fillrate_mensual": [
@@ -367,9 +367,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "447",
-      "disponibles": "245",
-      "porcentaje": "64.6 %"
+      "ocupadas": "446",
+      "disponibles": "246",
+      "porcentaje": "64.5 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/06/2026 10:31",
+  "timestamp": "04/06/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "51",
+      "valor": "66",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.8 %",
+      "valor": "93.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "04-06",
-      "valor": 51.0
+      "valor": 66.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "JUN",
-      "valor": 93.8
+      "valor": 93.9
     }
   ],
   "picking_mensual": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUN",
-      "valor": 557.0
+      "valor": 572.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1338.0
+      "valor": 1339.0
     },
     {
       "label": "SITRANS",
@@ -108,7 +108,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 344.0
+      "valor": 346.0
     },
     {
       "label": "ESTAFETA",
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUN",
-      "valor": 209.0
+      "valor": 213.0
     }
   ],
   "fillrate_mensual": [
@@ -202,8 +202,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2267",
-      "porcentaje": "23.4 %"
+      "total": "2272",
+      "porcentaje": "23.5 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -212,7 +212,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1753",
+      "total": "1755",
       "porcentaje": "18.1 %"
     },
     {
@@ -222,31 +222,31 @@
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "617",
-      "porcentaje": "6.4 %"
+      "total": "625",
+      "porcentaje": "6.5 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "298",
-      "unidades": "24780",
-      "ordenes": "95"
+      "tareas": "303",
+      "unidades": "25210",
+      "ordenes": "98"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "146",
-      "unidades": "13563",
-      "ordenes": "34"
+      "tareas": "148",
+      "unidades": "13606",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "77",
-      "unidades": "2272",
-      "ordenes": "50"
+      "tareas": "85",
+      "unidades": "2321",
+      "ordenes": "55"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -326,9 +326,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "14",
-      "disponibles": "20",
-      "porcentaje": "41.2 %"
+      "ocupadas": "15",
+      "disponibles": "19",
+      "porcentaje": "44.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -371,9 +371,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "692",
-      "ocupadas": "446",
-      "disponibles": "246",
-      "porcentaje": "64.5 %"
+      "ocupadas": "448",
+      "disponibles": "244",
+      "porcentaje": "64.7 %"
     }
   ]
 }

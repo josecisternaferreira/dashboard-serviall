@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/06/2026 11:00",
+  "timestamp": "04/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "66",
+      "valor": "77",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.9 %",
+      "valor": "94.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "04-06",
-      "valor": 66.0
+      "valor": 77.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "JUN",
-      "valor": 93.9
+      "valor": 94.1
     }
   ],
   "picking_mensual": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUN",
-      "valor": 572.0
+      "valor": 583.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1339.0
+      "valor": 1340.0
     },
     {
       "label": "SITRANS",
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUN",
-      "valor": 213.0
+      "valor": 219.0
     }
   ],
   "fillrate_mensual": [
@@ -202,18 +202,18 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2272",
+      "total": "2278",
       "porcentaje": "23.5 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "2261",
-      "porcentaje": "23.4 %"
+      "porcentaje": "23.3 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1755",
-      "porcentaje": "18.1 %"
+      "total": "1760",
+      "porcentaje": "18.2 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -223,23 +223,23 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "625",
-      "porcentaje": "6.5 %"
+      "porcentaje": "6.4 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "303",
-      "unidades": "25210",
-      "ordenes": "98"
+      "tareas": "309",
+      "unidades": "25253",
+      "ordenes": "104"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "148",
-      "unidades": "13606",
-      "ordenes": "36"
+      "tareas": "153",
+      "unidades": "13714",
+      "ordenes": "39"
     },
     {
       "region": "BODEGA SANTIAGO",

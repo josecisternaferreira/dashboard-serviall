@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/06/2026 17:02",
+  "timestamp": "04/06/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "114",
+      "valor": "116",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.4 %",
+      "valor": "97.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "04-06",
-      "valor": 114.0
+      "valor": 116.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.4
+      "valor": 97.5
     }
   ],
   "picking_mensual": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUN",
-      "valor": 388.0
+      "valor": 390.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 848.0
+      "valor": 849.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 117.0
+      "valor": 118.0
     }
   ],
   "fillrate_mensual": [
@@ -218,8 +218,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "171",
-      "unidades": "14605",
+      "tareas": "172",
+      "unidades": "14730",
       "ordenes": "48"
     },
     {
@@ -260,8 +260,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "9",
-      "unidades": "458",
+      "tareas": "10",
+      "unidades": "463",
       "ordenes": "2"
     },
     {
@@ -330,9 +330,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "217",
-      "disponibles": "273",
-      "porcentaje": "44.3 %"
+      "ocupadas": "219",
+      "disponibles": "271",
+      "porcentaje": "44.7 %"
     }
   ]
 }

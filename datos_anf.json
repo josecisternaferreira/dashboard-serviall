@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/06/2026 16:01",
+  "timestamp": "04/06/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "88",
+      "valor": "98",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "04-06",
-      "valor": 88.0
+      "valor": 98.0
     }
   ],
   "cumplimiento": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUN",
-      "valor": 362.0
+      "valor": 372.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 845.0
+      "valor": 847.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 116.0
+      "valor": 117.0
     }
   ],
   "fillrate_mensual": [
@@ -205,8 +205,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "628",
-      "porcentaje": "9.6 %"
+      "total": "632",
+      "porcentaje": "9.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -218,8 +218,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "158",
-      "unidades": "14327",
+      "tareas": "163",
+      "unidades": "14372",
       "ordenes": "46"
     },
     {
@@ -253,9 +253,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "9",
-      "unidades": "771",
-      "ordenes": "3"
+      "tareas": "13",
+      "unidades": "788",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -269,6 +269,13 @@
       "usuario": "SPIZARRO",
       "tareas": "2",
       "unidades": "2",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "1",
+      "unidades": "92",
       "ordenes": "1"
     }
   ],
@@ -323,9 +330,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "216",
-      "disponibles": "274",
-      "porcentaje": "44.1 %"
+      "ocupadas": "217",
+      "disponibles": "273",
+      "porcentaje": "44.3 %"
     }
   ]
 }

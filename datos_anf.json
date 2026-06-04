@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/06/2026 10:32",
+  "timestamp": "04/06/2026 11:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "32",
+      "valor": "49",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "04-06",
-      "valor": 32.0
+      "valor": 49.0
     }
   ],
   "cumplimiento": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUN",
-      "valor": 306.0
+      "valor": 323.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 841.0
+      "valor": 842.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -108,11 +108,11 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 254.0
+      "valor": 255.0
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 163.0
+      "valor": 164.0
     },
     {
       "label": "ESTAFETA",
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 87.0
+      "valor": 89.0
     }
   ],
   "fillrate_mensual": [
@@ -190,8 +190,8 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1933",
-      "porcentaje": "29.9 %"
+      "total": "1935",
+      "porcentaje": "29.8 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -211,23 +211,23 @@
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "592",
-      "porcentaje": "9.2 %"
+      "porcentaje": "9.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "121",
-      "unidades": "11524",
-      "ordenes": "34"
+      "tareas": "130",
+      "unidades": "13158",
+      "ordenes": "38"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "80",
-      "unidades": "9327",
-      "ordenes": "24"
+      "tareas": "82",
+      "unidades": "9337",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -246,9 +246,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "9",
-      "unidades": "143",
-      "ordenes": "7"
+      "tareas": "15",
+      "unidades": "257",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -323,9 +323,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "218",
-      "disponibles": "272",
-      "porcentaje": "44.5 %"
+      "ocupadas": "219",
+      "disponibles": "271",
+      "porcentaje": "44.7 %"
     }
   ]
 }

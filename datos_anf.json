@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/06/2026 16:31",
+  "timestamp": "04/06/2026 17:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "98",
+      "valor": "114",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "04-06",
-      "valor": 98.0
+      "valor": 114.0
     }
   ],
   "cumplimiento": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUN",
-      "valor": 372.0
+      "valor": 388.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 847.0
+      "valor": 848.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -116,7 +116,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 76.0
+      "valor": 77.0
     },
     {
       "label": "SITRANS",
@@ -191,12 +191,12 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1938",
-      "porcentaje": "29.7 %"
+      "porcentaje": "29.6 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "945",
-      "porcentaje": "14.5 %"
+      "porcentaje": "14.4 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -206,21 +206,21 @@
     {
       "operador": "LUIS ARDILES",
       "total": "632",
-      "porcentaje": "9.7 %"
+      "porcentaje": "9.6 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "592",
-      "porcentaje": "9.1 %"
+      "porcentaje": "9.0 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "163",
-      "unidades": "14372",
-      "ordenes": "46"
+      "tareas": "171",
+      "unidades": "14605",
+      "ordenes": "48"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -259,6 +259,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "9",
+      "unidades": "458",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
       "tareas": "7",
       "unidades": "236",
@@ -269,13 +276,6 @@
       "usuario": "SPIZARRO",
       "tareas": "2",
       "unidades": "2",
-      "ordenes": "1"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "1",
-      "unidades": "92",
       "ordenes": "1"
     }
   ],

@@ -1,19 +1,19 @@
 {
-  "timestamp": "04/06/2026 14:31",
+  "timestamp": "04/06/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "11",
+      "valor": "16",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "98",
+      "valor": "105",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.6 %",
+      "valor": "94.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "04-06",
-      "valor": 98.0
+      "valor": 105.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "JUN",
-      "valor": 94.6
+      "valor": 94.7
     }
   ],
   "picking_mensual": [
@@ -94,7 +94,7 @@
     },
     {
       "label": "JUN",
-      "valor": 609.0
+      "valor": 616.0
     }
   ],
   "promedio_ruta": [
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUN",
-      "valor": 240.0
+      "valor": 247.0
     }
   ],
   "fillrate_mensual": [
@@ -202,8 +202,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2295",
-      "porcentaje": "23.6 %"
+      "total": "2301",
+      "porcentaje": "23.7 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -212,7 +212,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1764",
+      "total": "1765",
       "porcentaje": "18.2 %"
     },
     {
@@ -230,16 +230,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "326",
-      "unidades": "25365",
-      "ordenes": "107"
+      "tareas": "332",
+      "unidades": "25393",
+      "ordenes": "110"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "157",
-      "unidades": "13750",
-      "ordenes": "42"
+      "tareas": "158",
+      "unidades": "13751",
+      "ordenes": "43"
     },
     {
       "region": "BODEGA SANTIAGO",

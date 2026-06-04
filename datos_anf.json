@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/06/2026 14:01",
+  "timestamp": "04/06/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "67",
+      "valor": "68",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "04-06",
-      "valor": 67.0
+      "valor": 68.0
     }
   ],
   "cumplimiento": [
@@ -94,7 +94,7 @@
     },
     {
       "label": "JUN",
-      "valor": 341.0
+      "valor": 342.0
     }
   ],
   "promedio_ruta": [
@@ -205,8 +205,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "627",
-      "porcentaje": "9.6 %"
+      "total": "628",
+      "porcentaje": "9.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -253,9 +253,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "8",
-      "unidades": "709",
-      "ordenes": "2"
+      "tareas": "9",
+      "unidades": "771",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -287,9 +287,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1119",
-      "disponibles": "791",
-      "porcentaje": "58.6 %"
+      "ocupadas": "1118",
+      "disponibles": "792",
+      "porcentaje": "58.5 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -323,9 +323,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "213",
-      "disponibles": "277",
-      "porcentaje": "43.5 %"
+      "ocupadas": "216",
+      "disponibles": "274",
+      "porcentaje": "44.1 %"
     }
   ]
 }

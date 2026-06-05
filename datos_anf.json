@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/06/2026 13:32",
+  "timestamp": "05/06/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "30",
+      "valor": "39",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.6 %",
+      "valor": "97.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "label": "05-06",
-      "valor": 30.0
+      "valor": 39.0
     }
   ],
   "cumplimiento": [
@@ -72,7 +72,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.6
+      "valor": 97.7
     }
   ],
   "picking_mensual": [
@@ -98,13 +98,13 @@
     },
     {
       "label": "JUN",
-      "valor": 420.0
+      "valor": 429.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 851.0
+      "valor": 852.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -116,7 +116,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 165.0
+      "valor": 166.0
     },
     {
       "label": "ESTAFETA",
@@ -162,7 +162,7 @@
     },
     {
       "label": "JUN",
-      "valor": 124.0
+      "valor": 128.0
     }
   ],
   "fillrate_mensual": [
@@ -194,13 +194,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1941",
+      "total": "1944",
       "porcentaje": "29.5 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "945",
-      "porcentaje": "14.4 %"
+      "porcentaje": "14.3 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -209,7 +209,7 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "641",
+      "total": "642",
       "porcentaje": "9.7 %"
     },
     {
@@ -222,16 +222,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "192",
-      "unidades": "18924",
-      "ordenes": "55"
+      "tareas": "195",
+      "unidades": "19405",
+      "ordenes": "56"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "88",
-      "unidades": "9400",
-      "ordenes": "31"
+      "tareas": "91",
+      "unidades": "9416",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -242,17 +242,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "23",
+      "unidades": "803",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
       "tareas": "22",
       "unidades": "405",
       "ordenes": "14"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "22",
-      "unidades": "802",
-      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

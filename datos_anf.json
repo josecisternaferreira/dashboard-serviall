@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/06/2026 10:01",
+  "timestamp": "05/06/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "11",
+      "valor": "23",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "label": "05-06",
-      "valor": 11.0
+      "valor": 23.0
     }
   ],
   "cumplimiento": [
@@ -98,13 +98,13 @@
     },
     {
       "label": "JUN",
-      "valor": 401.0
+      "valor": 413.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 849.0
+      "valor": 851.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -195,7 +195,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1941",
-      "porcentaje": "29.6 %"
+      "porcentaje": "29.5 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -209,8 +209,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "632",
-      "porcentaje": "9.6 %"
+      "total": "641",
+      "porcentaje": "9.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -222,9 +222,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "180",
-      "unidades": "15838",
-      "ordenes": "50"
+      "tareas": "183",
+      "unidades": "17510",
+      "ordenes": "51"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -249,17 +249,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "22",
+      "unidades": "802",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGUERRERO",
       "tareas": "18",
       "unidades": "227",
       "ordenes": "10"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "13",
-      "unidades": "788",
-      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

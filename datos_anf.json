@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/06/2026 14:32",
+  "timestamp": "05/06/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "39",
+      "valor": "40",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.7 %",
+      "valor": "97.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "label": "05-06",
-      "valor": 39.0
+      "valor": 40.0
     }
   ],
   "cumplimiento": [
@@ -72,7 +72,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.7
+      "valor": 97.8
     }
   ],
   "picking_mensual": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "JUN",
-      "valor": 429.0
+      "valor": 430.0
     }
   ],
   "promedio_ruta": [
@@ -162,7 +162,7 @@
     },
     {
       "label": "JUN",
-      "valor": 132.0
+      "valor": 134.0
     }
   ],
   "fillrate_mensual": [
@@ -194,7 +194,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1944",
+      "total": "1945",
       "porcentaje": "29.5 %"
     },
     {
@@ -229,9 +229,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "91",
-      "unidades": "9416",
-      "ordenes": "32"
+      "tareas": "92",
+      "unidades": "9452",
+      "ordenes": "33"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -298,9 +298,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1116",
-      "disponibles": "794",
-      "porcentaje": "58.4 %"
+      "ocupadas": "1117",
+      "disponibles": "793",
+      "porcentaje": "58.5 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "05/06/2026 14:31",
+  "timestamp": "05/06/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "21",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "83",
+      "valor": "84",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "label": "05-06",
-      "valor": 83.0
+      "valor": 84.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "JUN",
-      "valor": 703.0
+      "valor": 704.0
     }
   ],
   "promedio_ruta": [
@@ -174,7 +174,7 @@
     },
     {
       "label": "JUN",
-      "valor": 317.0
+      "valor": 318.0
     }
   ],
   "fillrate_mensual": [
@@ -212,7 +212,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2261",
-      "porcentaje": "23.1 %"
+      "porcentaje": "23.0 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -290,9 +290,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "YBARRIOS",
-      "tareas": "1",
-      "unidades": "3",
-      "ordenes": "1"
+      "tareas": "2",
+      "unidades": "4",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -355,8 +355,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1249",
-      "disponibles": "233",
+      "ocupadas": "1250",
+      "disponibles": "232",
       "porcentaje": "84.3 %"
     },
     {

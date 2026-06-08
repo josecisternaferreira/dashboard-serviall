@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/06/2026 13:01",
+  "timestamp": "08/06/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "87",
+      "valor": "95",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.2 %",
+      "valor": "96.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "08-06",
-      "valor": 87.0
+      "valor": 95.0
     }
   ],
   "cumplimiento": [
@@ -76,7 +76,7 @@
     },
     {
       "label": "JUN",
-      "valor": 96.2
+      "valor": 96.3
     }
   ],
   "picking_mensual": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "JUN",
-      "valor": 792.0
+      "valor": 800.0
     }
   ],
   "promedio_ruta": [
@@ -112,7 +112,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 356.0
+      "valor": 357.0
     },
     {
       "label": "AGUNSA",
@@ -178,7 +178,7 @@
     },
     {
       "label": "JUN",
-      "valor": 345.0
+      "valor": 348.0
     }
   ],
   "fillrate_mensual": [
@@ -220,7 +220,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1823",
+      "total": "1824",
       "porcentaje": "18.9 %"
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "638",
+      "total": "639",
       "porcentaje": "6.6 %"
     }
   ],
@@ -238,23 +238,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "40",
-      "unidades": "1021",
-      "ordenes": "38"
+      "tareas": "46",
+      "unidades": "1073",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "34",
-      "unidades": "2038",
-      "ordenes": "14"
+      "tareas": "35",
+      "unidades": "2039",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "10",
-      "unidades": "617",
-      "ordenes": "6"
+      "tareas": "11",
+      "unidades": "618",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/06/2026 10:31",
+  "timestamp": "08/06/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "9",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.1 %",
+      "valor": "96.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "08-06",
-      "valor": 9.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -76,7 +76,7 @@
     },
     {
       "label": "JUN",
-      "valor": 96.1
+      "valor": 96.2
     }
   ],
   "picking_mensual": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "JUN",
-      "valor": 714.0
+      "valor": 730.0
     }
   ],
   "promedio_ruta": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 350.0
+      "valor": 351.0
     },
     {
       "label": "ESTAFETA",
@@ -132,7 +132,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 74.0
+      "valor": 75.0
     },
     {
       "label": "REPOSICION",
@@ -178,7 +178,7 @@
     },
     {
       "label": "JUN",
-      "valor": 330.0
+      "valor": 338.0
     }
   ],
   "fillrate_mensual": [
@@ -220,8 +220,8 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1795",
-      "porcentaje": "18.7 %"
+      "total": "1803",
+      "porcentaje": "18.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -231,16 +231,23 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "628",
-      "porcentaje": "6.6 %"
+      "porcentaje": "6.5 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "6",
-      "unidades": "900",
-      "ordenes": "1"
+      "tareas": "14",
+      "unidades": "1049",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LSAEZ",
+      "tareas": "8",
+      "unidades": "253",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA SANTIAGO",

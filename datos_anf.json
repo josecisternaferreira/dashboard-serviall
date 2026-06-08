@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/06/2026 08:31",
+  "timestamp": "08/06/2026 09:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -47,6 +47,10 @@
     {
       "label": "05-06",
       "valor": 42.0
+    },
+    {
+      "label": "08-06",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -98,7 +102,7 @@
     },
     {
       "label": "JUN",
-      "valor": 432.0
+      "valor": 433.0
     }
   ],
   "promedio_ruta": [
@@ -162,7 +166,7 @@
     },
     {
       "label": "JUN",
-      "valor": 135.0
+      "valor": 136.0
     }
   ],
   "fillrate_mensual": [
@@ -220,11 +224,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "1",
+      "unidades": "6",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -278,9 +282,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "222",
-      "disponibles": "268",
-      "porcentaje": "45.3 %"
+      "ocupadas": "223",
+      "disponibles": "267",
+      "porcentaje": "45.5 %"
     }
   ]
 }

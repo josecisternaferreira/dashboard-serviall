@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/06/2026 10:01",
+  "timestamp": "08/06/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "9",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.0 %",
+      "valor": "96.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -47,6 +47,10 @@
     {
       "label": "05-06",
       "valor": 85.0
+    },
+    {
+      "label": "08-06",
+      "valor": 9.0
     }
   ],
   "cumplimiento": [
@@ -72,7 +76,7 @@
     },
     {
       "label": "JUN",
-      "valor": 96.0
+      "valor": 96.1
     }
   ],
   "picking_mensual": [
@@ -98,7 +102,7 @@
     },
     {
       "label": "JUN",
-      "valor": 705.0
+      "valor": 714.0
     }
   ],
   "promedio_ruta": [
@@ -128,7 +132,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 72.0
+      "valor": 74.0
     },
     {
       "label": "REPOSICION",
@@ -174,7 +178,7 @@
     },
     {
       "label": "JUN",
-      "valor": 327.0
+      "valor": 330.0
     }
   ],
   "fillrate_mensual": [
@@ -216,12 +220,12 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1789",
+      "total": "1795",
       "porcentaje": "18.7 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1082",
+      "total": "1085",
       "porcentaje": "11.3 %"
     },
     {
@@ -232,11 +236,18 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "6",
+      "unidades": "900",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "3",
+      "unidades": "1203",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -299,8 +310,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1257",
-      "disponibles": "225",
+      "ocupadas": "1256",
+      "disponibles": "226",
       "porcentaje": "84.8 %"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/06/2026 15:31",
+  "timestamp": "08/06/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "101",
+      "valor": "102",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "08-06",
-      "valor": 101.0
+      "valor": 102.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "JUN",
-      "valor": 806.0
+      "valor": 807.0
     }
   ],
   "promedio_ruta": [
@@ -178,7 +178,7 @@
     },
     {
       "label": "JUN",
-      "valor": 360.0
+      "valor": 362.0
     }
   ],
   "fillrate_mensual": [
@@ -268,6 +268,13 @@
       "usuario": "FESTUPIÑAN",
       "tareas": "1",
       "unidades": "2000",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "1",
+      "unidades": "20",
       "ordenes": "1"
     }
   ],

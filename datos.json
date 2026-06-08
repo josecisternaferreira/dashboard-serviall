@@ -1,14 +1,14 @@
 {
-  "timestamp": "08/06/2026 13:31",
+  "timestamp": "08/06/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "7",
+      "valor": "8",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "95",
+      "valor": "99",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "08-06",
-      "valor": 95.0
+      "valor": 99.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "JUN",
-      "valor": 800.0
+      "valor": 804.0
     }
   ],
   "promedio_ruta": [
@@ -112,7 +112,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 357.0
+      "valor": 358.0
     },
     {
       "label": "AGUNSA",
@@ -210,7 +210,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2358",
+      "total": "2359",
       "porcentaje": "24.4 %"
     },
     {
@@ -221,7 +221,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1824",
-      "porcentaje": "18.9 %"
+      "porcentaje": "18.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -238,9 +238,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "46",
-      "unidades": "1073",
-      "ordenes": "42"
+      "tareas": "49",
+      "unidades": "1732",
+      "ordenes": "44"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -261,6 +261,13 @@
       "usuario": "JMELGAR",
       "tareas": "3",
       "unidades": "1203",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "1",
+      "unidades": "2000",
       "ordenes": "1"
     }
   ],
@@ -324,8 +331,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1257",
-      "disponibles": "225",
+      "ocupadas": "1256",
+      "disponibles": "226",
       "porcentaje": "84.8 %"
     },
     {

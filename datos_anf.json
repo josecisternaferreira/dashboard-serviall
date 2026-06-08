@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/06/2026 12:01",
+  "timestamp": "08/06/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "72",
+      "valor": "86",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "08-06",
-      "valor": 72.0
+      "valor": 86.0
     }
   ],
   "cumplimiento": [
@@ -102,13 +102,13 @@
     },
     {
       "label": "JUN",
-      "valor": 504.0
+      "valor": 518.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 855.0
+      "valor": 857.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -120,7 +120,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 172.0
+      "valor": 173.0
     },
     {
       "label": "ESTAFETA",
@@ -198,23 +198,23 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1870",
-      "porcentaje": "28.7 %"
+      "total": "1880",
+      "porcentaje": "28.8 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "941",
+      "total": "945",
       "porcentaje": "14.5 %"
     },
     {
       "operador": "JHONY MONTONYA",
       "total": "727",
-      "porcentaje": "11.2 %"
+      "porcentaje": "11.1 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "655",
-      "porcentaje": "10.1 %"
+      "porcentaje": "10.0 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -226,9 +226,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "29",
-      "unidades": "1326",
-      "ordenes": "1"
+      "tareas": "33",
+      "unidades": "1419",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -247,9 +247,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "4",
-      "unidades": "10",
-      "ordenes": "4"
+      "tareas": "14",
+      "unidades": "365",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [

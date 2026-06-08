@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/06/2026 10:02",
+  "timestamp": "08/06/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "08-06",
-      "valor": 6.0
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "JUN",
-      "valor": 438.0
+      "valor": 445.0
     }
   ],
   "promedio_ruta": [
@@ -112,7 +112,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 258.0
+      "valor": 259.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -128,7 +128,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 74.0
+      "valor": 75.0
     },
     {
       "label": "SQM_MRP",
@@ -166,7 +166,7 @@
     },
     {
       "label": "JUN",
-      "valor": 137.0
+      "valor": 138.0
     }
   ],
   "fillrate_mensual": [
@@ -199,12 +199,12 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1867",
-      "porcentaje": "29.0 %"
+      "porcentaje": "28.9 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "912",
-      "porcentaje": "14.2 %"
+      "porcentaje": "14.1 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -213,8 +213,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "635",
-      "porcentaje": "9.9 %"
+      "total": "642",
+      "porcentaje": "10.0 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -223,6 +223,13 @@
     }
   ],
   "semana_actual": [
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "7",
+      "unidades": "6718",
+      "ordenes": "6"
+    },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",

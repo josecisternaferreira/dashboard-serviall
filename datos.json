@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/06/2026 12:31",
+  "timestamp": "09/06/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "114",
+      "valor": "130",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.5 %",
+      "valor": "96.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "09-06",
-      "valor": 114.0
+      "valor": 130.0
     }
   ],
   "cumplimiento": [
@@ -80,7 +80,7 @@
     },
     {
       "label": "JUN",
-      "valor": 96.5
+      "valor": 96.6
     }
   ],
   "picking_mensual": [
@@ -106,13 +106,13 @@
     },
     {
       "label": "JUN",
-      "valor": 970.0
+      "valor": 988.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1364.0
+      "valor": 1366.0
     },
     {
       "label": "AGUNSA",
@@ -182,7 +182,7 @@
     },
     {
       "label": "JUN",
-      "valor": 371.0
+      "valor": 380.0
     }
   ],
   "fillrate_mensual": [
@@ -219,7 +219,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2194",
+      "total": "2202",
       "porcentaje": "22.3 %"
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1106",
-      "porcentaje": "11.2 %"
+      "total": "1110",
+      "porcentaje": "11.3 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -249,15 +249,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "47",
-      "unidades": "1029",
-      "ordenes": "16"
+      "tareas": "55",
+      "unidades": "2098",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "44",
-      "unidades": "2265",
+      "tareas": "48",
+      "unidades": "2370",
       "ordenes": "3"
     },
     {
@@ -277,9 +277,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "24",
-      "unidades": "2916",
-      "ordenes": "8"
+      "tareas": "28",
+      "unidades": "2925",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -338,9 +338,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "332",
-      "ocupadas": "88",
-      "disponibles": "244",
-      "porcentaje": "26.5 %"
+      "ocupadas": "85",
+      "disponibles": "247",
+      "porcentaje": "25.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",

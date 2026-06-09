@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/06/2026 10:02",
+  "timestamp": "09/06/2026 11:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "15",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "09-06",
-      "valor": 6.0
+      "valor": 15.0
     }
   ],
   "cumplimiento": [
@@ -106,13 +106,13 @@
     },
     {
       "label": "JUN",
-      "valor": 596.0
+      "valor": 605.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 869.0
+      "valor": 870.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUN",
-      "valor": 166.0
+      "valor": 168.0
     }
   ],
   "fillrate_mensual": [
@@ -229,17 +229,17 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "60",
+      "unidades": "12496",
+      "ordenes": "14"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "55",
       "unidades": "3297",
       "ordenes": "8"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "51",
-      "unidades": "11743",
-      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -314,9 +314,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "220",
-      "disponibles": "270",
-      "porcentaje": "44.9 %"
+      "ocupadas": "219",
+      "disponibles": "271",
+      "porcentaje": "44.7 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/06/2026 17:01",
+  "timestamp": "09/06/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "158",
+      "valor": "160",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.9 %",
+      "valor": "97.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "09-06",
-      "valor": 158.0
+      "valor": 160.0
     }
   ],
   "cumplimiento": [
@@ -80,7 +80,7 @@
     },
     {
       "label": "JUN",
-      "valor": 96.9
+      "valor": 97.0
     }
   ],
   "picking_mensual": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1020.0
+      "valor": 1022.0
     }
   ],
   "promedio_ruta": [
@@ -182,7 +182,7 @@
     },
     {
       "label": "JUN",
-      "valor": 426.0
+      "valor": 429.0
     }
   ],
   "fillrate_mensual": [
@@ -219,7 +219,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2216",
+      "total": "2218",
       "porcentaje": "22.4 %"
     },
     {
@@ -242,9 +242,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "69",
-      "unidades": "4939",
-      "ordenes": "23"
+      "tareas": "71",
+      "unidades": "5260",
+      "ordenes": "24"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -356,8 +356,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1252",
-      "disponibles": "230",
+      "ocupadas": "1253",
+      "disponibles": "229",
       "porcentaje": "84.5 %"
     },
     {
@@ -383,9 +383,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "151",
-      "disponibles": "148",
-      "porcentaje": "50.5 %"
+      "ocupadas": "152",
+      "disponibles": "147",
+      "porcentaje": "50.8 %"
     }
   ]
 }

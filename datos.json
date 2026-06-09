@@ -1,14 +1,14 @@
 {
-  "timestamp": "09/06/2026 11:01",
+  "timestamp": "09/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "59",
+      "valor": "74",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "09-06",
-      "valor": 59.0
+      "valor": 74.0
     }
   ],
   "cumplimiento": [
@@ -106,13 +106,13 @@
     },
     {
       "label": "JUN",
-      "valor": 915.0
+      "valor": 930.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1356.0
+      "valor": 1359.0
     },
     {
       "label": "AGUNSA",
@@ -219,7 +219,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2172",
+      "total": "2178",
       "porcentaje": "22.2 %"
     },
     {
@@ -230,7 +230,7 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1093",
-      "porcentaje": "11.2 %"
+      "porcentaje": "11.1 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -255,24 +255,24 @@
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "31",
-      "unidades": "2949",
-      "ordenes": "24"
+      "usuario": "CCORTEZ",
+      "tareas": "34",
+      "unidades": "2200",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "25",
-      "unidades": "493",
-      "ordenes": "7"
+      "tareas": "31",
+      "unidades": "714",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "24",
-      "unidades": "2121",
-      "ordenes": "3"
+      "usuario": "LALFARO",
+      "tareas": "31",
+      "unidades": "2949",
+      "ordenes": "24"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -383,9 +383,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "154",
-      "disponibles": "145",
-      "porcentaje": "51.5 %"
+      "ocupadas": "150",
+      "disponibles": "149",
+      "porcentaje": "50.2 %"
     }
   ]
 }

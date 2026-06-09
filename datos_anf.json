@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/06/2026 11:02",
+  "timestamp": "09/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "21",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.6 %",
+      "valor": "97.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "09-06",
-      "valor": 15.0
+      "valor": 21.0
     }
   ],
   "cumplimiento": [
@@ -80,7 +80,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.6
+      "valor": 97.7
     }
   ],
   "picking_mensual": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "JUN",
-      "valor": 605.0
+      "valor": 611.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 257.0
+      "valor": 258.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUN",
-      "valor": 168.0
+      "valor": 172.0
     }
   ],
   "fillrate_mensual": [
@@ -222,8 +222,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "588",
-      "porcentaje": "8.9 %"
+      "total": "594",
+      "porcentaje": "9.0 %"
     }
   ],
   "semana_actual": [
@@ -261,6 +261,13 @@
       "tareas": "6",
       "unidades": "56",
       "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "6",
+      "unidades": "99",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

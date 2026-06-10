@@ -1,19 +1,19 @@
 {
-  "timestamp": "10/06/2026 15:01",
+  "timestamp": "10/06/2026 15:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "45",
+      "valor": "48",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.6 %",
+      "valor": "97.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "10-06",
-      "valor": 45.0
+      "valor": 48.0
     }
   ],
   "cumplimiento": [
@@ -84,7 +84,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.6
+      "valor": 97.7
     }
   ],
   "picking_mensual": [
@@ -110,7 +110,7 @@
     },
     {
       "label": "JUN",
-      "valor": 701.0
+      "valor": 704.0
     }
   ],
   "promedio_ruta": [
@@ -174,7 +174,7 @@
     },
     {
       "label": "JUN",
-      "valor": 212.0
+      "valor": 213.0
     }
   ],
   "fillrate_mensual": [
@@ -233,17 +233,17 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "90",
+      "unidades": "14896",
+      "ordenes": "27"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "88",
       "unidades": "7245",
       "ordenes": "22"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "87",
-      "unidades": "14496",
-      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -289,9 +289,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1108",
-      "disponibles": "802",
-      "porcentaje": "58.0 %"
+      "ocupadas": "1109",
+      "disponibles": "801",
+      "porcentaje": "58.1 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

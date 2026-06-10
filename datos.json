@@ -1,14 +1,14 @@
 {
-  "timestamp": "10/06/2026 12:12",
+  "timestamp": "10/06/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "97",
+      "valor": "99",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "10-06",
-      "valor": 97.0
+      "valor": 99.0
     }
   ],
   "cumplimiento": [
@@ -110,7 +110,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1124.0
+      "valor": 1126.0
     }
   ],
   "promedio_ruta": [
@@ -186,7 +186,7 @@
     },
     {
       "label": "JUN",
-      "valor": 438.0
+      "valor": 439.0
     }
   ],
   "fillrate_mensual": [
@@ -219,11 +219,11 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2380",
-      "porcentaje": "24.5 %"
+      "porcentaje": "24.4 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2152",
+      "total": "2153",
       "porcentaje": "22.1 %"
     },
     {
@@ -246,15 +246,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "113",
-      "unidades": "12432",
-      "ordenes": "46"
+      "tareas": "114",
+      "unidades": "12632",
+      "ordenes": "47"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "84",
-      "unidades": "4115",
+      "tareas": "85",
+      "unidades": "4120",
       "ordenes": "16"
     },
     {
@@ -351,9 +351,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "12",
-      "disponibles": "22",
-      "porcentaje": "35.3 %"
+      "ocupadas": "11",
+      "disponibles": "23",
+      "porcentaje": "32.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",

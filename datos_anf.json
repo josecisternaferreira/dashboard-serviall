@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/06/2026 14:31",
+  "timestamp": "10/06/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "42",
+      "valor": "45",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "10-06",
-      "valor": 42.0
+      "valor": 45.0
     }
   ],
   "cumplimiento": [
@@ -110,7 +110,7 @@
     },
     {
       "label": "JUN",
-      "valor": 698.0
+      "valor": 701.0
     }
   ],
   "promedio_ruta": [
@@ -124,7 +124,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 261.0
+      "valor": 262.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -211,7 +211,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "939",
+      "total": "940",
       "porcentaje": "14.9 %"
     },
     {
@@ -226,24 +226,24 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "562",
+      "total": "564",
       "porcentaje": "8.9 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "88",
+      "unidades": "7245",
+      "ordenes": "22"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
       "tareas": "87",
       "unidades": "14496",
       "ordenes": "26"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "87",
-      "unidades": "7240",
-      "ordenes": "22"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -255,9 +255,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "23",
-      "unidades": "2161",
-      "ordenes": "6"
+      "tareas": "25",
+      "unidades": "2165",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

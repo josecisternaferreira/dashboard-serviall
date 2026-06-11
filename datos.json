@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/06/2026 13:00",
+  "timestamp": "11/06/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "60",
+      "valor": "74",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "11-06",
-      "valor": 60.0
+      "valor": 74.0
     }
   ],
   "cumplimiento": [
@@ -114,21 +114,21 @@
     },
     {
       "label": "JUN",
-      "valor": 1250.0
+      "valor": 1264.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1396.0
+      "valor": 1397.0
     },
     {
       "label": "AGUNSA",
-      "valor": 364.0
+      "valor": 365.0
     },
     {
       "label": "SITRANS",
-      "valor": 363.0
+      "valor": 364.0
     },
     {
       "label": "ESTAFETA",
@@ -227,7 +227,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2207",
+      "total": "2216",
       "porcentaje": "22.4 %"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1199",
+      "total": "1204",
       "porcentaje": "12.2 %"
     },
     {
@@ -250,16 +250,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "168",
-      "unidades": "25822",
+      "tareas": "177",
+      "unidades": "26037",
       "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "117",
-      "unidades": "15658",
-      "ordenes": "44"
+      "tareas": "122",
+      "unidades": "16037",
+      "ordenes": "46"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -364,9 +364,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1197",
-      "disponibles": "285",
-      "porcentaje": "80.8 %"
+      "ocupadas": "1196",
+      "disponibles": "286",
+      "porcentaje": "80.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",

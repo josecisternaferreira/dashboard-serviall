@@ -1,14 +1,14 @@
 {
-  "timestamp": "11/06/2026 11:00",
+  "timestamp": "11/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "20",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "11-06",
-      "valor": 13.0
+      "valor": 20.0
     }
   ],
   "cumplimiento": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1203.0
+      "valor": 1210.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1389.0
+      "valor": 1390.0
     },
     {
       "label": "AGUNSA",
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUN",
-      "valor": 501.0
+      "valor": 504.0
     }
   ],
   "fillrate_mensual": [
@@ -223,11 +223,11 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2380",
-      "porcentaje": "24.3 %"
+      "porcentaje": "24.2 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2178",
+      "total": "2183",
       "porcentaje": "22.2 %"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1181",
+      "total": "1183",
       "porcentaje": "12.0 %"
     },
     {
@@ -250,8 +250,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "139",
-      "unidades": "13665",
+      "tareas": "144",
+      "unidades": "18530",
       "ordenes": "59"
     },
     {
@@ -264,9 +264,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "99",
-      "unidades": "13828",
-      "ordenes": "35"
+      "tareas": "101",
+      "unidades": "14098",
+      "ordenes": "37"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -364,8 +364,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1200",
-      "disponibles": "282",
+      "ocupadas": "1201",
+      "disponibles": "281",
       "porcentaje": "81.0 %"
     },
     {

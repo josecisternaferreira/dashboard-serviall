@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/06/2026 10:00",
+  "timestamp": "11/06/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "4",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "11-06",
-      "valor": 4.0
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1194.0
+      "valor": 1196.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1387.0
+      "valor": 1388.0
     },
     {
       "label": "AGUNSA",
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUN",
-      "valor": 491.0
+      "valor": 497.0
     }
   ],
   "fillrate_mensual": [
@@ -227,7 +227,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2173",
+      "total": "2175",
       "porcentaje": "22.2 %"
     },
     {
@@ -250,9 +250,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "134",
-      "unidades": "13315",
-      "ordenes": "58"
+      "tareas": "136",
+      "unidades": "13410",
+      "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -364,9 +364,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1221",
-      "disponibles": "261",
-      "porcentaje": "82.4 %"
+      "ocupadas": "1209",
+      "disponibles": "273",
+      "porcentaje": "81.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",

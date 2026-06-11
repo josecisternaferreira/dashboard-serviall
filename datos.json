@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/06/2026 10:30",
+  "timestamp": "11/06/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "11-06",
-      "valor": 6.0
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1196.0
+      "valor": 1203.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1388.0
+      "valor": 1389.0
     },
     {
       "label": "AGUNSA",
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUN",
-      "valor": 497.0
+      "valor": 501.0
     }
   ],
   "fillrate_mensual": [
@@ -227,7 +227,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2175",
+      "total": "2178",
       "porcentaje": "22.2 %"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1177",
+      "total": "1181",
       "porcentaje": "12.0 %"
     },
     {
@@ -250,8 +250,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "136",
-      "unidades": "13410",
+      "tareas": "139",
+      "unidades": "13665",
       "ordenes": "59"
     },
     {
@@ -264,9 +264,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "95",
-      "unidades": "13677",
-      "ordenes": "34"
+      "tareas": "99",
+      "unidades": "13828",
+      "ordenes": "35"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -364,9 +364,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1209",
-      "disponibles": "273",
-      "porcentaje": "81.6 %"
+      "ocupadas": "1200",
+      "disponibles": "282",
+      "porcentaje": "81.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

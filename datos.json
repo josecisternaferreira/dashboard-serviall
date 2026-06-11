@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/06/2026 12:01",
+  "timestamp": "11/06/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "32",
+      "valor": "45",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.4 %",
+      "valor": "97.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "11-06",
-      "valor": 32.0
+      "valor": 45.0
     }
   ],
   "cumplimiento": [
@@ -88,7 +88,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.4
+      "valor": 97.5
     }
   ],
   "picking_mensual": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1222.0
+      "valor": 1235.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1392.0
+      "valor": 1394.0
     },
     {
       "label": "AGUNSA",
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUN",
-      "valor": 504.0
+      "valor": 512.0
     }
   ],
   "fillrate_mensual": [
@@ -227,17 +227,17 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2191",
+      "total": "2196",
       "porcentaje": "22.3 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1824",
-      "porcentaje": "18.6 %"
+      "porcentaje": "18.5 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1187",
+      "total": "1195",
       "porcentaje": "12.1 %"
     },
     {
@@ -250,16 +250,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "152",
-      "unidades": "24079",
+      "tareas": "157",
+      "unidades": "25356",
       "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "105",
-      "unidades": "14134",
-      "ordenes": "38"
+      "tareas": "113",
+      "unidades": "14936",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",

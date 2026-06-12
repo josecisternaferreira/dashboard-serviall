@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/06/2026 08:30",
+  "timestamp": "12/06/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -63,6 +63,10 @@
     {
       "label": "11-06",
       "valor": 164.0
+    },
+    {
+      "label": "12-06",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -114,7 +118,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1354.0
+      "valor": 1355.0
     }
   ],
   "promedio_ruta": [
@@ -227,7 +231,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2277",
+      "total": "2278",
       "porcentaje": "22.9 %"
     },
     {
@@ -250,8 +254,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "238",
-      "unidades": "40693",
+      "tareas": "239",
+      "unidades": "40758",
       "ordenes": "59"
     },
     {

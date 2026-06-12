@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/06/2026 12:30",
+  "timestamp": "12/06/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "85",
+      "valor": "86",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.7 %",
+      "valor": "97.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "12-06",
-      "valor": 85.0
+      "valor": 86.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +92,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.7
+      "valor": 97.8
     }
   ],
   "picking_mensual": [
@@ -118,7 +118,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1439.0
+      "valor": 1440.0
     }
   ],
   "promedio_ruta": [
@@ -140,7 +140,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 102.0
+      "valor": 103.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -194,7 +194,7 @@
     },
     {
       "label": "JUN",
-      "valor": 574.0
+      "valor": 580.0
     }
   ],
   "fillrate_mensual": [
@@ -241,7 +241,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1260",
+      "total": "1261",
       "porcentaje": "12.5 %"
     },
     {
@@ -261,9 +261,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "178",
-      "unidades": "18949",
-      "ordenes": "79"
+      "tareas": "179",
+      "unidades": "18959",
+      "ordenes": "80"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -395,9 +395,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "156",
-      "disponibles": "143",
-      "porcentaje": "52.2 %"
+      "ocupadas": "155",
+      "disponibles": "144",
+      "porcentaje": "51.8 %"
     }
   ]
 }

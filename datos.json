@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/06/2026 12:00",
+  "timestamp": "12/06/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "76",
+      "valor": "85",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "12-06",
-      "valor": 76.0
+      "valor": 85.0
     }
   ],
   "cumplimiento": [
@@ -118,7 +118,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1430.0
+      "valor": 1439.0
     }
   ],
   "promedio_ruta": [
@@ -128,7 +128,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 372.0
+      "valor": 373.0
     },
     {
       "label": "SITRANS",
@@ -194,7 +194,7 @@
     },
     {
       "label": "JUN",
-      "valor": 569.0
+      "valor": 574.0
     }
   ],
   "fillrate_mensual": [
@@ -231,7 +231,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2318",
+      "total": "2323",
       "porcentaje": "23.1 %"
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1257",
+      "total": "1260",
       "porcentaje": "12.5 %"
     },
     {
@@ -254,16 +254,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "279",
-      "unidades": "42211",
+      "tareas": "284",
+      "unidades": "42502",
       "ordenes": "79"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "175",
-      "unidades": "18940",
-      "ordenes": "77"
+      "tareas": "178",
+      "unidades": "18949",
+      "ordenes": "79"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -275,9 +275,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "71",
-      "unidades": "1977",
-      "ordenes": "66"
+      "tareas": "72",
+      "unidades": "1982",
+      "ordenes": "67"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -368,9 +368,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1144",
-      "disponibles": "338",
-      "porcentaje": "77.2 %"
+      "ocupadas": "1145",
+      "disponibles": "337",
+      "porcentaje": "77.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",

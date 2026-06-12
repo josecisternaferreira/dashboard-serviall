@@ -1,14 +1,14 @@
 {
-  "timestamp": "12/06/2026 11:00",
+  "timestamp": "12/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "36",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "12-06",
-      "valor": 36.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -118,7 +118,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1390.0
+      "valor": 1408.0
     }
   ],
   "promedio_ruta": [
@@ -128,11 +128,11 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 368.0
+      "valor": 369.0
     },
     {
       "label": "SITRANS",
-      "valor": 365.0
+      "valor": 366.0
     },
     {
       "label": "ESTAFETA",
@@ -194,7 +194,7 @@
     },
     {
       "label": "JUN",
-      "valor": 562.0
+      "valor": 566.0
     }
   ],
   "fillrate_mensual": [
@@ -231,7 +231,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2306",
+      "total": "2310",
       "porcentaje": "23.1 %"
     },
     {
@@ -241,8 +241,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1241",
-      "porcentaje": "12.4 %"
+      "total": "1250",
+      "porcentaje": "12.5 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -254,16 +254,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "266",
-      "unidades": "41562",
-      "ordenes": "77"
+      "tareas": "271",
+      "unidades": "41789",
+      "ordenes": "79"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "159",
-      "unidades": "18009",
-      "ordenes": "66"
+      "tareas": "168",
+      "unidades": "18260",
+      "ordenes": "71"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -275,9 +275,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "60",
-      "unidades": "1856",
-      "ordenes": "55"
+      "tareas": "64",
+      "unidades": "1904",
+      "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -368,9 +368,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1146",
-      "disponibles": "336",
-      "porcentaje": "77.3 %"
+      "ocupadas": "1144",
+      "disponibles": "338",
+      "porcentaje": "77.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

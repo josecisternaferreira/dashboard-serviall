@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/06/2026 11:01",
+  "timestamp": "15/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "16",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "15-06",
-      "valor": 13.0
+      "valor": 16.0
     }
   ],
   "cumplimiento": [
@@ -122,7 +122,7 @@
     },
     {
       "label": "JUN",
-      "valor": 826.0
+      "valor": 829.0
     }
   ],
   "promedio_ruta": [
@@ -186,7 +186,7 @@
     },
     {
       "label": "JUN",
-      "valor": 270.0
+      "valor": 271.0
     }
   ],
   "fillrate_mensual": [
@@ -238,17 +238,24 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "565",
-      "porcentaje": "8.9 %"
+      "total": "566",
+      "porcentaje": "9.0 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "13",
-      "unidades": "224",
-      "ordenes": "4"
+      "tareas": "15",
+      "unidades": "524",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "1",
+      "unidades": "3",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

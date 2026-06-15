@@ -1,14 +1,14 @@
 {
-  "timestamp": "15/06/2026 12:00",
+  "timestamp": "15/06/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "7",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "43",
+      "valor": "47",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "label": "15-06",
-      "valor": 43.0
+      "valor": 47.0
     }
   ],
   "cumplimiento": [
@@ -126,13 +126,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1491.0
+      "valor": 1495.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1412.0
+      "valor": 1413.0
     },
     {
       "label": "AGUNSA",
@@ -202,7 +202,7 @@
     },
     {
       "label": "JUN",
-      "valor": 639.0
+      "valor": 641.0
     }
   ],
   "fillrate_mensual": [
@@ -239,7 +239,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2207",
+      "total": "2208",
       "porcentaje": "22.5 %"
     },
     {
@@ -249,8 +249,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1291",
-      "porcentaje": "13.1 %"
+      "total": "1294",
+      "porcentaje": "13.2 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -262,16 +262,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "30",
-      "unidades": "1328",
-      "ordenes": "19"
+      "tareas": "33",
+      "unidades": "1441",
+      "ordenes": "22"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "13",
-      "unidades": "623",
-      "ordenes": "4"
+      "tareas": "14",
+      "unidades": "742",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/06/2026 11:30",
+  "timestamp": "15/06/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "37",
+      "valor": "43",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.9 %",
+      "valor": "98.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "label": "15-06",
-      "valor": 37.0
+      "valor": 43.0
     }
   ],
   "cumplimiento": [
@@ -100,7 +100,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.9
+      "valor": 98.0
     }
   ],
   "picking_mensual": [
@@ -126,7 +126,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1485.0
+      "valor": 1491.0
     }
   ],
   "promedio_ruta": [
@@ -144,7 +144,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 282.0
+      "valor": 283.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -202,7 +202,7 @@
     },
     {
       "label": "JUN",
-      "valor": 634.0
+      "valor": 639.0
     }
   ],
   "fillrate_mensual": [
@@ -239,7 +239,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2205",
+      "total": "2207",
       "porcentaje": "22.5 %"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1287",
+      "total": "1291",
       "porcentaje": "13.1 %"
     },
     {
@@ -262,16 +262,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "26",
-      "unidades": "1324",
-      "ordenes": "16"
+      "tareas": "30",
+      "unidades": "1328",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "11",
-      "unidades": "619",
-      "ordenes": "3"
+      "tareas": "13",
+      "unidades": "623",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [

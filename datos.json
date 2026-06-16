@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/06/2026 09:30",
+  "timestamp": "16/06/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "12",
+      "valor": "28",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "16-06",
-      "valor": 12.0
+      "valor": 28.0
     }
   ],
   "cumplimiento": [
@@ -130,17 +130,17 @@
     },
     {
       "label": "JUN",
-      "valor": 1563.0
+      "valor": 1579.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1419.0
+      "valor": 1420.0
     },
     {
       "label": "AGUNSA",
-      "valor": 377.0
+      "valor": 378.0
     },
     {
       "label": "SITRANS",
@@ -243,7 +243,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2209",
+      "total": "2213",
       "porcentaje": "22.3 %"
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1322",
+      "total": "1329",
       "porcentaje": "13.4 %"
     },
     {
@@ -266,16 +266,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "61",
-      "unidades": "3157",
-      "ordenes": "31"
+      "tareas": "68",
+      "unidades": "3485",
+      "ordenes": "33"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
+      "tareas": "19",
+      "unidades": "11789",
+      "ordenes": "10"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
       "tareas": "15",
-      "unidades": "7842",
-      "ordenes": "6"
+      "unidades": "1222",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -283,13 +290,6 @@
       "tareas": "14",
       "unidades": "952",
       "ordenes": "6"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "10",
-      "unidades": "1156",
-      "ordenes": "1"
     },
     {
       "region": "BODEGA SANTIAGO",

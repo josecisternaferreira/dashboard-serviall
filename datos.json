@@ -1,19 +1,19 @@
 {
-  "timestamp": "16/06/2026 16:31",
+  "timestamp": "16/06/2026 17:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "10",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "141",
+      "valor": "142",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.0 %",
+      "valor": "98.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "16-06",
-      "valor": 141.0
+      "valor": 142.0
     }
   ],
   "cumplimiento": [
@@ -104,7 +104,7 @@
     },
     {
       "label": "JUN",
-      "valor": 98.0
+      "valor": 98.1
     }
   ],
   "picking_mensual": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1693.0
+      "valor": 1694.0
     }
   ],
   "promedio_ruta": [
@@ -206,7 +206,7 @@
     },
     {
       "label": "JUN",
-      "valor": 661.0
+      "valor": 667.0
     }
   ],
   "fillrate_mensual": [
@@ -243,7 +243,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2243",
+      "total": "2244",
       "porcentaje": "22.4 %"
     },
     {
@@ -273,9 +273,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "49",
-      "unidades": "12892",
-      "ordenes": "30"
+      "tareas": "50",
+      "unidades": "12912",
+      "ordenes": "31"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -373,9 +373,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1145",
-      "disponibles": "337",
-      "porcentaje": "77.3 %"
+      "ocupadas": "1144",
+      "disponibles": "338",
+      "porcentaje": "77.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

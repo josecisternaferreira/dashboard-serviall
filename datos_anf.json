@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/06/2026 11:31",
+  "timestamp": "16/06/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "15",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "label": "16-06",
-      "valor": 1.0
+      "valor": 15.0
     }
   ],
   "cumplimiento": [
@@ -126,13 +126,13 @@
     },
     {
       "label": "JUN",
-      "valor": 959.0
+      "valor": 973.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 903.0
+      "valor": 905.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -222,18 +222,18 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1774",
-      "porcentaje": "27.5 %"
+      "total": "1788",
+      "porcentaje": "27.7 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "966",
-      "porcentaje": "15.0 %"
+      "porcentaje": "14.9 %"
     },
     {
       "operador": "JHONY MONTONYA",
       "total": "694",
-      "porcentaje": "10.8 %"
+      "porcentaje": "10.7 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -256,17 +256,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "42",
+      "unidades": "8169",
+      "ordenes": "8"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
       "tareas": "34",
       "unidades": "1553",
       "ordenes": "3"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "28",
-      "unidades": "3500",
-      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "16/06/2026 15:31",
+  "timestamp": "16/06/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "30",
+      "valor": "40",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "label": "16-06",
-      "valor": 30.0
+      "valor": 40.0
     }
   ],
   "cumplimiento": [
@@ -126,13 +126,13 @@
     },
     {
       "label": "JUN",
-      "valor": 988.0
+      "valor": 998.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 908.0
+      "valor": 910.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -236,22 +236,22 @@
       "porcentaje": "10.7 %"
     },
     {
+      "operador": "LESLIE CARRIZO",
+      "total": "615",
+      "porcentaje": "9.5 %"
+    },
+    {
       "operador": "LUIS ARDILES",
       "total": "608",
       "porcentaje": "9.4 %"
-    },
-    {
-      "operador": "LESLIE CARRIZO",
-      "total": "605",
-      "porcentaje": "9.3 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "64",
-      "unidades": "6486",
+      "tareas": "74",
+      "unidades": "12122",
       "ordenes": "13"
     },
     {

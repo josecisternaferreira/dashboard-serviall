@@ -1,14 +1,14 @@
 {
-  "timestamp": "16/06/2026 16:01",
+  "timestamp": "16/06/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "4",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "40",
+      "valor": "45",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "label": "16-06",
-      "valor": 40.0
+      "valor": 45.0
     }
   ],
   "cumplimiento": [
@@ -126,7 +126,7 @@
     },
     {
       "label": "JUN",
-      "valor": 998.0
+      "valor": 1003.0
     }
   ],
   "promedio_ruta": [
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUN",
-      "valor": 287.0
+      "valor": 288.0
     }
   ],
   "fillrate_mensual": [
@@ -223,7 +223,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1794",
-      "porcentaje": "27.7 %"
+      "porcentaje": "27.6 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -237,8 +237,8 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "615",
-      "porcentaje": "9.5 %"
+      "total": "620",
+      "porcentaje": "9.6 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -250,9 +250,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "74",
-      "unidades": "12122",
-      "ordenes": "13"
+      "tareas": "79",
+      "unidades": "12228",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -348,9 +348,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "220",
-      "disponibles": "270",
-      "porcentaje": "44.9 %"
+      "ocupadas": "221",
+      "disponibles": "269",
+      "porcentaje": "45.1 %"
     }
   ]
 }

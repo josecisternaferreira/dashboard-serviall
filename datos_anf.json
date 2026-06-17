@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/06/2026 15:31",
+  "timestamp": "17/06/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "99",
+      "valor": "105",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "17-06",
-      "valor": 99.0
+      "valor": 105.0
     }
   ],
   "cumplimiento": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1102.0
+      "valor": 1108.0
     }
   ],
   "promedio_ruta": [
@@ -160,7 +160,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 71.0
+      "valor": 72.0
     },
     {
       "label": "AGUNSA",
@@ -194,7 +194,7 @@
     },
     {
       "label": "JUN",
-      "valor": 318.0
+      "valor": 321.0
     }
   ],
   "fillrate_mensual": [
@@ -236,7 +236,7 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "655",
+      "total": "658",
       "porcentaje": "10.6 %"
     },
     {
@@ -254,9 +254,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "114",
-      "unidades": "14866",
-      "ordenes": "32"
+      "tareas": "117",
+      "unidades": "15266",
+      "ordenes": "34"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -268,9 +268,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
-      "tareas": "44",
-      "unidades": "6867",
-      "ordenes": "8"
+      "tareas": "47",
+      "unidades": "7797",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -352,9 +352,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "224",
-      "disponibles": "266",
-      "porcentaje": "45.7 %"
+      "ocupadas": "226",
+      "disponibles": "264",
+      "porcentaje": "46.1 %"
     }
   ]
 }

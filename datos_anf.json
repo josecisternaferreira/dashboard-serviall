@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/06/2026 09:01",
+  "timestamp": "17/06/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.0 %",
+      "valor": "97.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -75,6 +75,10 @@
     {
       "label": "16-06",
       "valor": 45.0
+    },
+    {
+      "label": "17-06",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -100,7 +104,7 @@
     },
     {
       "label": "JUN",
-      "valor": 98.0
+      "valor": 97.7
     }
   ],
   "picking_mensual": [
@@ -126,7 +130,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1003.0
+      "valor": 1004.0
     }
   ],
   "promedio_ruta": [
@@ -190,7 +194,7 @@
     },
     {
       "label": "JUN",
-      "valor": 299.0
+      "valor": 301.0
     }
   ],
   "fillrate_mensual": [
@@ -292,9 +296,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "1",
-      "unidades": "1",
-      "ordenes": "1"
+      "tareas": "2",
+      "unidades": "351",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -348,9 +352,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "220",
-      "disponibles": "270",
-      "porcentaje": "44.9 %"
+      "ocupadas": "219",
+      "disponibles": "271",
+      "porcentaje": "44.7 %"
     }
   ]
 }

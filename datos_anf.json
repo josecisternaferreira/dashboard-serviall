@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/06/2026 14:01",
+  "timestamp": "17/06/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "50",
+      "valor": "73",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "17-06",
-      "valor": 50.0
+      "valor": 73.0
     }
   ],
   "cumplimiento": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1053.0
+      "valor": 1076.0
     }
   ],
   "promedio_ruta": [
@@ -140,11 +140,11 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 271.0
+      "valor": 274.0
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 271.0
+      "valor": 272.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -194,7 +194,7 @@
     },
     {
       "label": "JUN",
-      "valor": 310.0
+      "valor": 311.0
     }
   ],
   "fillrate_mensual": [
@@ -227,7 +227,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1609",
-      "porcentaje": "26.3 %"
+      "porcentaje": "26.2 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -246,8 +246,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "587",
-      "porcentaje": "9.6 %"
+      "total": "606",
+      "porcentaje": "9.9 %"
     }
   ],
   "semana_actual": [
@@ -275,9 +275,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "22",
-      "unidades": "482",
-      "ordenes": "6"
+      "tareas": "41",
+      "unidades": "683",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -289,9 +289,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "4",
-      "unidades": "9",
-      "ordenes": "1"
+      "tareas": "8",
+      "unidades": "63",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -352,9 +352,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "223",
-      "disponibles": "267",
-      "porcentaje": "45.5 %"
+      "ocupadas": "222",
+      "disponibles": "268",
+      "porcentaje": "45.3 %"
     }
   ]
 }

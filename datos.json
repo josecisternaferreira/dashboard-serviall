@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/06/2026 10:01",
+  "timestamp": "17/06/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "36",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "17-06",
-      "valor": 13.0
+      "valor": 36.0
     }
   ],
   "cumplimiento": [
@@ -134,17 +134,17 @@
     },
     {
       "label": "JUN",
-      "valor": 1717.0
+      "valor": 1740.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1429.0
+      "valor": 1431.0
     },
     {
       "label": "AGUNSA",
-      "valor": 386.0
+      "valor": 387.0
     },
     {
       "label": "SITRANS",
@@ -242,13 +242,13 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2248",
-      "porcentaje": "23.8 %"
+      "total": "2256",
+      "porcentaje": "23.9 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2037",
-      "porcentaje": "21.6 %"
+      "porcentaje": "21.5 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -257,8 +257,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1396",
-      "porcentaje": "14.8 %"
+      "total": "1410",
+      "porcentaje": "14.9 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -270,16 +270,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "135",
-      "unidades": "8186",
-      "ordenes": "72"
+      "tareas": "149",
+      "unidades": "8316",
+      "ordenes": "75"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "55",
-      "unidades": "13299",
-      "ordenes": "34"
+      "tareas": "63",
+      "unidades": "13581",
+      "ordenes": "35"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -312,9 +312,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "2",
-      "unidades": "289",
-      "ordenes": "2"
+      "tareas": "3",
+      "unidades": "290",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [
@@ -404,9 +404,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "155",
-      "disponibles": "144",
-      "porcentaje": "51.8 %"
+      "ocupadas": "154",
+      "disponibles": "145",
+      "porcentaje": "51.5 %"
     }
   ]
 }

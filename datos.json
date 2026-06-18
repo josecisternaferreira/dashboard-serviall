@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/06/2026 12:01",
+  "timestamp": "18/06/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "62",
+      "valor": "65",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "18-06",
-      "valor": 62.0
+      "valor": 65.0
     }
   ],
   "cumplimiento": [
@@ -138,13 +138,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1902.0
+      "valor": 1905.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1446.0
+      "valor": 1447.0
     },
     {
       "label": "AGUNSA",
@@ -246,7 +246,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2316",
+      "total": "2319",
       "porcentaje": "24.1 %"
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1503",
+      "total": "1504",
       "porcentaje": "15.6 %"
     },
     {
@@ -274,16 +274,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "242",
-      "unidades": "22704",
-      "ordenes": "111"
+      "tareas": "243",
+      "unidades": "22904",
+      "ordenes": "112"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "123",
-      "unidades": "21725",
-      "ordenes": "63"
+      "tareas": "126",
+      "unidades": "26430",
+      "ordenes": "66"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -381,9 +381,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1140",
-      "disponibles": "342",
-      "porcentaje": "76.9 %"
+      "ocupadas": "1144",
+      "disponibles": "338",
+      "porcentaje": "77.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

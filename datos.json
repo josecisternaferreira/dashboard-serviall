@@ -1,14 +1,14 @@
 {
-  "timestamp": "18/06/2026 16:01",
+  "timestamp": "18/06/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "13",
+      "valor": "16",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "117",
+      "valor": "142",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "18-06",
-      "valor": 117.0
+      "valor": 142.0
     }
   ],
   "cumplimiento": [
@@ -138,13 +138,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1957.0
+      "valor": 1982.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1454.0
+      "valor": 1458.0
     },
     {
       "label": "AGUNSA",
@@ -214,7 +214,7 @@
     },
     {
       "label": "JUN",
-      "valor": 779.0
+      "valor": 784.0
     }
   ],
   "fillrate_mensual": [
@@ -246,13 +246,13 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2340",
-      "porcentaje": "24.2 %"
+      "total": "2357",
+      "porcentaje": "24.3 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2037",
-      "porcentaje": "21.1 %"
+      "porcentaje": "21.0 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -261,28 +261,28 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1534",
+      "total": "1542",
       "porcentaje": "15.9 %"
     },
     {
       "operador": "LUCIANO ALFARO",
       "total": "664",
-      "porcentaje": "6.9 %"
+      "porcentaje": "6.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "273",
-      "unidades": "24716",
-      "ordenes": "123"
+      "tareas": "281",
+      "unidades": "24830",
+      "ordenes": "127"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "147",
-      "unidades": "30075",
+      "tareas": "164",
+      "unidades": "30779",
       "ordenes": "71"
     },
     {

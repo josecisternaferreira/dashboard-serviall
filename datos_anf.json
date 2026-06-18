@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/06/2026 10:31",
+  "timestamp": "18/06/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "57",
+      "valor": "84",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "18-06",
-      "valor": 57.0
+      "valor": 84.0
     }
   ],
   "cumplimiento": [
@@ -134,13 +134,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1166.0
+      "valor": 1193.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 918.0
+      "valor": 923.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -198,7 +198,7 @@
     },
     {
       "label": "JUN",
-      "valor": 336.0
+      "valor": 337.0
     }
   ],
   "fillrate_mensual": [
@@ -230,18 +230,18 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1644",
+      "total": "1651",
       "porcentaje": "26.4 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "908",
-      "porcentaje": "14.6 %"
+      "porcentaje": "14.5 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "669",
-      "porcentaje": "10.7 %"
+      "total": "676",
+      "porcentaje": "10.8 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -258,22 +258,22 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "128",
-      "unidades": "17467",
+      "tareas": "135",
+      "unidades": "17712",
       "ordenes": "37"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "84",
-      "unidades": "11691",
+      "tareas": "91",
+      "unidades": "12119",
       "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
-      "tareas": "59",
-      "unidades": "8380",
+      "tareas": "72",
+      "unidades": "8882",
       "ordenes": "12"
     },
     {
@@ -311,17 +311,17 @@
       "area": "Z-CANTI",
       "tipo": "ACTIVO",
       "total": "4",
-      "ocupadas": "3",
-      "disponibles": "1",
-      "porcentaje": "75.0 %"
+      "ocupadas": "2",
+      "disponibles": "2",
+      "porcentaje": "50.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1122",
-      "disponibles": "788",
+      "ocupadas": "1121",
+      "disponibles": "789",
       "porcentaje": "58.7 %"
     },
     {

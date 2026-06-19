@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/06/2026 14:31",
+  "timestamp": "19/06/2026 15:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "30",
+      "valor": "43",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "19-06",
-      "valor": 30.0
+      "valor": 43.0
     }
   ],
   "cumplimiento": [
@@ -138,17 +138,17 @@
     },
     {
       "label": "JUN",
-      "valor": 1357.0
+      "valor": 1370.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 936.0
+      "valor": 937.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 278.0
+      "valor": 279.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -202,7 +202,7 @@
     },
     {
       "label": "JUN",
-      "valor": 394.0
+      "valor": 396.0
     }
   ],
   "fillrate_mensual": [
@@ -244,7 +244,7 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "736",
+      "total": "741",
       "porcentaje": "11.5 %"
     },
     {
@@ -262,9 +262,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "195",
-      "unidades": "20532",
-      "ordenes": "62"
+      "tareas": "200",
+      "unidades": "20544",
+      "ordenes": "63"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -290,9 +290,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "38",
-      "unidades": "2587",
-      "ordenes": "3"
+      "tareas": "46",
+      "unidades": "2609",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -360,9 +360,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "231",
-      "disponibles": "259",
-      "porcentaje": "47.1 %"
+      "ocupadas": "233",
+      "disponibles": "257",
+      "porcentaje": "47.6 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/06/2026 13:01",
+  "timestamp": "19/06/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "71",
+      "valor": "78",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.4 %",
+      "valor": "98.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "19-06",
-      "valor": 71.0
+      "valor": 78.0
     }
   ],
   "cumplimiento": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "JUN",
-      "valor": 98.4
+      "valor": 98.5
     }
   ],
   "picking_mensual": [
@@ -142,13 +142,13 @@
     },
     {
       "label": "JUN",
-      "valor": 2086.0
+      "valor": 2093.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1472.0
+      "valor": 1473.0
     },
     {
       "label": "AGUNSA",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUN",
-      "valor": 831.0
+      "valor": 843.0
     }
   ],
   "fillrate_mensual": [
@@ -259,13 +259,13 @@
       "porcentaje": "20.8 %"
     },
     {
-      "operador": "MATIAS TORRES",
-      "total": "1588",
-      "porcentaje": "16.2 %"
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1595",
+      "porcentaje": "16.3 %"
     },
     {
-      "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1587",
+      "operador": "MATIAS TORRES",
+      "total": "1588",
       "porcentaje": "16.2 %"
     },
     {
@@ -278,9 +278,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "326",
-      "unidades": "27533",
-      "ordenes": "159"
+      "tareas": "334",
+      "unidades": "27778",
+      "ordenes": "161"
     },
     {
       "region": "BODEGA SANTIAGO",

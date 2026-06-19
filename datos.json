@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/06/2026 11:30",
+  "timestamp": "19/06/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "47",
+      "valor": "55",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "19-06",
-      "valor": 47.0
+      "valor": 55.0
     }
   ],
   "cumplimiento": [
@@ -142,17 +142,17 @@
     },
     {
       "label": "JUN",
-      "valor": 2062.0
+      "valor": 2070.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1469.0
+      "valor": 1470.0
     },
     {
       "label": "AGUNSA",
-      "valor": 392.0
+      "valor": 393.0
     },
     {
       "label": "SITRANS",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUN",
-      "valor": 813.0
+      "valor": 821.0
     }
   ],
   "fillrate_mensual": [
@@ -250,7 +250,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2401",
+      "total": "2407",
       "porcentaje": "24.6 %"
     },
     {
@@ -265,7 +265,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1578",
+      "total": "1580",
       "porcentaje": "16.1 %"
     },
     {
@@ -278,15 +278,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "317",
-      "unidades": "26594",
-      "ordenes": "153"
+      "tareas": "319",
+      "unidades": "26649",
+      "ordenes": "154"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "208",
-      "unidades": "56447",
+      "tareas": "214",
+      "unidades": "56588",
       "ordenes": "71"
     },
     {

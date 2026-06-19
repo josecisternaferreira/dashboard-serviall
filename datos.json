@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/06/2026 15:01",
+  "timestamp": "19/06/2026 15:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "24",
+      "valor": "27",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "93",
+      "valor": "97",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "19-06",
-      "valor": 93.0
+      "valor": 97.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +142,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2108.0
+      "valor": 2112.0
     }
   ],
   "promedio_ruta": [
@@ -164,7 +164,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 106.0
+      "valor": 107.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUN",
-      "valor": 850.0
+      "valor": 851.0
     }
   ],
   "fillrate_mensual": [
@@ -265,7 +265,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1588",
+      "total": "1592",
       "porcentaje": "16.2 %"
     },
     {
@@ -316,6 +316,13 @@
       "tareas": "7",
       "unidades": "302",
       "ordenes": "7"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "4",
+      "unidades": "4",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA SANTIAGO",

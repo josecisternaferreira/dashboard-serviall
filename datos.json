@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/06/2026 12:30",
+  "timestamp": "19/06/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "10",
+      "valor": "16",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "61",
+      "valor": "71",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "19-06",
-      "valor": 61.0
+      "valor": 71.0
     }
   ],
   "cumplimiento": [
@@ -142,13 +142,13 @@
     },
     {
       "label": "JUN",
-      "valor": 2076.0
+      "valor": 2086.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1471.0
+      "valor": 1472.0
     },
     {
       "label": "AGUNSA",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUN",
-      "valor": 829.0
+      "valor": 831.0
     }
   ],
   "fillrate_mensual": [
@@ -250,7 +250,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2411",
+      "total": "2416",
       "porcentaje": "24.6 %"
     },
     {
@@ -265,7 +265,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1583",
+      "total": "1587",
       "porcentaje": "16.2 %"
     },
     {
@@ -278,15 +278,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "322",
-      "unidades": "27283",
-      "ordenes": "156"
+      "tareas": "326",
+      "unidades": "27533",
+      "ordenes": "159"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "218",
-      "unidades": "56858",
+      "tareas": "223",
+      "unidades": "57689",
       "ordenes": "71"
     },
     {
@@ -385,9 +385,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1144",
-      "disponibles": "338",
-      "porcentaje": "77.2 %"
+      "ocupadas": "1143",
+      "disponibles": "339",
+      "porcentaje": "77.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",

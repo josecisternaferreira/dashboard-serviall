@@ -1,14 +1,14 @@
 {
-  "timestamp": "22/06/2026 10:31",
+  "timestamp": "22/06/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "5",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "22-06",
-      "valor": 5.0
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +142,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1376.0
+      "valor": 1377.0
     }
   ],
   "promedio_ruta": [
@@ -206,7 +206,7 @@
     },
     {
       "label": "JUN",
-      "valor": 406.0
+      "valor": 408.0
     }
   ],
   "fillrate_mensual": [
@@ -269,6 +269,13 @@
       "tareas": "5",
       "unidades": "551",
       "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "1",
+      "unidades": "250",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

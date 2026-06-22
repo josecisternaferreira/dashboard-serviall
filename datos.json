@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/06/2026 09:00",
+  "timestamp": "22/06/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -91,6 +91,10 @@
     {
       "label": "19-06",
       "valor": 97.0
+    },
+    {
+      "label": "22-06",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +146,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2112.0
+      "valor": 2116.0
     }
   ],
   "promedio_ruta": [
@@ -255,8 +259,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1897",
-      "porcentaje": "19.8 %"
+      "total": "1901",
+      "porcentaje": "19.9 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -276,11 +280,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "4",
+      "unidades": "1441",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [

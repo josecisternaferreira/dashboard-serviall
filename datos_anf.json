@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/06/2026 09:31",
+  "timestamp": "22/06/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -87,6 +87,10 @@
     {
       "label": "19-06",
       "valor": 44.0
+    },
+    {
+      "label": "22-06",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -138,7 +142,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1371.0
+      "valor": 1375.0
     }
   ],
   "promedio_ruta": [
@@ -202,7 +206,7 @@
     },
     {
       "label": "JUN",
-      "valor": 405.0
+      "valor": 406.0
     }
   ],
   "fillrate_mensual": [
@@ -235,11 +239,11 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1625",
-      "porcentaje": "25.9 %"
+      "porcentaje": "25.8 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "898",
+      "total": "902",
       "porcentaje": "14.3 %"
     },
     {
@@ -255,16 +259,16 @@
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "638",
-      "porcentaje": "10.2 %"
+      "porcentaje": "10.1 %"
     }
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "4",
+      "unidades": "550",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [

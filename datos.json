@@ -1,14 +1,14 @@
 {
-  "timestamp": "22/06/2026 12:01",
+  "timestamp": "22/06/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "14",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "47",
+      "valor": "55",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "2.1 días",
+      "valor": "2.2 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
@@ -94,7 +94,7 @@
     },
     {
       "label": "22-06",
-      "valor": 47.0
+      "valor": 55.0
     }
   ],
   "cumplimiento": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2159.0
+      "valor": 2167.0
     }
   ],
   "promedio_ruta": [
@@ -164,7 +164,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 292.0
+      "valor": 293.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUN",
-      "valor": 877.0
+      "valor": 887.0
     }
   ],
   "fillrate_mensual": [
@@ -259,7 +259,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1931",
+      "total": "1939",
       "porcentaje": "20.1 %"
     },
     {
@@ -282,9 +282,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "34",
-      "unidades": "2025",
-      "ordenes": "21"
+      "tareas": "42",
+      "unidades": "2376",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA SANTIAGO",

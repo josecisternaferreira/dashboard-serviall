@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/06/2026 15:31",
+  "timestamp": "22/06/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "92",
+      "valor": "102",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "22-06",
-      "valor": 92.0
+      "valor": 102.0
     }
   ],
   "cumplimiento": [
@@ -142,13 +142,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1463.0
+      "valor": 1473.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 943.0
+      "valor": 945.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -206,7 +206,7 @@
     },
     {
       "label": "JUN",
-      "valor": 428.0
+      "valor": 429.0
     }
   ],
   "fillrate_mensual": [
@@ -238,7 +238,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1625",
+      "total": "1629",
       "porcentaje": "25.5 %"
     },
     {
@@ -249,7 +249,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "769",
-      "porcentaje": "12.1 %"
+      "porcentaje": "12.0 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -290,6 +290,20 @@
       "tareas": "7",
       "unidades": "421",
       "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "6",
+      "unidades": "701",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "4",
+      "unidades": "513",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [

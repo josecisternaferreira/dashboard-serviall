@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/06/2026 11:31",
+  "timestamp": "22/06/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "34",
+      "valor": "47",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "22-06",
-      "valor": 34.0
+      "valor": 47.0
     }
   ],
   "cumplimiento": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2146.0
+      "valor": 2159.0
     }
   ],
   "promedio_ruta": [
@@ -164,15 +164,15 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 291.0
+      "valor": 292.0
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 107.0
+      "valor": 108.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 103.0
+      "valor": 104.0
     },
     {
       "label": "ENEA-FINNING",
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUN",
-      "valor": 876.0
+      "valor": 877.0
     }
   ],
   "fillrate_mensual": [
@@ -255,22 +255,22 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2416",
-      "porcentaje": "25.2 %"
+      "porcentaje": "25.1 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1918",
-      "porcentaje": "20.0 %"
+      "total": "1931",
+      "porcentaje": "20.1 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1609",
-      "porcentaje": "16.8 %"
+      "porcentaje": "16.7 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1485",
-      "porcentaje": "15.5 %"
+      "porcentaje": "15.4 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -282,9 +282,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "21",
-      "unidades": "1970",
-      "ordenes": "13"
+      "tareas": "34",
+      "unidades": "2025",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -361,8 +361,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1154",
-      "disponibles": "328",
+      "ocupadas": "1155",
+      "disponibles": "327",
       "porcentaje": "77.9 %"
     },
     {

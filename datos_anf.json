@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/06/2026 14:01",
+  "timestamp": "22/06/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "77",
+      "valor": "82",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "22-06",
-      "valor": 77.0
+      "valor": 82.0
     }
   ],
   "cumplimiento": [
@@ -142,13 +142,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1448.0
+      "valor": 1453.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 942.0
+      "valor": 943.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -206,7 +206,7 @@
     },
     {
       "label": "JUN",
-      "valor": 418.0
+      "valor": 421.0
     }
   ],
   "fillrate_mensual": [
@@ -243,7 +243,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "927",
+      "total": "932",
       "porcentaje": "14.6 %"
     },
     {
@@ -266,9 +266,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "29",
-      "unidades": "9555",
-      "ordenes": "14"
+      "tareas": "34",
+      "unidades": "9678",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -343,9 +343,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "262",
-      "disponibles": "228",
-      "porcentaje": "53.5 %"
+      "ocupadas": "266",
+      "disponibles": "224",
+      "porcentaje": "54.3 %"
     }
   ]
 }

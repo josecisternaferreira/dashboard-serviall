@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/06/2026 14:31",
+  "timestamp": "22/06/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "82",
+      "valor": "92",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.4 %",
+      "valor": "97.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "22-06",
-      "valor": 82.0
+      "valor": 92.0
     }
   ],
   "cumplimiento": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.4
+      "valor": 97.2
     }
   ],
   "picking_mensual": [
@@ -142,7 +142,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1453.0
+      "valor": 1463.0
     }
   ],
   "promedio_ruta": [
@@ -156,7 +156,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 279.0
+      "valor": 280.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -206,7 +206,7 @@
     },
     {
       "label": "JUN",
-      "valor": 421.0
+      "valor": 426.0
     }
   ],
   "fillrate_mensual": [
@@ -243,8 +243,8 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "932",
-      "porcentaje": "14.6 %"
+      "total": "942",
+      "porcentaje": "14.8 %"
     },
     {
       "operador": "LESLIE CARRIZO",
@@ -266,9 +266,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "34",
-      "unidades": "9678",
-      "ordenes": "15"
+      "tareas": "44",
+      "unidades": "11080",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -343,9 +343,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "266",
-      "disponibles": "224",
-      "porcentaje": "54.3 %"
+      "ocupadas": "268",
+      "disponibles": "222",
+      "porcentaje": "54.7 %"
     }
   ]
 }

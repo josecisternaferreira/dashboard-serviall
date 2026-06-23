@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/06/2026 09:31",
+  "timestamp": "23/06/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "23-06",
-      "valor": 1.0
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -146,17 +146,17 @@
     },
     {
       "label": "JUN",
-      "valor": 1495.0
+      "valor": 1498.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 946.0
+      "valor": 947.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 281.0
+      "valor": 282.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -242,7 +242,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1631",
+      "total": "1632",
       "porcentaje": "25.5 %"
     },
     {
@@ -305,9 +305,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "6",
-      "unidades": "1723",
-      "ordenes": "3"
+      "tareas": "7",
+      "unidades": "1923",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "2",
+      "unidades": "126",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

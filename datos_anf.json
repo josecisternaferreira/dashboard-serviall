@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/06/2026 09:01",
+  "timestamp": "23/06/2026 09:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -91,6 +91,10 @@
     {
       "label": "22-06",
       "valor": 123.0
+    },
+    {
+      "label": "23-06",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +146,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1494.0
+      "valor": 1495.0
     }
   ],
   "promedio_ruta": [
@@ -206,7 +210,7 @@
     },
     {
       "label": "JUN",
-      "valor": 437.0
+      "valor": 446.0
     }
   ],
   "fillrate_mensual": [
@@ -259,7 +263,7 @@
     {
       "operador": "JHONY MONTONYA",
       "total": "644",
-      "porcentaje": "10.1 %"
+      "porcentaje": "10.0 %"
     }
   ],
   "semana_actual": [
@@ -287,8 +291,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "15",
-      "unidades": "1314",
+      "tareas": "16",
+      "unidades": "1328",
       "ordenes": "3"
     },
     {

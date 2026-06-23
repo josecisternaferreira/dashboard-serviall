@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/06/2026 10:01",
+  "timestamp": "23/06/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "4",
+      "valor": "16",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "23-06",
-      "valor": 4.0
+      "valor": 16.0
     }
   ],
   "cumplimiento": [
@@ -146,13 +146,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1498.0
+      "valor": 1510.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 947.0
+      "valor": 949.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -210,7 +210,7 @@
     },
     {
       "label": "JUN",
-      "valor": 446.0
+      "valor": 448.0
     }
   ],
   "fillrate_mensual": [
@@ -242,7 +242,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1632",
+      "total": "1637",
       "porcentaje": "25.5 %"
     },
     {
@@ -297,24 +297,24 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "KHENAO",
-      "tareas": "7",
-      "unidades": "421",
-      "ordenes": "1"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "7",
-      "unidades": "1923",
+      "tareas": "12",
+      "unidades": "3218",
       "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "2",
-      "unidades": "126",
-      "ordenes": "2"
+      "tareas": "9",
+      "unidades": "248",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "7",
+      "unidades": "421",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

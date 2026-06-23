@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/06/2026 12:31",
+  "timestamp": "23/06/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "102",
+      "valor": "110",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "23-06",
-      "valor": 102.0
+      "valor": 110.0
     }
   ],
   "cumplimiento": [
@@ -146,13 +146,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1596.0
+      "valor": 1604.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 962.0
+      "valor": 963.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -210,7 +210,7 @@
     },
     {
       "label": "JUN",
-      "valor": 454.0
+      "valor": 457.0
     }
   ],
   "fillrate_mensual": [
@@ -242,7 +242,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1656",
+      "total": "1658",
       "porcentaje": "25.4 %"
     },
     {
@@ -283,6 +283,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "33",
+      "unidades": "20011",
+      "ordenes": "8"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
       "tareas": "32",
       "unidades": "634",
@@ -290,10 +297,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "31",
-      "unidades": "15461",
-      "ordenes": "8"
+      "usuario": "LARDILES",
+      "tareas": "29",
+      "unidades": "8899",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -301,13 +308,6 @@
       "tareas": "23",
       "unidades": "3960",
       "ordenes": "2"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "23",
-      "unidades": "6009",
-      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

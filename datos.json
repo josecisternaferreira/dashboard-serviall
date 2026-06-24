@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/06/2026 08:30",
+  "timestamp": "24/06/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -99,6 +99,10 @@
     {
       "label": "23-06",
       "valor": 265.0
+    },
+    {
+      "label": "24-06",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -150,13 +154,13 @@
     },
     {
       "label": "JUN",
-      "valor": 2479.0
+      "valor": 2481.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1508.0
+      "valor": 1509.0
     },
     {
       "label": "AGUNSA",
@@ -226,7 +230,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1005.0
+      "valor": 1008.0
     }
   ],
   "fillrate_mensual": [
@@ -263,7 +267,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1949",
+      "total": "1950",
       "porcentaje": "20.3 %"
     },
     {
@@ -273,7 +277,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1521",
+      "total": "1523",
       "porcentaje": "15.9 %"
     },
     {
@@ -286,16 +290,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "221",
-      "unidades": "21587",
-      "ordenes": "82"
+      "tareas": "222",
+      "unidades": "21592",
+      "ordenes": "83"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "96",
-      "unidades": "6142",
-      "ordenes": "12"
+      "tareas": "98",
+      "unidades": "6223",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -386,8 +390,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1161",
-      "disponibles": "321",
+      "ocupadas": "1160",
+      "disponibles": "322",
       "porcentaje": "78.3 %"
     },
     {

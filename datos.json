@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/06/2026 10:01",
+  "timestamp": "25/06/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "49",
+      "valor": "81",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.7 %",
+      "valor": "98.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "25-06",
-      "valor": 49.0
+      "valor": 81.0
     }
   ],
   "cumplimiento": [
@@ -132,7 +132,7 @@
     },
     {
       "label": "JUN",
-      "valor": 98.7
+      "valor": 98.8
     }
   ],
   "picking_mensual": [
@@ -158,25 +158,25 @@
     },
     {
       "label": "JUN",
-      "valor": 2719.0
+      "valor": 2751.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1538.0
+      "valor": 1541.0
     },
     {
       "label": "AGUNSA",
-      "valor": 406.0
+      "valor": 407.0
     },
     {
       "label": "SITRANS",
-      "valor": 389.0
+      "valor": 390.0
     },
     {
       "label": "ESTAFETA",
-      "valor": 295.0
+      "valor": 296.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -234,7 +234,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1039.0
+      "valor": 1040.0
     }
   ],
   "fillrate_mensual": [
@@ -267,26 +267,26 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2358",
-      "porcentaje": "24.0 %"
+      "porcentaje": "23.9 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2085",
-      "porcentaje": "21.2 %"
+      "total": "2101",
+      "porcentaje": "21.3 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1609",
+      "porcentaje": "16.3 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1609",
-      "porcentaje": "16.4 %"
-    },
-    {
-      "operador": "MATIAS TORRES",
-      "total": "1601",
       "porcentaje": "16.3 %"
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "658",
+      "total": "660",
       "porcentaje": "6.7 %"
     }
   ],
@@ -294,30 +294,30 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "357",
-      "unidades": "34292",
+      "tareas": "373",
+      "unidades": "34761",
       "ordenes": "121"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "176",
-      "unidades": "12917",
-      "ordenes": "22"
+      "tareas": "184",
+      "unidades": "13050",
+      "ordenes": "24"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "33",
-      "unidades": "2273",
-      "ordenes": "29"
+      "tareas": "38",
+      "unidades": "7995",
+      "ordenes": "34"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "31",
-      "unidades": "1372",
-      "ordenes": "10"
+      "tareas": "33",
+      "unidades": "1397",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA SANTIAGO",

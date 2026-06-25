@@ -1,14 +1,14 @@
 {
-  "timestamp": "25/06/2026 14:01",
+  "timestamp": "25/06/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "10",
+      "valor": "16",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "223",
+      "valor": "237",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "25-06",
-      "valor": 223.0
+      "valor": 237.0
     }
   ],
   "cumplimiento": [
@@ -158,17 +158,17 @@
     },
     {
       "label": "JUN",
-      "valor": 2893.0
+      "valor": 2907.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1554.0
+      "valor": 1555.0
     },
     {
       "label": "AGUNSA",
-      "valor": 408.0
+      "valor": 409.0
     },
     {
       "label": "SITRANS",
@@ -234,7 +234,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1058.0
+      "valor": 1059.0
     }
   ],
   "fillrate_mensual": [
@@ -267,16 +267,16 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2358",
-      "porcentaje": "23.6 %"
+      "porcentaje": "23.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2166",
-      "porcentaje": "21.6 %"
+      "total": "2177",
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1654",
+      "total": "1658",
       "porcentaje": "16.5 %"
     },
     {
@@ -287,23 +287,23 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "676",
-      "porcentaje": "6.8 %"
+      "porcentaje": "6.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "438",
-      "unidades": "36972",
-      "ordenes": "140"
+      "tareas": "449",
+      "unidades": "37187",
+      "ordenes": "146"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "229",
-      "unidades": "18063",
-      "ordenes": "32"
+      "tareas": "233",
+      "unidades": "18622",
+      "ordenes": "34"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -421,9 +421,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "151",
-      "disponibles": "148",
-      "porcentaje": "50.5 %"
+      "ocupadas": "152",
+      "disponibles": "147",
+      "porcentaje": "50.8 %"
     }
   ]
 }

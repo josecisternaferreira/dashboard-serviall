@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/06/2026 13:01",
+  "timestamp": "25/06/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "92",
+      "valor": "112",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "25-06",
-      "valor": 92.0
+      "valor": 112.0
     }
   ],
   "cumplimiento": [
@@ -154,13 +154,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1819.0
+      "valor": 1839.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 983.0
+      "valor": 986.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUN",
-      "valor": 496.0
+      "valor": 502.0
     }
   ],
   "fillrate_mensual": [
@@ -250,8 +250,8 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1589",
-      "porcentaje": "25.2 %"
+      "total": "1592",
+      "porcentaje": "25.1 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -260,34 +260,34 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "834",
-      "porcentaje": "13.2 %"
+      "total": "844",
+      "porcentaje": "13.3 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "687",
-      "porcentaje": "10.9 %"
+      "porcentaje": "10.8 %"
     },
     {
       "operador": "JHONY MONTONYA",
       "total": "643",
-      "porcentaje": "10.2 %"
+      "porcentaje": "10.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "93",
-      "unidades": "7953",
+      "tareas": "103",
+      "unidades": "8319",
       "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "90",
-      "unidades": "36052",
-      "ordenes": "28"
+      "tareas": "93",
+      "unidades": "36313",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -306,15 +306,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "44",
-      "unidades": "9878",
-      "ordenes": "16"
+      "tareas": "47",
+      "unidades": "9916",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGLAVIC",
-      "tareas": "27",
-      "unidades": "5471",
+      "tareas": "31",
+      "unidades": "6501",
       "ordenes": "2"
     },
     {

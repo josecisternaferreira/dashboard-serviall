@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/06/2026 14:01",
+  "timestamp": "25/06/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "135",
+      "valor": "143",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.2 %",
+      "valor": "97.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "25-06",
-      "valor": 135.0
+      "valor": 143.0
     }
   ],
   "cumplimiento": [
@@ -128,7 +128,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.2
+      "valor": 97.0
     }
   ],
   "picking_mensual": [
@@ -154,7 +154,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1862.0
+      "valor": 1870.0
     }
   ],
   "promedio_ruta": [
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUN",
-      "valor": 504.0
+      "valor": 507.0
     }
   ],
   "fillrate_mensual": [
@@ -260,12 +260,12 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "856",
+      "total": "860",
       "porcentaje": "13.5 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "687",
+      "total": "691",
       "porcentaje": "10.8 %"
     },
     {
@@ -278,8 +278,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "115",
-      "unidades": "8875",
+      "tareas": "119",
+      "unidades": "8941",
       "ordenes": "10"
     },
     {
@@ -292,9 +292,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "69",
-      "unidades": "6007",
-      "ordenes": "40"
+      "tareas": "73",
+      "unidades": "6223",
+      "ordenes": "41"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

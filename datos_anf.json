@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/06/2026 13:31",
+  "timestamp": "25/06/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "112",
+      "valor": "135",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "25-06",
-      "valor": 112.0
+      "valor": 135.0
     }
   ],
   "cumplimiento": [
@@ -154,13 +154,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1839.0
+      "valor": 1862.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 986.0
+      "valor": 990.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -176,7 +176,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 80.0
+      "valor": 81.0
     },
     {
       "label": "SITRANS",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUN",
-      "valor": 502.0
+      "valor": 504.0
     }
   ],
   "fillrate_mensual": [
@@ -250,18 +250,18 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1592",
-      "porcentaje": "25.1 %"
+      "total": "1603",
+      "porcentaje": "25.2 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "867",
-      "porcentaje": "13.7 %"
+      "porcentaje": "13.6 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "844",
-      "porcentaje": "13.3 %"
+      "total": "856",
+      "porcentaje": "13.5 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -278,15 +278,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "103",
-      "unidades": "8319",
-      "ordenes": "8"
+      "tareas": "115",
+      "unidades": "8875",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "93",
-      "unidades": "36313",
+      "tareas": "104",
+      "unidades": "37390",
       "ordenes": "29"
     },
     {
@@ -370,9 +370,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "32",
-      "ocupadas": "25",
-      "disponibles": "7",
-      "porcentaje": "78.1 %"
+      "ocupadas": "26",
+      "disponibles": "6",
+      "porcentaje": "81.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

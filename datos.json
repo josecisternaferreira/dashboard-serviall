@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/06/2026 11:01",
+  "timestamp": "26/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "22",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "26-06",
-      "valor": 17.0
+      "valor": 22.0
     }
   ],
   "cumplimiento": [
@@ -162,7 +162,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2929.0
+      "valor": 2934.0
     }
   ],
   "promedio_ruta": [
@@ -176,7 +176,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 394.0
+      "valor": 395.0
     },
     {
       "label": "ESTAFETA",
@@ -275,7 +275,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2185",
+      "total": "2190",
       "porcentaje": "21.8 %"
     },
     {
@@ -291,16 +291,16 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "688",
-      "porcentaje": "6.9 %"
+      "porcentaje": "6.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "457",
-      "unidades": "37624",
-      "ordenes": "153"
+      "tareas": "462",
+      "unidades": "37676",
+      "ordenes": "158"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -389,18 +389,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "12",
-      "disponibles": "22",
-      "porcentaje": "35.3 %"
+      "ocupadas": "11",
+      "disponibles": "23",
+      "porcentaje": "32.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1165",
-      "disponibles": "317",
-      "porcentaje": "78.6 %"
+      "ocupadas": "1164",
+      "disponibles": "318",
+      "porcentaje": "78.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -425,9 +425,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "152",
-      "disponibles": "147",
-      "porcentaje": "50.8 %"
+      "ocupadas": "149",
+      "disponibles": "150",
+      "porcentaje": "49.8 %"
     }
   ]
 }

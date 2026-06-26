@@ -1,14 +1,14 @@
 {
-  "timestamp": "26/06/2026 13:31",
+  "timestamp": "26/06/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "74",
+      "valor": "84",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "26-06",
-      "valor": 74.0
+      "valor": 84.0
     }
   ],
   "cumplimiento": [
@@ -158,21 +158,21 @@
     },
     {
       "label": "JUN",
-      "valor": 1983.0
+      "valor": 1993.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1003.0
+      "valor": 1004.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 292.0
+      "valor": 293.0
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 289.0
+      "valor": 290.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -184,7 +184,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 80.0
+      "valor": 81.0
     },
     {
       "label": "SQM_MRP",
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUN",
-      "valor": 550.0
+      "valor": 553.0
     }
   ],
   "fillrate_mensual": [
@@ -259,8 +259,8 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "904",
-      "porcentaje": "13.9 %"
+      "total": "914",
+      "porcentaje": "14.1 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -282,9 +282,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "163",
-      "unidades": "13244",
-      "ordenes": "26"
+      "tareas": "173",
+      "unidades": "13568",
+      "ordenes": "33"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "258",
-      "disponibles": "232",
-      "porcentaje": "52.7 %"
+      "ocupadas": "267",
+      "disponibles": "223",
+      "porcentaje": "54.5 %"
     }
   ]
 }

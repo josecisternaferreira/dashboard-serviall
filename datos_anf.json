@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/06/2026 10:01",
+  "timestamp": "26/06/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "8",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.0 %",
+      "valor": "96.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "26-06",
-      "valor": 8.0
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -132,7 +132,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.0
+      "valor": 96.8
     }
   ],
   "picking_mensual": [
@@ -158,17 +158,17 @@
     },
     {
       "label": "JUN",
-      "valor": 1917.0
+      "valor": 1922.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 997.0
+      "valor": 998.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 289.0
+      "valor": 290.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUN",
-      "valor": 532.0
+      "valor": 534.0
     }
   ],
   "fillrate_mensual": [
@@ -254,13 +254,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1603",
+      "total": "1605",
       "porcentaje": "25.0 %"
     },
     {
       "operador": "LESLIE CARRIZO",
       "total": "889",
-      "porcentaje": "13.9 %"
+      "porcentaje": "13.8 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -289,9 +289,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "104",
-      "unidades": "37390",
-      "ordenes": "29"
+      "tareas": "106",
+      "unidades": "37510",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -317,8 +317,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGLAVIC",
-      "tareas": "45",
-      "unidades": "10792",
+      "tareas": "48",
+      "unidades": "11793",
       "ordenes": "5"
     },
     {

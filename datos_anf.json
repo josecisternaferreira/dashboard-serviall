@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/06/2026 11:01",
+  "timestamp": "26/06/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "24",
+      "valor": "41",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "26-06",
-      "valor": 24.0
+      "valor": 41.0
     }
   ],
   "cumplimiento": [
@@ -158,13 +158,13 @@
     },
     {
       "label": "JUN",
-      "valor": 1933.0
+      "valor": 1950.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 999.0
+      "valor": 1001.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -172,7 +172,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 288.0
+      "valor": 289.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -188,7 +188,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 76.0
+      "valor": 77.0
     },
     {
       "label": "AGUNSA",
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUN",
-      "valor": 536.0
+      "valor": 538.0
     }
   ],
   "fillrate_mensual": [
@@ -254,7 +254,7 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1608",
+      "total": "1612",
       "porcentaje": "25.0 %"
     },
     {
@@ -269,8 +269,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "691",
-      "porcentaje": "10.7 %"
+      "total": "695",
+      "porcentaje": "10.8 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -289,16 +289,23 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "109",
-      "unidades": "37789",
-      "ordenes": "33"
+      "tareas": "113",
+      "unidades": "37806",
+      "ordenes": "34"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "73",
-      "unidades": "6223",
-      "ordenes": "41"
+      "tareas": "77",
+      "unidades": "6523",
+      "ordenes": "43"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "AGLAVIC",
+      "tareas": "65",
+      "unidades": "25108",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -306,13 +313,6 @@
       "tareas": "63",
       "unidades": "12304",
       "ordenes": "25"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "AGLAVIC",
-      "tareas": "56",
-      "unidades": "14133",
-      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -365,9 +365,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1116",
-      "disponibles": "794",
-      "porcentaje": "58.4 %"
+      "ocupadas": "1117",
+      "disponibles": "793",
+      "porcentaje": "58.5 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

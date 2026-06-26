@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/06/2026 12:01",
+  "timestamp": "26/06/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "51",
+      "valor": "57",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "26-06",
-      "valor": 51.0
+      "valor": 57.0
     }
   ],
   "cumplimiento": [
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1960.0
+      "valor": 1966.0
     }
   ],
   "promedio_ruta": [
@@ -269,13 +269,13 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "700",
-      "porcentaje": "10.8 %"
+      "total": "706",
+      "porcentaje": "10.9 %"
     },
     {
       "operador": "JHONY MONTONYA",
       "total": "643",
-      "porcentaje": "10.0 %"
+      "porcentaje": "9.9 %"
     }
   ],
   "semana_actual": [
@@ -296,9 +296,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "82",
-      "unidades": "6675",
-      "ordenes": "45"
+      "tareas": "88",
+      "unidades": "6776",
+      "ordenes": "49"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -365,9 +365,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1910",
-      "ocupadas": "1118",
-      "disponibles": "792",
-      "porcentaje": "58.5 %"
+      "ocupadas": "1119",
+      "disponibles": "791",
+      "porcentaje": "58.6 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "264",
-      "disponibles": "226",
-      "porcentaje": "53.9 %"
+      "ocupadas": "263",
+      "disponibles": "227",
+      "porcentaje": "53.7 %"
     }
   ]
 }

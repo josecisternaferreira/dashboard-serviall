@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/06/2026 10:30",
+  "timestamp": "27/06/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "24",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "label": "27-06",
-      "valor": 15.0
+      "valor": 24.0
     }
   ],
   "cumplimiento": [
@@ -166,7 +166,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2959.0
+      "valor": 2968.0
     }
   ],
   "promedio_ruta": [
@@ -176,7 +176,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 411.0
+      "valor": 412.0
     },
     {
       "label": "SITRANS",
@@ -242,7 +242,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1129.0
+      "valor": 1130.0
     }
   ],
   "fillrate_mensual": [
@@ -279,7 +279,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2212",
+      "total": "2216",
       "porcentaje": "22.0 %"
     },
     {
@@ -295,16 +295,16 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "690",
-      "porcentaje": "6.9 %"
+      "porcentaje": "6.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "484",
-      "unidades": "40273",
-      "ordenes": "174"
+      "tareas": "488",
+      "unidades": "40329",
+      "ordenes": "177"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -337,9 +337,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "2",
-      "unidades": "15200",
-      "ordenes": "2"
+      "tareas": "7",
+      "unidades": "16515",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -429,9 +429,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "149",
-      "disponibles": "150",
-      "porcentaje": "49.8 %"
+      "ocupadas": "148",
+      "disponibles": "151",
+      "porcentaje": "49.5 %"
     }
   ]
 }

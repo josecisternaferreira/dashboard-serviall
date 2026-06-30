@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/06/2026 13:01",
+  "timestamp": "30/06/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "63",
+      "valor": "80",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "30-06",
-      "valor": 63.0
+      "valor": 80.0
     }
   ],
   "cumplimiento": [
@@ -162,13 +162,13 @@
     },
     {
       "label": "JUN",
-      "valor": 2057.0
+      "valor": 2074.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1007.0
+      "valor": 1009.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -226,7 +226,7 @@
     },
     {
       "label": "JUN",
-      "valor": 577.0
+      "valor": 578.0
     }
   ],
   "fillrate_mensual": [
@@ -259,12 +259,12 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1582",
-      "porcentaje": "24.6 %"
+      "porcentaje": "24.5 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "946",
-      "porcentaje": "14.7 %"
+      "total": "953",
+      "porcentaje": "14.8 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -286,9 +286,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "31",
-      "unidades": "2607",
+      "tareas": "38",
+      "unidades": "3161",
       "ordenes": "9"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "15",
+      "unidades": "2895",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -296,13 +303,6 @@
       "tareas": "12",
       "unidades": "1021",
       "ordenes": "9"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "9",
-      "unidades": "1355",
-      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -314,9 +314,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "3",
-      "unidades": "42",
-      "ordenes": "1"
+      "tareas": "7",
+      "unidades": "57",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [

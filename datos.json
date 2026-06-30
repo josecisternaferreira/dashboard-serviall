@@ -1,19 +1,19 @@
 {
-  "timestamp": "30/06/2026 12:31",
+  "timestamp": "30/06/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "16",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "36",
+      "valor": "65",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.1 %",
+      "valor": "96.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "2.1 días",
+      "valor": "2.2 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
@@ -118,7 +118,7 @@
     },
     {
       "label": "30-06",
-      "valor": 36.0
+      "valor": 65.0
     }
   ],
   "cumplimiento": [
@@ -144,7 +144,7 @@
     },
     {
       "label": "JUN",
-      "valor": 97.1
+      "valor": 96.2
     }
   ],
   "picking_mensual": [
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUN",
-      "valor": 3006.0
+      "valor": 3035.0
     }
   ],
   "promedio_ruta": [
@@ -184,11 +184,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 399.0
+      "valor": 401.0
     },
     {
       "label": "ESTAFETA",
-      "valor": 299.0
+      "valor": 300.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -196,11 +196,11 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 106.0
+      "valor": 107.0
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 84.0
+      "valor": 85.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -212,7 +212,7 @@
     },
     {
       "label": "LOBOZA-FINNING",
-      "valor": 11.0
+      "valor": 12.0
     },
     {
       "label": "SQM_MRP",
@@ -246,7 +246,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1214.0
+      "valor": 1235.0
     }
   ],
   "fillrate_mensual": [
@@ -279,12 +279,17 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2358",
-      "porcentaje": "23.9 %"
+      "porcentaje": "23.8 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2060",
+      "total": "2072",
       "porcentaje": "20.9 %"
+    },
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1612",
+      "porcentaje": "16.3 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -292,29 +297,38 @@
       "porcentaje": "16.3 %"
     },
     {
-      "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1609",
-      "porcentaje": "16.3 %"
-    },
-    {
       "operador": "LUCIANO ALFARO",
-      "total": "690",
-      "porcentaje": "7.0 %"
+      "total": "699",
+      "porcentaje": "7.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "35",
-      "unidades": "11042",
-      "ordenes": "29"
+      "tareas": "47",
+      "unidades": "11279",
+      "ordenes": "36"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "9",
+      "unidades": "553",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "1",
-      "unidades": "6",
+      "tareas": "7",
+      "unidades": "376",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "3",
+      "unidades": "150",
       "ordenes": "1"
     }
   ],
@@ -378,9 +392,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1174",
-      "disponibles": "308",
-      "porcentaje": "79.2 %"
+      "ocupadas": "1170",
+      "disponibles": "312",
+      "porcentaje": "78.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -405,9 +419,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "149",
-      "disponibles": "150",
-      "porcentaje": "49.8 %"
+      "ocupadas": "150",
+      "disponibles": "149",
+      "porcentaje": "50.2 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/06/2026 14:31",
+  "timestamp": "30/06/2026 15:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "93",
+      "valor": "139",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.5 %",
+      "valor": "95.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "30-06",
-      "valor": 93.0
+      "valor": 139.0
     }
   ],
   "cumplimiento": [
@@ -136,7 +136,7 @@
     },
     {
       "label": "JUN",
-      "valor": 95.5
+      "valor": 95.2
     }
   ],
   "picking_mensual": [
@@ -162,13 +162,13 @@
     },
     {
       "label": "JUN",
-      "valor": 2087.0
+      "valor": 2133.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1010.0
+      "valor": 1016.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -176,7 +176,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 291.0
+      "valor": 292.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -184,7 +184,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 83.0
+      "valor": 84.0
     },
     {
       "label": "ESTAFETA",
@@ -196,7 +196,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 30.0
+      "valor": 31.0
     },
     {
       "label": "REPOSICION",
@@ -226,7 +226,7 @@
     },
     {
       "label": "JUN",
-      "valor": 583.0
+      "valor": 587.0
     }
   ],
   "fillrate_mensual": [
@@ -258,58 +258,65 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1582",
-      "porcentaje": "24.5 %"
+      "total": "1591",
+      "porcentaje": "24.4 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "958",
-      "porcentaje": "14.8 %"
+      "total": "976",
+      "porcentaje": "15.0 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "878",
-      "porcentaje": "13.6 %"
+      "total": "882",
+      "porcentaje": "13.5 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "691",
-      "porcentaje": "10.7 %"
+      "porcentaje": "10.6 %"
     },
     {
       "operador": "JHONY MONTONYA",
       "total": "638",
-      "porcentaje": "9.9 %"
+      "porcentaje": "9.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "43",
-      "unidades": "4664",
-      "ordenes": "9"
+      "tareas": "61",
+      "unidades": "5850",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "22",
-      "unidades": "4010",
-      "ordenes": "7"
+      "tareas": "29",
+      "unidades": "4793",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "12",
-      "unidades": "1021",
-      "ordenes": "9"
+      "tareas": "16",
+      "unidades": "1056",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGLAVIC",
-      "tareas": "8",
-      "unidades": "1452",
-      "ordenes": "5"
+      "tareas": "13",
+      "unidades": "1682",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "9",
+      "unidades": "193",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -317,6 +324,20 @@
       "tareas": "7",
       "unidades": "57",
       "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "2",
+      "unidades": "35",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SPIZARRO",
+      "tareas": "1",
+      "unidades": "6",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

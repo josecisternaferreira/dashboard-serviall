@@ -1,14 +1,14 @@
 {
-  "timestamp": "30/06/2026 16:31",
+  "timestamp": "30/06/2026 17:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "30",
+      "valor": "37",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "159",
+      "valor": "165",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "label": "30-06",
-      "valor": 159.0
+      "valor": 165.0
     }
   ],
   "cumplimiento": [
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUN",
-      "valor": 3129.0
+      "valor": 3135.0
     }
   ],
   "promedio_ruta": [
@@ -180,7 +180,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 414.0
+      "valor": 415.0
     },
     {
       "label": "SITRANS",
@@ -246,7 +246,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1247.0
+      "valor": 1250.0
     }
   ],
   "fillrate_mensual": [
@@ -298,8 +298,8 @@
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "709",
-      "porcentaje": "7.1 %"
+      "total": "715",
+      "porcentaje": "7.2 %"
     }
   ],
   "semana_actual": [
@@ -319,17 +319,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "25",
+      "unidades": "1032",
+      "ordenes": "15"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
       "tareas": "22",
       "unidades": "851",
       "ordenes": "20"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "19",
-      "unidades": "951",
-      "ordenes": "14"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -399,9 +399,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1171",
-      "disponibles": "311",
-      "porcentaje": "79.0 %"
+      "ocupadas": "1174",
+      "disponibles": "308",
+      "porcentaje": "79.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

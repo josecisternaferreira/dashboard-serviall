@@ -1,24 +1,24 @@
 {
-  "timestamp": "30/06/2026 10:31",
+  "timestamp": "30/06/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "3",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "4",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.7 %",
+      "valor": "97.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.9 %",
+      "valor": "100.0 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "label": "30-06",
-      "valor": 4.0
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -144,7 +144,7 @@
     },
     {
       "label": "JUN",
-      "valor": 98.7
+      "valor": 97.8
     }
   ],
   "picking_mensual": [
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2974.0
+      "valor": 2975.0
     }
   ],
   "promedio_ruta": [
@@ -246,7 +246,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1175.0
+      "valor": 1195.0
     }
   ],
   "fillrate_mensual": [
@@ -283,7 +283,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2029",
+      "total": "2030",
       "porcentaje": "20.6 %"
     },
     {
@@ -306,9 +306,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "4",
-      "unidades": "10013",
-      "ordenes": "2"
+      "tareas": "5",
+      "unidades": "10014",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [

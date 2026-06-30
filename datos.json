@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/06/2026 13:31",
+  "timestamp": "30/06/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "97",
+      "valor": "121",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "label": "30-06",
-      "valor": 97.0
+      "valor": 121.0
     }
   ],
   "cumplimiento": [
@@ -170,13 +170,13 @@
     },
     {
       "label": "JUN",
-      "valor": 3067.0
+      "valor": 3091.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1560.0
+      "valor": 1561.0
     },
     {
       "label": "AGUNSA",
@@ -184,7 +184,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 403.0
+      "valor": 406.0
     },
     {
       "label": "ESTAFETA",
@@ -246,7 +246,7 @@
     },
     {
       "label": "JUN",
-      "valor": 1238.0
+      "valor": 1241.0
     }
   ],
   "fillrate_mensual": [
@@ -279,16 +279,16 @@
     {
       "operador": "DIEGO GANDO",
       "total": "2358",
-      "porcentaje": "23.8 %"
+      "porcentaje": "23.7 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2082",
+      "total": "2089",
       "porcentaje": "21.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1620",
+      "total": "1624",
       "porcentaje": "16.3 %"
     },
     {
@@ -306,16 +306,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "57",
-      "unidades": "12057",
-      "ordenes": "36"
+      "tareas": "64",
+      "unidades": "12289",
+      "ordenes": "43"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "14",
-      "unidades": "423",
-      "ordenes": "12"
+      "tareas": "22",
+      "unidades": "851",
+      "ordenes": "20"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "15",
+      "unidades": "4942",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -326,17 +333,10 @@
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "11",
-      "unidades": "391",
-      "ordenes": "2"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "3",
-      "unidades": "455",
-      "ordenes": "1"
+      "tareas": "8",
+      "unidades": "565",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

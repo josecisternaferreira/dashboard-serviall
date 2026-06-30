@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/06/2026 11:31",
+  "timestamp": "30/06/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "29",
+      "valor": "39",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "30-06",
-      "valor": 29.0
+      "valor": 39.0
     }
   ],
   "cumplimiento": [
@@ -162,7 +162,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2023.0
+      "valor": 2033.0
     }
   ],
   "promedio_ruta": [
@@ -172,7 +172,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 294.0
+      "valor": 295.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -263,8 +263,8 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "928",
-      "porcentaje": "14.5 %"
+      "total": "936",
+      "porcentaje": "14.6 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -279,15 +279,15 @@
     {
       "operador": "JHONY MONTONYA",
       "total": "638",
-      "porcentaje": "10.0 %"
+      "porcentaje": "9.9 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "13",
-      "unidades": "79",
+      "tareas": "21",
+      "unidades": "99",
       "ordenes": "4"
     },
     {
@@ -300,9 +300,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGLAVIC",
-      "tareas": "3",
-      "unidades": "235",
-      "ordenes": "1"
+      "tareas": "5",
+      "unidades": "850",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -329,9 +329,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "32",
-      "ocupadas": "26",
-      "disponibles": "6",
-      "porcentaje": "81.3 %"
+      "ocupadas": "25",
+      "disponibles": "7",
+      "porcentaje": "78.1 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -356,9 +356,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "267",
-      "disponibles": "223",
-      "porcentaje": "54.5 %"
+      "ocupadas": "261",
+      "disponibles": "229",
+      "porcentaje": "53.3 %"
     }
   ]
 }

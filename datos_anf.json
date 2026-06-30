@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/06/2026 14:01",
+  "timestamp": "30/06/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "89",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "30-06",
-      "valor": 89.0
+      "valor": 93.0
     }
   ],
   "cumplimiento": [
@@ -162,7 +162,7 @@
     },
     {
       "label": "JUN",
-      "valor": 2083.0
+      "valor": 2087.0
     }
   ],
   "promedio_ruta": [
@@ -226,7 +226,7 @@
     },
     {
       "label": "JUN",
-      "valor": 581.0
+      "valor": 583.0
     }
   ],
   "fillrate_mensual": [
@@ -293,9 +293,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "18",
-      "unidades": "3915",
-      "ordenes": "4"
+      "tareas": "22",
+      "unidades": "4010",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -370,9 +370,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "252",
-      "disponibles": "238",
-      "porcentaje": "51.4 %"
+      "ocupadas": "251",
+      "disponibles": "239",
+      "porcentaje": "51.2 %"
     }
   ]
 }

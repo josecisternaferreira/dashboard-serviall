@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/06/2026 13:31",
+  "timestamp": "30/06/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "80",
+      "valor": "89",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.7 %",
+      "valor": "95.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "30-06",
-      "valor": 80.0
+      "valor": 89.0
     }
   ],
   "cumplimiento": [
@@ -136,7 +136,7 @@
     },
     {
       "label": "JUN",
-      "valor": 95.7
+      "valor": 95.5
     }
   ],
   "picking_mensual": [
@@ -162,13 +162,13 @@
     },
     {
       "label": "JUN",
-      "valor": 2074.0
+      "valor": 2083.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1009.0
+      "valor": 1010.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -226,7 +226,7 @@
     },
     {
       "label": "JUN",
-      "valor": 578.0
+      "valor": 581.0
     }
   ],
   "fillrate_mensual": [
@@ -263,7 +263,7 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "953",
+      "total": "958",
       "porcentaje": "14.8 %"
     },
     {
@@ -286,16 +286,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "38",
-      "unidades": "3161",
+      "tareas": "43",
+      "unidades": "4664",
       "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "15",
-      "unidades": "2895",
-      "ordenes": "2"
+      "tareas": "18",
+      "unidades": "3915",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -307,9 +307,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "AGLAVIC",
-      "tareas": "7",
-      "unidades": "1352",
-      "ordenes": "4"
+      "tareas": "8",
+      "unidades": "1452",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

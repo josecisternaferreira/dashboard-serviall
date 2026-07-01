@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/07/2026 10:30",
+  "timestamp": "01/07/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "52",
+      "valor": "60",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-07",
-      "valor": 52.0
+      "valor": 60.0
     }
   ],
   "cumplimiento": [
@@ -90,13 +90,13 @@
     },
     {
       "label": "JUL",
-      "valor": 52.0
+      "valor": 60.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1561.0
+      "valor": 1338.0
     },
     {
       "label": "AGUNSA",
@@ -104,11 +104,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 351.0
+      "valor": 352.0
     },
     {
       "label": "ESTAFETA",
-      "valor": 262.0
+      "valor": 263.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUL",
-      "valor": 7.0
+      "valor": 9.0
     }
   ],
   "fillrate_mensual": [
@@ -211,7 +211,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2142",
+      "total": "2146",
       "porcentaje": "22.0 %"
     },
     {
@@ -221,29 +221,29 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1503",
-      "porcentaje": "15.4 %"
+      "total": "1506",
+      "porcentaje": "15.5 %"
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "706",
-      "porcentaje": "7.2 %"
+      "total": "707",
+      "porcentaje": "7.3 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "117",
-      "unidades": "14081",
-      "ordenes": "73"
+      "tareas": "121",
+      "unidades": "17105",
+      "ordenes": "77"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "28",
-      "unidades": "1101",
-      "ordenes": "18"
+      "tareas": "29",
+      "unidades": "1158",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -261,17 +261,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "16",
+      "unidades": "151",
+      "ordenes": "10"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
       "tareas": "13",
       "unidades": "1767",
       "ordenes": "6"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "MTORRES",
-      "tareas": "13",
-      "unidades": "68",
-      "ordenes": "7"
     }
   ],
   "ocupacion": [

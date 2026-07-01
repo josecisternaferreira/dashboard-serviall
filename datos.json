@@ -1,14 +1,14 @@
 {
-  "timestamp": "01/07/2026 15:01",
+  "timestamp": "01/07/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "16",
+      "valor": "22",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "93",
+      "valor": "108",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-07",
-      "valor": 93.0
+      "valor": 108.0
     }
   ],
   "cumplimiento": [
@@ -90,13 +90,13 @@
     },
     {
       "label": "JUL",
-      "valor": 93.0
+      "valor": 108.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1341.0
+      "valor": 1343.0
     },
     {
       "label": "AGUNSA",
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUL",
-      "valor": 65.0
+      "valor": 68.0
     }
   ],
   "fillrate_mensual": [
@@ -211,7 +211,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2161",
+      "total": "2169",
       "porcentaje": "22.1 %"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1523",
+      "total": "1530",
       "porcentaje": "15.6 %"
     },
     {
@@ -234,15 +234,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "136",
-      "unidades": "18432",
-      "ordenes": "84"
+      "tareas": "144",
+      "unidades": "18501",
+      "ordenes": "86"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "33",
-      "unidades": "3516",
+      "tareas": "40",
+      "unidades": "3531",
       "ordenes": "21"
     },
     {
@@ -341,9 +341,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1171",
-      "disponibles": "311",
-      "porcentaje": "79.0 %"
+      "ocupadas": "1173",
+      "disponibles": "309",
+      "porcentaje": "79.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",

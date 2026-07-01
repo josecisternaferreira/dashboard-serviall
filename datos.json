@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/07/2026 11:31",
+  "timestamp": "01/07/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "66",
+      "valor": "68",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-07",
-      "valor": 66.0
+      "valor": 68.0
     }
   ],
   "cumplimiento": [
@@ -90,7 +90,7 @@
     },
     {
       "label": "JUL",
-      "valor": 66.0
+      "valor": 68.0
     }
   ],
   "promedio_ruta": [
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUL",
-      "valor": 9.0
+      "valor": 13.0
     }
   ],
   "fillrate_mensual": [
@@ -221,7 +221,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1511",
+      "total": "1512",
       "porcentaje": "15.5 %"
     },
     {
@@ -262,9 +262,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "21",
-      "unidades": "409",
-      "ordenes": "14"
+      "tareas": "22",
+      "unidades": "439",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -272,6 +272,13 @@
       "tareas": "13",
       "unidades": "1767",
       "ordenes": "6"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -325,9 +332,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "12",
-      "disponibles": "22",
-      "porcentaje": "35.3 %"
+      "ocupadas": "13",
+      "disponibles": "21",
+      "porcentaje": "38.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

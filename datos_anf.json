@@ -1,25 +1,25 @@
 {
-  "timestamp": "30/06/2026 19:31",
+  "timestamp": "30/06/2026 20:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "2",
+      "valor": "0",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "228",
+      "valor": "0",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.4 %",
-      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
+      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA",
+      "subtitulo": ""
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.9 %",
-      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
+      "valor": "FILLRATE MES ACTUAL - BODEGA LA NEGRA",
+      "subtitulo": ""
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,92 +27,7 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "01-06",
-      "valor": 161.0
-    },
-    {
-      "label": "02-06",
-      "valor": 57.0
-    },
-    {
-      "label": "03-06",
-      "valor": 56.0
-    },
-    {
-      "label": "04-06",
-      "valor": 116.0
-    },
-    {
-      "label": "05-06",
-      "valor": 42.0
-    },
-    {
-      "label": "08-06",
-      "valor": 158.0
-    },
-    {
-      "label": "09-06",
-      "valor": 66.0
-    },
-    {
-      "label": "10-06",
-      "valor": 59.0
-    },
-    {
-      "label": "11-06",
-      "valor": 58.0
-    },
-    {
-      "label": "12-06",
-      "valor": 40.0
-    },
-    {
-      "label": "15-06",
-      "valor": 141.0
-    },
-    {
-      "label": "16-06",
-      "valor": 45.0
-    },
-    {
-      "label": "17-06",
-      "valor": 106.0
-    },
-    {
-      "label": "18-06",
-      "valor": 210.0
-    },
-    {
-      "label": "19-06",
-      "valor": 44.0
-    },
-    {
-      "label": "22-06",
-      "valor": 123.0
-    },
-    {
-      "label": "23-06",
-      "valor": 166.0
-    },
-    {
-      "label": "24-06",
-      "valor": 67.0
-    },
-    {
-      "label": "25-06",
-      "valor": 182.0
-    },
-    {
-      "label": "26-06",
-      "valor": 85.0
-    },
-    {
-      "label": "30-06",
-      "valor": 228.0
-    }
-  ],
+  "tareas_por_dia": [],
   "cumplimiento": [
     {
       "label": "ENE",

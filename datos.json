@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/07/2026 13:01",
+  "timestamp": "01/07/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "70",
+      "valor": "72",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-07",
-      "valor": 70.0
+      "valor": 72.0
     }
   ],
   "cumplimiento": [
@@ -90,7 +90,7 @@
     },
     {
       "label": "JUL",
-      "valor": 70.0
+      "valor": 72.0
     }
   ],
   "promedio_ruta": [
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUL",
-      "valor": 22.0
+      "valor": 33.0
     }
   ],
   "fillrate_mensual": [
@@ -221,7 +221,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1514",
+      "total": "1516",
       "porcentaje": "15.5 %"
     },
     {
@@ -247,17 +247,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "26",
+      "unidades": "2954",
+      "ordenes": "18"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
       "tareas": "25",
       "unidades": "7502",
       "ordenes": "13"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "MTORRES",
-      "tareas": "24",
-      "unidades": "2939",
-      "ordenes": "16"
     },
     {
       "region": "BODEGA SANTIAGO",

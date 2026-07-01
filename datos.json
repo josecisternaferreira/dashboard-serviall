@@ -1,25 +1,25 @@
 {
-  "timestamp": "30/06/2026 19:30",
+  "timestamp": "30/06/2026 20:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "39",
+      "valor": "0",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "166",
+      "valor": "0",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.1 %",
-      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
+      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO",
+      "subtitulo": ""
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "100.0 %",
-      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
+      "valor": "FILLRATE MES ACTUAL - BODEGA SANTIAGO",
+      "subtitulo": ""
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,100 +27,7 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "01-06",
-      "valor": 90.0
-    },
-    {
-      "label": "02-06",
-      "valor": 296.0
-    },
-    {
-      "label": "03-06",
-      "valor": 112.0
-    },
-    {
-      "label": "04-06",
-      "valor": 109.0
-    },
-    {
-      "label": "05-06",
-      "valor": 85.0
-    },
-    {
-      "label": "08-06",
-      "valor": 151.0
-    },
-    {
-      "label": "09-06",
-      "valor": 165.0
-    },
-    {
-      "label": "10-06",
-      "valor": 163.0
-    },
-    {
-      "label": "11-06",
-      "valor": 164.0
-    },
-    {
-      "label": "12-06",
-      "valor": 92.0
-    },
-    {
-      "label": "13-06",
-      "valor": 2.0
-    },
-    {
-      "label": "15-06",
-      "valor": 99.0
-    },
-    {
-      "label": "16-06",
-      "valor": 152.0
-    },
-    {
-      "label": "17-06",
-      "valor": 136.0
-    },
-    {
-      "label": "18-06",
-      "valor": 175.0
-    },
-    {
-      "label": "19-06",
-      "valor": 97.0
-    },
-    {
-      "label": "22-06",
-      "valor": 101.0
-    },
-    {
-      "label": "23-06",
-      "valor": 265.0
-    },
-    {
-      "label": "24-06",
-      "valor": 190.0
-    },
-    {
-      "label": "25-06",
-      "valor": 242.0
-    },
-    {
-      "label": "26-06",
-      "valor": 32.0
-    },
-    {
-      "label": "27-06",
-      "valor": 26.0
-    },
-    {
-      "label": "30-06",
-      "valor": 166.0
-    }
-  ],
+  "tareas_por_dia": [],
   "cumplimiento": [
     {
       "label": "ENE",

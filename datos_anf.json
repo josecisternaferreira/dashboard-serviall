@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/07/2026 08:31",
+  "timestamp": "01/07/2026 09:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,13 +13,13 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "0.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "FILLRATE MES ACTUAL - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -52,6 +52,10 @@
     {
       "label": "JUN",
       "valor": 95.4
+    },
+    {
+      "label": "JUL",
+      "valor": 0.0
     }
   ],
   "picking_mensual": [
@@ -142,6 +146,10 @@
     {
       "label": "JUN",
       "valor": 614.0
+    },
+    {
+      "label": "JUL",
+      "valor": 1.0
     }
   ],
   "fillrate_mensual": [
@@ -168,6 +176,10 @@
     {
       "label": "JUN",
       "valor": 99.9
+    },
+    {
+      "label": "JUL",
+      "valor": 100.0
     }
   ],
   "top5_operadores": [
@@ -306,9 +318,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "490",
-      "ocupadas": "262",
-      "disponibles": "228",
-      "porcentaje": "53.5 %"
+      "ocupadas": "258",
+      "disponibles": "232",
+      "porcentaje": "52.7 %"
     }
   ]
 }

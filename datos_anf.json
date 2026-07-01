@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/07/2026 11:01",
+  "timestamp": "01/07/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "9",
+      "valor": "17",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-07",
-      "valor": 9.0
+      "valor": 17.0
     }
   ],
   "cumplimiento": [
@@ -90,7 +90,7 @@
     },
     {
       "label": "JUL",
-      "valor": 9.0
+      "valor": 17.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 69.0
+      "valor": 70.0
     },
     {
       "label": "AGUNSA",
@@ -194,13 +194,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1581",
-      "porcentaje": "24.9 %"
+      "total": "1589",
+      "porcentaje": "25.0 %"
     },
     {
       "operador": "LESLIE CARRIZO",
       "total": "1020",
-      "porcentaje": "16.1 %"
+      "porcentaje": "16.0 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -228,17 +228,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "36",
+      "unidades": "4101",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
       "tareas": "29",
       "unidades": "4793",
       "ordenes": "8"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "28",
-      "unidades": "3541",
-      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

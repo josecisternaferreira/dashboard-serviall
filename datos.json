@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/07/2026 11:01",
+  "timestamp": "01/07/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "60",
+      "valor": "66",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "01-07",
-      "valor": 60.0
+      "valor": 66.0
     }
   ],
   "cumplimiento": [
@@ -90,7 +90,7 @@
     },
     {
       "label": "JUL",
-      "valor": 60.0
+      "valor": 66.0
     }
   ],
   "promedio_ruta": [
@@ -100,7 +100,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 359.0
+      "valor": 360.0
     },
     {
       "label": "SITRANS",
@@ -211,7 +211,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2146",
+      "total": "2147",
       "porcentaje": "22.0 %"
     },
     {
@@ -221,22 +221,22 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1506",
+      "total": "1511",
       "porcentaje": "15.5 %"
     },
     {
       "operador": "LUCIANO ALFARO",
       "total": "707",
-      "porcentaje": "7.3 %"
+      "porcentaje": "7.2 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "121",
-      "unidades": "17105",
-      "ordenes": "77"
+      "tareas": "122",
+      "unidades": "17141",
+      "ordenes": "78"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -262,9 +262,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "16",
-      "unidades": "151",
-      "ordenes": "10"
+      "tareas": "21",
+      "unidades": "409",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA SANTIAGO",

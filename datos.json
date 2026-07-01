@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/07/2026 09:00",
+  "timestamp": "01/07/2026 09:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,18 +8,18 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "27",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "FILLRATE MES ACTUAL - BODEGA SANTIAGO",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,7 +27,12 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "01-07",
+      "valor": 27.0
+    }
+  ],
   "cumplimiento": [
     {
       "label": "ENE",
@@ -52,6 +57,10 @@
     {
       "label": "JUN",
       "valor": 96.1
+    },
+    {
+      "label": "JUL",
+      "valor": 100.0
     }
   ],
   "picking_mensual": [
@@ -78,6 +87,10 @@
     {
       "label": "JUN",
       "valor": 3136.0
+    },
+    {
+      "label": "JUL",
+      "valor": 27.0
     }
   ],
   "promedio_ruta": [
@@ -86,16 +99,16 @@
       "valor": 1561.0
     },
     {
-      "label": "AGUNSA",
-      "valor": 415.0
-    },
-    {
       "label": "SITRANS",
       "valor": 408.0
     },
     {
+      "label": "AGUNSA",
+      "valor": 357.0
+    },
+    {
       "label": "ESTAFETA",
-      "valor": 304.0
+      "valor": 262.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -103,7 +116,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 107.0
+      "valor": 92.0
     },
     {
       "label": "ENEA-FINNING",
@@ -154,6 +167,10 @@
     {
       "label": "JUN",
       "valor": 1256.0
+    },
+    {
+      "label": "JUL",
+      "valor": 4.0
     }
   ],
   "fillrate_mensual": [
@@ -180,42 +197,46 @@
     {
       "label": "JUN",
       "valor": 99.9
+    },
+    {
+      "label": "JUL",
+      "valor": 100.0
     }
   ],
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
       "total": "2283",
-      "porcentaje": "23.6 %"
+      "porcentaje": "23.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2106",
-      "porcentaje": "21.7 %"
+      "total": "2126",
+      "porcentaje": "21.9 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1634",
-      "porcentaje": "16.9 %"
+      "porcentaje": "16.8 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1490",
+      "total": "1497",
       "porcentaje": "15.4 %"
     },
     {
       "operador": "LUCIANO ALFARO",
       "total": "703",
-      "porcentaje": "7.3 %"
+      "porcentaje": "7.2 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "81",
-      "unidades": "13699",
-      "ordenes": "53"
+      "tareas": "101",
+      "unidades": "13834",
+      "ordenes": "62"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -244,6 +265,13 @@
       "tareas": "13",
       "unidades": "1767",
       "ordenes": "6"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "7",
+      "unidades": "30",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [
@@ -315,9 +343,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "36",
-      "disponibles": "5",
-      "porcentaje": "87.8 %"
+      "ocupadas": "37",
+      "disponibles": "4",
+      "porcentaje": "90.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

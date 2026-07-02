@@ -1,14 +1,14 @@
 {
-  "timestamp": "02/07/2026 17:01",
+  "timestamp": "02/07/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "48",
+      "valor": "55",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "191",
+      "valor": "208",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "02-07",
-      "valor": 191.0
+      "valor": 208.0
     }
   ],
   "cumplimiento": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUL",
-      "valor": 327.0
+      "valor": 344.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1369.0
+      "valor": 1371.0
     },
     {
       "label": "AGUNSA",
@@ -215,17 +215,17 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2261",
+      "total": "2272",
       "porcentaje": "22.6 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1638",
+      "porcentaje": "16.3 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1634",
-      "porcentaje": "16.3 %"
-    },
-    {
-      "operador": "MATIAS TORRES",
-      "total": "1632",
       "porcentaje": "16.3 %"
     },
     {
@@ -238,16 +238,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "236",
-      "unidades": "28352",
-      "ordenes": "108"
+      "tareas": "247",
+      "unidades": "28549",
+      "ordenes": "109"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "142",
-      "unidades": "12306",
-      "ordenes": "31"
+      "tareas": "148",
+      "unidades": "12315",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA SANTIAGO",

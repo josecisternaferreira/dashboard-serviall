@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/07/2026 11:31",
+  "timestamp": "02/07/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "53",
+      "valor": "61",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.6 %",
+      "valor": "91.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "02-07",
-      "valor": 53.0
+      "valor": 61.0
     }
   ],
   "cumplimiento": [
@@ -64,7 +64,7 @@
     },
     {
       "label": "JUL",
-      "valor": 92.6
+      "valor": 91.2
     }
   ],
   "picking_mensual": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUL",
-      "valor": 160.0
+      "valor": 168.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 894.0
+      "valor": 895.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -162,7 +162,7 @@
     },
     {
       "label": "JUL",
-      "valor": 54.0
+      "valor": 57.0
     }
   ],
   "fillrate_mensual": [
@@ -198,13 +198,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1659",
+      "total": "1661",
       "porcentaje": "25.5 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1073",
-      "porcentaje": "16.5 %"
+      "total": "1079",
+      "porcentaje": "16.6 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -226,15 +226,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "158",
-      "unidades": "13959",
-      "ordenes": "40"
+      "tareas": "164",
+      "unidades": "14884",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "106",
-      "unidades": "13069",
+      "tareas": "108",
+      "unidades": "13344",
       "ordenes": "15"
     },
     {
@@ -286,18 +286,18 @@
       "area": "Z-CANTI",
       "tipo": "ACTIVO",
       "total": "4",
-      "ocupadas": "1",
-      "disponibles": "3",
-      "porcentaje": "25.0 %"
+      "ocupadas": "2",
+      "disponibles": "2",
+      "porcentaje": "50.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
-      "total": "1908",
+      "total": "1904",
       "ocupadas": "1107",
-      "disponibles": "801",
-      "porcentaje": "58.0 %"
+      "disponibles": "797",
+      "porcentaje": "58.1 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

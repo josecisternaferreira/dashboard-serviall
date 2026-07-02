@@ -1,14 +1,14 @@
 {
-  "timestamp": "02/07/2026 16:01",
+  "timestamp": "02/07/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "35",
+      "valor": "43",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "174",
+      "valor": "184",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "02-07",
-      "valor": 174.0
+      "valor": 184.0
     }
   ],
   "cumplimiento": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUL",
-      "valor": 310.0
+      "valor": 320.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1367.0
+      "valor": 1368.0
     },
     {
       "label": "AGUNSA",
@@ -174,7 +174,7 @@
     },
     {
       "label": "JUL",
-      "valor": 109.0
+      "valor": 114.0
     }
   ],
   "fillrate_mensual": [
@@ -215,7 +215,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2246",
+      "total": "2255",
       "porcentaje": "22.5 %"
     },
     {
@@ -231,15 +231,15 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "715",
-      "porcentaje": "7.2 %"
+      "porcentaje": "7.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "221",
-      "unidades": "27330",
+      "tareas": "230",
+      "unidades": "27816",
       "ordenes": "107"
     },
     {
@@ -259,9 +259,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "36",
-      "unidades": "1899",
-      "ordenes": "34"
+      "tareas": "37",
+      "unidades": "2065",
+      "ordenes": "35"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -345,8 +345,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1166",
-      "disponibles": "316",
+      "ocupadas": "1167",
+      "disponibles": "315",
       "porcentaje": "78.7 %"
     },
     {
@@ -372,9 +372,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "147",
-      "disponibles": "152",
-      "porcentaje": "49.2 %"
+      "ocupadas": "148",
+      "disponibles": "151",
+      "porcentaje": "49.5 %"
     }
   ]
 }

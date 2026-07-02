@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/07/2026 12:01",
+  "timestamp": "02/07/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "61",
+      "valor": "74",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.2 %",
+      "valor": "91.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "02-07",
-      "valor": 61.0
+      "valor": 74.0
     }
   ],
   "cumplimiento": [
@@ -64,7 +64,7 @@
     },
     {
       "label": "JUL",
-      "valor": 91.2
+      "valor": 91.8
     }
   ],
   "picking_mensual": [
@@ -94,13 +94,13 @@
     },
     {
       "label": "JUL",
-      "valor": 168.0
+      "valor": 181.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 895.0
+      "valor": 897.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -162,7 +162,7 @@
     },
     {
       "label": "JUL",
-      "valor": 57.0
+      "valor": 61.0
     }
   ],
   "fillrate_mensual": [
@@ -198,18 +198,18 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1661",
+      "total": "1665",
       "porcentaje": "25.5 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1079",
-      "porcentaje": "16.6 %"
+      "total": "1088",
+      "porcentaje": "16.7 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "831",
-      "porcentaje": "12.8 %"
+      "porcentaje": "12.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -226,15 +226,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "164",
-      "unidades": "14884",
-      "ordenes": "42"
+      "tareas": "173",
+      "unidades": "15395",
+      "ordenes": "47"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "108",
-      "unidades": "13344",
+      "tareas": "112",
+      "unidades": "15794",
       "ordenes": "15"
     },
     {

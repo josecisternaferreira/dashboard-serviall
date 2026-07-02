@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/07/2026 09:01",
+  "timestamp": "02/07/2026 09:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "10",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -31,6 +31,10 @@
     {
       "label": "01-07",
       "valor": 136.0
+    },
+    {
+      "label": "02-07",
+      "valor": 10.0
     }
   ],
   "cumplimiento": [
@@ -90,13 +94,13 @@
     },
     {
       "label": "JUL",
-      "valor": 136.0
+      "valor": 146.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1347.0
+      "valor": 1348.0
     },
     {
       "label": "AGUNSA",
@@ -221,8 +225,8 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1542",
-      "porcentaje": "15.7 %"
+      "total": "1552",
+      "porcentaje": "15.8 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -241,9 +245,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "52",
-      "unidades": "4115",
-      "ordenes": "26"
+      "tareas": "62",
+      "unidades": "5185",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA SANTIAGO",

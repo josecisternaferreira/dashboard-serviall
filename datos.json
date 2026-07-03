@@ -1,14 +1,14 @@
 {
-  "timestamp": "03/07/2026 12:00",
+  "timestamp": "03/07/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "52",
+      "valor": "66",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "label": "03-07",
-      "valor": 52.0
+      "valor": 66.0
     }
   ],
   "cumplimiento": [
@@ -98,13 +98,13 @@
     },
     {
       "label": "JUL",
-      "valor": 396.0
+      "valor": 410.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1378.0
+      "valor": 1380.0
     },
     {
       "label": "AGUNSA",
@@ -178,7 +178,7 @@
     },
     {
       "label": "JUL",
-      "valor": 117.0
+      "valor": 126.0
     }
   ],
   "fillrate_mensual": [
@@ -214,7 +214,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2306",
+      "total": "2316",
       "porcentaje": "22.9 %"
     },
     {
@@ -224,7 +224,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1655",
+      "total": "1659",
       "porcentaje": "16.4 %"
     },
     {
@@ -242,16 +242,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "281",
-      "unidades": "30799",
-      "ordenes": "119"
+      "tareas": "291",
+      "unidades": "30894",
+      "ordenes": "123"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "165",
-      "unidades": "17722",
-      "ordenes": "39"
+      "tareas": "169",
+      "unidades": "17737",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -376,9 +376,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "148",
-      "disponibles": "151",
-      "porcentaje": "49.5 %"
+      "ocupadas": "147",
+      "disponibles": "152",
+      "porcentaje": "49.2 %"
     }
   ]
 }

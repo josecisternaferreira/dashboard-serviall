@@ -1,19 +1,19 @@
 {
-  "timestamp": "04/07/2026 12:01",
+  "timestamp": "04/07/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "8",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.4 %",
+      "valor": "98.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -39,6 +39,10 @@
     {
       "label": "03-07",
       "valor": 85.0
+    },
+    {
+      "label": "04-07",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +72,7 @@
     },
     {
       "label": "JUL",
-      "valor": 98.4
+      "valor": 98.5
     }
   ],
   "picking_mensual": [
@@ -98,7 +102,7 @@
     },
     {
       "label": "JUL",
-      "valor": 429.0
+      "valor": 432.0
     }
   ],
   "promedio_ruta": [
@@ -108,7 +112,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 361.0
+      "valor": 362.0
     },
     {
       "label": "SITRANS",
@@ -178,7 +182,7 @@
     },
     {
       "label": "JUL",
-      "valor": 190.0
+      "valor": 195.0
     }
   ],
   "fillrate_mensual": [
@@ -284,9 +288,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "3",
-      "unidades": "452",
-      "ordenes": "3"
+      "tareas": "6",
+      "unidades": "456",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -331,9 +335,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "332",
-      "ocupadas": "80",
-      "disponibles": "252",
-      "porcentaje": "24.1 %"
+      "ocupadas": "81",
+      "disponibles": "251",
+      "porcentaje": "24.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",

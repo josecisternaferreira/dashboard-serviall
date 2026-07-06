@@ -1,19 +1,19 @@
 {
-  "timestamp": "06/07/2026 14:01",
+  "timestamp": "06/07/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "9",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "89",
+      "valor": "91",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.0 %",
+      "valor": "98.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "label": "06-07",
-      "valor": 89.0
+      "valor": 91.0
     }
   ],
   "cumplimiento": [
@@ -76,7 +76,7 @@
     },
     {
       "label": "JUL",
-      "valor": 98.0
+      "valor": 98.1
     }
   ],
   "picking_mensual": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "JUL",
-      "valor": 521.0
+      "valor": 523.0
     }
   ],
   "promedio_ruta": [
@@ -186,7 +186,7 @@
     },
     {
       "label": "JUL",
-      "valor": 250.0
+      "valor": 258.0
     }
   ],
   "fillrate_mensual": [
@@ -238,7 +238,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1632",
-      "porcentaje": "16.4 %"
+      "porcentaje": "16.3 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -257,9 +257,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "29",
-      "unidades": "283",
-      "ordenes": "20"
+      "tareas": "31",
+      "unidades": "508",
+      "ordenes": "22"
     },
     {
       "region": "BODEGA SANTIAGO",

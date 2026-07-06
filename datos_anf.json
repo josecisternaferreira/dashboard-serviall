@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/07/2026 13:01",
+  "timestamp": "06/07/2026 13:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "89",
+      "valor": "96",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.1 %",
+      "valor": "91.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "label": "06-07",
-      "valor": 89.0
+      "valor": 96.0
     }
   ],
   "cumplimiento": [
@@ -68,7 +68,7 @@
     },
     {
       "label": "JUL",
-      "valor": 91.1
+      "valor": 91.2
     }
   ],
   "picking_mensual": [
@@ -98,13 +98,13 @@
     },
     {
       "label": "JUL",
-      "valor": 283.0
+      "valor": 290.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 906.0
+      "valor": 907.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -166,7 +166,7 @@
     },
     {
       "label": "JUL",
-      "valor": 101.0
+      "valor": 102.0
     }
   ],
   "fillrate_mensual": [
@@ -202,13 +202,13 @@
   "top5_operadores": [
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1701",
+      "total": "1704",
       "porcentaje": "25.9 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1119",
-      "porcentaje": "17.0 %"
+      "total": "1123",
+      "porcentaje": "17.1 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -229,17 +229,17 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "32",
-      "unidades": "1855",
-      "ordenes": "6"
+      "usuario": "LCARRIZO",
+      "tareas": "35",
+      "unidades": "3090",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "31",
-      "unidades": "1665",
-      "ordenes": "15"
+      "usuario": "ZCARVAJAL",
+      "tareas": "35",
+      "unidades": "2755",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -264,9 +264,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1904",
-      "ocupadas": "1107",
-      "disponibles": "797",
-      "porcentaje": "58.1 %"
+      "ocupadas": "1108",
+      "disponibles": "796",
+      "porcentaje": "58.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -300,9 +300,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "235",
-      "disponibles": "174",
-      "porcentaje": "57.5 %"
+      "ocupadas": "237",
+      "disponibles": "172",
+      "porcentaje": "57.9 %"
     }
   ]
 }

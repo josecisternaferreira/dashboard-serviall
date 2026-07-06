@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/07/2026 17:31",
+  "timestamp": "06/07/2026 18:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "164",
+      "valor": "169",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "label": "06-07",
-      "valor": 164.0
+      "valor": 169.0
     }
   ],
   "cumplimiento": [
@@ -98,13 +98,13 @@
     },
     {
       "label": "JUL",
-      "valor": 358.0
+      "valor": 363.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 913.0
+      "valor": 914.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -203,7 +203,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1718",
-      "porcentaje": "25.9 %"
+      "porcentaje": "25.8 %"
     },
     {
       "operador": "LESLIE CARRIZO",
@@ -251,16 +251,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "12",
-      "unidades": "76",
-      "ordenes": "8"
+      "tareas": "15",
+      "unidades": "98",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "3",
-      "unidades": "78",
-      "ordenes": "3"
+      "tareas": "5",
+      "unidades": "628",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [
@@ -323,9 +323,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "240",
-      "disponibles": "169",
-      "porcentaje": "58.7 %"
+      "ocupadas": "241",
+      "disponibles": "168",
+      "porcentaje": "58.9 %"
     }
   ]
 }

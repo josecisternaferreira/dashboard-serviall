@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/07/2026 11:01",
+  "timestamp": "06/07/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "27",
+      "valor": "37",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.7 %",
+      "valor": "97.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "label": "06-07",
-      "valor": 27.0
+      "valor": 37.0
     }
   ],
   "cumplimiento": [
@@ -76,7 +76,7 @@
     },
     {
       "label": "JUL",
-      "valor": 97.7
+      "valor": 97.8
     }
   ],
   "picking_mensual": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "JUL",
-      "valor": 459.0
+      "valor": 469.0
     }
   ],
   "promedio_ruta": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 364.0
+      "valor": 365.0
     },
     {
       "label": "SITRANS",
@@ -186,7 +186,7 @@
     },
     {
       "label": "JUL",
-      "valor": 216.0
+      "valor": 226.0
     }
   ],
   "fillrate_mensual": [
@@ -238,28 +238,28 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1632",
-      "porcentaje": "16.5 %"
+      "porcentaje": "16.4 %"
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "729",
-      "porcentaje": "7.3 %"
+      "total": "733",
+      "porcentaje": "7.4 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "13",
-      "unidades": "1961",
-      "ordenes": "3"
+      "tareas": "17",
+      "unidades": "1975",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "7",
-      "unidades": "78",
-      "ordenes": "5"
+      "tareas": "13",
+      "unidades": "154",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA SANTIAGO",

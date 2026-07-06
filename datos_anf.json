@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/07/2026 14:31",
+  "timestamp": "06/07/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "89.6 %",
+      "valor": "89.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "label": "JUL",
-      "valor": 89.6
+      "valor": 89.7
     }
   ],
   "picking_mensual": [
@@ -166,7 +166,7 @@
     },
     {
       "label": "JUL",
-      "valor": 106.0
+      "valor": 107.0
     }
   ],
   "fillrate_mensual": [
@@ -264,9 +264,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1904",
-      "ocupadas": "1107",
-      "disponibles": "797",
-      "porcentaje": "58.1 %"
+      "ocupadas": "1108",
+      "disponibles": "796",
+      "porcentaje": "58.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -300,9 +300,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "239",
-      "disponibles": "170",
-      "porcentaje": "58.4 %"
+      "ocupadas": "240",
+      "disponibles": "169",
+      "porcentaje": "58.7 %"
     }
   ]
 }

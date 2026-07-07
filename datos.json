@@ -1,14 +1,14 @@
 {
-  "timestamp": "07/07/2026 11:31",
+  "timestamp": "07/07/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "2",
+      "valor": "7",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "47",
+      "valor": "60",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "07-07",
-      "valor": 47.0
+      "valor": 60.0
     }
   ],
   "cumplimiento": [
@@ -110,17 +110,17 @@
     },
     {
       "label": "JUL",
-      "valor": 571.0
+      "valor": 584.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1385.0
+      "valor": 1386.0
     },
     {
       "label": "AGUNSA",
-      "valor": 368.0
+      "valor": 369.0
     },
     {
       "label": "SITRANS",
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUL",
-      "valor": 287.0
+      "valor": 297.0
     }
   ],
   "fillrate_mensual": [
@@ -231,8 +231,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2219",
-      "porcentaje": "22.1 %"
+      "total": "2227",
+      "porcentaje": "22.2 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -242,7 +242,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1632",
-      "porcentaje": "16.3 %"
+      "porcentaje": "16.2 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -253,17 +253,17 @@
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "53",
-      "unidades": "1790",
-      "ordenes": "27"
+      "usuario": "DGANDO",
+      "tareas": "60",
+      "unidades": "4742",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "52",
-      "unidades": "4158",
-      "ordenes": "28"
+      "usuario": "CCORTEZ",
+      "tareas": "58",
+      "unidades": "2018",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA SANTIAGO",

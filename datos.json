@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/07/2026 13:31",
+  "timestamp": "07/07/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "100",
+      "valor": "117",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "07-07",
-      "valor": 100.0
+      "valor": 117.0
     }
   ],
   "cumplimiento": [
@@ -110,13 +110,13 @@
     },
     {
       "label": "JUL",
-      "valor": 624.0
+      "valor": 641.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1389.0
+      "valor": 1391.0
     },
     {
       "label": "AGUNSA",
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUL",
-      "valor": 314.0
+      "valor": 319.0
     }
   ],
   "fillrate_mensual": [
@@ -231,7 +231,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2239",
+      "total": "2245",
       "porcentaje": "22.2 %"
     },
     {
@@ -254,16 +254,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "76",
-      "unidades": "2908",
+      "tareas": "82",
+      "unidades": "3130",
       "ordenes": "36"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "72",
-      "unidades": "5289",
-      "ordenes": "39"
+      "tareas": "78",
+      "unidades": "5357",
+      "ordenes": "41"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -275,9 +275,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "6",
-      "unidades": "90",
-      "ordenes": "5"
+      "tareas": "10",
+      "unidades": "137",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -329,18 +329,18 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "332",
-      "ocupadas": "79",
-      "disponibles": "253",
-      "porcentaje": "23.8 %"
+      "ocupadas": "81",
+      "disponibles": "251",
+      "porcentaje": "24.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "34",
-      "ocupadas": "12",
-      "disponibles": "22",
-      "porcentaje": "35.3 %"
+      "ocupadas": "13",
+      "disponibles": "21",
+      "porcentaje": "38.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

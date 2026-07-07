@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/07/2026 14:01",
+  "timestamp": "07/07/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "80",
+      "valor": "81",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.3 %",
+      "valor": "91.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "07-07",
-      "valor": 80.0
+      "valor": 81.0
     }
   ],
   "cumplimiento": [
@@ -72,7 +72,7 @@
     },
     {
       "label": "JUL",
-      "valor": 91.3
+      "valor": 91.4
     }
   ],
   "picking_mensual": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "JUL",
-      "valor": 443.0
+      "valor": 444.0
     }
   ],
   "promedio_ruta": [
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUL",
-      "valor": 150.0
+      "valor": 152.0
     }
   ],
   "fillrate_mensual": [
@@ -265,6 +265,13 @@
       "tareas": "29",
       "unidades": "2566",
       "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -327,9 +334,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "232",
-      "disponibles": "177",
-      "porcentaje": "56.7 %"
+      "ocupadas": "234",
+      "disponibles": "175",
+      "porcentaje": "57.2 %"
     }
   ]
 }

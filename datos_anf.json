@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/07/2026 10:01",
+  "timestamp": "07/07/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "19",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.4 %",
+      "valor": "90.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "07-07",
-      "valor": 13.0
+      "valor": 19.0
     }
   ],
   "cumplimiento": [
@@ -72,7 +72,7 @@
     },
     {
       "label": "JUL",
-      "valor": 90.4
+      "valor": 90.3
     }
   ],
   "picking_mensual": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "JUL",
-      "valor": 376.0
+      "valor": 382.0
     }
   ],
   "promedio_ruta": [
@@ -132,7 +132,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 68.0
+      "valor": 69.0
     },
     {
       "label": "AGUNSA",
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUL",
-      "valor": 115.0
+      "valor": 124.0
     }
   ],
   "fillrate_mensual": [
@@ -255,16 +255,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "17",
-      "unidades": "109",
-      "ordenes": "13"
+      "tareas": "22",
+      "unidades": "954",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "16",
-      "unidades": "657",
-      "ordenes": "13"
+      "tareas": "17",
+      "unidades": "747",
+      "ordenes": "14"
     }
   ],
   "ocupacion": [

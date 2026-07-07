@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/07/2026 11:31",
+  "timestamp": "07/07/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.3 %",
+      "valor": "90.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "label": "07-07",
-      "valor": 44.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -72,7 +72,7 @@
     },
     {
       "label": "JUL",
-      "valor": 90.3
+      "valor": 90.4
     }
   ],
   "picking_mensual": [
@@ -102,13 +102,13 @@
     },
     {
       "label": "JUL",
-      "valor": 407.0
+      "valor": 417.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 916.0
+      "valor": 917.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -132,7 +132,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 69.0
+      "valor": 70.0
     },
     {
       "label": "AGUNSA",
@@ -170,7 +170,7 @@
     },
     {
       "label": "JUL",
-      "valor": 134.0
+      "valor": 135.0
     }
   ],
   "fillrate_mensual": [
@@ -207,7 +207,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1718",
-      "porcentaje": "25.7 %"
+      "porcentaje": "25.6 %"
     },
     {
       "operador": "LESLIE CARRIZO",
@@ -248,9 +248,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "32",
-      "unidades": "1961",
-      "ordenes": "25"
+      "tareas": "39",
+      "unidades": "3134",
+      "ordenes": "29"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "30",
+      "unidades": "2066",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -258,13 +265,6 @@
       "tareas": "29",
       "unidades": "2566",
       "ordenes": "5"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "27",
-      "unidades": "1854",
-      "ordenes": "17"
     }
   ],
   "ocupacion": [
@@ -273,9 +273,9 @@
       "area": "PATIO",
       "tipo": "PISO",
       "total": "1",
-      "ocupadas": "0",
-      "disponibles": "1",
-      "porcentaje": "0.0 %"
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

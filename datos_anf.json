@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/07/2026 09:01",
+  "timestamp": "08/07/2026 09:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "10",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -43,6 +43,10 @@
     {
       "label": "07-07",
       "valor": 90.0
+    },
+    {
+      "label": "08-07",
+      "valor": 10.0
     }
   ],
   "cumplimiento": [
@@ -102,13 +106,13 @@
     },
     {
       "label": "JUL",
-      "valor": 453.0
+      "valor": 463.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 918.0
+      "valor": 919.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -207,12 +211,12 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1628",
-      "porcentaje": "25.7 %"
+      "porcentaje": "25.6 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1165",
-      "porcentaje": "18.4 %"
+      "total": "1175",
+      "porcentaje": "18.5 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -234,9 +238,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "77",
-      "unidades": "9110",
-      "ordenes": "31"
+      "tareas": "87",
+      "unidades": "9690",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -334,9 +338,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "233",
-      "disponibles": "176",
-      "porcentaje": "57.0 %"
+      "ocupadas": "234",
+      "disponibles": "175",
+      "porcentaje": "57.2 %"
     }
   ]
 }

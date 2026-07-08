@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/07/2026 17:01",
+  "timestamp": "08/07/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "118",
+      "valor": "119",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "label": "08-07",
-      "valor": 118.0
+      "valor": 119.0
     }
   ],
   "cumplimiento": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "JUL",
-      "valor": 571.0
+      "valor": 572.0
     }
   ],
   "promedio_ruta": [
@@ -174,7 +174,7 @@
     },
     {
       "label": "JUL",
-      "valor": 191.0
+      "valor": 193.0
     }
   ],
   "fillrate_mensual": [
@@ -216,7 +216,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1237",
-      "porcentaje": "19.2 %"
+      "porcentaje": "19.1 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -273,9 +273,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "KHENAO",
-      "tareas": "4",
-      "unidades": "301",
-      "ordenes": "3"
+      "tareas": "5",
+      "unidades": "306",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -316,9 +316,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1904",
-      "ocupadas": "1117",
-      "disponibles": "787",
-      "porcentaje": "58.7 %"
+      "ocupadas": "1116",
+      "disponibles": "788",
+      "porcentaje": "58.6 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -352,9 +352,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "236",
-      "disponibles": "173",
-      "porcentaje": "57.7 %"
+      "ocupadas": "233",
+      "disponibles": "176",
+      "porcentaje": "57.0 %"
     }
   ]
 }

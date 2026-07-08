@@ -1,19 +1,19 @@
 {
-  "timestamp": "08/07/2026 10:31",
+  "timestamp": "08/07/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "35",
+      "valor": "51",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.5 %",
+      "valor": "98.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "08-07",
-      "valor": 35.0
+      "valor": 51.0
     }
   ],
   "cumplimiento": [
@@ -84,7 +84,7 @@
     },
     {
       "label": "JUL",
-      "valor": 98.5
+      "valor": 98.0
     }
   ],
   "picking_mensual": [
@@ -114,7 +114,7 @@
     },
     {
       "label": "JUL",
-      "valor": 783.0
+      "valor": 799.0
     }
   ],
   "promedio_ruta": [
@@ -128,7 +128,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 366.0
+      "valor": 368.0
     },
     {
       "label": "ESTAFETA",
@@ -194,7 +194,7 @@
     },
     {
       "label": "JUL",
-      "valor": 339.0
+      "valor": 342.0
     }
   ],
   "fillrate_mensual": [
@@ -231,11 +231,11 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2320",
-      "porcentaje": "24.1 %"
+      "porcentaje": "24.0 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2093",
+      "total": "2097",
       "porcentaje": "21.7 %"
     },
     {
@@ -258,23 +258,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "123",
-      "unidades": "6966",
-      "ordenes": "58"
+      "tareas": "127",
+      "unidades": "7116",
+      "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "122",
-      "unidades": "4488",
-      "ordenes": "64"
+      "tareas": "126",
+      "unidades": "4496",
+      "ordenes": "68"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "37",
-      "unidades": "6155",
-      "ordenes": "30"
+      "tareas": "45",
+      "unidades": "6557",
+      "ordenes": "37"
     },
     {
       "region": "BODEGA SANTIAGO",

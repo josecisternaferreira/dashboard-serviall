@@ -1,19 +1,19 @@
 {
-  "timestamp": "08/07/2026 13:30",
+  "timestamp": "08/07/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "13",
+      "valor": "15",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "106",
+      "valor": "123",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.0 %",
+      "valor": "98.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "08-07",
-      "valor": 106.0
+      "valor": 123.0
     }
   ],
   "cumplimiento": [
@@ -84,7 +84,7 @@
     },
     {
       "label": "JUL",
-      "valor": 98.0
+      "valor": 98.1
     }
   ],
   "picking_mensual": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "JUL",
-      "valor": 854.0
+      "valor": 871.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1402.0
+      "valor": 1404.0
     },
     {
       "label": "AGUNSA",
@@ -156,7 +156,7 @@
     },
     {
       "label": "LOBOZA-FINNING",
-      "valor": 11.0
+      "valor": 12.0
     },
     {
       "label": "SQM_MRP",
@@ -194,7 +194,7 @@
     },
     {
       "label": "JUL",
-      "valor": 358.0
+      "valor": 361.0
     }
   ],
   "fillrate_mensual": [
@@ -235,7 +235,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2128",
+      "total": "2134",
       "porcentaje": "21.9 %"
     },
     {
@@ -258,16 +258,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "158",
-      "unidades": "13865",
-      "ordenes": "64"
+      "tareas": "164",
+      "unidades": "13988",
+      "ordenes": "65"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "146",
-      "unidades": "6405",
-      "ordenes": "81"
+      "tareas": "157",
+      "unidades": "6690",
+      "ordenes": "82"
     },
     {
       "region": "BODEGA SANTIAGO",

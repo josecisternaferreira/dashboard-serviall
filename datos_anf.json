@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/07/2026 15:31",
+  "timestamp": "08/07/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,17 +8,17 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "98",
+      "valor": "99",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.4 %",
+      "valor": "92.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.7 %",
+      "valor": "99.8 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "label": "08-07",
-      "valor": 98.0
+      "valor": 99.0
     }
   ],
   "cumplimiento": [
@@ -76,7 +76,7 @@
     },
     {
       "label": "JUL",
-      "valor": 92.4
+      "valor": 92.5
     }
   ],
   "picking_mensual": [
@@ -106,7 +106,7 @@
     },
     {
       "label": "JUL",
-      "valor": 551.0
+      "valor": 552.0
     }
   ],
   "promedio_ruta": [
@@ -174,7 +174,7 @@
     },
     {
       "label": "JUL",
-      "valor": 184.0
+      "valor": 186.0
     }
   ],
   "fillrate_mensual": [
@@ -204,7 +204,7 @@
     },
     {
       "label": "JUL",
-      "valor": 99.7
+      "valor": 99.8
     }
   ],
   "top5_operadores": [
@@ -220,7 +220,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "732",
+      "total": "733",
       "porcentaje": "11.4 %"
     },
     {
@@ -282,6 +282,13 @@
       "usuario": "JBARRERA",
       "tareas": "1",
       "unidades": "1",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "1",
+      "unidades": "30",
       "ordenes": "1"
     }
   ],
@@ -345,9 +352,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "235",
-      "disponibles": "174",
-      "porcentaje": "57.5 %"
+      "ocupadas": "236",
+      "disponibles": "173",
+      "porcentaje": "57.7 %"
     }
   ]
 }

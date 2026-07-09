@@ -1,14 +1,14 @@
 {
-  "timestamp": "09/07/2026 10:31",
+  "timestamp": "09/07/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "31",
+      "valor": "39",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "09-07",
-      "valor": 31.0
+      "valor": 39.0
     }
   ],
   "cumplimiento": [
@@ -118,13 +118,13 @@
     },
     {
       "label": "JUL",
-      "valor": 975.0
+      "valor": 983.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1416.0
+      "valor": 1417.0
     },
     {
       "label": "AGUNSA",
@@ -140,7 +140,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 101.0
+      "valor": 102.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -239,8 +239,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2187",
-      "porcentaje": "22.2 %"
+      "total": "2191",
+      "porcentaje": "22.3 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -262,15 +262,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "217",
-      "unidades": "15392",
-      "ordenes": "88"
+      "tareas": "221",
+      "unidades": "15427",
+      "ordenes": "89"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "206",
-      "unidades": "17514",
+      "tareas": "210",
+      "unidades": "17638",
       "ordenes": "88"
     },
     {
@@ -382,9 +382,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "148",
-      "disponibles": "151",
-      "porcentaje": "49.5 %"
+      "ocupadas": "168",
+      "disponibles": "131",
+      "porcentaje": "56.2 %"
     }
   ]
 }

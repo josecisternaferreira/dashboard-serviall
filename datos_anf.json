@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/07/2026 15:31",
+  "timestamp": "09/07/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "93",
+      "valor": "101",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "label": "09-07",
-      "valor": 93.0
+      "valor": 101.0
     }
   ],
   "cumplimiento": [
@@ -110,17 +110,17 @@
     },
     {
       "label": "JUL",
-      "valor": 665.0
+      "valor": 673.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 930.0
+      "valor": 931.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 266.0
+      "valor": 267.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -178,7 +178,7 @@
     },
     {
       "label": "JUL",
-      "valor": 238.0
+      "valor": 240.0
     }
   ],
   "fillrate_mensual": [
@@ -248,6 +248,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "81",
+      "unidades": "4429",
+      "ordenes": "47"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
       "tareas": "78",
       "unidades": "4590",
@@ -259,13 +266,6 @@
       "tareas": "78",
       "unidades": "8072",
       "ordenes": "13"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "73",
-      "unidades": "4385",
-      "ordenes": "42"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -347,9 +347,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "80",
-      "ocupadas": "74",
-      "disponibles": "6",
-      "porcentaje": "92.5 %"
+      "ocupadas": "75",
+      "disponibles": "5",
+      "porcentaje": "93.8 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

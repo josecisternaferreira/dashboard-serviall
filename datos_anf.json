@@ -1,13 +1,364 @@
 {
-  "timestamp": "09/07/2026 09:01",
-  "kpis": [],
-  "tareas_por_dia": [],
-  "cumplimiento": [],
-  "picking_mensual": [],
-  "promedio_ruta": [],
-  "despachos_mes": [],
-  "fillrate_mensual": [],
-  "top5_operadores": [],
-  "semana_actual": [],
-  "ocupacion": []
+  "timestamp": "09/07/2026 09:31",
+  "kpis": [
+    {
+      "titulo": "TOTAL_ASN_HOY",
+      "valor": "0",
+      "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
+    },
+    {
+      "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
+      "valor": "8",
+      "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
+    },
+    {
+      "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
+      "valor": "92.3 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
+    },
+    {
+      "titulo": "FILL_RATE_MES_ACTUAL",
+      "valor": "99.8 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
+    },
+    {
+      "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
+      "valor": "0.7 días",
+      "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
+    }
+  ],
+  "tareas_por_dia": [
+    {
+      "label": "01-07",
+      "valor": 107.0
+    },
+    {
+      "label": "02-07",
+      "valor": 87.0
+    },
+    {
+      "label": "06-07",
+      "valor": 169.0
+    },
+    {
+      "label": "07-07",
+      "valor": 90.0
+    },
+    {
+      "label": "08-07",
+      "valor": 119.0
+    },
+    {
+      "label": "09-07",
+      "valor": 8.0
+    }
+  ],
+  "cumplimiento": [
+    {
+      "label": "ENE",
+      "valor": 94.7
+    },
+    {
+      "label": "FEB",
+      "valor": 75.2
+    },
+    {
+      "label": "MAR",
+      "valor": 90.4
+    },
+    {
+      "label": "ABR",
+      "valor": 93.1
+    },
+    {
+      "label": "MAY",
+      "valor": 95.2
+    },
+    {
+      "label": "JUN",
+      "valor": 95.4
+    },
+    {
+      "label": "JUL",
+      "valor": 92.3
+    }
+  ],
+  "picking_mensual": [
+    {
+      "label": "ENE",
+      "valor": 2052.0
+    },
+    {
+      "label": "FEB",
+      "valor": 1742.0
+    },
+    {
+      "label": "MAR",
+      "valor": 2282.0
+    },
+    {
+      "label": "ABR",
+      "valor": 2354.0
+    },
+    {
+      "label": "MAY",
+      "valor": 1891.0
+    },
+    {
+      "label": "JUN",
+      "valor": 2222.0
+    },
+    {
+      "label": "JUL",
+      "valor": 580.0
+    }
+  ],
+  "promedio_ruta": [
+    {
+      "label": "REPO.CONTRATOS",
+      "valor": 924.0
+    },
+    {
+      "label": "DESPACHO-CLIENTE",
+      "valor": 265.0
+    },
+    {
+      "label": "SUCURSAL.FINNING",
+      "valor": 259.0
+    },
+    {
+      "label": "CLIENTE RETIRA",
+      "valor": 162.0
+    },
+    {
+      "label": "SITRANS",
+      "valor": 78.0
+    },
+    {
+      "label": "ESTAFETA",
+      "valor": 75.0
+    },
+    {
+      "label": "SQM_MRP",
+      "valor": 71.0
+    },
+    {
+      "label": "AGUNSA",
+      "valor": 27.0
+    },
+    {
+      "label": "REPOSICION",
+      "valor": 19.0
+    }
+  ],
+  "despachos_mes": [
+    {
+      "label": "ENE",
+      "valor": 569.0
+    },
+    {
+      "label": "FEB",
+      "valor": 705.0
+    },
+    {
+      "label": "MAR",
+      "valor": 707.0
+    },
+    {
+      "label": "ABR",
+      "valor": 669.0
+    },
+    {
+      "label": "MAY",
+      "valor": 651.0
+    },
+    {
+      "label": "JUN",
+      "valor": 614.0
+    },
+    {
+      "label": "JUL",
+      "valor": 196.0
+    }
+  ],
+  "fillrate_mensual": [
+    {
+      "label": "ENE",
+      "valor": 99.6
+    },
+    {
+      "label": "FEB",
+      "valor": 99.3
+    },
+    {
+      "label": "MAR",
+      "valor": 99.0
+    },
+    {
+      "label": "ABR",
+      "valor": 99.9
+    },
+    {
+      "label": "MAY",
+      "valor": 99.8
+    },
+    {
+      "label": "JUN",
+      "valor": 99.9
+    },
+    {
+      "label": "JUL",
+      "valor": 99.8
+    }
+  ],
+  "top5_operadores": [
+    {
+      "operador": "ZOAR CARVAJAL",
+      "total": "1647",
+      "porcentaje": "25.5 %"
+    },
+    {
+      "operador": "LESLIE CARRIZO",
+      "total": "1238",
+      "porcentaje": "19.1 %"
+    },
+    {
+      "operador": "YEIMY RINCON",
+      "total": "733",
+      "porcentaje": "11.3 %"
+    },
+    {
+      "operador": "JHONY MONTONYA",
+      "total": "592",
+      "porcentaje": "9.2 %"
+    },
+    {
+      "operador": "SEBASTIAN OCARANZA",
+      "total": "569",
+      "porcentaje": "8.8 %"
+    }
+  ],
+  "semana_actual": [
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "150",
+      "unidades": "14332",
+      "ordenes": "47"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "78",
+      "unidades": "8072",
+      "ordenes": "13"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "64",
+      "unidades": "4132",
+      "ordenes": "36"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "58",
+      "unidades": "4068",
+      "ordenes": "33"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "AGLAVIC",
+      "tareas": "29",
+      "unidades": "2566",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "5",
+      "unidades": "306",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "1",
+      "unidades": "30",
+      "ordenes": "1"
+    }
+  ],
+  "ocupacion": [
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "PATIO",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-CANTI",
+      "tipo": "ACTIVO",
+      "total": "4",
+      "ocupadas": "0",
+      "disponibles": "4",
+      "porcentaje": "0.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-MULTI",
+      "tipo": "ACTIVO",
+      "total": "1904",
+      "ocupadas": "1114",
+      "disponibles": "790",
+      "porcentaje": "58.5 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "26",
+      "ocupadas": "26",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "4",
+      "ocupadas": "3",
+      "disponibles": "1",
+      "porcentaje": "75.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "80",
+      "ocupadas": "75",
+      "disponibles": "5",
+      "porcentaje": "93.8 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "409",
+      "ocupadas": "233",
+      "disponibles": "176",
+      "porcentaje": "57.0 %"
+    }
+  ]
 }

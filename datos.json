@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/07/2026 13:31",
+  "timestamp": "10/07/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "167",
+      "valor": "187",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.1 %",
+      "valor": "98.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "10-07",
-      "valor": 167.0
+      "valor": 187.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +92,7 @@
     },
     {
       "label": "JUL",
-      "valor": 98.1
+      "valor": 98.2
     }
   ],
   "picking_mensual": [
@@ -122,13 +122,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1287.0
+      "valor": 1307.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1454.0
+      "valor": 1457.0
     },
     {
       "label": "AGUNSA",
@@ -202,7 +202,7 @@
     },
     {
       "label": "JUL",
-      "valor": 483.0
+      "valor": 488.0
     }
   ],
   "fillrate_mensual": [
@@ -232,18 +232,18 @@
     },
     {
       "label": "JUL",
-      "valor": 99.9
+      "valor": 99.8
     }
   ],
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2358",
+      "total": "2362",
       "porcentaje": "23.2 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2308",
+      "total": "2314",
       "porcentaje": "22.8 %"
     },
     {
@@ -254,42 +254,42 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1496",
-      "porcentaje": "14.8 %"
+      "porcentaje": "14.7 %"
     },
     {
       "operador": "LUCIANO ALFARO",
       "total": "726",
-      "porcentaje": "7.2 %"
+      "porcentaje": "7.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "338",
-      "unidades": "34005",
+      "tareas": "347",
+      "unidades": "37380",
       "ordenes": "105"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "338",
-      "unidades": "24032",
-      "ordenes": "108"
+      "tareas": "344",
+      "unidades": "24100",
+      "ordenes": "111"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "49",
-      "unidades": "6639",
-      "ordenes": "41"
+      "tareas": "50",
+      "unidades": "6640",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "38",
-      "unidades": "2162",
-      "ordenes": "17"
+      "tareas": "42",
+      "unidades": "2198",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA SANTIAGO",

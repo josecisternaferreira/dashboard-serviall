@@ -1,14 +1,14 @@
 {
-  "timestamp": "10/07/2026 13:31",
+  "timestamp": "10/07/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "43",
+      "valor": "44",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "10-07",
-      "valor": 43.0
+      "valor": 44.0
     }
   ],
   "cumplimiento": [
@@ -114,13 +114,13 @@
     },
     {
       "label": "JUL",
-      "valor": 720.0
+      "valor": 721.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 933.0
+      "valor": 934.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -223,7 +223,7 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1295",
+      "total": "1296",
       "porcentaje": "19.6 %"
     },
     {
@@ -246,8 +246,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "207",
-      "unidades": "17205",
+      "tareas": "208",
+      "unidades": "17231",
       "ordenes": "56"
     },
     {
@@ -360,9 +360,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "232",
-      "disponibles": "177",
-      "porcentaje": "56.7 %"
+      "ocupadas": "233",
+      "disponibles": "176",
+      "porcentaje": "57.0 %"
     }
   ]
 }

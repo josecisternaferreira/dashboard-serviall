@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/07/2026 14:01",
+  "timestamp": "11/07/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "8",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "11-07",
-      "valor": 6.0
+      "valor": 8.0
     }
   ],
   "cumplimiento": [
@@ -126,7 +126,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1349.0
+      "valor": 1351.0
     }
   ],
   "promedio_ruta": [
@@ -297,17 +297,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "35",
+      "unidades": "262",
+      "ordenes": "31"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
       "tareas": "34",
       "unidades": "2620",
       "ordenes": "21"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "33",
-      "unidades": "260",
-      "ordenes": "29"
     },
     {
       "region": "BODEGA SANTIAGO",

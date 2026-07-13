@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/07/2026 20:36",
+  "timestamp": "12/07/2026 21:36",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -275,42 +275,5 @@
       "ordenes": ""
     }
   ],
-  "ocupacion": [
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "MERMA",
-      "tipo": "PISO",
-      "total": "1",
-      "ocupadas": "1",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "PATIO",
-      "tipo": "PISO",
-      "total": "1",
-      "ocupadas": "1",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "PTF",
-      "tipo": "PISO",
-      "total": "1",
-      "ocupadas": "1",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-CANTI",
-      "tipo": "ACTIVO",
-      "total": "18",
-      "ocupadas": "14",
-      "disponibles": "4",
-      "porcentaje": "77.8 %"
-    }
-  ]
+  "ocupacion": []
 }

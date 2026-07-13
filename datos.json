@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/07/2026 12:32",
+  "timestamp": "13/07/2026 13:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "42",
+      "valor": "48",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.1 %",
+      "valor": "98.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "13-07",
-      "valor": 42.0
+      "valor": 48.0
     }
   ],
   "cumplimiento": [
@@ -100,7 +100,7 @@
     },
     {
       "label": "JUL",
-      "valor": 98.1
+      "valor": 98.2
     }
   ],
   "picking_mensual": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1393.0
+      "valor": 1399.0
     }
   ],
   "promedio_ruta": [
@@ -144,7 +144,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 369.0
+      "valor": 370.0
     },
     {
       "label": "ESTAFETA",
@@ -210,7 +210,7 @@
     },
     {
       "label": "JUL",
-      "valor": 540.0
+      "valor": 542.0
     }
   ],
   "fillrate_mensual": [
@@ -274,9 +274,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "43",
-      "unidades": "7599",
-      "ordenes": "29"
+      "tareas": "48",
+      "unidades": "7843",
+      "ordenes": "34"
     }
   ],
   "ocupacion": [

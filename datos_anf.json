@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/07/2026 14:48",
+  "timestamp": "13/07/2026 15:18",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "73",
+      "valor": "78",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.5 %",
+      "valor": "93.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "label": "13-07",
-      "valor": 73.0
+      "valor": 78.0
     }
   ],
   "cumplimiento": [
@@ -88,7 +88,7 @@
     },
     {
       "label": "JUL",
-      "valor": 93.5
+      "valor": 93.6
     }
   ],
   "picking_mensual": [
@@ -118,7 +118,7 @@
     },
     {
       "label": "JUL",
-      "valor": 826.0
+      "valor": 831.0
     }
   ],
   "promedio_ruta": [
@@ -148,7 +148,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 73.0
+      "valor": 74.0
     },
     {
       "label": "AGUNSA",
@@ -186,7 +186,7 @@
     },
     {
       "label": "JUL",
-      "valor": 292.0
+      "valor": 295.0
     }
   ],
   "fillrate_mensual": [
@@ -263,16 +263,16 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "9",
-      "unidades": "553",
-      "ordenes": "3"
+      "usuario": "OROJAS",
+      "tareas": "13",
+      "unidades": "744",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "8",
-      "unidades": "78",
+      "usuario": "LARDILES",
+      "tareas": "9",
+      "unidades": "553",
       "ordenes": "3"
     }
   ],
@@ -336,9 +336,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "226",
-      "disponibles": "183",
-      "porcentaje": "55.3 %"
+      "ocupadas": "227",
+      "disponibles": "182",
+      "porcentaje": "55.5 %"
     }
   ]
 }

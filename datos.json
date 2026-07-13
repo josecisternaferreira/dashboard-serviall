@@ -1,14 +1,14 @@
 {
-  "timestamp": "13/07/2026 13:02",
+  "timestamp": "13/07/2026 13:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "10",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "48",
+      "valor": "53",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "13-07",
-      "valor": 48.0
+      "valor": 53.0
     }
   ],
   "cumplimiento": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1399.0
+      "valor": 1404.0
     }
   ],
   "promedio_ruta": [
@@ -210,7 +210,7 @@
     },
     {
       "label": "JUL",
-      "valor": 542.0
+      "valor": 545.0
     }
   ],
   "fillrate_mensual": [
@@ -274,9 +274,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "48",
-      "unidades": "7843",
-      "ordenes": "34"
+      "tareas": "53",
+      "unidades": "8147",
+      "ordenes": "39"
     }
   ],
   "ocupacion": [
@@ -339,9 +339,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1482",
-      "ocupadas": "1165",
-      "disponibles": "317",
-      "porcentaje": "78.6 %"
+      "ocupadas": "1164",
+      "disponibles": "318",
+      "porcentaje": "78.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",

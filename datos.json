@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/07/2026 10:32",
+  "timestamp": "14/07/2026 11:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "7",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "label": "14-07",
-      "valor": 1.0
+      "valor": 7.0
     }
   ],
   "cumplimiento": [
@@ -134,13 +134,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1418.0
+      "valor": 1424.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1460.0
+      "valor": 1461.0
     },
     {
       "label": "AGUNSA",
@@ -214,7 +214,7 @@
     },
     {
       "label": "JUL",
-      "valor": 583.0
+      "valor": 584.0
     }
   ],
   "fillrate_mensual": [
@@ -255,7 +255,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2146",
+      "total": "2147",
       "porcentaje": "21.8 %"
     },
     {
@@ -266,7 +266,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1463",
-      "porcentaje": "14.9 %"
+      "porcentaje": "14.8 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -278,9 +278,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "64",
-      "unidades": "8809",
-      "ordenes": "49"
+      "tareas": "69",
+      "unidades": "8888",
+      "ordenes": "51"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "1",
+      "unidades": "10",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA SANTIAGO",

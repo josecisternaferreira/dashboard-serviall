@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/07/2026 11:18",
+  "timestamp": "14/07/2026 11:48",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "18",
+      "valor": "35",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "14-07",
-      "valor": 18.0
+      "valor": 35.0
     }
   ],
   "cumplimiento": [
@@ -122,7 +122,7 @@
     },
     {
       "label": "JUL",
-      "valor": 893.0
+      "valor": 910.0
     }
   ],
   "promedio_ruta": [
@@ -132,7 +132,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 271.0
+      "valor": 273.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUL",
-      "valor": 312.0
+      "valor": 313.0
     }
   ],
   "fillrate_mensual": [
@@ -227,11 +227,11 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1603",
-      "porcentaje": "24.3 %"
+      "porcentaje": "24.2 %"
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1358",
+      "total": "1364",
       "porcentaje": "20.6 %"
     },
     {
@@ -241,8 +241,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "596",
-      "porcentaje": "9.0 %"
+      "total": "606",
+      "porcentaje": "9.2 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -254,9 +254,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "57",
-      "unidades": "6016",
-      "ordenes": "30"
+      "tareas": "63",
+      "unidades": "6051",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -268,16 +268,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "19",
-      "unidades": "2122",
+      "tareas": "29",
+      "unidades": "2147",
       "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "13",
-      "unidades": "744",
-      "ordenes": "6"
+      "tareas": "14",
+      "unidades": "745",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -354,9 +354,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "232",
-      "disponibles": "177",
-      "porcentaje": "56.7 %"
+      "ocupadas": "233",
+      "disponibles": "176",
+      "porcentaje": "57.0 %"
     }
   ]
 }

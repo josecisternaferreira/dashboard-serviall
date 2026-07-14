@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/07/2026 10:47",
+  "timestamp": "14/07/2026 11:18",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "12",
+      "valor": "18",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.2 %",
+      "valor": "93.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "label": "14-07",
-      "valor": 12.0
+      "valor": 18.0
     }
   ],
   "cumplimiento": [
@@ -92,7 +92,7 @@
     },
     {
       "label": "JUL",
-      "valor": 93.2
+      "valor": 93.3
     }
   ],
   "picking_mensual": [
@@ -122,17 +122,17 @@
     },
     {
       "label": "JUL",
-      "valor": 887.0
+      "valor": 893.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 943.0
+      "valor": 944.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 270.0
+      "valor": 271.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -190,7 +190,7 @@
     },
     {
       "label": "JUL",
-      "valor": 310.0
+      "valor": 312.0
     }
   ],
   "fillrate_mensual": [
@@ -231,17 +231,17 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1353",
-      "porcentaje": "20.5 %"
+      "total": "1358",
+      "porcentaje": "20.6 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "729",
-      "porcentaje": "11.1 %"
+      "porcentaje": "11.0 %"
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "595",
+      "total": "596",
       "porcentaje": "9.0 %"
     },
     {
@@ -254,9 +254,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "52",
-      "unidades": "5842",
-      "ordenes": "26"
+      "tareas": "57",
+      "unidades": "6016",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -268,9 +268,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "18",
-      "unidades": "2115",
-      "ordenes": "6"
+      "tareas": "19",
+      "unidades": "2122",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

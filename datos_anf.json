@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/07/2026 12:47",
+  "timestamp": "15/07/2026 13:17",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "29",
+      "valor": "32",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "label": "15-07",
-      "valor": 29.0
+      "valor": 32.0
     }
   ],
   "cumplimiento": [
@@ -126,7 +126,7 @@
     },
     {
       "label": "JUL",
-      "valor": 998.0
+      "valor": 1001.0
     }
   ],
   "promedio_ruta": [
@@ -140,7 +140,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 265.0
+      "valor": 266.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -245,13 +245,13 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "559",
-      "porcentaje": "8.8 %"
+      "total": "562",
+      "porcentaje": "8.9 %"
     },
     {
       "operador": "JHONY MONTONYA",
       "total": "530",
-      "porcentaje": "8.4 %"
+      "porcentaje": "8.3 %"
     }
   ],
   "semana_actual": [
@@ -272,8 +272,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "43",
-      "unidades": "2368",
+      "tareas": "46",
+      "unidades": "2493",
       "ordenes": "15"
     },
     {
@@ -340,9 +340,9 @@
       "area": "Z-PISO",
       "tipo": "PISO",
       "total": "4",
-      "ocupadas": "3",
-      "disponibles": "1",
-      "porcentaje": "75.0 %"
+      "ocupadas": "4",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -358,9 +358,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "232",
-      "disponibles": "177",
-      "porcentaje": "56.7 %"
+      "ocupadas": "231",
+      "disponibles": "178",
+      "porcentaje": "56.5 %"
     }
   ]
 }

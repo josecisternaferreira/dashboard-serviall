@@ -1,19 +1,19 @@
 {
-  "timestamp": "15/07/2026 11:32",
+  "timestamp": "15/07/2026 12:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "12",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "49",
+      "valor": "59",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.1 %",
+      "valor": "98.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "label": "15-07",
-      "valor": 49.0
+      "valor": 59.0
     }
   ],
   "cumplimiento": [
@@ -108,7 +108,7 @@
     },
     {
       "label": "JUL",
-      "valor": 98.1
+      "valor": 98.2
     }
   ],
   "picking_mensual": [
@@ -138,13 +138,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1592.0
+      "valor": 1602.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1477.0
+      "valor": 1478.0
     },
     {
       "label": "AGUNSA",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUL",
-      "valor": 644.0
+      "valor": 653.0
     }
   ],
   "fillrate_mensual": [
@@ -259,7 +259,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2010",
+      "total": "2012",
       "porcentaje": "21.3 %"
     },
     {
@@ -274,7 +274,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "763",
+      "total": "769",
       "porcentaje": "8.1 %"
     }
   ],
@@ -282,16 +282,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "159",
-      "unidades": "12915",
+      "tareas": "165",
+      "unidades": "13095",
       "ordenes": "93"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "77",
-      "unidades": "8434",
-      "ordenes": "45"
+      "tareas": "79",
+      "unidades": "8449",
+      "ordenes": "47"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "2",
+      "unidades": "25",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA SANTIAGO",

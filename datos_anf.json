@@ -1,134 +1,35 @@
 {
-  "timestamp": "16/07/2026 08:48",
+  "timestamp": "16/07/2026 09:18",
   "kpis": [
     {
-      "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
-      "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
+      "titulo": "",
+      "valor": "",
+      "subtitulo": ""
     },
     {
-      "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
-      "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
+      "titulo": "",
+      "valor": "",
+      "subtitulo": ""
     },
     {
-      "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.3 %",
-      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
+      "titulo": "",
+      "valor": "",
+      "subtitulo": ""
     },
     {
-      "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.8 %",
-      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
+      "titulo": "",
+      "valor": "",
+      "subtitulo": ""
     },
     {
-      "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "0.7 días",
-      "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
+      "titulo": "",
+      "valor": "",
+      "subtitulo": ""
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "01-07",
-      "valor": 107.0
-    },
-    {
-      "label": "02-07",
-      "valor": 87.0
-    },
-    {
-      "label": "06-07",
-      "valor": 169.0
-    },
-    {
-      "label": "07-07",
-      "valor": 90.0
-    },
-    {
-      "label": "08-07",
-      "valor": 119.0
-    },
-    {
-      "label": "09-07",
-      "valor": 105.0
-    },
-    {
-      "label": "10-07",
-      "valor": 76.0
-    },
-    {
-      "label": "13-07",
-      "valor": 122.0
-    },
-    {
-      "label": "14-07",
-      "valor": 94.0
-    },
-    {
-      "label": "15-07",
-      "valor": 64.0
-    }
-  ],
-  "cumplimiento": [
-    {
-      "label": "ENE",
-      "valor": 94.7
-    },
-    {
-      "label": "FEB",
-      "valor": 75.2
-    },
-    {
-      "label": "MAR",
-      "valor": 90.4
-    },
-    {
-      "label": "ABR",
-      "valor": 93.1
-    },
-    {
-      "label": "MAY",
-      "valor": 95.2
-    },
-    {
-      "label": "JUN",
-      "valor": 95.4
-    },
-    {
-      "label": "JUL",
-      "valor": 94.3
-    }
-  ],
-  "picking_mensual": [
-    {
-      "label": "ENE",
-      "valor": 2052.0
-    },
-    {
-      "label": "FEB",
-      "valor": 1742.0
-    },
-    {
-      "label": "MAR",
-      "valor": 2282.0
-    },
-    {
-      "label": "ABR",
-      "valor": 2354.0
-    },
-    {
-      "label": "MAY",
-      "valor": 1891.0
-    },
-    {
-      "label": "JUN",
-      "valor": 2222.0
-    },
-    {
-      "label": "JUL",
-      "valor": 1033.0
-    }
-  ],
+  "tareas_por_dia": [],
+  "cumplimiento": [],
+  "picking_mensual": [],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
@@ -235,7 +136,7 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1370",
+      "total": "1374",
       "porcentaje": "21.5 %"
     },
     {
@@ -265,9 +166,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "69",
-      "unidades": "6093",
-      "ordenes": "34"
+      "tareas": "73",
+      "unidades": "6101",
+      "ordenes": "35"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

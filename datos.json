@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/07/2026 11:02",
+  "timestamp": "16/07/2026 11:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "41",
+      "valor": "50",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "16-07",
-      "valor": 41.0
+      "valor": 50.0
     }
   ],
   "cumplimiento": [
@@ -142,13 +142,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1694.0
+      "valor": 1703.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1488.0
+      "valor": 1489.0
     },
     {
       "label": "AGUNSA",
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUL",
-      "valor": 689.0
+      "valor": 691.0
     }
   ],
   "fillrate_mensual": [
@@ -263,7 +263,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2055",
+      "total": "2058",
       "porcentaje": "21.5 %"
     },
     {
@@ -278,23 +278,23 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "805",
-      "porcentaje": "8.4 %"
+      "total": "811",
+      "porcentaje": "8.5 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "201",
-      "unidades": "17161",
-      "ordenes": "105"
+      "tareas": "207",
+      "unidades": "17426",
+      "ordenes": "106"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "122",
-      "unidades": "12532",
+      "tareas": "125",
+      "unidades": "12672",
       "ordenes": "59"
     },
     {
@@ -361,9 +361,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "329",
-      "ocupadas": "53",
-      "disponibles": "276",
-      "porcentaje": "16.1 %"
+      "ocupadas": "54",
+      "disponibles": "275",
+      "porcentaje": "16.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",

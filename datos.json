@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/07/2026 15:32",
+  "timestamp": "16/07/2026 16:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "112",
+      "valor": "132",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "16-07",
-      "valor": 112.0
+      "valor": 132.0
     }
   ],
   "cumplimiento": [
@@ -142,13 +142,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1765.0
+      "valor": 1785.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1495.0
+      "valor": 1498.0
     },
     {
       "label": "AGUNSA",
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUL",
-      "valor": 731.0
+      "valor": 734.0
     }
   ],
   "fillrate_mensual": [
@@ -263,8 +263,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2091",
-      "porcentaje": "21.7 %"
+      "total": "2103",
+      "porcentaje": "21.8 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -278,23 +278,23 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "839",
-      "porcentaje": "8.7 %"
+      "total": "847",
+      "porcentaje": "8.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "235",
-      "unidades": "19306",
-      "ordenes": "118"
+      "tareas": "243",
+      "unidades": "20367",
+      "ordenes": "122"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "158",
-      "unidades": "14988",
+      "tareas": "170",
+      "unidades": "15065",
       "ordenes": "68"
     },
     {
@@ -370,9 +370,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "37",
-      "ocupadas": "12",
-      "disponibles": "25",
-      "porcentaje": "32.4 %"
+      "ocupadas": "16",
+      "disponibles": "21",
+      "porcentaje": "43.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

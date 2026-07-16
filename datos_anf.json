@@ -1,19 +1,19 @@
 {
-  "timestamp": "16/07/2026 11:48",
+  "timestamp": "16/07/2026 12:18",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "32",
+      "valor": "43",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.4 %",
+      "valor": "94.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "label": "16-07",
-      "valor": 32.0
+      "valor": 43.0
     }
   ],
   "cumplimiento": [
@@ -100,7 +100,7 @@
     },
     {
       "label": "JUL",
-      "valor": 94.4
+      "valor": 94.5
     }
   ],
   "picking_mensual": [
@@ -130,13 +130,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1065.0
+      "valor": 1076.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 959.0
+      "valor": 961.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -198,7 +198,7 @@
     },
     {
       "label": "JUL",
-      "valor": 378.0
+      "valor": 382.0
     }
   ],
   "fillrate_mensual": [
@@ -239,8 +239,8 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1383",
-      "porcentaje": "21.6 %"
+      "total": "1394",
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -255,7 +255,7 @@
     {
       "operador": "JHONY MONTONYA",
       "total": "530",
-      "porcentaje": "8.3 %"
+      "porcentaje": "8.2 %"
     }
   ],
   "semana_actual": [
@@ -269,8 +269,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "82",
-      "unidades": "6278",
+      "tareas": "93",
+      "unidades": "6553",
       "ordenes": "40"
     },
     {

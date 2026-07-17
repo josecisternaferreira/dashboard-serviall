@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/07/2026 14:48",
+  "timestamp": "17/07/2026 15:18",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -71,6 +71,10 @@
     {
       "label": "16-07",
       "valor": 74.0
+    },
+    {
+      "label": "17-07",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -130,7 +134,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1107.0
+      "valor": 1108.0
     }
   ],
   "promedio_ruta": [
@@ -198,7 +202,7 @@
     },
     {
       "label": "JUL",
-      "valor": 389.0
+      "valor": 390.0
     }
   ],
   "fillrate_mensual": [
@@ -290,9 +294,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "9",
-      "unidades": "406",
-      "ordenes": "6"
+      "tareas": "10",
+      "unidades": "426",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

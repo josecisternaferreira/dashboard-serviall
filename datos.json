@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/07/2026 09:32",
+  "timestamp": "20/07/2026 10:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -83,6 +83,10 @@
     {
       "label": "16-07",
       "valor": 132.0
+    },
+    {
+      "label": "20-07",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +146,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1785.0
+      "valor": 1789.0
     }
   ],
   "promedio_ruta": [
@@ -263,13 +267,13 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "2013",
+      "total": "2014",
       "porcentaje": "21.5 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1419",
-      "porcentaje": "15.1 %"
+      "total": "1422",
+      "porcentaje": "15.2 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -284,11 +288,18 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "3",
+      "unidades": "190",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "1",
+      "unidades": "4000",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

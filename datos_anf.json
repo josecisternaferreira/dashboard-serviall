@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/07/2026 09:18",
+  "timestamp": "20/07/2026 09:47",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.6 %",
+      "valor": "94.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -75,6 +75,10 @@
     {
       "label": "17-07",
       "valor": 1.0
+    },
+    {
+      "label": "20-07",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -104,7 +108,7 @@
     },
     {
       "label": "JUL",
-      "valor": 94.6
+      "valor": 94.4
     }
   ],
   "picking_mensual": [
@@ -134,7 +138,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1108.0
+      "valor": 1111.0
     }
   ],
   "promedio_ruta": [
@@ -202,7 +206,7 @@
     },
     {
       "label": "JUL",
-      "valor": 391.0
+      "valor": 393.0
     }
   ],
   "fillrate_mensual": [
@@ -243,7 +247,7 @@
     },
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1404",
+      "total": "1407",
       "porcentaje": "22.6 %"
     },
     {
@@ -254,7 +258,7 @@
     {
       "operador": "LUIS ARDILES",
       "total": "575",
-      "porcentaje": "9.3 %"
+      "porcentaje": "9.2 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -264,11 +268,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "3",
+      "unidades": "800",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

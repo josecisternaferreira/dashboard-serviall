@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/07/2026 13:49",
+  "timestamp": "21/07/2026 14:18",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "76",
+      "valor": "83",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "21-07",
-      "valor": 76.0
+      "valor": 83.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +142,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1310.0
+      "valor": 1317.0
     }
   ],
   "promedio_ruta": [
@@ -176,7 +176,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 28.0
+      "valor": 29.0
     },
     {
       "label": "REPOSICION",
@@ -261,8 +261,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "585",
-      "porcentaje": "9.1 %"
+      "total": "592",
+      "porcentaje": "9.2 %"
     },
     {
       "operador": "JHONY MONTONYA",
@@ -302,9 +302,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "10",
-      "unidades": "962",
-      "ordenes": "8"
+      "tareas": "17",
+      "unidades": "1267",
+      "ordenes": "9"
     }
   ],
   "ocupacion": [
@@ -367,9 +367,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "234",
-      "disponibles": "175",
-      "porcentaje": "57.2 %"
+      "ocupadas": "235",
+      "disponibles": "174",
+      "porcentaje": "57.5 %"
     }
   ]
 }

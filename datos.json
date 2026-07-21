@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/07/2026 04:32",
+  "timestamp": "21/07/2026 05:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -286,7 +286,36 @@
       "porcentaje": "9.0 %"
     }
   ],
-  "semana_actual": [],
+  "semana_actual": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "46",
+      "unidades": "6025",
+      "ordenes": "35"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "23",
+      "unidades": "1296",
+      "ordenes": "15"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "7",
+      "unidades": "1043",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "1",
+      "unidades": "80",
+      "ordenes": "1"
+    }
+  ],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",

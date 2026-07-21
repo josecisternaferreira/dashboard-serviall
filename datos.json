@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/07/2026 17:03",
+  "timestamp": "21/07/2026 17:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "201",
+      "valor": "205",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "21-07",
-      "valor": 201.0
+      "valor": 205.0
     }
   ],
   "cumplimiento": [
@@ -150,7 +150,7 @@
     },
     {
       "label": "JUL",
-      "valor": 2070.0
+      "valor": 2074.0
     }
   ],
   "promedio_ruta": [
@@ -266,8 +266,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2408",
-      "porcentaje": "24.9 %"
+      "total": "2412",
+      "porcentaje": "25.0 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -294,9 +294,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "93",
-      "unidades": "4627",
-      "ordenes": "42"
+      "tareas": "97",
+      "unidades": "5174",
+      "ordenes": "46"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -369,9 +369,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1178",
-      "disponibles": "282",
-      "porcentaje": "80.7 %"
+      "ocupadas": "1173",
+      "disponibles": "287",
+      "porcentaje": "80.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -405,18 +405,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "299",
-      "ocupadas": "153",
-      "disponibles": "146",
-      "porcentaje": "51.2 %"
+      "ocupadas": "154",
+      "disponibles": "145",
+      "porcentaje": "51.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "470",
-      "disponibles": "223",
-      "porcentaje": "67.8 %"
+      "ocupadas": "469",
+      "disponibles": "224",
+      "porcentaje": "67.7 %"
     }
   ]
 }

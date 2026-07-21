@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/07/2026 12:18",
+  "timestamp": "21/07/2026 12:48",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "58",
+      "valor": "67",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "label": "21-07",
-      "valor": 58.0
+      "valor": 67.0
     }
   ],
   "cumplimiento": [
@@ -142,7 +142,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1292.0
+      "valor": 1301.0
     }
   ],
   "promedio_ruta": [
@@ -164,14 +164,14 @@
     },
     {
       "label": "SITRANS",
-      "valor": 81.0
-    },
-    {
-      "label": "ESTAFETA",
-      "valor": 77.0
+      "valor": 82.0
     },
     {
       "label": "SQM_MRP",
+      "valor": 78.0
+    },
+    {
+      "label": "ESTAFETA",
       "valor": 77.0
     },
     {
@@ -210,7 +210,7 @@
     },
     {
       "label": "JUL",
-      "valor": 429.0
+      "valor": 433.0
     }
   ],
   "fillrate_mensual": [
@@ -252,22 +252,22 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1495",
-      "porcentaje": "23.4 %"
+      "porcentaje": "23.3 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "639",
+      "total": "640",
       "porcentaje": "10.0 %"
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "576",
-      "porcentaje": "9.0 %"
+      "total": "581",
+      "porcentaje": "9.1 %"
     },
     {
       "operador": "JHONY MONTONYA",
       "total": "477",
-      "porcentaje": "7.5 %"
+      "porcentaje": "7.4 %"
     }
   ],
   "semana_actual": [
@@ -281,16 +281,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "42",
-      "unidades": "2411",
-      "ordenes": "16"
+      "tareas": "45",
+      "unidades": "2911",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "25",
-      "unidades": "1507",
-      "ordenes": "3"
+      "tareas": "26",
+      "unidades": "1513",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -302,9 +302,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "1",
-      "unidades": "14",
-      "ordenes": "1"
+      "tareas": "6",
+      "unidades": "850",
+      "ordenes": "6"
     }
   ],
   "ocupacion": [
@@ -322,18 +322,18 @@
       "area": "Z-CANTI",
       "tipo": "ACTIVO",
       "total": "4",
-      "ocupadas": "3",
-      "disponibles": "1",
-      "porcentaje": "75.0 %"
+      "ocupadas": "4",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1113",
-      "disponibles": "225",
-      "porcentaje": "83.2 %"
+      "ocupadas": "1115",
+      "disponibles": "223",
+      "porcentaje": "83.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

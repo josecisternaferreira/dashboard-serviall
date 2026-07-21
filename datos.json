@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/07/2026 13:33",
+  "timestamp": "21/07/2026 14:02",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "138",
+      "valor": "154",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.4 %",
+      "valor": "96.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "21-07",
-      "valor": 138.0
+      "valor": 154.0
     }
   ],
   "cumplimiento": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "JUL",
-      "valor": 97.4
+      "valor": 96.8
     }
   ],
   "picking_mensual": [
@@ -150,17 +150,17 @@
     },
     {
       "label": "JUL",
-      "valor": 2007.0
+      "valor": 2023.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1513.0
+      "valor": 1514.0
     },
     {
       "label": "AGUNSA",
-      "valor": 391.0
+      "valor": 392.0
     },
     {
       "label": "SITRANS",
@@ -172,7 +172,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 106.0
+      "valor": 108.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -230,7 +230,7 @@
     },
     {
       "label": "JUL",
-      "valor": 821.0
+      "valor": 833.0
     }
   ],
   "fillrate_mensual": [
@@ -266,17 +266,17 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2369",
-      "porcentaje": "24.7 %"
+      "total": "2382",
+      "porcentaje": "24.8 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "2087",
-      "porcentaje": "21.8 %"
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1484",
+      "total": "1487",
       "porcentaje": "15.5 %"
     },
     {
@@ -301,16 +301,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "65",
-      "unidades": "5121",
-      "ordenes": "34"
+      "tareas": "68",
+      "unidades": "5142",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "54",
-      "unidades": "3269",
-      "ordenes": "19"
+      "tareas": "67",
+      "unidades": "3359",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -414,9 +414,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "441",
-      "disponibles": "252",
-      "porcentaje": "63.6 %"
+      "ocupadas": "445",
+      "disponibles": "248",
+      "porcentaje": "64.2 %"
     }
   ]
 }

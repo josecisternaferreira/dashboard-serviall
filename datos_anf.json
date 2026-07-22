@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/07/2026 14:49",
+  "timestamp": "22/07/2026 15:18",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "74",
+      "valor": "75",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.4 %",
+      "valor": "95.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "22-07",
-      "valor": 74.0
+      "valor": 75.0
     }
   ],
   "cumplimiento": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "JUL",
-      "valor": 95.4
+      "valor": 95.5
     }
   ],
   "picking_mensual": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1401.0
+      "valor": 1402.0
     }
   ],
   "promedio_ruta": [
@@ -214,7 +214,7 @@
     },
     {
       "label": "JUL",
-      "valor": 483.0
+      "valor": 486.0
     }
   ],
   "fillrate_mensual": [
@@ -250,7 +250,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1519",
+      "total": "1520",
       "porcentaje": "25.3 %"
     },
     {
@@ -278,9 +278,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "115",
-      "unidades": "9341",
-      "ordenes": "32"
+      "tareas": "116",
+      "unidades": "9343",
+      "ordenes": "33"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -392,9 +392,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "254",
-      "disponibles": "155",
-      "porcentaje": "62.1 %"
+      "ocupadas": "257",
+      "disponibles": "152",
+      "porcentaje": "62.8 %"
     }
   ]
 }

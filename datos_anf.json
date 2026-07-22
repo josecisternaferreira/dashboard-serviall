@@ -1,14 +1,14 @@
 {
-  "timestamp": "22/07/2026 15:18",
+  "timestamp": "22/07/2026 15:48",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "75",
+      "valor": "80",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "label": "22-07",
-      "valor": 75.0
+      "valor": 80.0
     }
   ],
   "cumplimiento": [
@@ -146,7 +146,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1402.0
+      "valor": 1407.0
     }
   ],
   "promedio_ruta": [
@@ -164,7 +164,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 174.0
+      "valor": 175.0
     },
     {
       "label": "SITRANS",
@@ -250,7 +250,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1520",
+      "total": "1522",
       "porcentaje": "25.3 %"
     },
     {
@@ -270,7 +270,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "418",
+      "total": "421",
       "porcentaje": "7.0 %"
     }
   ],
@@ -278,8 +278,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "116",
-      "unidades": "9343",
+      "tareas": "118",
+      "unidades": "9356",
       "ordenes": "33"
     },
     {
@@ -305,16 +305,16 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JBARRERA",
-      "tareas": "24",
-      "unidades": "680",
-      "ordenes": "13"
+      "usuario": "SOCARANZA",
+      "tareas": "26",
+      "unidades": "1886",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "23",
-      "unidades": "1878",
+      "usuario": "JBARRERA",
+      "tareas": "24",
+      "unidades": "680",
       "ordenes": "13"
     },
     {

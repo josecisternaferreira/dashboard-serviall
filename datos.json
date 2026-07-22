@@ -1,14 +1,14 @@
 {
-  "timestamp": "22/07/2026 10:03",
+  "timestamp": "22/07/2026 10:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "3",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "26",
+      "valor": "49",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "22-07",
-      "valor": 26.0
+      "valor": 49.0
     }
   ],
   "cumplimiento": [
@@ -154,13 +154,13 @@
     },
     {
       "label": "JUL",
-      "valor": 2101.0
+      "valor": 2124.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1518.0
+      "valor": 1520.0
     },
     {
       "label": "AGUNSA",
@@ -184,7 +184,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 78.0
+      "valor": 79.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -234,7 +234,7 @@
     },
     {
       "label": "JUL",
-      "valor": 874.0
+      "valor": 877.0
     }
   ],
   "fillrate_mensual": [
@@ -270,7 +270,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2430",
+      "total": "2440",
       "porcentaje": "26.5 %"
     },
     {
@@ -280,7 +280,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1475",
+      "total": "1486",
       "porcentaje": "16.1 %"
     },
     {
@@ -298,16 +298,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "120",
-      "unidades": "5326",
-      "ordenes": "50"
+      "tareas": "130",
+      "unidades": "6022",
+      "ordenes": "51"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "89",
-      "unidades": "6530",
-      "ordenes": "50"
+      "tareas": "100",
+      "unidades": "7407",
+      "ordenes": "51"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -333,9 +333,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "4",
-      "unidades": "105",
-      "ordenes": "4"
+      "tareas": "7",
+      "unidades": "216",
+      "ordenes": "6"
     }
   ],
   "ocupacion": [
@@ -425,9 +425,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "451",
-      "disponibles": "242",
-      "porcentaje": "65.1 %"
+      "ocupadas": "453",
+      "disponibles": "240",
+      "porcentaje": "65.4 %"
     }
   ]
 }

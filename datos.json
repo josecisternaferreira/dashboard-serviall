@@ -1,14 +1,14 @@
 {
-  "timestamp": "22/07/2026 09:03",
+  "timestamp": "22/07/2026 09:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "12",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -91,6 +91,10 @@
     {
       "label": "21-07",
       "valor": 206.0
+    },
+    {
+      "label": "22-07",
+      "valor": 12.0
     }
   ],
   "cumplimiento": [
@@ -150,13 +154,13 @@
     },
     {
       "label": "JUL",
-      "valor": 2075.0
+      "valor": 2087.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1516.0
+      "valor": 1518.0
     },
     {
       "label": "AGUNSA",
@@ -266,8 +270,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2408",
-      "porcentaje": "26.3 %"
+      "total": "2420",
+      "porcentaje": "26.4 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -287,16 +291,16 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "847",
-      "porcentaje": "9.3 %"
+      "porcentaje": "9.2 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "98",
-      "unidades": "5176",
-      "ordenes": "47"
+      "tareas": "110",
+      "unidades": "5199",
+      "ordenes": "48"
     },
     {
       "region": "BODEGA SANTIAGO",

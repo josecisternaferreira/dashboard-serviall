@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/07/2026 17:18",
+  "timestamp": "23/07/2026 17:49",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "138",
+      "valor": "146",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "23-07",
-      "valor": 138.0
+      "valor": 146.0
     }
   ],
   "cumplimiento": [
@@ -150,13 +150,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1597.0
+      "valor": 1605.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 996.0
+      "valor": 997.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -255,7 +255,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1621",
-      "porcentaje": "26.2 %"
+      "porcentaje": "26.1 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -263,13 +263,13 @@
       "porcentaje": "22.8 %"
     },
     {
-      "operador": "LUIS ARDILES",
-      "total": "619",
-      "porcentaje": "10.0 %"
+      "operador": "YEIMY RINCON",
+      "total": "626",
+      "porcentaje": "10.1 %"
     },
     {
-      "operador": "YEIMY RINCON",
-      "total": "618",
+      "operador": "LUIS ARDILES",
+      "total": "619",
       "porcentaje": "10.0 %"
     },
     {
@@ -288,17 +288,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "57",
+      "unidades": "2441",
+      "ordenes": "17"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
       "tareas": "55",
       "unidades": "13754",
       "ordenes": "13"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "49",
-      "unidades": "2281",
-      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

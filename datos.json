@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/07/2026 10:03",
+  "timestamp": "23/07/2026 10:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.3 %",
+      "valor": "94.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "label": "JUL",
-      "valor": 94.3
+      "valor": 94.4
     }
   ],
   "picking_mensual": [
@@ -238,7 +238,7 @@
     },
     {
       "label": "JUL",
-      "valor": 930.0
+      "valor": 943.0
     }
   ],
   "fillrate_mensual": [
@@ -284,7 +284,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1536",
+      "total": "1537",
       "porcentaje": "16.5 %"
     },
     {
@@ -309,9 +309,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "150",
-      "unidades": "11029",
-      "ordenes": "71"
+      "tareas": "151",
+      "unidades": "11031",
+      "ordenes": "72"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -429,9 +429,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "469",
-      "disponibles": "224",
-      "porcentaje": "67.7 %"
+      "ocupadas": "472",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

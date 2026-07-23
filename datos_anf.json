@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/07/2026 16:19",
+  "timestamp": "23/07/2026 16:48",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "119",
+      "valor": "138",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "23-07",
-      "valor": 119.0
+      "valor": 138.0
     }
   ],
   "cumplimiento": [
@@ -150,13 +150,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1578.0
+      "valor": 1597.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 993.0
+      "valor": 996.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUL",
-      "valor": 521.0
+      "valor": 522.0
     }
   ],
   "fillrate_mensual": [
@@ -254,13 +254,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1613",
-      "porcentaje": "26.1 %"
+      "total": "1621",
+      "porcentaje": "26.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1411",
-      "porcentaje": "22.9 %"
+      "total": "1413",
+      "porcentaje": "22.8 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -269,8 +269,8 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "610",
-      "porcentaje": "9.9 %"
+      "total": "618",
+      "porcentaje": "10.0 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -282,16 +282,23 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "209",
-      "unidades": "22111",
-      "ordenes": "49"
+      "tareas": "217",
+      "unidades": "22279",
+      "ordenes": "50"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "53",
-      "unidades": "12504",
-      "ordenes": "12"
+      "tareas": "55",
+      "unidades": "13754",
+      "ordenes": "13"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "49",
+      "unidades": "2281",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -313,13 +320,6 @@
       "tareas": "43",
       "unidades": "2126",
       "ordenes": "22"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "41",
-      "unidades": "2113",
-      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

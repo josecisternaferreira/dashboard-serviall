@@ -1,9 +1,9 @@
 {
-  "timestamp": "23/07/2026 13:33",
+  "timestamp": "23/07/2026 14:03",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "21",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.5 %",
+      "valor": "94.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.8 %",
+      "valor": "99.9 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "label": "JUL",
-      "valor": 94.5
+      "valor": 94.6
     }
   ],
   "picking_mensual": [
@@ -238,7 +238,7 @@
     },
     {
       "label": "JUL",
-      "valor": 990.0
+      "valor": 998.0
     }
   ],
   "fillrate_mensual": [
@@ -414,24 +414,6 @@
       "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "ACTIVO",
-      "total": "299",
-      "ocupadas": "155",
-      "disponibles": "144",
-      "porcentaje": "51.8 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "RESERVA",
-      "total": "693",
-      "ocupadas": "477",
-      "disponibles": "216",
-      "porcentaje": "68.8 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "23/07/2026 10:33",
+  "timestamp": "23/07/2026 11:03",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "9",
+      "valor": "10",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "23-07",
-      "valor": 9.0
+      "valor": 10.0
     }
   ],
   "cumplimiento": [
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUL",
-      "valor": 2232.0
+      "valor": 2233.0
     }
   ],
   "promedio_ruta": [
@@ -238,7 +238,7 @@
     },
     {
       "label": "JUL",
-      "valor": 943.0
+      "valor": 949.0
     }
   ],
   "fillrate_mensual": [
@@ -429,9 +429,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "472",
-      "disponibles": "221",
-      "porcentaje": "68.1 %"
+      "ocupadas": "476",
+      "disponibles": "217",
+      "porcentaje": "68.7 %"
     }
   ]
 }

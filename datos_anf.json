@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/07/2026 13:49",
+  "timestamp": "23/07/2026 14:49",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "101",
+      "valor": "106",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.1 %",
+      "valor": "95.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "label": "23-07",
-      "valor": 101.0
+      "valor": 106.0
     }
   ],
   "cumplimiento": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "JUL",
-      "valor": 95.1
+      "valor": 95.2
     }
   ],
   "picking_mensual": [
@@ -150,7 +150,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1560.0
+      "valor": 1565.0
     }
   ],
   "promedio_ruta": [
@@ -160,7 +160,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 286.0
+      "valor": 287.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -218,7 +218,7 @@
     },
     {
       "label": "JUL",
-      "valor": 515.0
+      "valor": 518.0
     }
   ],
   "fillrate_mensual": [
@@ -269,12 +269,12 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "607",
+      "total": "609",
       "porcentaje": "9.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "435",
+      "total": "438",
       "porcentaje": "7.1 %"
     }
   ],
@@ -310,16 +310,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "40",
-      "unidades": "2073",
-      "ordenes": "20"
+      "tareas": "43",
+      "unidades": "2126",
+      "ordenes": "22"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "38",
-      "unidades": "1998",
-      "ordenes": "13"
+      "tareas": "40",
+      "unidades": "2013",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

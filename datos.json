@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/07/2026 08:37",
+  "timestamp": "23/07/2026 09:03",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -95,6 +95,10 @@
     {
       "label": "22-07",
       "valor": 148.0
+    },
+    {
+      "label": "23-07",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -154,7 +158,7 @@
     },
     {
       "label": "JUL",
-      "valor": 2223.0
+      "valor": 2225.0
     }
   ],
   "promedio_ruta": [
@@ -272,6 +276,26 @@
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2477",
       "porcentaje": "26.6 %"
+    },
+    {
+      "operador": "DIEGO GANDO",
+      "total": "1896",
+      "porcentaje": "20.4 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1530",
+      "porcentaje": "16.4 %"
+    },
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1014",
+      "porcentaje": "10.9 %"
+    },
+    {
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "847",
+      "porcentaje": "9.1 %"
     }
   ],
   "semana_actual": [
@@ -285,9 +309,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "142",
-      "unidades": "10939",
-      "ordenes": "66"
+      "tareas": "144",
+      "unidades": "10965",
+      "ordenes": "67"
     },
     {
       "region": "BODEGA SANTIAGO",

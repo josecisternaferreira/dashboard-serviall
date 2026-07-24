@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/07/2026 09:19",
+  "timestamp": "24/07/2026 09:48",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "7",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.2 %",
+      "valor": "95.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -91,6 +91,10 @@
     {
       "label": "23-07",
       "valor": 146.0
+    },
+    {
+      "label": "24-07",
+      "valor": 7.0
     }
   ],
   "cumplimiento": [
@@ -120,7 +124,7 @@
     },
     {
       "label": "JUL",
-      "valor": 95.2
+      "valor": 95.3
     }
   ],
   "picking_mensual": [
@@ -150,7 +154,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1605.0
+      "valor": 1612.0
     }
   ],
   "promedio_ruta": [
@@ -168,7 +172,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 175.0
+      "valor": 176.0
     },
     {
       "label": "SITRANS",
@@ -218,7 +222,7 @@
     },
     {
       "label": "JUL",
-      "valor": 525.0
+      "valor": 527.0
     }
   ],
   "fillrate_mensual": [
@@ -254,8 +258,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1621",
-      "porcentaje": "26.1 %"
+      "total": "1628",
+      "porcentaje": "26.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -282,9 +286,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "217",
-      "unidades": "22279",
-      "ordenes": "50"
+      "tareas": "224",
+      "unidades": "22441",
+      "ordenes": "54"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

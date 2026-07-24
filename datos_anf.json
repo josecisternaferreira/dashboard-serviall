@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/07/2026 12:19",
+  "timestamp": "24/07/2026 12:48",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "43",
+      "valor": "51",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "24-07",
-      "valor": 43.0
+      "valor": 51.0
     }
   ],
   "cumplimiento": [
@@ -154,7 +154,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1648.0
+      "valor": 1656.0
     }
   ],
   "promedio_ruta": [
@@ -172,7 +172,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 176.0
+      "valor": 177.0
     },
     {
       "label": "SITRANS",
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUL",
-      "valor": 531.0
+      "valor": 532.0
     }
   ],
   "fillrate_mensual": [
@@ -263,13 +263,13 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1419",
+      "total": "1420",
       "porcentaje": "22.7 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "628",
-      "porcentaje": "10.1 %"
+      "porcentaje": "10.0 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -278,7 +278,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "438",
+      "total": "440",
       "porcentaje": "7.0 %"
     }
   ],
@@ -293,8 +293,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "61",
-      "unidades": "13913",
+      "tareas": "62",
+      "unidades": "13943",
       "ordenes": "14"
     },
     {
@@ -321,9 +321,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "43",
-      "unidades": "2126",
-      "ordenes": "22"
+      "tareas": "45",
+      "unidades": "2131",
+      "ordenes": "24"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -335,9 +335,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SPIZARRO",
-      "tareas": "1",
-      "unidades": "1",
-      "ordenes": "1"
+      "tareas": "6",
+      "unidades": "6",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

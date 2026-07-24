@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/07/2026 13:19",
+  "timestamp": "24/07/2026 13:49",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "51",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.3 %",
+      "valor": "95.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "24-07",
-      "valor": 51.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -124,7 +124,7 @@
     },
     {
       "label": "JUL",
-      "valor": 95.3
+      "valor": 95.4
     }
   ],
   "picking_mensual": [
@@ -154,7 +154,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1656.0
+      "valor": 1659.0
     }
   ],
   "promedio_ruta": [
@@ -222,7 +222,7 @@
     },
     {
       "label": "JUL",
-      "valor": 532.0
+      "valor": 538.0
     }
   ],
   "fillrate_mensual": [
@@ -268,8 +268,8 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "628",
-      "porcentaje": "10.0 %"
+      "total": "631",
+      "porcentaje": "10.1 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -292,17 +292,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "62",
+      "unidades": "2512",
+      "ordenes": "20"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
       "tareas": "62",
       "unidades": "13943",
       "ordenes": "14"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "59",
-      "unidades": "2443",
-      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

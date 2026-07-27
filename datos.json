@@ -1,39 +1,174 @@
 {
-  "timestamp": "27/07/2026 12:33",
+  "timestamp": "27/07/2026 13:03",
   "kpis": [
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "TOTAL_ASN_HOY",
+      "valor": "28",
+      "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
+      "valor": "168",
+      "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
+      "valor": "94.4 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "FILL_RATE_MES_ACTUAL",
+      "valor": "99.9 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
+      "valor": "2.2 días",
+      "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
-  "tareas_por_dia": [],
-  "cumplimiento": [],
-  "picking_mensual": [],
+  "tareas_por_dia": [
+    {
+      "label": "01-07",
+      "valor": 136.0
+    },
+    {
+      "label": "02-07",
+      "valor": 208.0
+    },
+    {
+      "label": "03-07",
+      "valor": 85.0
+    },
+    {
+      "label": "04-07",
+      "valor": 3.0
+    },
+    {
+      "label": "06-07",
+      "valor": 92.0
+    },
+    {
+      "label": "07-07",
+      "valor": 195.0
+    },
+    {
+      "label": "08-07",
+      "valor": 195.0
+    },
+    {
+      "label": "09-07",
+      "valor": 176.0
+    },
+    {
+      "label": "10-07",
+      "valor": 217.0
+    },
+    {
+      "label": "11-07",
+      "valor": 8.0
+    },
+    {
+      "label": "13-07",
+      "valor": 64.0
+    },
+    {
+      "label": "14-07",
+      "valor": 126.0
+    },
+    {
+      "label": "15-07",
+      "valor": 110.0
+    },
+    {
+      "label": "16-07",
+      "valor": 132.0
+    },
+    {
+      "label": "20-07",
+      "valor": 77.0
+    },
+    {
+      "label": "21-07",
+      "valor": 206.0
+    },
+    {
+      "label": "22-07",
+      "valor": 148.0
+    },
+    {
+      "label": "23-07",
+      "valor": 11.0
+    },
+    {
+      "label": "27-07",
+      "valor": 168.0
+    }
+  ],
+  "cumplimiento": [
+    {
+      "label": "ENE",
+      "valor": 90.4
+    },
+    {
+      "label": "FEB",
+      "valor": 93.9
+    },
+    {
+      "label": "MAR",
+      "valor": 90.1
+    },
+    {
+      "label": "ABR",
+      "valor": 86.9
+    },
+    {
+      "label": "MAY",
+      "valor": 95.7
+    },
+    {
+      "label": "JUN",
+      "valor": 96.1
+    },
+    {
+      "label": "JUL",
+      "valor": 94.4
+    }
+  ],
+  "picking_mensual": [
+    {
+      "label": "ENE",
+      "valor": 3388.0
+    },
+    {
+      "label": "FEB",
+      "valor": 2168.0
+    },
+    {
+      "label": "MAR",
+      "valor": 2799.0
+    },
+    {
+      "label": "ABR",
+      "valor": 3828.0
+    },
+    {
+      "label": "MAY",
+      "valor": 2970.0
+    },
+    {
+      "label": "JUN",
+      "valor": 3136.0
+    },
+    {
+      "label": "JUL",
+      "valor": 2402.0
+    }
+  ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1540.0
+      "valor": 1542.0
     },
     {
       "label": "AGUNSA",
@@ -107,7 +242,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1037.0
+      "valor": 1038.0
     }
   ],
   "fillrate_mensual": [
@@ -144,7 +279,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2526",
-      "porcentaje": "28.0 %"
+      "porcentaje": "27.9 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -154,16 +289,16 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1541",
-      "porcentaje": "17.1 %"
-    },
-    {
-      "operador": "CRISTHOFER CORTEZ",
-      "total": "878",
-      "porcentaje": "9.7 %"
+      "porcentaje": "17.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "875",
+      "total": "880",
+      "porcentaje": "9.7 %"
+    },
+    {
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "879",
       "porcentaje": "9.7 %"
     }
   ],
@@ -178,30 +313,30 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "34",
-      "unidades": "3822",
-      "ordenes": "10"
+      "tareas": "39",
+      "unidades": "4220",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "31",
-      "unidades": "9070",
+      "tareas": "32",
+      "unidades": "9078",
       "ordenes": "7"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "22",
-      "unidades": "3627",
-      "ordenes": "21"
+      "tareas": "24",
+      "unidades": "3639",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "13",
-      "unidades": "192",
-      "ordenes": "8"
+      "tareas": "14",
+      "unidades": "194",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -216,6 +351,13 @@
       "tareas": "3",
       "unidades": "1024",
       "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "YBARRIOS",
+      "tareas": "1",
+      "unidades": "2",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -251,9 +393,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "37",
-      "ocupadas": "17",
-      "disponibles": "20",
-      "porcentaje": "45.9 %"
+      "ocupadas": "16",
+      "disponibles": "21",
+      "porcentaje": "43.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -305,9 +447,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "446",
-      "disponibles": "247",
-      "porcentaje": "64.4 %"
+      "ocupadas": "448",
+      "disponibles": "245",
+      "porcentaje": "64.6 %"
     }
   ]
 }

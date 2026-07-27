@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/07/2026 16:19",
+  "timestamp": "27/07/2026 16:49",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "101",
+      "valor": "114",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "27-07",
-      "valor": 101.0
+      "valor": 114.0
     }
   ],
   "cumplimiento": [
@@ -158,13 +158,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1762.0
+      "valor": 1775.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1009.0
+      "valor": 1010.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -262,18 +262,18 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1701",
-      "porcentaje": "27.4 %"
+      "total": "1708",
+      "porcentaje": "27.5 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1406",
+      "total": "1412",
       "porcentaje": "22.7 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "631",
-      "porcentaje": "10.2 %"
+      "porcentaje": "10.1 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -290,16 +290,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "45",
-      "unidades": "1547",
-      "ordenes": "16"
+      "tareas": "52",
+      "unidades": "2702",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "34",
-      "unidades": "8143",
-      "ordenes": "8"
+      "tareas": "40",
+      "unidades": "9571",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -390,9 +390,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "238",
-      "disponibles": "171",
-      "porcentaje": "58.2 %"
+      "ocupadas": "241",
+      "disponibles": "168",
+      "porcentaje": "58.9 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "27/07/2026 14:18",
+  "timestamp": "27/07/2026 14:48",
   "kpis": [
     {
-      "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
-      "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
+      "titulo": "",
+      "valor": "",
+      "subtitulo": ""
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "60",
+      "valor": "65",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "27-07",
-      "valor": 60.0
+      "valor": 65.0
     }
   ],
   "cumplimiento": [
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1721.0
+      "valor": 1726.0
     }
   ],
   "promedio_ruta": [
@@ -172,7 +172,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 279.0
+      "valor": 280.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -226,7 +226,7 @@
     },
     {
       "label": "JUL",
-      "valor": 564.0
+      "valor": 568.0
     }
   ],
   "fillrate_mensual": [
@@ -263,16 +263,16 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1687",
-      "porcentaje": "27.4 %"
+      "porcentaje": "27.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1385",
-      "porcentaje": "22.5 %"
+      "porcentaje": "22.4 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "629",
+      "total": "630",
       "porcentaje": "10.2 %"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "389",
+      "total": "391",
       "porcentaje": "6.3 %"
     }
   ],
@@ -304,9 +304,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "10",
-      "unidades": "2024",
-      "ordenes": "6"
+      "tareas": "12",
+      "unidades": "2054",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "5",
+      "unidades": "455",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -317,10 +324,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "3",
-      "unidades": "424",
-      "ordenes": "2"
+      "usuario": "YRINCON",
+      "tareas": "1",
+      "unidades": "50",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

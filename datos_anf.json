@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/07/2026 11:18",
+  "timestamp": "27/07/2026 11:48",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "20",
+      "valor": "23",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "27-07",
-      "valor": 20.0
+      "valor": 23.0
     }
   ],
   "cumplimiento": [
@@ -158,7 +158,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1681.0
+      "valor": 1684.0
     }
   ],
   "promedio_ruta": [
@@ -226,7 +226,7 @@
     },
     {
       "label": "JUL",
-      "valor": 550.0
+      "valor": 554.0
     }
   ],
   "fillrate_mensual": [
@@ -277,8 +277,8 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "613",
-      "porcentaje": "10.0 %"
+      "total": "616",
+      "porcentaje": "10.1 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -300,6 +300,13 @@
       "tareas": "8",
       "unidades": "1992",
       "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "3",
+      "unidades": "129",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

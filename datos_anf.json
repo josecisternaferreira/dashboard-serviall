@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/07/2026 15:20",
+  "timestamp": "28/07/2026 15:49",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "label": "28-07",
-      "valor": 44.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -162,7 +162,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1845.0
+      "valor": 1847.0
     }
   ],
   "promedio_ruta": [
@@ -230,7 +230,7 @@
     },
     {
       "label": "JUL",
-      "valor": 607.0
+      "valor": 608.0
     }
   ],
   "fillrate_mensual": [
@@ -266,7 +266,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1742",
+      "total": "1744",
       "porcentaje": "27.7 %"
     },
     {
@@ -294,9 +294,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "86",
-      "unidades": "8479",
-      "ordenes": "37"
+      "tareas": "88",
+      "unidades": "8488",
+      "ordenes": "38"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -343,6 +343,60 @@
       "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-CANTI",
+      "tipo": "ACTIVO",
+      "total": "4",
+      "ocupadas": "4",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-MULTI",
+      "tipo": "ACTIVO",
+      "total": "1338",
+      "ocupadas": "1097",
+      "disponibles": "241",
+      "porcentaje": "82.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "26",
+      "ocupadas": "26",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "4",
+      "ocupadas": "3",
+      "disponibles": "1",
+      "porcentaje": "75.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "80",
+      "ocupadas": "74",
+      "disponibles": "6",
+      "porcentaje": "92.5 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "409",
+      "ocupadas": "242",
+      "disponibles": "167",
+      "porcentaje": "59.2 %"
     }
   ]
 }

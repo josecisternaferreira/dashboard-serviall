@@ -1,9 +1,9 @@
 {
-  "timestamp": "28/07/2026 13:04",
+  "timestamp": "28/07/2026 13:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "10",
+      "valor": "14",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.9 %",
+      "valor": "93.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -136,7 +136,7 @@
     },
     {
       "label": "JUL",
-      "valor": 93.9
+      "valor": 93.4
     }
   ],
   "picking_mensual": [
@@ -246,7 +246,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1079.0
+      "valor": 1085.0
     }
   ],
   "fillrate_mensual": [
@@ -458,9 +458,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "442",
-      "disponibles": "251",
-      "porcentaje": "63.8 %"
+      "ocupadas": "443",
+      "disponibles": "250",
+      "porcentaje": "63.9 %"
     }
   ]
 }

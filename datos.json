@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/07/2026 08:03",
+  "timestamp": "29/07/2026 08:34",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -246,7 +246,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1105.0
+      "valor": 1106.0
     }
   ],
   "fillrate_mensual": [
@@ -434,6 +434,33 @@
       "ocupadas": "2",
       "disponibles": "0",
       "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "239",
+      "ocupadas": "151",
+      "disponibles": "88",
+      "porcentaje": "63.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "693",
+      "ocupadas": "452",
+      "disponibles": "241",
+      "porcentaje": "65.2 %"
     }
   ]
 }

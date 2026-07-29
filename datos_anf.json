@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/07/2026 20:21",
+  "timestamp": "28/07/2026 20:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -334,69 +334,5 @@
       "ordenes": "3"
     }
   ],
-  "ocupacion": [
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "area": "PATIO",
-      "tipo": "PISO",
-      "total": "1",
-      "ocupadas": "1",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "area": "Z-CANTI",
-      "tipo": "ACTIVO",
-      "total": "4",
-      "ocupadas": "4",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "area": "Z-MULTI",
-      "tipo": "ACTIVO",
-      "total": "1338",
-      "ocupadas": "1097",
-      "disponibles": "241",
-      "porcentaje": "82.0 %"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "area": "Z-MULTI",
-      "tipo": "RESERVA",
-      "total": "26",
-      "ocupadas": "26",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "area": "Z-PISO",
-      "tipo": "PISO",
-      "total": "4",
-      "ocupadas": "3",
-      "disponibles": "1",
-      "porcentaje": "75.0 %"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "area": "Z-RACK",
-      "tipo": "ACTIVO",
-      "total": "80",
-      "ocupadas": "74",
-      "disponibles": "6",
-      "porcentaje": "92.5 %"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "area": "Z-RACK",
-      "tipo": "RESERVA",
-      "total": "409",
-      "ocupadas": "242",
-      "disponibles": "167",
-      "porcentaje": "59.2 %"
-    }
-  ]
+  "ocupacion": []
 }

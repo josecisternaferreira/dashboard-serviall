@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/07/2026 07:33",
+  "timestamp": "29/07/2026 08:03",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -200,11 +200,11 @@
     },
     {
       "label": "REPO. MULTINIVEL",
-      "valor": 43.0
+      "valor": 44.0
     },
     {
       "label": "REPOSICION",
-      "valor": 30.0
+      "valor": 29.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -282,28 +282,28 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2631",
-      "porcentaje": "28.5 %"
+      "total": "2409",
+      "porcentaje": "27.7 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1724",
-      "porcentaje": "18.7 %"
+      "total": "1721",
+      "porcentaje": "19.8 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1556",
-      "porcentaje": "16.8 %"
+      "total": "1389",
+      "porcentaje": "16.0 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "908",
-      "porcentaje": "9.8 %"
+      "porcentaje": "10.5 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "895",
-      "porcentaje": "9.7 %"
+      "porcentaje": "10.3 %"
     }
   ],
   "semana_actual": [
@@ -434,33 +434,6 @@
       "ocupadas": "2",
       "disponibles": "0",
       "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-PTF",
-      "tipo": "PISO",
-      "total": "1",
-      "ocupadas": "1",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "ACTIVO",
-      "total": "239",
-      "ocupadas": "151",
-      "disponibles": "88",
-      "porcentaje": "63.2 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "RESERVA",
-      "total": "693",
-      "ocupadas": "453",
-      "disponibles": "240",
-      "porcentaje": "65.4 %"
     }
   ]
 }

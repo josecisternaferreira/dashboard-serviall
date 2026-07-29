@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/07/2026 16:50",
+  "timestamp": "29/07/2026 17:52",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "68",
+      "valor": "82",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "29-07",
-      "valor": 68.0
+      "valor": 82.0
     }
   ],
   "cumplimiento": [
@@ -166,13 +166,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1915.0
+      "valor": 1929.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1020.0
+      "valor": 1021.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -234,7 +234,7 @@
     },
     {
       "label": "JUL",
-      "valor": 645.0
+      "valor": 646.0
     }
   ],
   "fillrate_mensual": [
@@ -270,7 +270,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1759",
+      "total": "1761",
       "porcentaje": "29.3 %"
     },
     {
@@ -281,12 +281,12 @@
     {
       "operador": "LUIS ARDILES",
       "total": "603",
-      "porcentaje": "10.1 %"
+      "porcentaje": "10.0 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "580",
-      "porcentaje": "9.7 %"
+      "total": "592",
+      "porcentaje": "9.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -298,9 +298,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "103",
-      "unidades": "9324",
-      "ordenes": "45"
+      "tareas": "105",
+      "unidades": "9334",
+      "ordenes": "47"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -312,9 +312,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "33",
-      "unidades": "10246",
-      "ordenes": "9"
+      "tareas": "45",
+      "unidades": "10447",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -412,9 +412,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "239",
-      "disponibles": "170",
-      "porcentaje": "58.4 %"
+      "ocupadas": "240",
+      "disponibles": "169",
+      "porcentaje": "58.7 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "29/07/2026 17:03",
+  "timestamp": "29/07/2026 17:34",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "30",
+      "valor": "32",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "108",
+      "valor": "120",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "29-07",
-      "valor": 108.0
+      "valor": 120.0
     }
   ],
   "cumplimiento": [
@@ -170,17 +170,17 @@
     },
     {
       "label": "JUL",
-      "valor": 2706.0
+      "valor": 2718.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1567.0
+      "valor": 1568.0
     },
     {
       "label": "AGUNSA",
-      "valor": 406.0
+      "valor": 407.0
     },
     {
       "label": "SITRANS",
@@ -250,7 +250,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1154.0
+      "valor": 1159.0
     }
   ],
   "fillrate_mensual": [
@@ -286,8 +286,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2452",
-      "porcentaje": "27.9 %"
+      "total": "2462",
+      "porcentaje": "28.0 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -314,15 +314,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "197",
-      "unidades": "9676",
-      "ordenes": "77"
+      "tareas": "207",
+      "unidades": "9767",
+      "ordenes": "80"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "67",
-      "unidades": "7451",
+      "tareas": "69",
+      "unidades": "7951",
       "ordenes": "42"
     },
     {
@@ -462,9 +462,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "446",
-      "disponibles": "247",
-      "porcentaje": "64.4 %"
+      "ocupadas": "447",
+      "disponibles": "246",
+      "porcentaje": "64.5 %"
     }
   ]
 }

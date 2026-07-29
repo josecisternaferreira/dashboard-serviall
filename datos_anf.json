@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/07/2026 13:20",
+  "timestamp": "29/07/2026 13:49",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "label": "29-07",
-      "valor": 44.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -166,7 +166,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1891.0
+      "valor": 1893.0
     }
   ],
   "promedio_ruta": [
@@ -234,7 +234,7 @@
     },
     {
       "label": "JUL",
-      "valor": 638.0
+      "valor": 641.0
     }
   ],
   "fillrate_mensual": [
@@ -271,12 +271,12 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1747",
-      "porcentaje": "29.3 %"
+      "porcentaje": "29.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1329",
-      "porcentaje": "22.3 %"
+      "porcentaje": "22.2 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -290,7 +290,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "358",
+      "total": "359",
       "porcentaje": "6.0 %"
     }
   ],
@@ -326,9 +326,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "9",
-      "unidades": "480",
-      "ordenes": "8"
+      "tareas": "10",
+      "unidades": "481",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -342,6 +342,13 @@
       "usuario": "LARDILES",
       "tareas": "3",
       "unidades": "129",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SPIZARRO",
+      "tareas": "1",
+      "unidades": "10",
       "ordenes": "1"
     }
   ],

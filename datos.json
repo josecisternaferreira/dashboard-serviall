@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/07/2026 09:03",
+  "timestamp": "29/07/2026 09:34",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.0 %",
+      "valor": "93.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "label": "JUL",
-      "valor": 93.0
+      "valor": 93.1
     }
   ],
   "picking_mensual": [
@@ -250,7 +250,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1106.0
+      "valor": 1109.0
     }
   ],
   "fillrate_mensual": [
@@ -402,69 +402,6 @@
       "ocupadas": "51",
       "disponibles": "278",
       "porcentaje": "15.5 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-CONSIG",
-      "tipo": "RESERVA",
-      "total": "37",
-      "ocupadas": "14",
-      "disponibles": "23",
-      "porcentaje": "37.8 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-MULTI",
-      "tipo": "ACTIVO",
-      "total": "1460",
-      "ocupadas": "1173",
-      "disponibles": "287",
-      "porcentaje": "80.3 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-MULTI",
-      "tipo": "RESERVA",
-      "total": "41",
-      "ocupadas": "35",
-      "disponibles": "6",
-      "porcentaje": "85.4 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-PISO",
-      "tipo": "PISO",
-      "total": "2",
-      "ocupadas": "2",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-PTF",
-      "tipo": "PISO",
-      "total": "1",
-      "ocupadas": "1",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "ACTIVO",
-      "total": "239",
-      "ocupadas": "151",
-      "disponibles": "88",
-      "porcentaje": "63.2 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "RESERVA",
-      "total": "693",
-      "ocupadas": "452",
-      "disponibles": "241",
-      "porcentaje": "65.2 %"
     }
   ]
 }

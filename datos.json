@@ -1,9 +1,9 @@
 {
-  "timestamp": "29/07/2026 12:33",
+  "timestamp": "29/07/2026 13:03",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "13",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.1 %",
+      "valor": "92.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.8 %",
+      "valor": "99.9 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "label": "JUL",
-      "valor": 93.1
+      "valor": 92.4
     }
   ],
   "picking_mensual": [
@@ -250,7 +250,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1127.0
+      "valor": 1138.0
     }
   ],
   "fillrate_mensual": [
@@ -399,9 +399,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "329",
-      "ocupadas": "51",
-      "disponibles": "278",
-      "porcentaje": "15.5 %"
+      "ocupadas": "52",
+      "disponibles": "277",
+      "porcentaje": "15.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -436,6 +436,15 @@
       "tipo": "PISO",
       "total": "2",
       "ocupadas": "2",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
     }

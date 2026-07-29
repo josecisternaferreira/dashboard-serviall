@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/07/2026 09:34",
+  "timestamp": "29/07/2026 10:04",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -250,7 +250,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1109.0
+      "valor": 1110.0
     }
   ],
   "fillrate_mensual": [
@@ -402,6 +402,69 @@
       "ocupadas": "51",
       "disponibles": "278",
       "porcentaje": "15.5 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "RESERVA",
+      "total": "37",
+      "ocupadas": "14",
+      "disponibles": "23",
+      "porcentaje": "37.8 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "ACTIVO",
+      "total": "1460",
+      "ocupadas": "1172",
+      "disponibles": "288",
+      "porcentaje": "80.3 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "41",
+      "ocupadas": "35",
+      "disponibles": "6",
+      "porcentaje": "85.4 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "2",
+      "ocupadas": "2",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "239",
+      "ocupadas": "152",
+      "disponibles": "87",
+      "porcentaje": "63.6 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "693",
+      "ocupadas": "444",
+      "disponibles": "249",
+      "porcentaje": "64.1 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/07/2026 01:50",
+  "timestamp": "30/07/2026 02:20",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -388,6 +388,33 @@
       "ocupadas": "26",
       "disponibles": "0",
       "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "4",
+      "ocupadas": "3",
+      "disponibles": "1",
+      "porcentaje": "75.0 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "80",
+      "ocupadas": "74",
+      "disponibles": "6",
+      "porcentaje": "92.5 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "409",
+      "ocupadas": "239",
+      "disponibles": "170",
+      "porcentaje": "58.4 %"
     }
   ]
 }

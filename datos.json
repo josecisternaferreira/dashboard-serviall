@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/07/2026 20:04",
+  "timestamp": "29/07/2026 20:34",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -447,6 +447,24 @@
       "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "239",
+      "ocupadas": "152",
+      "disponibles": "87",
+      "porcentaje": "63.6 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "693",
+      "ocupadas": "447",
+      "disponibles": "246",
+      "porcentaje": "64.5 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/07/2026 08:49",
+  "timestamp": "30/07/2026 09:19",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -107,6 +107,10 @@
     {
       "label": "29-07",
       "valor": 82.0
+    },
+    {
+      "label": "30-07",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -166,13 +170,13 @@
     },
     {
       "label": "JUL",
-      "valor": 1929.0
+      "valor": 1933.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1021.0
+      "valor": 1022.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -275,7 +279,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1333",
+      "total": "1334",
       "porcentaje": "22.2 %"
     },
     {
@@ -286,7 +290,7 @@
     {
       "operador": "YEIMY RINCON",
       "total": "592",
-      "porcentaje": "9.9 %"
+      "porcentaje": "9.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -305,9 +309,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "73",
-      "unidades": "16367",
-      "ordenes": "15"
+      "tareas": "74",
+      "unidades": "16467",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -319,9 +323,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "22",
-      "unidades": "2458",
-      "ordenes": "14"
+      "tareas": "25",
+      "unidades": "2470",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -376,8 +380,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1095",
-      "disponibles": "243",
+      "ocupadas": "1094",
+      "disponibles": "244",
       "porcentaje": "81.8 %"
     },
     {

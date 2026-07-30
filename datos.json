@@ -1,14 +1,14 @@
 {
-  "timestamp": "30/07/2026 12:34",
+  "timestamp": "30/07/2026 13:03",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "170",
+      "valor": "193",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "label": "30-07",
-      "valor": 170.0
+      "valor": 193.0
     }
   ],
   "cumplimiento": [
@@ -174,13 +174,13 @@
     },
     {
       "label": "JUL",
-      "valor": 2890.0
+      "valor": 2913.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1588.0
+      "valor": 1591.0
     },
     {
       "label": "AGUNSA",
@@ -254,7 +254,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1179.0
+      "valor": 1180.0
     }
   ],
   "fillrate_mensual": [
@@ -290,23 +290,23 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "2540",
+      "total": "2548",
       "porcentaje": "28.3 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1744",
+      "total": "1746",
       "porcentaje": "19.4 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1475",
+      "total": "1479",
       "porcentaje": "16.4 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "919",
-      "porcentaje": "10.2 %"
+      "total": "926",
+      "porcentaje": "10.3 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -318,30 +318,30 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "285",
-      "unidades": "12421",
-      "ordenes": "109"
+      "tareas": "293",
+      "unidades": "12967",
+      "ordenes": "115"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "104",
-      "unidades": "23106",
+      "tareas": "108",
+      "unidades": "23206",
       "ordenes": "26"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "78",
-      "unidades": "5951",
-      "ordenes": "24"
+      "tareas": "85",
+      "unidades": "6592",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "69",
-      "unidades": "7951",
-      "ordenes": "42"
+      "tareas": "70",
+      "unidades": "7961",
+      "ordenes": "43"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -353,16 +353,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "29",
-      "unidades": "6073",
-      "ordenes": "12"
+      "tareas": "31",
+      "unidades": "6238",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "24",
-      "unidades": "3639",
-      "ordenes": "23"
+      "tareas": "26",
+      "unidades": "3679",
+      "ordenes": "25"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -379,5 +379,96 @@
       "ordenes": "1"
     }
   ],
-  "ocupacion": []
+  "ocupacion": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "MERMA",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CANTI",
+      "tipo": "ACTIVO",
+      "total": "18",
+      "ocupadas": "13",
+      "disponibles": "5",
+      "porcentaje": "72.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "ACTIVO",
+      "total": "329",
+      "ocupadas": "52",
+      "disponibles": "277",
+      "porcentaje": "15.8 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "RESERVA",
+      "total": "37",
+      "ocupadas": "16",
+      "disponibles": "21",
+      "porcentaje": "43.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "ACTIVO",
+      "total": "1460",
+      "ocupadas": "1172",
+      "disponibles": "288",
+      "porcentaje": "80.3 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "41",
+      "ocupadas": "34",
+      "disponibles": "7",
+      "porcentaje": "82.9 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "2",
+      "ocupadas": "2",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "239",
+      "ocupadas": "154",
+      "disponibles": "85",
+      "porcentaje": "64.4 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "693",
+      "ocupadas": "443",
+      "disponibles": "250",
+      "porcentaje": "63.9 %"
+    }
+  ]
 }

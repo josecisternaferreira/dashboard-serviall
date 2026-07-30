@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/07/2026 04:35",
+  "timestamp": "30/07/2026 05:06",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -324,55 +324,6 @@
       "tareas": "69",
       "unidades": "7951",
       "ordenes": "42"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "61",
-      "unidades": "10658",
-      "ordenes": "12"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "MTORRES",
-      "tareas": "56",
-      "unidades": "8045",
-      "ordenes": "21"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "54",
-      "unidades": "4859",
-      "ordenes": "15"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LSAEZ",
-      "tareas": "24",
-      "unidades": "3639",
-      "ordenes": "23"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "6",
-      "unidades": "1925",
-      "ordenes": "6"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "YBARRIOS",
-      "tareas": "6",
-      "unidades": "1314",
-      "ordenes": "2"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "1",
-      "unidades": "40",
-      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -438,6 +389,33 @@
       "ocupadas": "2",
       "disponibles": "0",
       "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "239",
+      "ocupadas": "152",
+      "disponibles": "87",
+      "porcentaje": "63.6 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "693",
+      "ocupadas": "447",
+      "disponibles": "246",
+      "porcentaje": "64.5 %"
     }
   ]
 }

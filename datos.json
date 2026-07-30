@@ -1,14 +1,14 @@
 {
-  "timestamp": "30/07/2026 15:03",
+  "timestamp": "30/07/2026 15:34",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "12",
+      "valor": "13",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "287",
+      "valor": "293",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "label": "30-07",
-      "valor": 287.0
+      "valor": 293.0
     }
   ],
   "cumplimiento": [
@@ -174,7 +174,7 @@
     },
     {
       "label": "JUL",
-      "valor": 3007.0
+      "valor": 3013.0
     }
   ],
   "promedio_ruta": [
@@ -254,7 +254,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1193.0
+      "valor": 1194.0
     }
   ],
   "fillrate_mensual": [
@@ -300,8 +300,8 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1486",
-      "porcentaje": "16.3 %"
+      "total": "1492",
+      "porcentaje": "16.4 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -325,9 +325,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "115",
-      "unidades": "23589",
-      "ordenes": "28"
+      "tareas": "121",
+      "unidades": "23818",
+      "ordenes": "34"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -424,6 +424,33 @@
       "ocupadas": "1174",
       "disponibles": "286",
       "porcentaje": "80.4 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "41",
+      "ocupadas": "34",
+      "disponibles": "7",
+      "porcentaje": "82.9 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "2",
+      "ocupadas": "2",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
     }
   ]
 }

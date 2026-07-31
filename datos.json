@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/07/2026 09:05",
+  "timestamp": "31/07/2026 09:34",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "2",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "label": "31-07",
-      "valor": 2.0
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -178,7 +178,7 @@
     },
     {
       "label": "JUL",
-      "valor": 3051.0
+      "valor": 3053.0
     }
   ],
   "promedio_ruta": [
@@ -350,9 +350,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "62",
-      "unidades": "4768",
-      "ordenes": "50"
+      "tareas": "64",
+      "unidades": "6992",
+      "ordenes": "51"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -455,24 +455,6 @@
       "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "ACTIVO",
-      "total": "239",
-      "ocupadas": "155",
-      "disponibles": "84",
-      "porcentaje": "64.9 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "RESERVA",
-      "total": "693",
-      "ocupadas": "467",
-      "disponibles": "226",
-      "porcentaje": "67.4 %"
     }
   ]
 }

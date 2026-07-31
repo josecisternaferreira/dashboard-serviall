@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/07/2026 09:34",
+  "timestamp": "31/07/2026 10:04",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "4",
+      "valor": "10",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.6 %",
+      "valor": "91.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "label": "31-07",
-      "valor": 4.0
+      "valor": 10.0
     }
   ],
   "cumplimiento": [
@@ -148,7 +148,7 @@
     },
     {
       "label": "JUL",
-      "valor": 91.6
+      "valor": 91.7
     }
   ],
   "picking_mensual": [
@@ -178,7 +178,7 @@
     },
     {
       "label": "JUL",
-      "valor": 3053.0
+      "valor": 3059.0
     }
   ],
   "promedio_ruta": [
@@ -258,7 +258,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1207.0
+      "valor": 1211.0
     }
   ],
   "fillrate_mensual": [
@@ -304,7 +304,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1496",
+      "total": "1502",
       "porcentaje": "16.4 %"
     },
     {
@@ -329,9 +329,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "125",
-      "unidades": "23993",
-      "ordenes": "38"
+      "tareas": "131",
+      "unidades": "24081",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -425,9 +425,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1174",
-      "disponibles": "286",
-      "porcentaje": "80.4 %"
+      "ocupadas": "1175",
+      "disponibles": "285",
+      "porcentaje": "80.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -444,15 +444,6 @@
       "tipo": "PISO",
       "total": "2",
       "ocupadas": "2",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-PTF",
-      "tipo": "PISO",
-      "total": "1",
-      "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
     }

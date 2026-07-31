@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/07/2026 13:19",
+  "timestamp": "31/07/2026 13:50",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -242,7 +242,7 @@
     },
     {
       "label": "JUL",
-      "valor": 687.0
+      "valor": 697.0
     }
   ],
   "fillrate_mensual": [
@@ -414,6 +414,15 @@
       "ocupadas": "74",
       "disponibles": "6",
       "porcentaje": "92.5 %"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "409",
+      "ocupadas": "241",
+      "disponibles": "168",
+      "porcentaje": "58.9 %"
     }
   ]
 }

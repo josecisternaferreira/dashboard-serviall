@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/07/2026 07:05",
+  "timestamp": "31/07/2026 07:36",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -314,71 +314,7 @@
       "porcentaje": "9.9 %"
     }
   ],
-  "semana_actual": [
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "FESTUPIÑAN",
-      "tareas": "331",
-      "unidades": "22270",
-      "ordenes": "141"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "MTORRES",
-      "tareas": "125",
-      "unidades": "23993",
-      "ordenes": "38"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "99",
-      "unidades": "8934",
-      "ordenes": "35"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "85",
-      "unidades": "8137",
-      "ordenes": "55"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "61",
-      "unidades": "10658",
-      "ordenes": "12"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LSAEZ",
-      "tareas": "60",
-      "unidades": "4736",
-      "ordenes": "48"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "47",
-      "unidades": "7417",
-      "ordenes": "20"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "YBARRIOS",
-      "tareas": "6",
-      "unidades": "1314",
-      "ordenes": "2"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "1",
-      "unidades": "40",
-      "ordenes": "1"
-    }
-  ],
+  "semana_actual": [],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",
@@ -433,6 +369,42 @@
       "ocupadas": "34",
       "disponibles": "7",
       "porcentaje": "82.9 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "2",
+      "ocupadas": "2",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "239",
+      "ocupadas": "155",
+      "disponibles": "84",
+      "porcentaje": "64.9 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "693",
+      "ocupadas": "467",
+      "disponibles": "226",
+      "porcentaje": "67.4 %"
     }
   ]
 }

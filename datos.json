@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/07/2026 13:03",
+  "timestamp": "31/07/2026 13:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "18",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "label": "31-07",
-      "valor": 17.0
+      "valor": 18.0
     }
   ],
   "cumplimiento": [
@@ -178,7 +178,7 @@
     },
     {
       "label": "JUL",
-      "valor": 3066.0
+      "valor": 3067.0
     }
   ],
   "promedio_ruta": [
@@ -258,7 +258,7 @@
     },
     {
       "label": "JUL",
-      "valor": 1255.0
+      "valor": 1264.0
     }
   ],
   "fillrate_mensual": [
@@ -378,9 +378,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "1",
-      "unidades": "40",
-      "ordenes": "1"
+      "tareas": "2",
+      "unidades": "41",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -470,9 +470,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "470",
-      "disponibles": "223",
-      "porcentaje": "67.8 %"
+      "ocupadas": "471",
+      "disponibles": "222",
+      "porcentaje": "68.0 %"
     }
   ]
 }

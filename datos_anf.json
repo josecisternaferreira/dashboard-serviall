@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/07/2026 12:49",
+  "timestamp": "31/07/2026 13:19",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -242,7 +242,7 @@
     },
     {
       "label": "JUL",
-      "valor": 684.0
+      "valor": 687.0
     }
   ],
   "fillrate_mensual": [
@@ -384,9 +384,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1095",
-      "disponibles": "243",
-      "porcentaje": "81.8 %"
+      "ocupadas": "1097",
+      "disponibles": "241",
+      "porcentaje": "82.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -414,15 +414,6 @@
       "ocupadas": "74",
       "disponibles": "6",
       "porcentaje": "92.5 %"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "area": "Z-RACK",
-      "tipo": "RESERVA",
-      "total": "409",
-      "ocupadas": "241",
-      "disponibles": "168",
-      "porcentaje": "58.9 %"
     }
   ]
 }

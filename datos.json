@@ -1,9 +1,9 @@
 {
-  "timestamp": "31/07/2026 15:34",
+  "timestamp": "31/07/2026 16:34",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "27",
+      "valor": "32",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -367,6 +367,20 @@
       "tareas": "47",
       "unidades": "7417",
       "ordenes": "20"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "YBARRIOS",
+      "tareas": "6",
+      "unidades": "1314",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "4",
+      "unidades": "141",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [
@@ -411,9 +425,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1175",
-      "disponibles": "285",
-      "porcentaje": "80.5 %"
+      "ocupadas": "1174",
+      "disponibles": "286",
+      "porcentaje": "80.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",

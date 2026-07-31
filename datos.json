@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/07/2026 01:34",
+  "timestamp": "31/07/2026 02:04",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -370,6 +370,13 @@
       "tareas": "6",
       "unidades": "1314",
       "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "1",
+      "unidades": "40",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -453,15 +460,6 @@
       "ocupadas": "155",
       "disponibles": "84",
       "porcentaje": "64.9 %"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "area": "Z-RACK",
-      "tipo": "RESERVA",
-      "total": "693",
-      "ocupadas": "467",
-      "disponibles": "226",
-      "porcentaje": "67.4 %"
     }
   ]
 }

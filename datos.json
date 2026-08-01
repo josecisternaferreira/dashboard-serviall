@@ -1,25 +1,25 @@
 {
-  "timestamp": "31/07/2026 19:36",
+  "timestamp": "31/07/2026 20:04",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "32",
+      "valor": "0",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "20",
+      "valor": "0",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.1 %",
-      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
+      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO",
+      "subtitulo": ""
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.9 %",
-      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
+      "valor": "FILLRATE MES ACTUAL - BODEGA SANTIAGO",
+      "subtitulo": ""
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,100 +27,7 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "01-07",
-      "valor": 136.0
-    },
-    {
-      "label": "02-07",
-      "valor": 208.0
-    },
-    {
-      "label": "03-07",
-      "valor": 85.0
-    },
-    {
-      "label": "04-07",
-      "valor": 3.0
-    },
-    {
-      "label": "06-07",
-      "valor": 92.0
-    },
-    {
-      "label": "07-07",
-      "valor": 195.0
-    },
-    {
-      "label": "08-07",
-      "valor": 195.0
-    },
-    {
-      "label": "09-07",
-      "valor": 176.0
-    },
-    {
-      "label": "10-07",
-      "valor": 217.0
-    },
-    {
-      "label": "11-07",
-      "valor": 8.0
-    },
-    {
-      "label": "13-07",
-      "valor": 64.0
-    },
-    {
-      "label": "14-07",
-      "valor": 126.0
-    },
-    {
-      "label": "15-07",
-      "valor": 110.0
-    },
-    {
-      "label": "16-07",
-      "valor": 132.0
-    },
-    {
-      "label": "20-07",
-      "valor": 77.0
-    },
-    {
-      "label": "21-07",
-      "valor": 206.0
-    },
-    {
-      "label": "22-07",
-      "valor": 148.0
-    },
-    {
-      "label": "23-07",
-      "valor": 11.0
-    },
-    {
-      "label": "27-07",
-      "valor": 280.0
-    },
-    {
-      "label": "28-07",
-      "valor": 84.0
-    },
-    {
-      "label": "29-07",
-      "valor": 122.0
-    },
-    {
-      "label": "30-07",
-      "valor": 329.0
-    },
-    {
-      "label": "31-07",
-      "valor": 20.0
-    }
-  ],
+  "tareas_por_dia": [],
   "cumplimiento": [
     {
       "label": "ENE",
@@ -392,6 +299,51 @@
       "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CANTI",
+      "tipo": "ACTIVO",
+      "total": "18",
+      "ocupadas": "13",
+      "disponibles": "5",
+      "porcentaje": "72.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "ACTIVO",
+      "total": "329",
+      "ocupadas": "54",
+      "disponibles": "275",
+      "porcentaje": "16.4 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "RESERVA",
+      "total": "37",
+      "ocupadas": "16",
+      "disponibles": "21",
+      "porcentaje": "43.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "ACTIVO",
+      "total": "1460",
+      "ocupadas": "1174",
+      "disponibles": "286",
+      "porcentaje": "80.4 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "41",
+      "ocupadas": "34",
+      "disponibles": "7",
+      "porcentaje": "82.9 %"
     }
   ]
 }

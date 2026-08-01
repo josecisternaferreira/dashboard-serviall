@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/08/2026 09:33",
+  "timestamp": "01/08/2026 10:04",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -182,7 +182,7 @@
     },
     {
       "label": "AGO",
-      "valor": 3.0
+      "valor": 4.0
     }
   ],
   "fillrate_mensual": [
@@ -372,6 +372,15 @@
       "tipo": "PISO",
       "total": "2",
       "ocupadas": "2",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PISO",
+      "total": "1",
+      "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
     }

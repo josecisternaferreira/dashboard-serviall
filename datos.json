@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/08/2026 09:04",
+  "timestamp": "01/08/2026 09:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,18 +8,18 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "FILLRATE MES ACTUAL - BODEGA SANTIAGO",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,7 +27,12 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "01-08",
+      "valor": 1.0
+    }
+  ],
   "cumplimiento": [
     {
       "label": "ENE",
@@ -56,6 +61,10 @@
     {
       "label": "JUL",
       "valor": 92.1
+    },
+    {
+      "label": "AGO",
+      "valor": 100.0
     }
   ],
   "picking_mensual": [
@@ -86,6 +95,10 @@
     {
       "label": "JUL",
       "valor": 3069.0
+    },
+    {
+      "label": "AGO",
+      "valor": 1.0
     }
   ],
   "promedio_ruta": [
@@ -94,12 +107,12 @@
       "valor": 1598.0
     },
     {
-      "label": "AGUNSA",
-      "valor": 413.0
-    },
-    {
       "label": "SITRANS",
       "valor": 403.0
+    },
+    {
+      "label": "AGUNSA",
+      "valor": 362.0
     },
     {
       "label": "ESTAFETA",
@@ -166,6 +179,10 @@
     {
       "label": "JUL",
       "valor": 1273.0
+    },
+    {
+      "label": "AGO",
+      "valor": 3.0
     }
   ],
   "fillrate_mensual": [
@@ -196,6 +213,10 @@
     {
       "label": "JUL",
       "valor": 99.8
+    },
+    {
+      "label": "AGO",
+      "valor": 100.0
     }
   ],
   "top5_operadores": [
@@ -207,7 +228,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1762",
-      "porcentaje": "19.3 %"
+      "porcentaje": "19.2 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -285,9 +306,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "4",
-      "unidades": "141",
-      "ordenes": "3"
+      "tareas": "5",
+      "unidades": "142",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [
@@ -308,6 +329,51 @@
       "ocupadas": "13",
       "disponibles": "5",
       "porcentaje": "72.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "ACTIVO",
+      "total": "329",
+      "ocupadas": "54",
+      "disponibles": "275",
+      "porcentaje": "16.4 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "RESERVA",
+      "total": "37",
+      "ocupadas": "16",
+      "disponibles": "21",
+      "porcentaje": "43.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "ACTIVO",
+      "total": "1460",
+      "ocupadas": "1174",
+      "disponibles": "286",
+      "porcentaje": "80.4 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "41",
+      "ocupadas": "34",
+      "disponibles": "7",
+      "porcentaje": "82.9 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "2",
+      "ocupadas": "2",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/08/2026 10:04",
+  "timestamp": "01/08/2026 10:34",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -182,7 +182,7 @@
     },
     {
       "label": "AGO",
-      "valor": 4.0
+      "valor": 7.0
     }
   ],
   "fillrate_mensual": [
@@ -253,62 +253,6 @@
       "tareas": "335",
       "unidades": "22286",
       "ordenes": "145"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "MTORRES",
-      "tareas": "134",
-      "unidades": "24120",
-      "ordenes": "44"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "99",
-      "unidades": "8934",
-      "ordenes": "35"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "85",
-      "unidades": "8137",
-      "ordenes": "55"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LSAEZ",
-      "tareas": "64",
-      "unidades": "6992",
-      "ordenes": "51"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "61",
-      "unidades": "10658",
-      "ordenes": "12"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "47",
-      "unidades": "7417",
-      "ordenes": "20"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "YBARRIOS",
-      "tareas": "6",
-      "unidades": "1314",
-      "ordenes": "2"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "5",
-      "unidades": "142",
-      "ordenes": "4"
     }
   ],
   "ocupacion": [
@@ -383,6 +327,24 @@
       "ocupadas": "1",
       "disponibles": "0",
       "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "239",
+      "ocupadas": "155",
+      "disponibles": "84",
+      "porcentaje": "64.9 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "693",
+      "ocupadas": "480",
+      "disponibles": "213",
+      "porcentaje": "69.3 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 08:50",
+  "timestamp": "03/08/2026 09:21",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,18 +8,18 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "0.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "FILLRATE MES ACTUAL - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -27,7 +27,12 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "03-08",
+      "valor": 2.0
+    }
+  ],
   "cumplimiento": [
     {
       "label": "ENE",
@@ -56,6 +61,10 @@
     {
       "label": "JUL",
       "valor": 95.9
+    },
+    {
+      "label": "AGO",
+      "valor": 0.0
     }
   ],
   "picking_mensual": [
@@ -86,6 +95,10 @@
     {
       "label": "JUL",
       "valor": 2028.0
+    },
+    {
+      "label": "AGO",
+      "valor": 2.0
     }
   ],
   "promedio_ruta": [
@@ -103,19 +116,19 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 183.0
+      "valor": 160.0
     },
     {
       "label": "SITRANS",
       "valor": 87.0
     },
     {
-      "label": "SQM_MRP",
-      "valor": 83.0
-    },
-    {
       "label": "ESTAFETA",
       "valor": 81.0
+    },
+    {
+      "label": "SQM_MRP",
+      "valor": 73.0
     },
     {
       "label": "AGUNSA",
@@ -154,6 +167,10 @@
     {
       "label": "JUL",
       "valor": 700.0
+    },
+    {
+      "label": "AGO",
+      "valor": 1.0
     }
   ],
   "fillrate_mensual": [
@@ -184,6 +201,10 @@
     {
       "label": "JUL",
       "valor": 99.8
+    },
+    {
+      "label": "AGO",
+      "valor": 100.0
     }
   ],
   "top5_operadores": [
@@ -199,7 +220,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "610",
+      "total": "611",
       "porcentaje": "10.0 %"
     },
     {
@@ -215,11 +236,18 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "1",
+      "unidades": "300",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -237,9 +265,9 @@
       "area": "Z-CANTI",
       "tipo": "ACTIVO",
       "total": "4",
-      "ocupadas": "4",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
+      "ocupadas": "3",
+      "disponibles": "1",
+      "porcentaje": "75.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

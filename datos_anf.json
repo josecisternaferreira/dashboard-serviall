@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 13:15",
+  "timestamp": "03/08/2026 13:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "105",
+      "valor": "121",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.9 %",
+      "valor": "95.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "03-08",
-      "valor": 105.0
+      "valor": 121.0
     }
   ],
   "cumplimiento": [
@@ -64,7 +64,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.9
+      "valor": 95.8
     }
   ],
   "picking_mensual": [
@@ -98,13 +98,13 @@
     },
     {
       "label": "AGO",
-      "valor": 105.0
+      "valor": 121.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 905.0
+      "valor": 907.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -170,7 +170,7 @@
     },
     {
       "label": "AGO",
-      "valor": 14.0
+      "valor": 24.0
     }
   ],
   "fillrate_mensual": [
@@ -211,17 +211,17 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1782",
-      "porcentaje": "28.8 %"
+      "porcentaje": "28.7 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1374",
+      "total": "1379",
       "porcentaje": "22.2 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "640",
-      "porcentaje": "10.3 %"
+      "total": "651",
+      "porcentaje": "10.5 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -237,24 +237,24 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "39",
-      "unidades": "1949",
-      "ordenes": "20"
+      "usuario": "YRINCON",
+      "tareas": "41",
+      "unidades": "7239",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "36",
-      "unidades": "10219",
-      "ordenes": "8"
+      "tareas": "41",
+      "unidades": "10367",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "30",
-      "unidades": "4732",
-      "ordenes": "8"
+      "usuario": "OROJAS",
+      "tareas": "39",
+      "unidades": "1949",
+      "ordenes": "20"
     }
   ],
   "ocupacion": [
@@ -317,9 +317,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "242",
-      "disponibles": "167",
-      "porcentaje": "59.2 %"
+      "ocupadas": "243",
+      "disponibles": "166",
+      "porcentaje": "59.4 %"
     }
   ]
 }

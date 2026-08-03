@@ -1,14 +1,14 @@
 {
-  "timestamp": "03/08/2026 13:30",
+  "timestamp": "03/08/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "10",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "72",
+      "valor": "74",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "03-08",
-      "valor": 72.0
+      "valor": 74.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "AGO",
-      "valor": 79.0
+      "valor": 81.0
     }
   ],
   "promedio_ruta": [
@@ -186,7 +186,7 @@
     },
     {
       "label": "AGO",
-      "valor": 83.0
+      "valor": 88.0
     }
   ],
   "fillrate_mensual": [
@@ -231,7 +231,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1777",
+      "total": "1778",
       "porcentaje": "19.5 %"
     },
     {
@@ -261,16 +261,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "28",
-      "unidades": "836",
-      "ordenes": "18"
+      "tareas": "29",
+      "unidades": "843",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "15",
-      "unidades": "1095",
-      "ordenes": "11"
+      "tareas": "16",
+      "unidades": "1125",
+      "ordenes": "12"
     }
   ],
   "ocupacion": [
@@ -315,9 +315,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1157",
-      "disponibles": "303",
-      "porcentaje": "79.2 %"
+      "ocupadas": "1158",
+      "disponibles": "302",
+      "porcentaje": "79.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -360,9 +360,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "485",
-      "disponibles": "208",
-      "porcentaje": "70.0 %"
+      "ocupadas": "483",
+      "disponibles": "210",
+      "porcentaje": "69.7 %"
     }
   ]
 }

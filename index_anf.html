@@ -21,6 +21,8 @@
   --line:#e3e5e8;  --line-2:#eef0f2;
   --surface:#fff;  --bg:#f4f5f7;     --surface-2:#fafbfc;
   --r:6px;
+  /* Sombra apenas perceptible: separa la tarjeta del fondo sin ensuciar */
+  --sombra:0 1px 2px rgba(16,24,40,.04);
 }
 *{box-sizing:border-box;margin:0;padding:0;}
 html,body{height:100vh;overflow:hidden;}
@@ -67,6 +69,7 @@ main{
 /* ================= TARJETA BASE ================= */
 .card{
   background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+  box-shadow:var(--sombra);
   display:flex;flex-direction:column;overflow:hidden;min-height:0;
 }
 .card-h{
@@ -86,6 +89,7 @@ main{
 /* ================= ZONA 1 · KPIs ================= */
 .kpi{
   background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+  box-shadow:var(--sombra);
   padding:8px 12px 8px 14px;display:flex;flex-direction:column;
   position:relative;overflow:hidden;
 }
@@ -95,9 +99,10 @@ main{
 .kpi-l{font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.7px;color:var(--ink-3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 /* Las tipografias grandes escalan con el alto del viewport: el mismo archivo
    llena una pantalla de 1080 y sigue cabiendo en 768 sin scroll */
-.kpi-v{font-size:clamp(21px,2.9vh,34px);font-weight:600;line-height:1.1;letter-spacing:-.6px;font-variant-numeric:tabular-nums;}
-.kpi.ok .kpi-v{color:var(--ok);} .kpi.warn .kpi-v{color:var(--warn);}
-.kpi.crit .kpi-v{color:var(--crit);} .kpi.info .kpi-v{color:var(--ink);}
+/* El valor va siempre en tinta neutra. El estado lo comunican la linea lateral
+   y la flecha de variacion: un pequeno detalle de color, nunca la tarjeta entera */
+.kpi-v{font-size:clamp(21px,2.9vh,34px);font-weight:600;line-height:1.1;letter-spacing:-.6px;
+       font-variant-numeric:tabular-nums;color:var(--ink);}
 .kpi-f{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:1px;}
 .kpi-dwrap{display:inline-flex;align-items:center;gap:5px;min-width:0;overflow:hidden;}
 .kpi-d{font-size:10.5px;font-weight:700;display:inline-flex;align-items:center;gap:3px;white-space:nowrap;}
@@ -108,6 +113,7 @@ main{
 /* ================= ZONA 2 · ALERTAS ================= */
 .zona-alertas{
   background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+  box-shadow:var(--sombra);
   height:34px;display:flex;align-items:center;gap:7px;padding:0 10px;overflow:hidden;
 }
 .al-lbl{
@@ -790,7 +796,9 @@ function gTareasDia(d){
       datasets:[
         { data:vals, borderColor:COL.info, backgroundColor:'rgba(15,108,189,.08)',
           borderWidth:2, tension:.3, fill:true, pointRadius:function(c){ return c.raw===max?4.5:3; },
-          pointBackgroundColor:function(c){ return c.raw===max?COL.warn:COL.info; },
+          /* El maximo se destaca por tamano, no por color: un maximo es informacion
+             de tendencia, no una advertencia (el naranjo queda solo para riesgo) */
+          pointBackgroundColor:COL.info,
           pointBorderColor:'#fff', pointBorderWidth:1.5, order:1 },
         { data:vals.map(function(){return prom;}), borderColor:COL.ink3, borderWidth:1.2,
           borderDash:[5,4], pointRadius:0, fill:false, tension:0, order:0 }
@@ -881,7 +889,9 @@ function gFillRate(d){
             return i===idxP ? COL.info : COL.neutro;
           }),
           borderRadius:2, borderSkipped:false, order:1 },
-        { type:'line', data:vals.map(function(){return METAS.fillrate;}), borderColor:COL.crit,
+        /* Linea de meta en gris: es una referencia. El incumplimiento ya lo
+           comunica la barra en rojo, no hace falta duplicar la senal */
+        { type:'line', data:vals.map(function(){return METAS.fillrate;}), borderColor:COL.ink3,
           borderWidth:1.2, borderDash:[5,4], pointRadius:0, fill:false, order:0 }
       ]
     },

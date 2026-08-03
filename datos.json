@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 15:30",
+  "timestamp": "03/08/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "80",
+      "valor": "89",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "97.4 %",
+      "valor": "97.5 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "03-08",
-      "valor": 80.0
+      "valor": 89.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "AGO",
-      "valor": 87.0
+      "valor": 96.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 250.0
+      "valor": 251.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -186,7 +186,7 @@
     },
     {
       "label": "AGO",
-      "valor": 94.0
+      "valor": 100.0
     }
   ],
   "fillrate_mensual": [
@@ -220,19 +220,19 @@
     },
     {
       "label": "AGO",
-      "valor": 97.4
+      "valor": 97.5
     }
   ],
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2547",
-      "porcentaje": "27.9 %"
+      "porcentaje": "27.8 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1784",
-      "porcentaje": "19.5 %"
+      "total": "1790",
+      "porcentaje": "19.6 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -241,7 +241,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "969",
+      "total": "972",
       "porcentaje": "10.6 %"
     },
     {
@@ -254,9 +254,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "29",
-      "unidades": "3393",
-      "ordenes": "27"
+      "tareas": "32",
+      "unidades": "3409",
+      "ordenes": "28"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -268,8 +268,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "22",
-      "unidades": "2008",
+      "tareas": "28",
+      "unidades": "2044",
       "ordenes": "13"
     }
   ],
@@ -360,9 +360,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "480",
-      "disponibles": "213",
-      "porcentaje": "69.3 %"
+      "ocupadas": "481",
+      "disponibles": "212",
+      "porcentaje": "69.4 %"
     }
   ]
 }

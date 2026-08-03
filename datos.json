@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 12:37",
+  "timestamp": "03/08/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "58",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "96.5 %",
+      "valor": "97.3 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "03-08",
-      "valor": 54.0
+      "valor": 58.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "AGO",
-      "valor": 61.0
+      "valor": 65.0
     }
   ],
   "promedio_ruta": [
@@ -186,7 +186,7 @@
     },
     {
       "label": "AGO",
-      "valor": 66.0
+      "valor": 80.0
     }
   ],
   "fillrate_mensual": [
@@ -220,7 +220,7 @@
     },
     {
       "label": "AGO",
-      "valor": 96.5
+      "valor": 97.3
     }
   ],
   "top5_operadores": [
@@ -241,7 +241,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "965",
+      "total": "967",
       "porcentaje": "10.6 %"
     },
     {
@@ -250,7 +250,29 @@
       "porcentaje": "10.0 %"
     }
   ],
-  "semana_actual": [],
+  "semana_actual": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "27",
+      "unidades": "3050",
+      "ordenes": "25"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "21",
+      "unidades": "458",
+      "ordenes": "13"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "10",
+      "unidades": "999",
+      "ordenes": "6"
+    }
+  ],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",

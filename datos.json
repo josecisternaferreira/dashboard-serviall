@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 10:03",
+  "timestamp": "03/08/2026 10:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "92.3 %",
+      "valor": "92.5 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -27,198 +27,12 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "01-08",
-      "valor": 3.0
-    }
-  ],
-  "cumplimiento": [
-    {
-      "label": "ENE",
-      "valor": 90.4
-    },
-    {
-      "label": "FEB",
-      "valor": 93.9
-    },
-    {
-      "label": "MAR",
-      "valor": 90.1
-    },
-    {
-      "label": "ABR",
-      "valor": 86.9
-    },
-    {
-      "label": "MAY",
-      "valor": 95.7
-    },
-    {
-      "label": "JUN",
-      "valor": 96.1
-    },
-    {
-      "label": "JUL",
-      "valor": 92.1
-    },
-    {
-      "label": "AGO",
-      "valor": 100.0
-    }
-  ],
-  "picking_mensual": [
-    {
-      "label": "ENE",
-      "valor": 3388.0
-    },
-    {
-      "label": "FEB",
-      "valor": 2168.0
-    },
-    {
-      "label": "MAR",
-      "valor": 2799.0
-    },
-    {
-      "label": "ABR",
-      "valor": 3828.0
-    },
-    {
-      "label": "MAY",
-      "valor": 2970.0
-    },
-    {
-      "label": "JUN",
-      "valor": 3136.0
-    },
-    {
-      "label": "JUL",
-      "valor": 3069.0
-    },
-    {
-      "label": "AGO",
-      "valor": 5.0
-    }
-  ],
-  "promedio_ruta": [
-    {
-      "label": "CONSOLIDADO",
-      "valor": 1598.0
-    },
-    {
-      "label": "SITRANS",
-      "valor": 403.0
-    },
-    {
-      "label": "AGUNSA",
-      "valor": 362.0
-    },
-    {
-      "label": "ESTAFETA",
-      "valor": 283.0
-    },
-    {
-      "label": "CLIENTE RETIRA",
-      "valor": 113.0
-    },
-    {
-      "label": "DESPACHO-CLIENTE",
-      "valor": 89.0
-    },
-    {
-      "label": "ENEA-FINNING",
-      "valor": 82.0
-    },
-    {
-      "label": "REPO. MULTINIVEL",
-      "valor": 44.0
-    },
-    {
-      "label": "REPOSICION",
-      "valor": 30.0
-    },
-    {
-      "label": "LOBOZA-FINNING",
-      "valor": 13.0
-    },
-    {
-      "label": "SQM_MRP",
-      "valor": 4.0
-    },
-    {
-      "label": "VARMONTT",
-      "valor": 1.0
-    }
-  ],
-  "despachos_mes": [
-    {
-      "label": "ENE",
-      "valor": 1220.0
-    },
-    {
-      "label": "FEB",
-      "valor": 968.0
-    },
-    {
-      "label": "MAR",
-      "valor": 1169.0
-    },
-    {
-      "label": "ABR",
-      "valor": 1487.0
-    },
-    {
-      "label": "MAY",
-      "valor": 1281.0
-    },
-    {
-      "label": "JUN",
-      "valor": 1256.0
-    },
-    {
-      "label": "JUL",
-      "valor": 1273.0
-    },
-    {
-      "label": "AGO",
-      "valor": 28.0
-    }
-  ],
-  "fillrate_mensual": [
-    {
-      "label": "ENE",
-      "valor": 100.0
-    },
-    {
-      "label": "FEB",
-      "valor": 100.0
-    },
-    {
-      "label": "MAR",
-      "valor": 100.0
-    },
-    {
-      "label": "ABR",
-      "valor": 100.0
-    },
-    {
-      "label": "MAY",
-      "valor": 99.9
-    },
-    {
-      "label": "JUN",
-      "valor": 99.9
-    },
-    {
-      "label": "JUL",
-      "valor": 99.8
-    },
-    {
-      "label": "AGO",
-      "valor": 92.3
-    }
-  ],
+  "tareas_por_dia": [],
+  "cumplimiento": [],
+  "picking_mensual": [],
+  "promedio_ruta": [],
+  "despachos_mes": [],
+  "fillrate_mensual": [],
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -237,7 +51,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "940",
+      "total": "945",
       "porcentaje": "10.4 %"
     },
     {
@@ -248,11 +62,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "5",
+      "unidades": "1506",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -342,9 +156,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "482",
-      "disponibles": "211",
-      "porcentaje": "69.6 %"
+      "ocupadas": "483",
+      "disponibles": "210",
+      "porcentaje": "69.7 %"
     }
   ]
 }

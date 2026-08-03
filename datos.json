@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 16:00",
+  "timestamp": "03/08/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "89",
+      "valor": "96",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "03-08",
-      "valor": 89.0
+      "valor": 96.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "AGO",
-      "valor": 96.0
+      "valor": 103.0
     }
   ],
   "promedio_ruta": [
@@ -120,7 +120,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 251.0
+      "valor": 252.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -186,7 +186,7 @@
     },
     {
       "label": "AGO",
-      "valor": 100.0
+      "valor": 101.0
     }
   ],
   "fillrate_mensual": [
@@ -232,7 +232,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1790",
-      "porcentaje": "19.6 %"
+      "porcentaje": "19.5 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -241,8 +241,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "972",
-      "porcentaje": "10.6 %"
+      "total": "979",
+      "porcentaje": "10.7 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -254,9 +254,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "32",
-      "unidades": "3409",
-      "ordenes": "28"
+      "tareas": "39",
+      "unidades": "3618",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -360,9 +360,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "481",
-      "disponibles": "212",
-      "porcentaje": "69.4 %"
+      "ocupadas": "483",
+      "disponibles": "210",
+      "porcentaje": "69.7 %"
     }
   ]
 }

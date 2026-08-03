@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 11:33",
+  "timestamp": "03/08/2026 12:04",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "23",
+      "valor": "41",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "92.6 %",
+      "valor": "93.5 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "03-08",
-      "valor": 23.0
+      "valor": 41.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "AGO",
-      "valor": 30.0
+      "valor": 48.0
     }
   ],
   "promedio_ruta": [
@@ -112,7 +112,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 362.0
+      "valor": 364.0
     },
     {
       "label": "SITRANS",
@@ -186,7 +186,7 @@
     },
     {
       "label": "AGO",
-      "valor": 40.0
+      "valor": 44.0
     }
   ],
   "fillrate_mensual": [
@@ -220,7 +220,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.6
+      "valor": 93.5
     }
   ],
   "top5_operadores": [
@@ -231,7 +231,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1766",
+      "total": "1769",
       "porcentaje": "19.4 %"
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "956",
+      "total": "960",
       "porcentaje": "10.5 %"
     },
     {
@@ -254,22 +254,22 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "16",
-      "unidades": "2376",
-      "ordenes": "14"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "4",
-      "unidades": "11",
-      "ordenes": "2"
+      "tareas": "20",
+      "unidades": "2731",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "3",
-      "unidades": "43",
+      "tareas": "14",
+      "unidades": "438",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "7",
+      "unidades": "879",
       "ordenes": "3"
     }
   ],
@@ -315,9 +315,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1171",
-      "disponibles": "289",
-      "porcentaje": "80.2 %"
+      "ocupadas": "1169",
+      "disponibles": "291",
+      "porcentaje": "80.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -360,9 +360,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "480",
-      "disponibles": "213",
-      "porcentaje": "69.3 %"
+      "ocupadas": "483",
+      "disponibles": "210",
+      "porcentaje": "69.7 %"
     }
   ]
 }

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="refresh" content="300">
-<meta name="viewport" content="width=1920">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Dashboard Operacional — Servi-All</title>
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
@@ -94,6 +94,25 @@ tbody tr:hover td{background:#fafafa;}
 .loading{display:flex;align-items:center;justify-content:center;height:100%;color:var(--gray-400);font-size:11px;gap:5px;}
 .spinner{width:14px;height:14px;border:2px solid var(--gray-200);border-top-color:var(--red);border-radius:50%;animation:spin .8s linear infinite;flex-shrink:0;}
 @keyframes spin{to{transform:rotate(360deg)}}
+
+/* ===== RESPONSIVE: celular / tablet vertical (agregado) ===== */
+@media (max-width: 900px){
+  html,body{height:auto;overflow-x:hidden;overflow-y:auto;}
+  header{height:auto;min-height:50px;flex-wrap:wrap;gap:6px;padding:8px 12px;}
+  main{display:flex;flex-direction:column;height:auto;padding:10px;gap:10px;overflow:visible;}
+  .kpi-row{grid-template-columns:1fr 1fr;}
+  .chart-card{height:300px;}
+  .chart-header{font-size:12px;}
+  .chart-footer{font-size:10px;}
+  table{font-size:12px;}
+  thead th{font-size:10px;}
+  .kpi-valor{font-size:26px;}
+}
+@media (max-width: 480px){
+  .kpi-row{grid-template-columns:1fr;}
+  .chart-card{height:260px;}
+  .kpi-valor{font-size:30px;}
+}
 </style>
 </head>
 <body>

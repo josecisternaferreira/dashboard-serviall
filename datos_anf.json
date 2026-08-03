@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 13:45",
+  "timestamp": "03/08/2026 14:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "121",
+      "valor": "138",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.8 %",
+      "valor": "96.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "03-08",
-      "valor": 121.0
+      "valor": 138.0
     }
   ],
   "cumplimiento": [
@@ -64,7 +64,7 @@
     },
     {
       "label": "AGO",
-      "valor": 95.8
+      "valor": 96.2
     }
   ],
   "picking_mensual": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "AGO",
-      "valor": 121.0
+      "valor": 138.0
     }
   ],
   "promedio_ruta": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 161.0
+      "valor": 163.0
     },
     {
       "label": "ESTAFETA",
@@ -170,7 +170,7 @@
     },
     {
       "label": "AGO",
-      "valor": 24.0
+      "valor": 26.0
     }
   ],
   "fillrate_mensual": [
@@ -215,8 +215,8 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1379",
-      "porcentaje": "22.2 %"
+      "total": "1396",
+      "porcentaje": "22.4 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -237,17 +237,17 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "58",
+      "unidades": "11386",
+      "ordenes": "11"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "41",
       "unidades": "7239",
       "ordenes": "8"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "41",
-      "unidades": "10367",
-      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -317,9 +317,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "243",
-      "disponibles": "166",
-      "porcentaje": "59.4 %"
+      "ocupadas": "245",
+      "disponibles": "164",
+      "porcentaje": "59.9 %"
     }
   ]
 }

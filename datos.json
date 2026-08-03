@@ -1,14 +1,14 @@
 {
-  "timestamp": "03/08/2026 12:28",
+  "timestamp": "03/08/2026 12:37",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "4",
+      "valor": "6",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "53",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "96.4 %",
+      "valor": "96.5 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "label": "03-08",
-      "valor": 53.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -102,7 +102,7 @@
     },
     {
       "label": "AGO",
-      "valor": 60.0
+      "valor": 61.0
     }
   ],
   "promedio_ruta": [
@@ -186,7 +186,7 @@
     },
     {
       "label": "AGO",
-      "valor": 64.0
+      "valor": 66.0
     }
   ],
   "fillrate_mensual": [
@@ -220,7 +220,7 @@
     },
     {
       "label": "AGO",
-      "valor": 96.4
+      "valor": 96.5
     }
   ],
   "top5_operadores": [
@@ -250,29 +250,7 @@
       "porcentaje": "10.0 %"
     }
   ],
-  "semana_actual": [
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "25",
-      "unidades": "3036",
-      "ordenes": "23"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "18",
-      "unidades": "445",
-      "ordenes": "10"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "10",
-      "unidades": "999",
-      "ordenes": "6"
-    }
-  ],
+  "semana_actual": [],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/08/2026 16:15",
+  "timestamp": "03/08/2026 16:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "139",
+      "valor": "149",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.0 %",
+      "valor": "97.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -30,7 +30,7 @@
   "tareas_por_dia": [
     {
       "label": "03-08",
-      "valor": 139.0
+      "valor": 149.0
     }
   ],
   "cumplimiento": [
@@ -64,7 +64,7 @@
     },
     {
       "label": "AGO",
-      "valor": 97.0
+      "valor": 97.1
     }
   ],
   "picking_mensual": [
@@ -98,7 +98,7 @@
     },
     {
       "label": "AGO",
-      "valor": 139.0
+      "valor": 149.0
     }
   ],
   "promedio_ruta": [
@@ -119,16 +119,16 @@
       "valor": 163.0
     },
     {
-      "label": "ESTAFETA",
-      "valor": 81.0
-    },
-    {
       "label": "SITRANS",
       "valor": 76.0
     },
     {
       "label": "SQM_MRP",
       "valor": 75.0
+    },
+    {
+      "label": "ESTAFETA",
+      "valor": 72.0
     },
     {
       "label": "AGUNSA",
@@ -170,7 +170,7 @@
     },
     {
       "label": "AGO",
-      "valor": 33.0
+      "valor": 35.0
     }
   ],
   "fillrate_mensual": [
@@ -215,18 +215,18 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1397",
-      "porcentaje": "22.5 %"
+      "total": "1407",
+      "porcentaje": "22.6 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "651",
-      "porcentaje": "10.5 %"
+      "porcentaje": "10.4 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "601",
-      "porcentaje": "9.7 %"
+      "porcentaje": "9.6 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -238,9 +238,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "59",
-      "unidades": "11392",
-      "ordenes": "11"
+      "tareas": "69",
+      "unidades": "11482",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

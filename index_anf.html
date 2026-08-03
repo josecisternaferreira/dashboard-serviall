@@ -601,19 +601,30 @@ function rAlertas(d){
    no existen en el WMS extraido: se muestran explicitamente como SIN DATO,
    nunca en cero (un cero se leeria como "no hay trabajo pendiente").
    ============================================================================ */
+/* La nota al pie se arma sola segun que etapas tengan dato: cuando se agregue
+   la ficha de Packing en Invas, el texto se corrige solo sin tocar el HTML */
+function notaFlujo(etapas){
+  const faltan = etapas.filter(function(e){return e.v==null;}).map(function(e){return e.n;});
+  let n = '';
+  if(faltan.length===1) n = faltan[0]+' no se captura desde Invas · ';
+  else if(faltan.length>1) n = faltan.slice(0,-1).join(', ')+' y '+faltan[faltan.length-1]+' no se capturan desde Invas · ';
+  return n + 'Despacho acumula el mes en curso';
+}
+
 function rFlujo(d){
-  const asn    = kpiDe(d,'TOTAL_ASN_HOY');
-  const tareas = kpiDe(d,'TOTAL_TAREAS_TERMINADAS_HOY');
-  const desp   = ult(d.despachos_mes);
+  const asn     = kpiDe(d,'TOTAL_ASN_HOY');
+  const almacen = kpiDe(d,'LINEAS_ALMACENADAS');
+  const tareas  = kpiDe(d,'TOTAL_TAREAS_TERMINADAS_HOY');
+  const desp    = ult(d.despachos_mes);
 
   /* El periodo se rotula en cada etapa: Recepcion y Picking son del dia, Despacho
      acumula el mes en curso. No existe un denominador comun entre ellas, por eso
      NO se dibuja una barra de avance: sugeriria una proporcion que no es real. */
   const etapas = [
-    {n:'Recepción',      ico:'recepcion', v:asn,    s:'ASN · hoy'},
-    {n:'Almacenamiento', ico:'almacen',   v:null,   s:'No capturado desde Invas'},
-    {n:'Picking',        ico:'picking',   v:tareas, s:'Tareas terminadas · hoy'},
-    {n:'Packing',        ico:'packing',   v:null,   s:'No capturado desde Invas'},
+    {n:'Recepción',      ico:'recepcion', v:asn,     s:'ASN · hoy'},
+    {n:'Almacenamiento', ico:'almacen',   v:almacen, s:'Líneas almacenadas · hoy'},
+    {n:'Picking',        ico:'picking',   v:tareas,  s:'Tareas terminadas · hoy'},
+    {n:'Packing',        ico:'packing',   v:null,    s:'No capturado desde Invas'},
     {n:'Despacho',       ico:'despacho',  v:desp?desp.valor:null,
      s:'LP despachadas · '+(desp?fmtMes(desp.label)+' a la fecha':'—')}
   ];
@@ -645,7 +656,7 @@ function rFlujo(d){
     + '<span class="ciclo-v" style="color:'+colores[est]+'">'+(ciclo!=null?nf1.format(ciclo)+' días':'—')+'</span>'
     + '<span class="ciclo-meta">Meta ≤ '+nf1.format(METAS.ciclo_dias)+' d</span>'
     + '<span class="chip '+est+'">'+(est==='ok'?SVG.ok:SVG.alerta)+(est==='ok'?'Dentro de meta':'Fuera de meta')+'</span>'
-    + '<span class="nota">Almacenamiento y Packing no se capturan desde Invas · Despacho acumula el mes en curso</span>';
+    + '<span class="nota">'+esc(notaFlujo(etapas))+'</span>';
 
   const conDato = etapas.filter(function(e){return e.v!=null;}).length;
   document.getElementById('flujo-meta').textContent = conDato+' de '+etapas.length+' etapas con dato';

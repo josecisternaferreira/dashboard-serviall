@@ -1,9 +1,9 @@
 {
-  "timestamp": "03/08/2026 09:04",
+  "timestamp": "03/08/2026 09:33",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "label": "AGO",
-      "valor": 3.0
+      "valor": 4.0
     }
   ],
   "promedio_ruta": [
@@ -136,7 +136,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 39.0
+      "valor": 29.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -182,7 +182,7 @@
     },
     {
       "label": "AGO",
-      "valor": 23.0
+      "valor": 25.0
     }
   ],
   "fillrate_mensual": [
@@ -342,9 +342,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "479",
-      "disponibles": "214",
-      "porcentaje": "69.1 %"
+      "ocupadas": "480",
+      "disponibles": "213",
+      "porcentaje": "69.3 %"
     }
   ]
 }

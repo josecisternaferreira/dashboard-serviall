@@ -266,8 +266,16 @@ tbody tr:hover td{background:var(--surface-2);}
   :root{
     --fs-xs:12px; --fs-sm:13px; --fs-md:15px; --fs-kpi:28px; --fs-reloj:22px;
   }
-  header{height:auto;min-height:58px;flex-wrap:wrap;gap:6px;padding:8px 12px;}
-  .h-r{gap:12px;}
+  /* En celular el header se apila: si no, el titulo y la bodega quedaban
+     cortados a media palabra por el overflow-x:hidden, sin dar aviso */
+  header{height:auto;min-height:58px;flex-wrap:wrap;gap:8px;padding:10px 12px;}
+  .h-l{flex:1 1 100%;}
+  .h-tit,.h-sub{white-space:normal;}
+  .h-r{flex:1 1 100%;justify-content:space-between;gap:10px;}
+  .h-i{text-align:left;flex:0 1 auto;min-width:0;}
+  .h-i span{white-space:normal;}
+  .h-i.est b{justify-content:flex-start;}
+  .logo{height:26px;}
   main{grid-template-columns:1fr;padding:10px;gap:10px;}
   .zona-kpi{grid-column:1;grid-template-columns:repeat(2,1fr);}
   .zona-alertas,.zona-flujo,.zona-graficos,.zona-lateral{grid-column:1;}
@@ -278,6 +286,11 @@ tbody tr:hover td{background:var(--surface-2);}
   .flujo{flex-direction:column;gap:6px;}
   .flecha{width:100%;height:18px;transform:rotate(90deg);}
   .etapa-pie{margin-top:6px;}
+}
+@media (max-width:600px){
+  /* El celular ya muestra la hora en su barra de estado: el reloj del tablero
+     solo apretaba el header, que en 390px llegaba a 155px de alto */
+  .h-i.reloj{display:none;}
 }
 @media (max-width:480px){
   .zona-kpi{grid-template-columns:1fr;}
@@ -296,7 +309,7 @@ tbody tr:hover td{background:var(--surface-2);}
     </div>
   </div>
   <div class="h-r">
-    <div class="h-i"><b class="tnum" id="h-reloj">--:--:--</b><span>Hora local</span></div>
+    <div class="h-i reloj"><b class="tnum" id="h-reloj">--:--:--</b><span>Hora local</span></div>
     <div class="h-i est"><b><span class="dot" id="h-dot"></span><span class="tnum" id="h-act">—</span></b><span>Última actualización</span></div>
     <div class="h-i"><b class="tnum" id="h-ops">—</b><span>Operadores activos · semana</span></div>
   </div>

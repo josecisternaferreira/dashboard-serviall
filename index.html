@@ -754,7 +754,8 @@ Chart.defaults.color = '#8a939c';
 Chart.defaults.animation = false;
 
 const COL = { ink:'#1a1d21', ink2:'#5c6670', ink3:'#8a939c', linea:'#e3e5e8',
-              neutro:'#c3c9cf', info:'#0F6CBD', ok:'#107C41', warn:'#C77700', crit:'#B4131A' };
+              neutro:'#c3c9cf', neutro2:'#dde1e5', brand:'#D0191A',
+              info:'#0F6CBD', ok:'#107C41', warn:'#C77700', crit:'#B4131A' };
 const graficos = {};
 
 /* Etiqueta de valor sobre cada barra (vertical y horizontal) */
@@ -981,13 +982,28 @@ function gDespachos(d){
   });
 }
 
-/* --- 5. Carga por ruta: barras horizontales ordenadas de mayor a menor --- */
+/* --- 5. Carga por ruta: top 8 + OTROS, barras horizontales ordenadas --- */
+const RUTAS_VISIBLES = 8;
+
 function gRutas(d){
-  const s = (d.promedio_ruta||[]).slice().sort(function(a,b){ return b.valor-a.valor; });
+  const todas = (d.promedio_ruta||[]).slice().sort(function(a,b){ return b.valor-a.valor; });
   const meta = document.getElementById('m-ruta');
-  if(!s.length){ sinDatos('c-ruta'); meta.textContent='Sin datos'; return; }
-  const total = s.reduce(function(a,x){return a+x.valor;},0);
-  meta.textContent = s.length+' rutas';
+  if(!todas.length){ sinDatos('c-ruta'); meta.textContent='Sin datos'; return; }
+  const total = todas.reduce(function(a,x){return a+x.valor;},0);
+  meta.textContent = todas.length+' rutas';
+
+  /* Las rutas de cola se agrupan en OTROS: con 12 barras el grafico se volvia
+     ilegible y las rutas que importan quedaban del mismo grosor que las marginales */
+  const s = todas.slice(0, RUTAS_VISIBLES);
+  const resto = todas.slice(RUTAS_VISIBLES);
+  if(resto.length === 1){
+    /* Agrupar una sola ruta no ahorra ninguna barra y esconde su nombre */
+    s.push(resto[0]);
+  }else if(resto.length > 1){
+    s.push({ label:'OTROS',
+             valor: resto.reduce(function(a,x){return a+x.valor;},0),
+             agrupa: resto.length });
+  }
 
   destruir('c-ruta');
   graficos['c-ruta'] = new Chart(document.getElementById('c-ruta'),{
@@ -995,7 +1011,12 @@ function gRutas(d){
     data:{
       labels: s.map(function(x){return x.label;}),
       datasets:[{ data:s.map(function(x){return x.valor;}),
-        backgroundColor:s.map(function(_,i){ return i===0 ? COL.info : COL.neutro; }),
+        /* Solo la ruta de mayor carga lleva el rojo corporativo; el resto en
+           neutro para no competir. OTROS va mas claro por ser un agrupado. */
+        backgroundColor:s.map(function(x,i){
+          if(i===0) return COL.brand;
+          return x.label==='OTROS' ? COL.neutro2 : COL.neutro;
+        }),
         borderRadius:2, borderSkipped:false }]
     },
     options:{
@@ -1004,10 +1025,15 @@ function gRutas(d){
       layout:{padding:{right:40}},
       plugins:{
         legend:{display:false},
-        tooltip:{callbacks:{ label:function(c){
-          const p = total ? (c.parsed.x/total*100) : 0;
-          return ' '+nf.format(c.parsed.x)+' tareas · '+nf1.format(p)+'% del total';
-        }}}
+        tooltip:{callbacks:{
+          title:function(it){ return it[0].label; },
+          label:function(c){
+            const p = total ? (c.parsed.x/total*100) : 0;
+            const fila = s[c.dataIndex];
+            const base = ' '+nf.format(c.parsed.x)+' tareas · '+nf1.format(p)+'% del total';
+            return fila && fila.agrupa ? [base, ' agrupa '+fila.agrupa+' rutas menores'] : base;
+          }
+        }}
       },
       scales:{
         x:{display:false, beginAtZero:true, grace:'8%'},

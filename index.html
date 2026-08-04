@@ -126,6 +126,16 @@ main{
 .kpi-d.sube{color:var(--ok);} .kpi-d.baja{color:var(--crit);}
 .kpi-d.nulo{color:var(--ink-3);font-weight:500;font-style:italic;}
 .kpi-meta{font-size:var(--fs-xs);color:var(--ink-3);white-space:nowrap;}
+/* Tarjeta de dos grupos: mismo alto que las demas, sin mezclar las cifras */
+.kpi-dual{display:flex;gap:10px;flex:1;align-items:center;min-width:0;}
+.kpi-grupo{flex:1;min-width:0;display:flex;flex-direction:column;line-height:1.15;}
+.kpi-grupo-l{font-size:var(--fs-xs);font-weight:600;text-transform:uppercase;
+             letter-spacing:.5px;color:var(--ink-3);white-space:nowrap;
+             overflow:hidden;text-overflow:ellipsis;}
+.kpi-grupo-l.warn{color:var(--warn);} .kpi-grupo-l.crit{color:var(--crit);}
+.kpi-grupo-v{font-size:clamp(17px,2.13vh,25px);font-weight:600;letter-spacing:-.4px;
+             font-variant-numeric:tabular-nums;color:var(--ink);}
+.kpi-grupo-s{font-size:var(--fs-xs);color:var(--ink-3);white-space:nowrap;}
 
 /* ================= ZONA 2 · ALERTAS ================= */
 .zona-alertas{
@@ -383,6 +393,20 @@ const METAS = {
   ocup_critica  : 95     // % de ocupacion considerado critico
 };
 
+/* ==========================================================================
+   CLASIFICACION FISICA DE UBICACIONES
+   Una posicion de rack recibe un pallet; una de multinivel es una cajonera.
+   Contarlas juntas distorsiona: el multinivel es el 53% de las ubicaciones en
+   Santiago y el 73% en Antofagasta, asi que un porcentaje global termina
+   midiendo lo llenos que estan los cajones, no la bodega.
+   Las areas que no figuren aqui quedan fuera del KPI y se informan aparte
+   (hoy: Z-CONSIG, que mezcla rack y multinivel y no se puede clasificar).
+   ========================================================================== */
+const GRUPOS_UBICACION = {
+  pallet     : ['Z-RACK','Z-CANTI','Z-PISO','Z-PTF','PATIO','MERMA'],
+  multinivel : ['Z-MULTI']
+};
+
 const REFRESCO_DATOS = 120000;   // 2 min
 const ANTIGUEDAD_MAX = 60;       // min antes de marcar datos desactualizados
 
@@ -523,15 +547,32 @@ function rKPIs(d){
   const ciclo     = kpiDe(d,'DIAS_PROMEDIO_PICKING_DESPACHO');
   const asnHoy    = kpiDe(d,'TOTAL_ASN_HOY');
 
-  /* Ocupacion global = suma de todas las areas, no el promedio de sus porcentajes:
+  /* Se suman capacidades y ocupadas por grupo, nunca se promedian porcentajes:
      promediar daria el mismo peso a un area de 1 ubicacion que a una de 1.460 */
-  let ocupCap = 0, ocupUso = 0;
+  const grupos = { pallet:{cap:0,uso:0}, multinivel:{cap:0,uso:0}, fuera:{cap:0,uso:0} };
   (d.ocupacion||[]).forEach(function(f){
-    ocupCap += numDe(f.total)||0;
-    ocupUso += numDe(f.ocupadas)||0;
+    const area = String(f.area||'').toUpperCase().trim();
+    const g = GRUPOS_UBICACION.pallet.indexOf(area)     >= 0 ? 'pallet'
+            : GRUPOS_UBICACION.multinivel.indexOf(area) >= 0 ? 'multinivel'
+            : 'fuera';
+    grupos[g].cap += numDe(f.total)||0;
+    grupos[g].uso += numDe(f.ocupadas)||0;
   });
-  const ocupPct    = ocupCap ? (ocupUso/ocupCap*100) : null;
-  const ocupLibres = ocupCap ? (ocupCap-ocupUso) : null;
+  function resumenGrupo(g){
+    if(!g.cap) return null;
+    return { pct:g.uso/g.cap*100, libres:g.cap-g.uso, cap:g.cap };
+  }
+  const uPallet = resumenGrupo(grupos.pallet);
+  const uMulti  = resumenGrupo(grupos.multinivel);
+  const uFuera  = resumenGrupo(grupos.fuera);
+  function estadoOcup(u){
+    if(!u) return 'info';
+    return u.pct>=METAS.ocup_critica ? 'crit' : (u.pct>=METAS.ocup_alerta ? 'warn' : 'ok');
+  }
+  /* El estado de la tarjeta lo marca el grupo mas apretado */
+  const estOcup = [uPallet,uMulti].filter(Boolean)
+      .map(estadoOcup)
+      .sort(function(a,b){ return ['crit','warn','ok','info'].indexOf(a)-['crit','warn','ok','info'].indexOf(b); })[0] || 'info';
 
   const tarjetas = [
     { l:'Cumplimiento On Time',
@@ -559,25 +600,32 @@ function rKPIs(d){
       pie: '<span class="kpi-d nulo">Sin histórico en WMS</span>',
       meta: 'Sin meta definida' },
 
-    /* Ocupacion global en vez de repetir las lineas pickeadas, que ya son la
-       etapa Picking del flujo. Responde "?tengo donde seguir guardando?", que
-       es lo unico que ningun otro widget del tablero contesta. */
+    /* Dos cifras sin mezclar: pallet y multinivel no compiten por el mismo
+       espacio, asi que un promedio entre ambos no significaria nada. */
     { l:'Ocupación de Ubicaciones',
-      v: ocupPct!=null ? nf1.format(ocupPct)+'%' : '—',
-      est: ocupPct==null ? 'info'
-           : (ocupPct>=METAS.ocup_critica ? 'crit' : (ocupPct>=METAS.ocup_alerta ? 'warn' : 'ok')),
-      pie: ocupLibres!=null
-           ? '<span class="kpi-d nulo">'+nf.format(ocupLibres)+' ubicaciones libres</span>'
-           : '<span class="kpi-d nulo">Sin datos de ocupación</span>',
-      meta: 'Alerta ≥ '+METAS.ocup_alerta+'%' }
+      est: estOcup,
+      dual: [ {n:'Pallet',     u:uPallet},
+              {n:'Multinivel', u:uMulti} ],
+      meta: (uFuera ? 'Consignación aparte · ' : '')+'Alerta ≥ '+METAS.ocup_alerta+'%' }
   ];
 
   document.getElementById('zona-kpi').innerHTML = tarjetas.map(function(t){
+    const cuerpo = t.dual
+      ? '<div class="kpi-dual">' + t.dual.map(function(g){
+            const est = estadoOcup(g.u);
+            return '<div class="kpi-grupo">'
+                 +   '<span class="kpi-grupo-l '+est+'">'+esc(g.n)+'</span>'
+                 +   '<span class="kpi-grupo-v">'+(g.u?nf1.format(g.u.pct)+'%':'—')+'</span>'
+                 +   '<span class="kpi-grupo-s">'+(g.u?nf.format(g.u.libres)+' libres':'sin datos')+'</span>'
+                 + '</div>';
+          }).join('') + '</div>'
+      : '<div class="kpi-v">'+t.v+'</div>'
+        + '<div class="kpi-f"><span class="kpi-dwrap">'+t.pie+'</span>'
+        + '<span class="kpi-meta">'+esc(t.meta)+'</span></div>';
     return '<div class="kpi '+t.est+'">'
          +   '<div class="kpi-l">'+esc(t.l)+'</div>'
-         +   '<div class="kpi-v">'+t.v+'</div>'
-         +   '<div class="kpi-f"><span class="kpi-dwrap">'+t.pie+'</span>'
-         +     '<span class="kpi-meta">'+esc(t.meta)+'</span></div>'
+         +   cuerpo
+         +   (t.dual ? '<div class="kpi-f"><span class="kpi-meta">'+esc(t.meta)+'</span></div>' : '')
          + '</div>';
   }).join('');
 }

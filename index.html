@@ -394,17 +394,20 @@ const METAS = {
 };
 
 /* ==========================================================================
-   CLASIFICACION FISICA DE UBICACIONES
-   Una posicion de rack recibe un pallet; una de multinivel es una cajonera.
-   Contarlas juntas distorsiona: el multinivel es el 53% de las ubicaciones en
-   Santiago y el 73% en Antofagasta, asi que un porcentaje global termina
-   midiendo lo llenos que estan los cajones, no la bodega.
-   Las areas que no figuren aqui quedan fuera del KPI y se informan aparte
-   (hoy: Z-CONSIG, que mezcla rack y multinivel y no se puede clasificar).
+   CLASIFICACION FISICA DE UBICACIONES  (se agrupa por TIPO, no por area)
+   No es lo mismo una posicion donde entra un pallet completo que un nivel bajo
+   subdividido en cajoneras. En el WMS esa diferencia la marca el TIPO:
+     RESERVA / PISO / PLATAFORMA -> posicion de pallet completo
+     ACTIVO                      -> primeros niveles del rack, con cajoneras
+   Contarlas juntas distorsiona el indicador: en Santiago el porcentaje global
+   daba 66,7% cuando la reserva iba en 69,4% y el picking en 65,6%, y el numero
+   de "libres" pasaba de 594 a 237 posiciones de pallet reales segun como se
+   clasificara. Un TIPO nuevo que no figure aqui queda fuera del KPI y se
+   informa en la tarjeta, en vez de colarse en un promedio.
    ========================================================================== */
 const GRUPOS_UBICACION = {
-  pallet     : ['Z-RACK','Z-CANTI','Z-PISO','Z-PTF','PATIO','MERMA'],
-  multinivel : ['Z-MULTI']
+  reserva : ['RESERVA','PISO','PLATAFORMA'],
+  picking : ['ACTIVO']
 };
 
 const REFRESCO_DATOS = 120000;   // 2 min
@@ -549,11 +552,11 @@ function rKPIs(d){
 
   /* Se suman capacidades y ocupadas por grupo, nunca se promedian porcentajes:
      promediar daria el mismo peso a un area de 1 ubicacion que a una de 1.460 */
-  const grupos = { pallet:{cap:0,uso:0}, multinivel:{cap:0,uso:0}, fuera:{cap:0,uso:0} };
+  const grupos = { reserva:{cap:0,uso:0}, picking:{cap:0,uso:0}, fuera:{cap:0,uso:0} };
   (d.ocupacion||[]).forEach(function(f){
-    const area = String(f.area||'').toUpperCase().trim();
-    const g = GRUPOS_UBICACION.pallet.indexOf(area)     >= 0 ? 'pallet'
-            : GRUPOS_UBICACION.multinivel.indexOf(area) >= 0 ? 'multinivel'
+    const tipo = String(f.tipo||'').toUpperCase().trim();
+    const g = GRUPOS_UBICACION.reserva.indexOf(tipo) >= 0 ? 'reserva'
+            : GRUPOS_UBICACION.picking.indexOf(tipo) >= 0 ? 'picking'
             : 'fuera';
     grupos[g].cap += numDe(f.total)||0;
     grupos[g].uso += numDe(f.ocupadas)||0;
@@ -562,15 +565,15 @@ function rKPIs(d){
     if(!g.cap) return null;
     return { pct:g.uso/g.cap*100, libres:g.cap-g.uso, cap:g.cap };
   }
-  const uPallet = resumenGrupo(grupos.pallet);
-  const uMulti  = resumenGrupo(grupos.multinivel);
-  const uFuera  = resumenGrupo(grupos.fuera);
+  const uReserva = resumenGrupo(grupos.reserva);
+  const uPicking = resumenGrupo(grupos.picking);
+  const uFuera   = resumenGrupo(grupos.fuera);
   function estadoOcup(u){
     if(!u) return 'info';
     return u.pct>=METAS.ocup_critica ? 'crit' : (u.pct>=METAS.ocup_alerta ? 'warn' : 'ok');
   }
   /* El estado de la tarjeta lo marca el grupo mas apretado */
-  const estOcup = [uPallet,uMulti].filter(Boolean)
+  const estOcup = [uReserva,uPicking].filter(Boolean)
       .map(estadoOcup)
       .sort(function(a,b){ return ['crit','warn','ok','info'].indexOf(a)-['crit','warn','ok','info'].indexOf(b); })[0] || 'info';
 
@@ -604,9 +607,11 @@ function rKPIs(d){
        espacio, asi que un promedio entre ambos no significaria nada. */
     { l:'Ocupación de Ubicaciones',
       est: estOcup,
-      dual: [ {n:'Pallet',     u:uPallet},
-              {n:'Multinivel', u:uMulti} ],
-      meta: (uFuera ? 'Consignación aparte · ' : '')+'Alerta ≥ '+METAS.ocup_alerta+'%' }
+      dual: [ {n:'Reserva', u:uReserva},
+              {n:'Picking', u:uPicking} ],
+      /* Si aparece un tipo de ubicacion no clasificado se avisa, no se esconde */
+      meta: (uFuera ? nf.format(uFuera.cap)+' sin clasificar · ' : '')
+            +'Alerta ≥ '+METAS.ocup_alerta+'%' }
   ];
 
   document.getElementById('zona-kpi').innerHTML = tarjetas.map(function(t){

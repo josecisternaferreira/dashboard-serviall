@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/08/2026 16:00",
+  "timestamp": "04/08/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,17 +8,17 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "75",
+      "valor": "91",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.2 %",
+      "valor": "91.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "98.2 %",
+      "valor": "98.3 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "45",
+      "valor": "48",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "97",
+      "valor": "126",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "04-08",
-      "valor": 75.0
+      "valor": 91.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "AGO",
-      "valor": 91.2
+      "valor": 91.3
     }
   ],
   "picking_mensual": [
@@ -121,13 +121,13 @@
     },
     {
       "label": "AGO",
-      "valor": 180.0
+      "valor": 196.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1404.0
+      "valor": 1406.0
     },
     {
       "label": "AGUNSA",
@@ -205,7 +205,7 @@
     },
     {
       "label": "AGO",
-      "valor": 148.0
+      "valor": 149.0
     }
   ],
   "fillrate_mensual": [
@@ -239,14 +239,14 @@
     },
     {
       "label": "AGO",
-      "valor": 98.2
+      "valor": 98.3
     }
   ],
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2547",
-      "porcentaje": "27.6 %"
+      "porcentaje": "27.5 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -260,8 +260,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1050",
-      "porcentaje": "11.4 %"
+      "total": "1066",
+      "porcentaje": "11.5 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -273,8 +273,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "110",
-      "unidades": "17240",
+      "tareas": "126",
+      "unidades": "17790",
       "ordenes": "48"
     },
     {
@@ -325,9 +325,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1085",
-      "disponibles": "375",
-      "porcentaje": "74.3 %"
+      "ocupadas": "1086",
+      "disponibles": "374",
+      "porcentaje": "74.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "04/08/2026 09:00",
+  "timestamp": "04/08/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "2",
+      "valor": "9",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "2",
+      "valor": "8",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -50,6 +50,10 @@
     {
       "label": "03-08",
       "valor": 98.0
+    },
+    {
+      "label": "04-08",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -117,7 +121,7 @@
     },
     {
       "label": "AGO",
-      "valor": 105.0
+      "valor": 106.0
     }
   ],
   "promedio_ruta": [
@@ -201,7 +205,7 @@
     },
     {
       "label": "AGO",
-      "valor": 107.0
+      "valor": 111.0
     }
   ],
   "fillrate_mensual": [
@@ -256,7 +260,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "981",
+      "total": "982",
       "porcentaje": "10.7 %"
     },
     {
@@ -269,9 +273,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "41",
-      "unidades": "3635",
-      "ordenes": "30"
+      "tareas": "42",
+      "unidades": "3637",
+      "ordenes": "31"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -355,7 +359,7 @@
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-PTF",
-      "tipo": "PISO",
+      "tipo": "PLATAFORMA",
       "total": "1",
       "ocupadas": "1",
       "disponibles": "0",

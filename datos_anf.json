@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/08/2026 08:45",
+  "timestamp": "04/08/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -46,6 +46,10 @@
     {
       "label": "03-08",
       "valor": 153.0
+    },
+    {
+      "label": "04-08",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -113,7 +117,7 @@
     },
     {
       "label": "AGO",
-      "valor": 153.0
+      "valor": 156.0
     }
   ],
   "promedio_ruta": [
@@ -123,7 +127,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 256.0
+      "valor": 257.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -245,7 +249,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "390",
+      "total": "393",
       "porcentaje": "6.3 %"
     }
   ],
@@ -270,6 +274,13 @@
       "tareas": "39",
       "unidades": "1949",
       "ordenes": "20"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "3",
+      "unidades": "162",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -296,8 +307,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1091",
-      "disponibles": "247",
+      "ocupadas": "1090",
+      "disponibles": "248",
       "porcentaje": "81.5 %"
     },
     {

@@ -1,14 +1,14 @@
 {
-  "timestamp": "04/08/2026 10:00",
+  "timestamp": "04/08/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "7",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "11",
+      "valor": "17",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "19",
+      "valor": "23",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "10",
+      "valor": "12",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "14",
+      "valor": "26",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "04-08",
-      "valor": 11.0
+      "valor": 17.0
     }
   ],
   "cumplimiento": [
@@ -121,13 +121,13 @@
     },
     {
       "label": "AGO",
-      "valor": 116.0
+      "valor": 122.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1399.0
+      "valor": 1400.0
     },
     {
       "label": "AGUNSA",
@@ -251,7 +251,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1793",
-      "porcentaje": "19.6 %"
+      "porcentaje": "19.5 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -260,7 +260,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "989",
+      "total": "995",
       "porcentaje": "10.8 %"
     },
     {
@@ -273,9 +273,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "49",
-      "unidades": "3683",
-      "ordenes": "33"
+      "tareas": "55",
+      "unidades": "4369",
+      "ordenes": "37"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -370,9 +370,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "486",
-      "disponibles": "207",
-      "porcentaje": "70.1 %"
+      "ocupadas": "483",
+      "disponibles": "210",
+      "porcentaje": "69.7 %"
     }
   ]
 }

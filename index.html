@@ -378,7 +378,9 @@ const METAS = {
   cumplimiento  : 90,    // % on time minimo
   fillrate      : 95,    // % fill rate minimo
   ciclo_dias    : 3.0,   // dias maximos picking -> despacho
-  despachos_mes : null   // sin meta definida
+  despachos_mes : null,  // sin meta definida
+  ocup_alerta   : 85,    // % de ocupacion desde el que se advierte
+  ocup_critica  : 95     // % de ocupacion considerado critico
 };
 
 const REFRESCO_DATOS = 120000;   // 2 min
@@ -520,7 +522,16 @@ function rKPIs(d){
   const tAct = ult(d.tareas_por_dia),    tPre = ult(d.tareas_por_dia,1);
   const ciclo     = kpiDe(d,'DIAS_PROMEDIO_PICKING_DESPACHO');
   const asnHoy    = kpiDe(d,'TOTAL_ASN_HOY');
-  const tareasHoy = kpiDe(d,'TOTAL_TAREAS_TERMINADAS_HOY');
+
+  /* Ocupacion global = suma de todas las areas, no el promedio de sus porcentajes:
+     promediar daria el mismo peso a un area de 1 ubicacion que a una de 1.460 */
+  let ocupCap = 0, ocupUso = 0;
+  (d.ocupacion||[]).forEach(function(f){
+    ocupCap += numDe(f.total)||0;
+    ocupUso += numDe(f.ocupadas)||0;
+  });
+  const ocupPct    = ocupCap ? (ocupUso/ocupCap*100) : null;
+  const ocupLibres = ocupCap ? (ocupCap-ocupUso) : null;
 
   const tarjetas = [
     { l:'Cumplimiento On Time',
@@ -548,12 +559,17 @@ function rKPIs(d){
       pie: '<span class="kpi-d nulo">Sin histórico en WMS</span>',
       meta: 'Sin meta definida' },
 
-    { l:'Tareas Terminadas Hoy',
-      v: tareasHoy!=null ? nf.format(tareasHoy) : '—',
-      est: 'info',
-      /* Se rotula la fecha real del punto anterior: la serie salta dias sin actividad */
-      pie: deltaAbs(tAct?tAct.valor:null, tPre?tPre.valor:null, tPre?tPre.label:''),
-      meta: 'Sin meta definida' }
+    /* Ocupacion global en vez de repetir las lineas pickeadas, que ya son la
+       etapa Picking del flujo. Responde "?tengo donde seguir guardando?", que
+       es lo unico que ningun otro widget del tablero contesta. */
+    { l:'Ocupación de Ubicaciones',
+      v: ocupPct!=null ? nf1.format(ocupPct)+'%' : '—',
+      est: ocupPct==null ? 'info'
+           : (ocupPct>=METAS.ocup_critica ? 'crit' : (ocupPct>=METAS.ocup_alerta ? 'warn' : 'ok')),
+      pie: ocupLibres!=null
+           ? '<span class="kpi-d nulo">'+nf.format(ocupLibres)+' ubicaciones libres</span>'
+           : '<span class="kpi-d nulo">Sin datos de ocupación</span>',
+      meta: 'Alerta ≥ '+METAS.ocup_alerta+'%' }
   ];
 
   document.getElementById('zona-kpi').innerHTML = tarjetas.map(function(t){
@@ -577,10 +593,10 @@ function construirAlertas(d){
   /* Ocupacion de ubicaciones */
   const pcts = (d.ocupacion||[]).map(function(f){return numDe(f.porcentaje);})
                                 .filter(function(v){return v!=null;});
-  const nCrit = pcts.filter(function(v){return v>=95;}).length;
-  const nAdv  = pcts.filter(function(v){return v>=85 && v<95;}).length;
-  if(nCrit) A.push({s:'crit', i:'alerta', t:nCrit+(nCrit===1?' área ≥95% ocupación':' áreas ≥95% ocupación')});
-  if(nAdv)  A.push({s:'warn', i:'alerta', t:nAdv +(nAdv===1 ?' área sobre 85%'     :' áreas sobre 85%')});
+  const nCrit = pcts.filter(function(v){return v>=METAS.ocup_critica;}).length;
+  const nAdv  = pcts.filter(function(v){return v>=METAS.ocup_alerta && v<METAS.ocup_critica;}).length;
+  if(nCrit) A.push({s:'crit', i:'alerta', t:nCrit+(nCrit===1?' área ≥':' áreas ≥')+METAS.ocup_critica+'% ocupación'});
+  if(nAdv)  A.push({s:'warn', i:'alerta', t:nAdv +(nAdv===1 ?' área sobre ':' áreas sobre ')+METAS.ocup_alerta+'%'});
 
   /* KPIs bajo meta */
   const c = ult(d.cumplimiento);
@@ -648,7 +664,7 @@ function rFlujo(d){
   const etapas = [
     {n:'Recepción',      ico:'recepcion', v:recep,   s:'Líneas recepcionadas', p:'Hoy'},
     {n:'Almacenamiento', ico:'almacen',   v:almacen, s:'Líneas almacenadas',   p:'Hoy'},
-    {n:'Picking',        ico:'picking',   v:tareas,  s:'Tareas terminadas',    p:'Hoy'},
+    {n:'Picking',        ico:'picking',   v:tareas,  s:'Líneas pickeadas',     p:'Hoy'},
     {n:'Packing',        ico:'packing',   v:packing, s:'Líneas embaladas',     p:'Hoy'},
     {n:'Despacho',       ico:'despacho',  v:desp?desp.valor:null,
      s:'Listas de picking despachadas', p:(desp?fmtMes(desp.label)+' a la fecha':'—')}

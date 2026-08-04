@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/08/2026 11:45",
+  "timestamp": "04/08/2026 12:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "45",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.7 %",
+      "valor": "97.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "44",
+      "valor": "56",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "04-08",
-      "valor": 45.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -83,7 +83,7 @@
     },
     {
       "label": "AGO",
-      "valor": 97.7
+      "valor": 97.8
     }
   ],
   "picking_mensual": [
@@ -117,7 +117,7 @@
     },
     {
       "label": "AGO",
-      "valor": 198.0
+      "valor": 207.0
     }
   ],
   "promedio_ruta": [
@@ -131,7 +131,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 252.0
+      "valor": 253.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -147,7 +147,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 72.0
+      "valor": 73.0
     },
     {
       "label": "AGUNSA",
@@ -189,7 +189,7 @@
     },
     {
       "label": "AGO",
-      "valor": 44.0
+      "valor": 46.0
     }
   ],
   "fillrate_mensual": [
@@ -234,8 +234,8 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1408",
-      "porcentaje": "22.4 %"
+      "total": "1413",
+      "porcentaje": "22.5 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -257,8 +257,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "70",
-      "unidades": "11485",
+      "tareas": "75",
+      "unidades": "11548",
       "ordenes": "12"
     },
     {
@@ -278,9 +278,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
-      "tareas": "24",
-      "unidades": "1425",
-      "ordenes": "3"
+      "tareas": "28",
+      "unidades": "1925",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

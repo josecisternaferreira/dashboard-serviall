@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/08/2026 14:45",
+  "timestamp": "04/08/2026 15:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "129",
+      "valor": "138",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.0 %",
+      "valor": "98.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "152",
+      "valor": "169",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "04-08",
-      "valor": 129.0
+      "valor": 138.0
     }
   ],
   "cumplimiento": [
@@ -83,7 +83,7 @@
     },
     {
       "label": "AGO",
-      "valor": 98.0
+      "valor": 98.1
     }
   ],
   "picking_mensual": [
@@ -117,7 +117,7 @@
     },
     {
       "label": "AGO",
-      "valor": 282.0
+      "valor": 291.0
     }
   ],
   "promedio_ruta": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 73.0
+      "valor": 74.0
     },
     {
       "label": "AGUNSA",
@@ -189,7 +189,7 @@
     },
     {
       "label": "AGO",
-      "valor": 49.0
+      "valor": 53.0
     }
   ],
   "fillrate_mensual": [
@@ -229,13 +229,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1824",
-      "porcentaje": "28.7 %"
+      "total": "1833",
+      "porcentaje": "28.8 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1423",
-      "porcentaje": "22.4 %"
+      "porcentaje": "22.3 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -263,6 +263,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "51",
+      "unidades": "5048",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
       "tareas": "49",
       "unidades": "2444",
@@ -274,13 +281,6 @@
       "tareas": "44",
       "unidades": "7256",
       "ordenes": "10"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "42",
-      "unidades": "5016",
-      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -357,9 +357,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "237",
-      "disponibles": "172",
-      "porcentaje": "57.9 %"
+      "ocupadas": "236",
+      "disponibles": "173",
+      "porcentaje": "57.7 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "04/08/2026 15:15",
+  "timestamp": "04/08/2026 15:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "138",
+      "valor": "148",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "169",
+      "valor": "172",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "04-08",
-      "valor": 138.0
+      "valor": 148.0
     }
   ],
   "cumplimiento": [
@@ -117,13 +117,13 @@
     },
     {
       "label": "AGO",
-      "valor": 291.0
+      "valor": 301.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 914.0
+      "valor": 915.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -229,8 +229,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1833",
-      "porcentaje": "28.8 %"
+      "total": "1842",
+      "porcentaje": "28.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -240,7 +240,7 @@
     {
       "operador": "YEIMY RINCON",
       "total": "654",
-      "porcentaje": "10.3 %"
+      "porcentaje": "10.2 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -264,8 +264,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "51",
-      "unidades": "5048",
+      "tareas": "60",
+      "unidades": "9296",
       "ordenes": "5"
     },
     {
@@ -295,6 +295,13 @@
       "tareas": "23",
       "unidades": "1369",
       "ordenes": "19"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "1",
+      "unidades": "70",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -357,9 +364,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "236",
-      "disponibles": "173",
-      "porcentaje": "57.7 %"
+      "ocupadas": "240",
+      "disponibles": "169",
+      "porcentaje": "58.7 %"
     }
   ]
 }

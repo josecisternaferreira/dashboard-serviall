@@ -1,19 +1,19 @@
 {
-  "timestamp": "04/08/2026 14:30",
+  "timestamp": "04/08/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "23",
+      "valor": "27",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "60",
+      "valor": "64",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.6 %",
+      "valor": "90.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "44",
+      "valor": "45",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "38",
+      "valor": "48",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "72",
+      "valor": "74",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "04-08",
-      "valor": 60.0
+      "valor": 64.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "AGO",
-      "valor": 90.6
+      "valor": 90.8
     }
   ],
   "picking_mensual": [
@@ -121,7 +121,7 @@
     },
     {
       "label": "AGO",
-      "valor": 165.0
+      "valor": 169.0
     }
   ],
   "promedio_ruta": [
@@ -205,7 +205,7 @@
     },
     {
       "label": "AGO",
-      "valor": 139.0
+      "valor": 141.0
     }
   ],
   "fillrate_mensual": [
@@ -256,12 +256,12 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1471",
-      "porcentaje": "16.0 %"
+      "porcentaje": "15.9 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1035",
-      "porcentaje": "11.2 %"
+      "total": "1039",
+      "porcentaje": "11.3 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -273,8 +273,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "95",
-      "unidades": "14647",
+      "tareas": "99",
+      "unidades": "14718",
       "ordenes": "47"
     },
     {
@@ -370,9 +370,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "452",
-      "disponibles": "241",
-      "porcentaje": "65.2 %"
+      "ocupadas": "453",
+      "disponibles": "240",
+      "porcentaje": "65.4 %"
     }
   ]
 }

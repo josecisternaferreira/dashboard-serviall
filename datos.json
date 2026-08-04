@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/08/2026 17:30",
+  "timestamp": "04/08/2026 18:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "114",
+      "valor": "116",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.5 %",
+      "valor": "91.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "150",
+      "valor": "158",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "04-08",
-      "valor": 114.0
+      "valor": 116.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "AGO",
-      "valor": 91.5
+      "valor": 91.8
     }
   ],
   "picking_mensual": [
@@ -121,7 +121,7 @@
     },
     {
       "label": "AGO",
-      "valor": 219.0
+      "valor": 221.0
     }
   ],
   "promedio_ruta": [
@@ -205,7 +205,7 @@
     },
     {
       "label": "AGO",
-      "valor": 153.0
+      "valor": 158.0
     }
   ],
   "fillrate_mensual": [
@@ -260,7 +260,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1082",
+      "total": "1084",
       "porcentaje": "11.7 %"
     },
     {
@@ -273,9 +273,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "142",
-      "unidades": "20248",
-      "ordenes": "50"
+      "tareas": "144",
+      "unidades": "20458",
+      "ordenes": "51"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -325,9 +325,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1038",
-      "disponibles": "422",
-      "porcentaje": "71.1 %"
+      "ocupadas": "1022",
+      "disponibles": "438",
+      "porcentaje": "70.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

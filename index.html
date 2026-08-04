@@ -155,9 +155,14 @@ main{
 .etapa-pie{margin-top:auto;padding-top:7px;display:flex;flex-direction:column;gap:5px;}
 .etapa-bar{height:4px;background:var(--line);border-radius:2px;overflow:hidden;}
 .etapa-bar>i{display:block;height:100%;background:var(--info);border-radius:2px;}
-.etapa-st{display:inline-flex;align-items:center;gap:4px;font-size:8.5px;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:var(--ok);}
-.etapa-st i{width:6px;height:6px;border-radius:50%;background:currentColor;flex-shrink:0;}
-.etapa.sindato .etapa-st{color:var(--ink-3);}
+/* Chip de periodo: mismo lugar y misma forma en las 5 etapas */
+.etapa-periodo{
+  display:inline-block;align-self:flex-start;
+  font-size:8.5px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.6px;color:var(--ink-2);background:var(--line-2);
+  padding:2px 7px;border-radius:3px;white-space:nowrap;
+}
+.etapa-periodo.vacio{color:var(--ink-3);background:transparent;border:1px dashed #d5d9dd;}
 .flecha{display:flex;align-items:center;justify-content:center;width:26px;flex-shrink:0;color:#c9ced3;}
 .flecha svg{width:16px;height:16px;}
 .flujo-pie{
@@ -605,28 +610,30 @@ function rAlertas(d){
    la ficha de Packing en Invas, el texto se corrige solo sin tocar el HTML */
 function notaFlujo(etapas){
   const faltan = etapas.filter(function(e){return e.v==null;}).map(function(e){return e.n;});
-  let n = '';
-  if(faltan.length===1) n = faltan[0]+' no se captura desde Invas · ';
-  else if(faltan.length>1) n = faltan.slice(0,-1).join(', ')+' y '+faltan[faltan.length-1]+' no se capturan desde Invas · ';
-  return n + 'Despacho acumula el mes en curso';
+  if(!faltan.length) return '';   /* el periodo ya lo indica cada tarjeta */
+  if(faltan.length===1) return faltan[0]+' no se captura desde Invas';
+  return faltan.slice(0,-1).join(', ')+' y '+faltan[faltan.length-1]+' no se capturan desde Invas';
 }
 
 function rFlujo(d){
-  const asn     = kpiDe(d,'TOTAL_ASN_HOY');
+  /* Recepcion, Almacenamiento y Packing comparten unidad (lineas) y periodo (hoy),
+     asi que la cadena se lee de corrido. El conteo de ASN vive en la fila de KPIs. */
+  const recep   = kpiDe(d,'LINEAS_RECEPCIONADAS_HOY');
   const almacen = kpiDe(d,'LINEAS_ALMACENADAS');
   const tareas  = kpiDe(d,'TOTAL_TAREAS_TERMINADAS_HOY');
+  const packing = kpiDe(d,'LINEAS_EMBALADAS_HOY');
   const desp    = ult(d.despachos_mes);
 
   /* El periodo se rotula en cada etapa: Recepcion y Picking son del dia, Despacho
      acumula el mes en curso. No existe un denominador comun entre ellas, por eso
      NO se dibuja una barra de avance: sugeriria una proporcion que no es real. */
   const etapas = [
-    {n:'Recepción',      ico:'recepcion', v:asn,     s:'ASN · hoy'},
-    {n:'Almacenamiento', ico:'almacen',   v:almacen, s:'Líneas almacenadas · hoy'},
-    {n:'Picking',        ico:'picking',   v:tareas,  s:'Tareas terminadas · hoy'},
-    {n:'Packing',        ico:'packing',   v:null,    s:'No capturado desde Invas'},
+    {n:'Recepción',      ico:'recepcion', v:recep,   s:'Líneas recepcionadas', p:'Hoy'},
+    {n:'Almacenamiento', ico:'almacen',   v:almacen, s:'Líneas almacenadas',   p:'Hoy'},
+    {n:'Picking',        ico:'picking',   v:tareas,  s:'Tareas terminadas',    p:'Hoy'},
+    {n:'Packing',        ico:'packing',   v:packing, s:'Líneas embaladas',     p:'Hoy'},
     {n:'Despacho',       ico:'despacho',  v:desp?desp.valor:null,
-     s:'LP despachadas · '+(desp?fmtMes(desp.label)+' a la fecha':'—')}
+     s:'Listas de picking despachadas', p:(desp?fmtMes(desp.label)+' a la fecha':'—')}
   ];
 
   document.getElementById('flujo').innerHTML = etapas.map(function(e,i){
@@ -639,8 +646,11 @@ function rFlujo(d){
       +     '<div class="etapa-v">'+(sd ? 'Sin dato' : nf.format(e.v))+'</div>'
       +     '<div class="etapa-s">'+esc(e.s)+'</div>'
       +   '</div>'
+      /* El pie muestra el PERIODO del dato, no un "en linea" que siempre decia lo
+         mismo. Asi se ve de un vistazo que Despacho acumula el mes y el resto es
+         del dia, que es justo lo que hace confusa la lectura de la cadena. */
       +   '<div class="etapa-pie">'
-      +     '<span class="etapa-st"><i></i>'+(sd?'Sin dato':'En línea')+'</span>'
+      +     '<span class="etapa-periodo'+(sd?' vacio':'')+'">'+esc(sd?'Sin dato':e.p)+'</span>'
       +   '</div>'
       + '</div>';
     const flecha = (i<etapas.length-1) ? '<div class="flecha">'+SVG.flecha+'</div>' : '';

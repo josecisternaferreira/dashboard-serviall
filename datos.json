@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/08/2026 14:30",
+  "timestamp": "05/08/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "208",
+      "valor": "214",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.6 %",
+      "valor": "92.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "324",
+      "valor": "333",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "05-08",
-      "valor": 208.0
+      "valor": 214.0
     }
   ],
   "cumplimiento": [
@@ -91,7 +91,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.6
+      "valor": 92.1
     }
   ],
   "picking_mensual": [
@@ -125,13 +125,13 @@
     },
     {
       "label": "AGO",
-      "valor": 429.0
+      "valor": 435.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1424.0
+      "valor": 1425.0
     },
     {
       "label": "AGUNSA",
@@ -209,7 +209,7 @@
     },
     {
       "label": "AGO",
-      "valor": 189.0
+      "valor": 190.0
     }
   ],
   "fillrate_mensual": [
@@ -264,12 +264,12 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1176",
+      "total": "1179",
       "porcentaje": "13.2 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "950",
+      "total": "953",
       "porcentaje": "10.7 %"
     }
   ],
@@ -277,9 +277,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "236",
-      "unidades": "22254",
-      "ordenes": "64"
+      "tareas": "239",
+      "unidades": "22260",
+      "ordenes": "65"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -298,8 +298,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "42",
-      "unidades": "21165",
+      "tareas": "45",
+      "unidades": "21209",
       "ordenes": "3"
     },
     {
@@ -343,9 +343,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1002",
-      "disponibles": "458",
-      "porcentaje": "68.6 %"
+      "ocupadas": "1003",
+      "disponibles": "457",
+      "porcentaje": "68.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",

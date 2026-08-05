@@ -1,14 +1,14 @@
 {
-  "timestamp": "05/08/2026 12:00",
+  "timestamp": "05/08/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "69",
+      "valor": "108",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "9",
+      "valor": "11",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "5",
+      "valor": "21",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "120",
+      "valor": "184",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "05-08",
-      "valor": 69.0
+      "valor": 108.0
     }
   ],
   "cumplimiento": [
@@ -125,21 +125,21 @@
     },
     {
       "label": "AGO",
-      "valor": 290.0
+      "valor": 329.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1416.0
+      "valor": 1418.0
     },
     {
       "label": "AGUNSA",
-      "valor": 368.0
+      "valor": 369.0
     },
     {
       "label": "SITRANS",
-      "valor": 356.0
+      "valor": 357.0
     },
     {
       "label": "ESTAFETA",
@@ -250,26 +250,26 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2194",
-      "porcentaje": "25.0 %"
+      "porcentaje": "24.9 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1795",
+      "total": "1804",
       "porcentaje": "20.5 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1325",
-      "porcentaje": "15.1 %"
+      "porcentaje": "15.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1136",
-      "porcentaje": "12.9 %"
+      "total": "1150",
+      "porcentaje": "13.0 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "922",
+      "total": "928",
       "porcentaje": "10.5 %"
     }
   ],
@@ -277,9 +277,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "196",
-      "unidades": "20885",
+      "tareas": "210",
+      "unidades": "21161",
       "ordenes": "54"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "43",
+      "unidades": "4026",
+      "ordenes": "25"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -290,24 +297,17 @@
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "34",
-      "unidades": "2257",
-      "ordenes": "19"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "14",
-      "unidades": "7040",
+      "tareas": "20",
+      "unidades": "10770",
       "ordenes": "2"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "3",
-      "unidades": "12",
-      "ordenes": "3"
+      "tareas": "13",
+      "unidades": "47",
+      "ordenes": "9"
     }
   ],
   "ocupacion": [

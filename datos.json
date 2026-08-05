@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/08/2026 11:30",
+  "timestamp": "05/08/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "58",
+      "valor": "69",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "98",
+      "valor": "120",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "05-08",
-      "valor": 58.0
+      "valor": 69.0
     }
   ],
   "cumplimiento": [
@@ -125,13 +125,13 @@
     },
     {
       "label": "AGO",
-      "valor": 279.0
+      "valor": 290.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1415.0
+      "valor": 1416.0
     },
     {
       "label": "AGUNSA",
@@ -264,12 +264,12 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1132",
+      "total": "1136",
       "porcentaje": "12.9 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "918",
+      "total": "922",
       "porcentaje": "10.5 %"
     }
   ],
@@ -277,8 +277,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "192",
-      "unidades": "20865",
+      "tareas": "196",
+      "unidades": "20885",
       "ordenes": "54"
     },
     {
@@ -298,9 +298,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "10",
-      "unidades": "1087",
-      "ordenes": "1"
+      "tareas": "14",
+      "unidades": "7040",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "3",
+      "unidades": "12",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [
@@ -381,9 +388,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "436",
-      "disponibles": "257",
-      "porcentaje": "62.9 %"
+      "ocupadas": "437",
+      "disponibles": "256",
+      "porcentaje": "63.1 %"
     }
   ]
 }

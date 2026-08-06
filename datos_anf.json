@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/08/2026 09:15",
+  "timestamp": "06/08/2026 09:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.3 %",
+      "valor": "95.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -54,6 +54,10 @@
     {
       "label": "05-08",
       "valor": 91.0
+    },
+    {
+      "label": "06-08",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +91,7 @@
     },
     {
       "label": "AGO",
-      "valor": 95.3
+      "valor": 95.4
     }
   ],
   "picking_mensual": [
@@ -121,7 +125,7 @@
     },
     {
       "label": "AGO",
-      "valor": 394.0
+      "valor": 397.0
     }
   ],
   "promedio_ruta": [
@@ -139,7 +143,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 165.0
+      "valor": 166.0
     },
     {
       "label": "SITRANS",
@@ -193,7 +197,7 @@
     },
     {
       "label": "AGO",
-      "valor": 107.0
+      "valor": 108.0
     }
   ],
   "fillrate_mensual": [
@@ -233,8 +237,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1887",
-      "porcentaje": "30.9 %"
+      "total": "1890",
+      "porcentaje": "31.0 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -261,9 +265,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "105",
-      "unidades": "16094",
-      "ordenes": "24"
+      "tareas": "108",
+      "unidades": "16155",
+      "ordenes": "25"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -375,9 +379,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "238",
-      "disponibles": "171",
-      "porcentaje": "58.2 %"
+      "ocupadas": "240",
+      "disponibles": "169",
+      "porcentaje": "58.7 %"
     }
   ]
 }

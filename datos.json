@@ -1,19 +1,19 @@
 {
-  "timestamp": "06/08/2026 11:00",
+  "timestamp": "06/08/2026 11:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "65",
+      "valor": "88",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.7 %",
+      "valor": "90.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "5",
+      "valor": "6",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "4",
+      "valor": "5",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "94",
+      "valor": "126",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "06-08",
-      "valor": 65.0
+      "valor": 88.0
     }
   ],
   "cumplimiento": [
@@ -95,7 +95,7 @@
     },
     {
       "label": "AGO",
-      "valor": 90.7
+      "valor": 90.4
     }
   ],
   "picking_mensual": [
@@ -129,13 +129,13 @@
     },
     {
       "label": "AGO",
-      "valor": 577.0
+      "valor": 600.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1440.0
+      "valor": 1443.0
     },
     {
       "label": "AGUNSA",
@@ -143,7 +143,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 359.0
+      "valor": 360.0
     },
     {
       "label": "ESTAFETA",
@@ -213,7 +213,7 @@
     },
     {
       "label": "AGO",
-      "valor": 226.0
+      "valor": 228.0
     }
   ],
   "fillrate_mensual": [
@@ -254,12 +254,12 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "2194",
-      "porcentaje": "24.2 %"
+      "porcentaje": "24.1 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1847",
-      "porcentaje": "20.4 %"
+      "total": "1859",
+      "porcentaje": "20.5 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -268,36 +268,36 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1223",
+      "total": "1229",
       "porcentaje": "13.5 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1035",
-      "porcentaje": "11.4 %"
+      "total": "1041",
+      "porcentaje": "11.5 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "283",
-      "unidades": "29579",
-      "ordenes": "72"
+      "tareas": "289",
+      "unidades": "31128",
+      "ordenes": "74"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "127",
-      "unidades": "25593",
+      "tareas": "133",
+      "unidades": "25890",
       "ordenes": "3"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "86",
-      "unidades": "5019",
-      "ordenes": "55"
+      "tareas": "98",
+      "unidades": "5899",
+      "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -338,9 +338,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "37",
-      "ocupadas": "11",
-      "disponibles": "26",
-      "porcentaje": "29.7 %"
+      "ocupadas": "14",
+      "disponibles": "23",
+      "porcentaje": "37.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -356,9 +356,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "31",
-      "disponibles": "10",
-      "porcentaje": "75.6 %"
+      "ocupadas": "32",
+      "disponibles": "9",
+      "porcentaje": "78.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -392,9 +392,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "439",
-      "disponibles": "254",
-      "porcentaje": "63.3 %"
+      "ocupadas": "440",
+      "disponibles": "253",
+      "porcentaje": "63.5 %"
     }
   ]
 }

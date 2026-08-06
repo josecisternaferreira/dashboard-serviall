@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/08/2026 14:30",
+  "timestamp": "06/08/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "209",
+      "valor": "215",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "286",
+      "valor": "290",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "06-08",
-      "valor": 209.0
+      "valor": 215.0
     }
   ],
   "cumplimiento": [
@@ -129,13 +129,13 @@
     },
     {
       "label": "AGO",
-      "valor": 721.0
+      "valor": 727.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1456.0
+      "valor": 1457.0
     },
     {
       "label": "AGUNSA",
@@ -268,12 +268,12 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1262",
+      "total": "1267",
       "porcentaje": "13.7 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1068",
+      "total": "1069",
       "porcentaje": "11.6 %"
     }
   ],
@@ -281,15 +281,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "322",
-      "unidades": "32600",
-      "ordenes": "89"
+      "tareas": "327",
+      "unidades": "32705",
+      "ordenes": "90"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "160",
-      "unidades": "45494",
+      "tareas": "161",
+      "unidades": "45534",
       "ordenes": "3"
     },
     {
@@ -316,9 +316,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "4",
-      "unidades": "1666",
-      "ordenes": "3"
+      "tareas": "5",
+      "unidades": "1706",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/08/2026 13:15",
+  "timestamp": "06/08/2026 13:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "55",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "label": "06-08",
-      "valor": 54.0
+      "valor": 55.0
     }
   ],
   "cumplimiento": [
@@ -125,7 +125,7 @@
     },
     {
       "label": "AGO",
-      "valor": 448.0
+      "valor": 449.0
     }
   ],
   "promedio_ruta": [
@@ -238,7 +238,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1930",
-      "porcentaje": "31.4 %"
+      "porcentaje": "31.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -247,7 +247,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "632",
+      "total": "633",
       "porcentaje": "10.3 %"
     },
     {
@@ -285,17 +285,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "50",
+      "unidades": "7396",
+      "ordenes": "16"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
       "tareas": "49",
       "unidades": "2444",
       "ordenes": "11"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "49",
-      "unidades": "7392",
-      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -343,9 +343,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1084",
-      "disponibles": "254",
-      "porcentaje": "81.0 %"
+      "ocupadas": "1083",
+      "disponibles": "255",
+      "porcentaje": "80.9 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

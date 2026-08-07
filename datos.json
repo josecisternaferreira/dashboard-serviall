@@ -1,19 +1,19 @@
 {
-  "timestamp": "07/08/2026 13:00",
+  "timestamp": "07/08/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "7",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "96",
+      "valor": "103",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.2 %",
+      "valor": "91.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "28",
+      "valor": "32",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "74",
+      "valor": "80",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -65,7 +65,7 @@
     },
     {
       "label": "07-08",
-      "valor": 96.0
+      "valor": 103.0
     }
   ],
   "cumplimiento": [
@@ -99,7 +99,7 @@
     },
     {
       "label": "AGO",
-      "valor": 91.2
+      "valor": 91.3
     }
   ],
   "picking_mensual": [
@@ -133,7 +133,7 @@
     },
     {
       "label": "AGO",
-      "valor": 925.0
+      "valor": 932.0
     }
   ],
   "promedio_ruta": [
@@ -151,7 +151,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 257.0
+      "valor": 258.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -217,7 +217,7 @@
     },
     {
       "label": "AGO",
-      "valor": 274.0
+      "valor": 277.0
     }
   ],
   "fillrate_mensual": [
@@ -262,7 +262,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1956",
+      "total": "1958",
       "porcentaje": "20.8 %"
     },
     {
@@ -272,7 +272,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1318",
+      "total": "1321",
       "porcentaje": "14.0 %"
     },
     {
@@ -285,9 +285,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "378",
-      "unidades": "38461",
-      "ordenes": "101"
+      "tareas": "381",
+      "unidades": "42129",
+      "ordenes": "102"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -299,9 +299,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "195",
-      "unidades": "13013",
-      "ordenes": "74"
+      "tareas": "197",
+      "unidades": "13016",
+      "ordenes": "75"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -313,9 +313,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "51",
-      "unidades": "8850",
-      "ordenes": "49"
+      "tareas": "53",
+      "unidades": "9850",
+      "ordenes": "50"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -410,9 +410,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "486",
-      "disponibles": "207",
-      "porcentaje": "70.1 %"
+      "ocupadas": "488",
+      "disponibles": "205",
+      "porcentaje": "70.4 %"
     }
   ]
 }

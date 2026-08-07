@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/08/2026 09:15",
+  "timestamp": "07/08/2026 09:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.9 %",
+      "valor": "95.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -58,6 +58,10 @@
     {
       "label": "06-08",
       "valor": 61.0
+    },
+    {
+      "label": "07-08",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -91,7 +95,7 @@
     },
     {
       "label": "AGO",
-      "valor": 94.9
+      "valor": 95.0
     }
   ],
   "picking_mensual": [
@@ -125,7 +129,7 @@
     },
     {
       "label": "AGO",
-      "valor": 455.0
+      "valor": 459.0
     }
   ],
   "promedio_ruta": [
@@ -197,7 +201,7 @@
     },
     {
       "label": "AGO",
-      "valor": 137.0
+      "valor": 139.0
     }
   ],
   "fillrate_mensual": [
@@ -279,9 +283,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "54",
-      "unidades": "2990",
-      "ordenes": "27"
+      "tareas": "58",
+      "unidades": "3143",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -343,9 +347,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1095",
-      "disponibles": "243",
-      "porcentaje": "81.8 %"
+      "ocupadas": "1097",
+      "disponibles": "241",
+      "porcentaje": "82.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

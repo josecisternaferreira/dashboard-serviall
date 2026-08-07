@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/08/2026 11:30",
+  "timestamp": "07/08/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "70",
+      "valor": "73",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.7 %",
+      "valor": "90.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "56",
+      "valor": "60",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -65,7 +65,7 @@
     },
     {
       "label": "07-08",
-      "valor": 70.0
+      "valor": 73.0
     }
   ],
   "cumplimiento": [
@@ -99,7 +99,7 @@
     },
     {
       "label": "AGO",
-      "valor": 90.7
+      "valor": 90.8
     }
   ],
   "picking_mensual": [
@@ -133,7 +133,7 @@
     },
     {
       "label": "AGO",
-      "valor": 899.0
+      "valor": 902.0
     }
   ],
   "promedio_ruta": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "AGO",
-      "valor": 259.0
+      "valor": 260.0
     }
   ],
   "fillrate_mensual": [
@@ -272,8 +272,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1309",
-      "porcentaje": "13.9 %"
+      "total": "1311",
+      "porcentaje": "14.0 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -285,8 +285,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "369",
-      "unidades": "36978",
+      "tareas": "371",
+      "unidades": "37518",
       "ordenes": "100"
     },
     {
@@ -313,9 +313,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "43",
-      "unidades": "5012",
-      "ordenes": "41"
+      "tareas": "44",
+      "unidades": "5013",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",

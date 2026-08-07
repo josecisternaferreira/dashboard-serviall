@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/08/2026 12:45",
+  "timestamp": "07/08/2026 13:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "32",
+      "valor": "42",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "24",
+      "valor": "38",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-08",
-      "valor": 32.0
+      "valor": 42.0
     }
   ],
   "cumplimiento": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "AGO",
-      "valor": 487.0
+      "valor": 497.0
     }
   ],
   "promedio_ruta": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 173.0
+      "valor": 174.0
     },
     {
       "label": "SITRANS",
@@ -241,8 +241,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1934",
-      "porcentaje": "31.2 %"
+      "total": "1944",
+      "porcentaje": "31.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -269,9 +269,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "152",
-      "unidades": "17458",
-      "ordenes": "28"
+      "tareas": "162",
+      "unidades": "17485",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -347,8 +347,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1095",
-      "disponibles": "243",
+      "ocupadas": "1094",
+      "disponibles": "244",
       "porcentaje": "81.8 %"
     },
     {
@@ -356,9 +356,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "26",
-      "ocupadas": "26",
-      "disponibles": "0",
-      "porcentaje": "100.0 %"
+      "ocupadas": "25",
+      "disponibles": "1",
+      "porcentaje": "96.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

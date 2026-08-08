@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/08/2026 11:30",
+  "timestamp": "08/08/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "38",
+      "valor": "47",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "32",
+      "valor": "42",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "33",
+      "valor": "34",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "44",
+      "valor": "56",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "08-08",
-      "valor": 38.0
+      "valor": 47.0
     }
   ],
   "cumplimiento": [
@@ -137,13 +137,13 @@
     },
     {
       "label": "AGO",
-      "valor": 995.0
+      "valor": 1004.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1478.0
+      "valor": 1479.0
     },
     {
       "label": "AGUNSA",
@@ -221,7 +221,7 @@
     },
     {
       "label": "AGO",
-      "valor": 319.0
+      "valor": 321.0
     }
   ],
   "fillrate_mensual": [
@@ -266,13 +266,13 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1980",
+      "total": "1982",
       "porcentaje": "20.9 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1358",
-      "porcentaje": "14.3 %"
+      "total": "1365",
+      "porcentaje": "14.4 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -282,23 +282,23 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1115",
-      "porcentaje": "11.8 %"
+      "porcentaje": "11.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "418",
-      "unidades": "47432",
-      "ordenes": "114"
+      "tareas": "425",
+      "unidades": "47569",
+      "ordenes": "120"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "219",
-      "unidades": "14539",
-      "ordenes": "82"
+      "tareas": "221",
+      "unidades": "14825",
+      "ordenes": "83"
     },
     {
       "region": "BODEGA SANTIAGO",

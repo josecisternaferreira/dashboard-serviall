@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/08/2026 12:00",
+  "timestamp": "08/08/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,17 +8,17 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "47",
+      "valor": "52",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.3 %",
+      "valor": "90.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "98.9 %",
+      "valor": "99.0 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "56",
+      "valor": "66",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "08-08",
-      "valor": 47.0
+      "valor": 52.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +103,7 @@
     },
     {
       "label": "AGO",
-      "valor": 90.3
+      "valor": 90.5
     }
   ],
   "picking_mensual": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1004.0
+      "valor": 1009.0
     }
   ],
   "promedio_ruta": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "AGO",
-      "valor": 321.0
+      "valor": 327.0
     }
   ],
   "fillrate_mensual": [
@@ -255,7 +255,7 @@
     },
     {
       "label": "AGO",
-      "valor": 98.9
+      "valor": 99.0
     }
   ],
   "top5_operadores": [
@@ -266,12 +266,12 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1982",
+      "total": "1985",
       "porcentaje": "20.9 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1365",
+      "total": "1367",
       "porcentaje": "14.4 %"
     },
     {
@@ -289,16 +289,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "425",
-      "unidades": "47569",
-      "ordenes": "120"
+      "tareas": "427",
+      "unidades": "47601",
+      "ordenes": "122"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "221",
-      "unidades": "14825",
-      "ordenes": "83"
+      "tareas": "224",
+      "unidades": "20726",
+      "ordenes": "86"
     },
     {
       "region": "BODEGA SANTIAGO",

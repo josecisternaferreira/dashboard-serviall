@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/08/2026 10:00",
+  "timestamp": "08/08/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "22",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.1 %",
+      "valor": "90.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "7",
+      "valor": "17",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "29",
+      "valor": "31",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "28",
+      "valor": "32",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "08-08",
-      "valor": 22.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +103,7 @@
     },
     {
       "label": "AGO",
-      "valor": 90.1
+      "valor": 90.2
     }
   ],
   "picking_mensual": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "AGO",
-      "valor": 979.0
+      "valor": 982.0
     }
   ],
   "promedio_ruta": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "AGO",
-      "valor": 303.0
+      "valor": 306.0
     }
   ],
   "fillrate_mensual": [
@@ -271,7 +271,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1345",
+      "total": "1348",
       "porcentaje": "14.2 %"
     },
     {
@@ -289,8 +289,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "405",
-      "unidades": "47349",
+      "tareas": "408",
+      "unidades": "47363",
       "ordenes": "109"
     },
     {
@@ -369,8 +369,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1007",
-      "disponibles": "453",
+      "ocupadas": "1008",
+      "disponibles": "452",
       "porcentaje": "69.0 %"
     },
     {
@@ -414,9 +414,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "498",
-      "disponibles": "195",
-      "porcentaje": "71.9 %"
+      "ocupadas": "500",
+      "disponibles": "193",
+      "porcentaje": "72.2 %"
     }
   ]
 }

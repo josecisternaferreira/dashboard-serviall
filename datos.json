@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/08/2026 11:00",
+  "timestamp": "10/08/2026 11:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "1",
+      "valor": "3",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -225,7 +225,7 @@
     },
     {
       "label": "AGO",
-      "valor": 354.0
+      "valor": 356.0
     }
   ],
   "fillrate_mensual": [
@@ -322,18 +322,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "37",
-      "ocupadas": "17",
-      "disponibles": "20",
-      "porcentaje": "45.9 %"
+      "ocupadas": "16",
+      "disponibles": "21",
+      "porcentaje": "43.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "1008",
-      "disponibles": "452",
-      "porcentaje": "69.0 %"
+      "ocupadas": "1009",
+      "disponibles": "451",
+      "porcentaje": "69.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -376,9 +376,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "496",
-      "disponibles": "197",
-      "porcentaje": "71.6 %"
+      "ocupadas": "487",
+      "disponibles": "206",
+      "porcentaje": "70.3 %"
     }
   ]
 }

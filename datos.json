@@ -1,9 +1,9 @@
 {
-  "timestamp": "10/08/2026 17:00",
+  "timestamp": "10/08/2026 17:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "25",
+      "valor": "32",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.3 %",
+      "valor": "91.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "68.7 %",
+      "valor": "69.0 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "27",
+      "valor": "34",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "38",
+      "valor": "45",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "label": "AGO",
-      "valor": 91.3
+      "valor": 91.4
     }
   ],
   "picking_mensual": [
@@ -225,7 +225,7 @@
     },
     {
       "label": "AGO",
-      "valor": 392.0
+      "valor": 395.0
     }
   ],
   "fillrate_mensual": [
@@ -259,7 +259,7 @@
     },
     {
       "label": "AGO",
-      "valor": 68.7
+      "valor": 69.0
     }
   ],
   "top5_operadores": [
@@ -338,9 +338,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "914",
-      "disponibles": "546",
-      "porcentaje": "62.6 %"
+      "ocupadas": "916",
+      "disponibles": "544",
+      "porcentaje": "62.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -374,18 +374,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "151",
-      "disponibles": "88",
-      "porcentaje": "63.2 %"
+      "ocupadas": "152",
+      "disponibles": "87",
+      "porcentaje": "63.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "495",
-      "disponibles": "198",
-      "porcentaje": "71.4 %"
+      "ocupadas": "491",
+      "disponibles": "202",
+      "porcentaje": "70.9 %"
     }
   ]
 }

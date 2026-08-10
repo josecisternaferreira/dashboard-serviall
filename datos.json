@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/08/2026 13:00",
+  "timestamp": "10/08/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "11",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.8 %",
+      "valor": "91.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "12",
+      "valor": "14",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-08",
-      "valor": 10.0
+      "valor": 11.0
     }
   ],
   "cumplimiento": [
@@ -107,7 +107,7 @@
     },
     {
       "label": "AGO",
-      "valor": 90.8
+      "valor": 91.0
     }
   ],
   "picking_mensual": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1020.0
+      "valor": 1021.0
     }
   ],
   "promedio_ruta": [
@@ -225,7 +225,7 @@
     },
     {
       "label": "AGO",
-      "valor": 358.0
+      "valor": 365.0
     }
   ],
   "fillrate_mensual": [
@@ -270,7 +270,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1995",
+      "total": "1996",
       "porcentaje": "21.8 %"
     },
     {
@@ -293,9 +293,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "10",
-      "unidades": "1690",
-      "ordenes": "6"
+      "tareas": "11",
+      "unidades": "1890",
+      "ordenes": "7"
     }
   ],
   "ocupacion": [
@@ -376,9 +376,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "484",
-      "disponibles": "209",
-      "porcentaje": "69.8 %"
+      "ocupadas": "482",
+      "disponibles": "211",
+      "porcentaje": "69.6 %"
     }
   ]
 }

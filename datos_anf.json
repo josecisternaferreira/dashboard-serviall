@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/08/2026 13:16",
+  "timestamp": "10/08/2026 13:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "132",
+      "valor": "144",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.6 %",
+      "valor": "95.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "162",
+      "valor": "172",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -65,7 +65,7 @@
     },
     {
       "label": "10-08",
-      "valor": 132.0
+      "valor": 144.0
     }
   ],
   "cumplimiento": [
@@ -99,7 +99,7 @@
     },
     {
       "label": "AGO",
-      "valor": 95.6
+      "valor": 95.0
     }
   ],
   "picking_mensual": [
@@ -133,13 +133,13 @@
     },
     {
       "label": "AGO",
-      "valor": 650.0
+      "valor": 662.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 929.0
+      "valor": 930.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -151,7 +151,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 176.0
+      "valor": 177.0
     },
     {
       "label": "SITRANS",
@@ -205,7 +205,7 @@
     },
     {
       "label": "AGO",
-      "valor": 180.0
+      "valor": 181.0
     }
   ],
   "fillrate_mensual": [
@@ -245,12 +245,12 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1992",
+      "total": "1997",
       "porcentaje": "32.0 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1332",
+      "total": "1336",
       "porcentaje": "21.4 %"
     },
     {
@@ -265,7 +265,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "412",
+      "total": "415",
       "porcentaje": "6.6 %"
     }
   ],
@@ -273,23 +273,23 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "48",
-      "unidades": "1292",
-      "ordenes": "7"
+      "tareas": "53",
+      "unidades": "1794",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "47",
-      "unidades": "2234",
-      "ordenes": "14"
+      "tareas": "51",
+      "unidades": "2262",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "33",
-      "unidades": "683",
-      "ordenes": "13"
+      "tareas": "36",
+      "unidades": "1008",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

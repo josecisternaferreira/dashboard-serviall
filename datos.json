@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/08/2026 09:30",
+  "timestamp": "10/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.9 %",
+      "valor": "90.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -70,6 +70,10 @@
     {
       "label": "08-08",
       "valor": 52.0
+    },
+    {
+      "label": "10-08",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +107,7 @@
     },
     {
       "label": "AGO",
-      "valor": 90.9
+      "valor": 90.6
     }
   ],
   "picking_mensual": [
@@ -137,13 +141,13 @@
     },
     {
       "label": "AGO",
-      "valor": 1010.0
+      "valor": 1014.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1479.0
+      "valor": 1480.0
     },
     {
       "label": "AGUNSA",
@@ -221,7 +225,7 @@
     },
     {
       "label": "AGO",
-      "valor": 350.0
+      "valor": 351.0
     }
   ],
   "fillrate_mensual": [
@@ -266,13 +270,13 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1985",
-      "porcentaje": "21.7 %"
+      "total": "1989",
+      "porcentaje": "21.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1367",
-      "porcentaje": "15.0 %"
+      "porcentaje": "14.9 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -287,11 +291,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "4",
+      "unidades": "12",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [

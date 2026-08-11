@@ -1,24 +1,24 @@
 {
-  "timestamp": "11/08/2026 09:30",
+  "timestamp": "11/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "16",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.6 %",
+      "valor": "91.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "71.4 %",
+      "valor": "71.5 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "6",
+      "valor": "12",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "2",
+      "valor": "7",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "24",
+      "valor": "27",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -77,7 +77,7 @@
     },
     {
       "label": "11-08",
-      "valor": 13.0
+      "valor": 16.0
     }
   ],
   "cumplimiento": [
@@ -111,7 +111,7 @@
     },
     {
       "label": "AGO",
-      "valor": 91.6
+      "valor": 91.7
     }
   ],
   "picking_mensual": [
@@ -145,7 +145,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1054.0
+      "valor": 1057.0
     }
   ],
   "promedio_ruta": [
@@ -229,7 +229,7 @@
     },
     {
       "label": "AGO",
-      "valor": 407.0
+      "valor": 410.0
     }
   ],
   "fillrate_mensual": [
@@ -263,13 +263,13 @@
     },
     {
       "label": "AGO",
-      "valor": 71.4
+      "valor": 71.5
     }
   ],
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2028",
+      "total": "2031",
       "porcentaje": "22.1 %"
     },
     {
@@ -297,8 +297,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "43",
-      "unidades": "6022",
+      "tareas": "46",
+      "unidades": "6074",
       "ordenes": "17"
     },
     {
@@ -342,9 +342,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "882",
-      "disponibles": "578",
-      "porcentaje": "60.4 %"
+      "ocupadas": "884",
+      "disponibles": "576",
+      "porcentaje": "60.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -378,18 +378,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "151",
-      "disponibles": "88",
-      "porcentaje": "63.2 %"
+      "ocupadas": "152",
+      "disponibles": "87",
+      "porcentaje": "63.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "476",
-      "disponibles": "217",
-      "porcentaje": "68.7 %"
+      "ocupadas": "477",
+      "disponibles": "216",
+      "porcentaje": "68.8 %"
     }
   ]
 }

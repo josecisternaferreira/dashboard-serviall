@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/08/2026 16:15",
+  "timestamp": "11/08/2026 16:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "78",
+      "valor": "86",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.5 %",
+      "valor": "95.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "114",
+      "valor": "130",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "11-08",
-      "valor": 78.0
+      "valor": 86.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +103,7 @@
     },
     {
       "label": "AGO",
-      "valor": 95.5
+      "valor": 95.6
     }
   ],
   "picking_mensual": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "AGO",
-      "valor": 778.0
+      "valor": 786.0
     }
   ],
   "promedio_ruta": [
@@ -163,7 +163,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 79.0
+      "valor": 80.0
     },
     {
       "label": "ESTAFETA",
@@ -209,7 +209,7 @@
     },
     {
       "label": "AGO",
-      "valor": 246.0
+      "valor": 248.0
     }
   ],
   "fillrate_mensual": [
@@ -269,24 +269,24 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "452",
-      "porcentaje": "7.1 %"
+      "total": "460",
+      "porcentaje": "7.2 %"
     }
   ],
   "semana_actual": [
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "81",
+      "unidades": "5318",
+      "ordenes": "48"
+    },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
       "tareas": "79",
       "unidades": "5847",
       "ordenes": "21"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "73",
-      "unidades": "2348",
-      "ordenes": "45"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/08/2026 15:46",
+  "timestamp": "11/08/2026 16:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "74",
+      "valor": "78",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "113",
+      "valor": "114",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "11-08",
-      "valor": 74.0
+      "valor": 78.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "AGO",
-      "valor": 774.0
+      "valor": 778.0
     }
   ],
   "promedio_ruta": [
@@ -163,7 +163,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 78.0
+      "valor": 79.0
     },
     {
       "label": "ESTAFETA",
@@ -209,7 +209,7 @@
     },
     {
       "label": "AGO",
-      "valor": 243.0
+      "valor": 246.0
     }
   ],
   "fillrate_mensual": [
@@ -255,7 +255,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1357",
-      "porcentaje": "21.4 %"
+      "porcentaje": "21.3 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -269,7 +269,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "448",
+      "total": "452",
       "porcentaje": "7.1 %"
     }
   ],
@@ -283,17 +283,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "73",
+      "unidades": "2348",
+      "ordenes": "45"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
       "tareas": "72",
       "unidades": "3656",
       "ordenes": "22"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "69",
-      "unidades": "1698",
-      "ordenes": "42"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/08/2026 08:45",
+  "timestamp": "11/08/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -205,7 +205,7 @@
     },
     {
       "label": "AGO",
-      "valor": 193.0
+      "valor": 194.0
     }
   ],
   "fillrate_mensual": [
@@ -260,7 +260,7 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "537",
+      "total": "538",
       "porcentaje": "8.6 %"
     },
     {
@@ -294,9 +294,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "9",
-      "unidades": "52",
-      "ordenes": "7"
+      "tareas": "10",
+      "unidades": "88",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -373,9 +373,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "241",
-      "disponibles": "168",
-      "porcentaje": "58.9 %"
+      "ocupadas": "240",
+      "disponibles": "169",
+      "porcentaje": "58.7 %"
     }
   ]
 }

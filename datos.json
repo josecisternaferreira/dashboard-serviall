@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/08/2026 08:30",
+  "timestamp": "11/08/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -74,6 +74,10 @@
     {
       "label": "10-08",
       "valor": 31.0
+    },
+    {
+      "label": "11-08",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +145,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1041.0
+      "valor": 1042.0
     }
   ],
   "promedio_ruta": [
@@ -171,7 +175,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 73.0
+      "valor": 74.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -225,7 +229,7 @@
     },
     {
       "label": "AGO",
-      "valor": 405.0
+      "valor": 407.0
     }
   ],
   "fillrate_mensual": [
@@ -265,7 +269,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2015",
+      "total": "2017",
       "porcentaje": "22.0 %"
     },
     {
@@ -293,9 +297,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "30",
-      "unidades": "2898",
-      "ordenes": "14"
+      "tareas": "32",
+      "unidades": "2901",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA SANTIAGO",

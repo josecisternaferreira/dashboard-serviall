@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/08/2026 09:00",
+  "timestamp": "12/08/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "10",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -78,6 +78,10 @@
     {
       "label": "11-08",
       "valor": 164.0
+    },
+    {
+      "label": "12-08",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -145,7 +149,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1205.0
+      "valor": 1208.0
     }
   ],
   "promedio_ruta": [
@@ -163,7 +167,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 261.0
+      "valor": 262.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -269,17 +273,17 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2032",
+      "total": "2033",
       "porcentaje": "22.8 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1993",
-      "porcentaje": "22.4 %"
+      "porcentaje": "22.3 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1298",
+      "total": "1300",
       "porcentaje": "14.6 %"
     },
     {
@@ -297,16 +301,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "117",
-      "unidades": "8498",
+      "tareas": "118",
+      "unidades": "8515",
       "ordenes": "61"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "70",
-      "unidades": "3688",
-      "ordenes": "23"
+      "tareas": "72",
+      "unidades": "3701",
+      "ordenes": "25"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -392,9 +396,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "152",
-      "disponibles": "87",
-      "porcentaje": "63.6 %"
+      "ocupadas": "153",
+      "disponibles": "86",
+      "porcentaje": "64.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

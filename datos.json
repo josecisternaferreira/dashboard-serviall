@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/08/2026 13:00",
+  "timestamp": "12/08/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,17 +8,17 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "84",
+      "valor": "102",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.3 %",
+      "valor": "92.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "72.7 %",
+      "valor": "72.9 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "124",
+      "valor": "150",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "12-08",
-      "valor": 84.0
+      "valor": 102.0
     }
   ],
   "cumplimiento": [
@@ -115,7 +115,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.3
+      "valor": 92.5
     }
   ],
   "picking_mensual": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1289.0
+      "valor": 1307.0
     }
   ],
   "promedio_ruta": [
@@ -163,7 +163,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 372.0
+      "valor": 373.0
     },
     {
       "label": "ESTAFETA",
@@ -233,7 +233,7 @@
     },
     {
       "label": "AGO",
-      "valor": 467.0
+      "valor": 479.0
     }
   ],
   "fillrate_mensual": [
@@ -267,13 +267,13 @@
     },
     {
       "label": "AGO",
-      "valor": 72.7
+      "valor": 72.9
     }
   ],
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2066",
+      "total": "2074",
       "porcentaje": "23.0 %"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1341",
-      "porcentaje": "14.9 %"
+      "total": "1349",
+      "porcentaje": "15.0 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -293,7 +293,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1095",
+      "total": "1096",
       "porcentaje": "12.2 %"
     }
   ],
@@ -301,16 +301,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "151",
-      "unidades": "8810",
-      "ordenes": "66"
+      "tareas": "159",
+      "unidades": "9235",
+      "ordenes": "72"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "113",
-      "unidades": "5736",
-      "ordenes": "50"
+      "tareas": "121",
+      "unidades": "6678",
+      "ordenes": "54"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -329,9 +329,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "3",
-      "unidades": "94",
-      "ordenes": "3"
+      "tareas": "4",
+      "unidades": "95",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/08/2026 16:00",
+  "timestamp": "12/08/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,17 +8,17 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "137",
+      "valor": "139",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.2 %",
+      "valor": "92.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "73.1 %",
+      "valor": "73.2 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "26",
+      "valor": "27",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "200",
+      "valor": "204",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "12-08",
-      "valor": 137.0
+      "valor": 139.0
     }
   ],
   "cumplimiento": [
@@ -115,7 +115,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.2
+      "valor": 92.3
     }
   ],
   "picking_mensual": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1342.0
+      "valor": 1344.0
     }
   ],
   "promedio_ruta": [
@@ -233,7 +233,7 @@
     },
     {
       "label": "AGO",
-      "valor": 489.0
+      "valor": 493.0
     }
   ],
   "fillrate_mensual": [
@@ -267,7 +267,7 @@
     },
     {
       "label": "AGO",
-      "valor": 73.1
+      "valor": 73.2
     }
   ],
   "top5_operadores": [
@@ -283,8 +283,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1361",
-      "porcentaje": "15.0 %"
+      "total": "1363",
+      "porcentaje": "15.1 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -308,9 +308,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "133",
-      "unidades": "6929",
-      "ordenes": "65"
+      "tareas": "135",
+      "unidades": "7020",
+      "ordenes": "67"
     },
     {
       "region": "BODEGA SANTIAGO",

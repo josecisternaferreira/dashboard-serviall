@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/08/2026 10:00",
+  "timestamp": "12/08/2026 10:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "29",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "16",
+      "valor": "44",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "12-08",
-      "valor": 15.0
+      "valor": 29.0
     }
   ],
   "cumplimiento": [
@@ -149,13 +149,13 @@
     },
     {
       "label": "AGO",
-      "valor": 1220.0
+      "valor": 1234.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1490.0
+      "valor": 1492.0
     },
     {
       "label": "AGUNSA",
@@ -273,8 +273,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2038",
-      "porcentaje": "22.8 %"
+      "total": "2046",
+      "porcentaje": "22.9 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -283,13 +283,13 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1307",
-      "porcentaje": "14.6 %"
+      "total": "1313",
+      "porcentaje": "14.7 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1212",
-      "porcentaje": "13.6 %"
+      "porcentaje": "13.5 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -301,16 +301,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "123",
-      "unidades": "8551",
+      "tareas": "131",
+      "unidades": "8600",
       "ordenes": "63"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "79",
-      "unidades": "3818",
-      "ordenes": "29"
+      "tareas": "85",
+      "unidades": "4332",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA SANTIAGO",

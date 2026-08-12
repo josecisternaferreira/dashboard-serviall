@@ -1,24 +1,24 @@
 {
-  "timestamp": "12/08/2026 15:31",
+  "timestamp": "12/08/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "13",
+      "valor": "21",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "134",
+      "valor": "137",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.6 %",
+      "valor": "92.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "73.0 %",
+      "valor": "73.1 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "21",
+      "valor": "26",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "30",
+      "valor": "41",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -81,7 +81,7 @@
     },
     {
       "label": "12-08",
-      "valor": 134.0
+      "valor": 137.0
     }
   ],
   "cumplimiento": [
@@ -115,7 +115,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.6
+      "valor": 92.2
     }
   ],
   "picking_mensual": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1339.0
+      "valor": 1342.0
     }
   ],
   "promedio_ruta": [
@@ -233,7 +233,7 @@
     },
     {
       "label": "AGO",
-      "valor": 486.0
+      "valor": 489.0
     }
   ],
   "fillrate_mensual": [
@@ -267,14 +267,14 @@
     },
     {
       "label": "AGO",
-      "valor": 73.0
+      "valor": 73.1
     }
   ],
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2085",
-      "porcentaje": "23.0 %"
+      "total": "2088",
+      "porcentaje": "23.1 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -301,8 +301,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "170",
-      "unidades": "9700",
+      "tareas": "173",
+      "unidades": "9703",
       "ordenes": "80"
     },
     {
@@ -367,8 +367,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "887",
-      "disponibles": "573",
+      "ocupadas": "888",
+      "disponibles": "572",
       "porcentaje": "60.8 %"
     },
     {

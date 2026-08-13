@@ -1,19 +1,19 @@
 {
-  "timestamp": "13/08/2026 13:30",
+  "timestamp": "13/08/2026 15:40",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "7",
+      "valor": "15",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "91",
+      "valor": "115",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.4 %",
+      "valor": "91.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "33",
+      "valor": "47",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "30",
+      "valor": "49",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "95",
+      "valor": "132",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "13-08",
-      "valor": 91.0
+      "valor": 115.0
     }
   ],
   "cumplimiento": [
@@ -119,7 +119,7 @@
     },
     {
       "label": "AGO",
-      "valor": 91.4
+      "valor": 91.6
     }
   ],
   "picking_mensual": [
@@ -153,13 +153,13 @@
     },
     {
       "label": "AGO",
-      "valor": 1463.0
+      "valor": 1487.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1504.0
+      "valor": 1506.0
     },
     {
       "label": "AGUNSA",
@@ -171,7 +171,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 263.0
+      "valor": 264.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -237,7 +237,7 @@
     },
     {
       "label": "AGO",
-      "valor": 544.0
+      "valor": 559.0
     }
   ],
   "fillrate_mensual": [
@@ -271,14 +271,14 @@
     },
     {
       "label": "AGO",
-      "valor": 79.5
+      "valor": 79.6
     }
   ],
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2149",
-      "porcentaje": "23.4 %"
+      "total": "2167",
+      "porcentaje": "23.6 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -287,7 +287,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1422",
+      "total": "1427",
       "porcentaje": "15.5 %"
     },
     {
@@ -305,16 +305,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "234",
-      "unidades": "12851",
-      "ordenes": "98"
+      "tareas": "252",
+      "unidades": "14130",
+      "ordenes": "103"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "194",
-      "unidades": "19787",
-      "ordenes": "103"
+      "tareas": "199",
+      "unidades": "19805",
+      "ordenes": "107"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -416,9 +416,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "496",
-      "disponibles": "197",
-      "porcentaje": "71.6 %"
+      "ocupadas": "498",
+      "disponibles": "195",
+      "porcentaje": "71.9 %"
     }
   ]
 }

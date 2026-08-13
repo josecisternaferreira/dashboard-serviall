@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/08/2026 10:45",
+  "timestamp": "13/08/2026 11:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "32",
+      "valor": "45",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "42",
+      "valor": "58",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -77,7 +77,7 @@
     },
     {
       "label": "13-08",
-      "valor": 32.0
+      "valor": 45.0
     }
   ],
   "cumplimiento": [
@@ -145,17 +145,17 @@
     },
     {
       "label": "AGO",
-      "valor": 871.0
+      "valor": 884.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 942.0
+      "valor": 943.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 267.0
+      "valor": 268.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -217,7 +217,7 @@
     },
     {
       "label": "AGO",
-      "valor": 294.0
+      "valor": 295.0
     }
   ],
   "fillrate_mensual": [
@@ -258,12 +258,12 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2047",
-      "porcentaje": "33.5 %"
+      "porcentaje": "33.4 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1249",
-      "porcentaje": "20.4 %"
+      "total": "1259",
+      "porcentaje": "20.6 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -277,17 +277,17 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "465",
-      "porcentaje": "7.6 %"
+      "total": "469",
+      "porcentaje": "7.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "123",
-      "unidades": "6063",
-      "ordenes": "66"
+      "tareas": "127",
+      "unidades": "6374",
+      "ordenes": "69"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -299,8 +299,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "77",
-      "unidades": "4390",
+      "tareas": "87",
+      "unidades": "5108",
       "ordenes": "24"
     },
     {
@@ -356,8 +356,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1099",
-      "disponibles": "239",
+      "ocupadas": "1098",
+      "disponibles": "240",
       "porcentaje": "82.1 %"
     },
     {

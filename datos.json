@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/08/2026 08:30",
+  "timestamp": "13/08/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,12 +13,12 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.4 %",
+      "valor": "92.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "73.2 %",
+      "valor": "73.4 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.4
+      "valor": 92.5
     }
   ],
   "picking_mensual": [
@@ -233,7 +233,7 @@
     },
     {
       "label": "AGO",
-      "valor": 501.0
+      "valor": 509.0
     }
   ],
   "fillrate_mensual": [
@@ -267,7 +267,7 @@
     },
     {
       "label": "AGO",
-      "valor": 73.2
+      "valor": 73.4
     }
   ],
   "top5_operadores": [

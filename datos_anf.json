@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/08/2026 09:46",
+  "timestamp": "14/08/2026 10:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "18",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "6",
+      "valor": "22",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "14-08",
-      "valor": 10.0
+      "valor": 18.0
     }
   ],
   "cumplimiento": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "AGO",
-      "valor": 931.0
+      "valor": 939.0
     }
   ],
   "promedio_ruta": [
@@ -163,7 +163,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 262.0
+      "valor": 263.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -266,7 +266,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1270",
+      "total": "1276",
       "porcentaje": "20.6 %"
     },
     {
@@ -303,9 +303,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "98",
-      "unidades": "6334",
-      "ordenes": "28"
+      "tareas": "104",
+      "unidades": "8125",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -323,17 +323,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "4",
+      "unidades": "922",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "SPIZARRO",
       "tareas": "4",
       "unidades": "203",
       "ordenes": "3"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "2",
-      "unidades": "900",
-      "ordenes": "2"
     }
   ],
   "ocupacion": [

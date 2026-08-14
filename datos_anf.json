@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/08/2026 15:15",
+  "timestamp": "14/08/2026 15:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.0 %",
+      "valor": "94.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "54",
+      "valor": "58",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "14-08",
-      "valor": 44.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -115,7 +115,7 @@
     },
     {
       "label": "AGO",
-      "valor": 94.0
+      "valor": 94.1
     }
   ],
   "picking_mensual": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "AGO",
-      "valor": 965.0
+      "valor": 967.0
     }
   ],
   "promedio_ruta": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "AGO",
-      "valor": 350.0
+      "valor": 354.0
     }
   ],
   "fillrate_mensual": [
@@ -323,17 +323,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "5",
-      "unidades": "981",
+      "usuario": "SPIZARRO",
+      "tareas": "6",
+      "unidades": "279",
       "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SPIZARRO",
-      "tareas": "4",
-      "unidades": "203",
-      "ordenes": "3"
+      "usuario": "OROJAS",
+      "tareas": "5",
+      "unidades": "981",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [

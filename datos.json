@@ -1,9 +1,9 @@
 {
-  "timestamp": "17/08/2026 17:31",
+  "timestamp": "17/08/2026 18:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "34",
+      "valor": "35",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "59",
+      "valor": "63",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "68",
+      "valor": "69",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "label": "AGO",
-      "valor": 659.0
+      "valor": 660.0
     }
   ],
   "fillrate_mensual": [
@@ -417,9 +417,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "503",
-      "disponibles": "190",
-      "porcentaje": "72.6 %"
+      "ocupadas": "499",
+      "disponibles": "194",
+      "porcentaje": "72.0 %"
     }
   ]
 }

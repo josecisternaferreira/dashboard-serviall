@@ -1,14 +1,14 @@
 {
-  "timestamp": "17/08/2026 10:30",
+  "timestamp": "17/08/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "3",
+      "valor": "6",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "20",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "11",
+      "valor": "18",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "10",
+      "valor": "13",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "12",
+      "valor": "25",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "17-08",
-      "valor": 13.0
+      "valor": 20.0
     }
   ],
   "cumplimiento": [
@@ -161,7 +161,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1622.0
+      "valor": 1629.0
     }
   ],
   "promedio_ruta": [
@@ -171,7 +171,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 385.0
+      "valor": 386.0
     },
     {
       "label": "SITRANS",
@@ -245,7 +245,7 @@
     },
     {
       "label": "AGO",
-      "valor": 635.0
+      "valor": 642.0
     }
   ],
   "fillrate_mensual": [
@@ -291,12 +291,12 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1993",
-      "porcentaje": "22.5 %"
+      "porcentaje": "22.4 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1354",
-      "porcentaje": "15.3 %"
+      "porcentaje": "15.2 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -305,7 +305,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1098",
+      "total": "1100",
       "porcentaje": "12.4 %"
     }
   ],
@@ -313,16 +313,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "11",
-      "unidades": "57",
-      "ordenes": "4"
+      "tareas": "16",
+      "unidades": "175",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "2",
-      "unidades": "17",
-      "ordenes": "2"
+      "tareas": "4",
+      "unidades": "112",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/08/2026 09:30",
+  "timestamp": "17/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "4",
+      "valor": "10",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.5 %",
+      "valor": "92.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "9",
+      "valor": "11",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "2",
+      "valor": "10",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "17-08",
-      "valor": 4.0
+      "valor": 10.0
     }
   ],
   "cumplimiento": [
@@ -127,7 +127,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.5
+      "valor": 92.4
     }
   ],
   "picking_mensual": [
@@ -161,7 +161,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1613.0
+      "valor": 1619.0
     }
   ],
   "promedio_ruta": [
@@ -245,7 +245,7 @@
     },
     {
       "label": "AGO",
-      "valor": 627.0
+      "valor": 630.0
     }
   ],
   "fillrate_mensual": [
@@ -301,11 +301,11 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1166",
-      "porcentaje": "13.2 %"
+      "porcentaje": "13.1 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1096",
+      "total": "1097",
       "porcentaje": "12.4 %"
     }
   ],
@@ -313,9 +313,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "4",
-      "unidades": "27",
-      "ordenes": "3"
+      "tareas": "9",
+      "unidades": "39",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
+      "tareas": "1",
+      "unidades": "15",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -351,9 +358,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "889",
-      "disponibles": "571",
-      "porcentaje": "60.9 %"
+      "ocupadas": "888",
+      "disponibles": "572",
+      "porcentaje": "60.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -396,9 +403,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "494",
-      "disponibles": "199",
-      "porcentaje": "71.3 %"
+      "ocupadas": "496",
+      "disponibles": "197",
+      "porcentaje": "71.6 %"
     }
   ]
 }

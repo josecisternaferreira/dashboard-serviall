@@ -1,14 +1,14 @@
 {
-  "timestamp": "17/08/2026 08:30",
+  "timestamp": "17/08/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "9",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -90,6 +90,10 @@
     {
       "label": "14-08",
       "valor": 99.0
+    },
+    {
+      "label": "17-08",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -157,7 +161,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1609.0
+      "valor": 1613.0
     }
   ],
   "promedio_ruta": [
@@ -307,11 +311,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "4",
+      "unidades": "27",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [
@@ -347,9 +351,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "887",
-      "disponibles": "573",
-      "porcentaje": "60.8 %"
+      "ocupadas": "889",
+      "disponibles": "571",
+      "porcentaje": "60.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -392,9 +396,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "492",
-      "disponibles": "201",
-      "porcentaje": "71.0 %"
+      "ocupadas": "494",
+      "disponibles": "199",
+      "porcentaje": "71.3 %"
     }
   ]
 }

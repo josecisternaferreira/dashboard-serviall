@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/08/2026 07:30",
+  "timestamp": "18/08/2026 08:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -27,9 +27,9 @@
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     },
     {
-      "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
-      "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
+      "titulo": "",
+      "valor": "",
+      "subtitulo": ""
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
@@ -282,63 +282,8 @@
       "valor": 99.5
     }
   ],
-  "top5_operadores": [
-    {
-      "operador": "DIEGO GANDO",
-      "total": "2034",
-      "porcentaje": "22.8 %"
-    },
-    {
-      "operador": "FREYNER ESTUPIÑAN",
-      "total": "1993",
-      "porcentaje": "22.4 %"
-    },
-    {
-      "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1354",
-      "porcentaje": "15.2 %"
-    },
-    {
-      "operador": "MATIAS TORRES",
-      "total": "1166",
-      "porcentaje": "13.1 %"
-    },
-    {
-      "operador": "CRISTHOFER CORTEZ",
-      "total": "1113",
-      "porcentaje": "12.5 %"
-    }
-  ],
-  "semana_actual": [
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "29",
-      "unidades": "324",
-      "ordenes": "13"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "17",
-      "unidades": "203",
-      "ordenes": "7"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "1",
-      "unidades": "1",
-      "ordenes": "1"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "1",
-      "unidades": "13",
-      "ordenes": "1"
-    }
-  ],
+  "top5_operadores": [],
+  "semana_actual": [],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",

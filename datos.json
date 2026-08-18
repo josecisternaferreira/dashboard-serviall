@@ -1,14 +1,14 @@
 {
-  "timestamp": "18/08/2026 15:30",
+  "timestamp": "18/08/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "22",
+      "valor": "25",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "106",
+      "valor": "109",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "20",
+      "valor": "28",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "36",
+      "valor": "39",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "156",
+      "valor": "148",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "18-08",
-      "valor": 106.0
+      "valor": 109.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1763.0
+      "valor": 1766.0
     }
   ],
   "promedio_ruta": [
@@ -249,7 +249,7 @@
     },
     {
       "label": "AGO",
-      "valor": 750.0
+      "valor": 751.0
     }
   ],
   "fillrate_mensual": [
@@ -309,8 +309,8 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1158",
-      "porcentaje": "12.8 %"
+      "total": "1161",
+      "porcentaje": "12.9 %"
     }
   ],
   "semana_actual": [
@@ -324,9 +324,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "62",
-      "unidades": "4388",
-      "ordenes": "19"
+      "tareas": "65",
+      "unidades": "4412",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -421,9 +421,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "499",
-      "disponibles": "194",
-      "porcentaje": "72.0 %"
+      "ocupadas": "501",
+      "disponibles": "192",
+      "porcentaje": "72.3 %"
     }
   ]
 }

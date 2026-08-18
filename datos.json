@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/08/2026 14:30",
+  "timestamp": "18/08/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "96",
+      "valor": "99",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "10",
+      "valor": "14",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "132",
+      "valor": "138",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "18-08",
-      "valor": 96.0
+      "valor": 99.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1753.0
+      "valor": 1756.0
     }
   ],
   "promedio_ruta": [
@@ -286,8 +286,63 @@
       "valor": 99.5
     }
   ],
-  "top5_operadores": [],
-  "semana_actual": [],
+  "top5_operadores": [
+    {
+      "operador": "DIEGO GANDO",
+      "total": "2034",
+      "porcentaje": "22.6 %"
+    },
+    {
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "1993",
+      "porcentaje": "22.1 %"
+    },
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1354",
+      "porcentaje": "15.0 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1166",
+      "porcentaje": "12.9 %"
+    },
+    {
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "1151",
+      "porcentaje": "12.8 %"
+    }
+  ],
+  "semana_actual": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "89",
+      "unidades": "2809",
+      "ordenes": "52"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
+      "tareas": "55",
+      "unidades": "4139",
+      "ordenes": "19"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "2",
+      "unidades": "33",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
+    }
+  ],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",
@@ -366,9 +421,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "496",
-      "disponibles": "197",
-      "porcentaje": "71.6 %"
+      "ocupadas": "498",
+      "disponibles": "195",
+      "porcentaje": "71.9 %"
     }
   ]
 }

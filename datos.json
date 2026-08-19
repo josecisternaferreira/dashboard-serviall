@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/08/2026 17:00",
+  "timestamp": "19/08/2026 17:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "27",
+      "valor": "29",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "79",
+      "valor": "86",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "80",
+      "valor": "82",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "76",
+      "valor": "78",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "100",
+      "valor": "108",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-08",
-      "valor": 79.0
+      "valor": 86.0
     }
   ],
   "cumplimiento": [
@@ -169,13 +169,13 @@
     },
     {
       "label": "AGO",
-      "valor": 1848.0
+      "valor": 1855.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1524.0
+      "valor": 1525.0
     },
     {
       "label": "AGUNSA",
@@ -253,7 +253,7 @@
     },
     {
       "label": "AGO",
-      "valor": 808.0
+      "valor": 809.0
     }
   ],
   "fillrate_mensual": [
@@ -321,9 +321,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "144",
-      "unidades": "6635",
-      "ordenes": "83"
+      "tareas": "150",
+      "unidades": "6702",
+      "ordenes": "86"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -371,9 +371,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "36",
-      "ocupadas": "17",
-      "disponibles": "19",
-      "porcentaje": "47.2 %"
+      "ocupadas": "16",
+      "disponibles": "20",
+      "porcentaje": "44.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -425,9 +425,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "507",
-      "disponibles": "186",
-      "porcentaje": "73.2 %"
+      "ocupadas": "499",
+      "disponibles": "194",
+      "porcentaje": "72.0 %"
     }
   ]
 }

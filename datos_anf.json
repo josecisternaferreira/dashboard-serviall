@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/08/2026 10:16",
+  "timestamp": "19/08/2026 10:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "52",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.4 %",
+      "valor": "93.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "68",
+      "valor": "74",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "19-08",
-      "valor": 44.0
+      "valor": 52.0
     }
   ],
   "cumplimiento": [
@@ -123,7 +123,7 @@
     },
     {
       "label": "AGO",
-      "valor": 93.4
+      "valor": 93.5
     }
   ],
   "picking_mensual": [
@@ -157,13 +157,13 @@
     },
     {
       "label": "AGO",
-      "valor": 1013.0
+      "valor": 1023.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 948.0
+      "valor": 949.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -229,7 +229,7 @@
     },
     {
       "label": "AGO",
-      "valor": 366.0
+      "valor": 367.0
     }
   ],
   "fillrate_mensual": [
@@ -269,13 +269,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1970",
+      "total": "1973",
       "porcentaje": "34.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1174",
-      "porcentaje": "20.5 %"
+      "porcentaje": "20.4 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -284,7 +284,7 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "526",
+      "total": "530",
       "porcentaje": "9.2 %"
     },
     {
@@ -297,16 +297,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "18",
-      "unidades": "789",
-      "ordenes": "15"
+      "tareas": "21",
+      "unidades": "1119",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "16",
-      "unidades": "228",
-      "ordenes": "8"
+      "tareas": "20",
+      "unidades": "1281",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

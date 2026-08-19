@@ -1,19 +1,19 @@
 {
-  "timestamp": "19/08/2026 12:15",
+  "timestamp": "19/08/2026 12:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "145",
+      "valor": "152",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.2 %",
+      "valor": "93.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "232",
+      "valor": "262",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "19-08",
-      "valor": 145.0
+      "valor": 152.0
     }
   ],
   "cumplimiento": [
@@ -123,7 +123,7 @@
     },
     {
       "label": "AGO",
-      "valor": 93.2
+      "valor": 93.3
     }
   ],
   "picking_mensual": [
@@ -157,7 +157,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1116.0
+      "valor": 1123.0
     }
   ],
   "promedio_ruta": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 279.0
+      "valor": 280.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -229,7 +229,7 @@
     },
     {
       "label": "AGO",
-      "valor": 370.0
+      "valor": 386.0
     }
   ],
   "fillrate_mensual": [
@@ -270,7 +270,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1996",
-      "porcentaje": "34.2 %"
+      "porcentaje": "34.1 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -284,22 +284,22 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "547",
-      "porcentaje": "9.4 %"
+      "total": "554",
+      "porcentaje": "9.5 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "546",
-      "porcentaje": "9.4 %"
+      "porcentaje": "9.3 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "65",
-      "unidades": "437",
-      "ordenes": "18"
+      "tareas": "72",
+      "unidades": "456",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

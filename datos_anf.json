@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/08/2026 17:16",
+  "timestamp": "19/08/2026 17:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.0 %",
+      "valor": "92.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "260",
+      "valor": "267",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -123,7 +123,7 @@
     },
     {
       "label": "AGO",
-      "valor": 93.0
+      "valor": 92.7
     }
   ],
   "picking_mensual": [
@@ -229,7 +229,7 @@
     },
     {
       "label": "AGO",
-      "valor": 412.0
+      "valor": 413.0
     }
   ],
   "fillrate_mensual": [
@@ -383,9 +383,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "233",
-      "disponibles": "176",
-      "porcentaje": "57.0 %"
+      "ocupadas": "228",
+      "disponibles": "181",
+      "porcentaje": "55.7 %"
     }
   ]
 }

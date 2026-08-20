@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/08/2026 10:01",
+  "timestamp": "20/08/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "20",
+      "valor": "36",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -37,9 +37,9 @@
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "LINEAS_EMBALADAS_HOY",
+      "valor": "50",
+      "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
@@ -105,7 +105,7 @@
     },
     {
       "label": "20-08",
-      "valor": 20.0
+      "valor": 36.0
     }
   ],
   "cumplimiento": [
@@ -173,13 +173,13 @@
     },
     {
       "label": "AGO",
-      "valor": 1876.0
+      "valor": 1892.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1526.0
+      "valor": 1527.0
     },
     {
       "label": "AGUNSA",
@@ -187,7 +187,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 387.0
+      "valor": 388.0
     },
     {
       "label": "ESTAFETA",
@@ -257,7 +257,7 @@
     },
     {
       "label": "AGO",
-      "valor": 816.0
+      "valor": 817.0
     }
   ],
   "fillrate_mensual": [
@@ -294,8 +294,63 @@
       "valor": 99.5
     }
   ],
-  "top5_operadores": [],
-  "semana_actual": [],
+  "top5_operadores": [
+    {
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "1970",
+      "porcentaje": "22.6 %"
+    },
+    {
+      "operador": "DIEGO GANDO",
+      "total": "1873",
+      "porcentaje": "21.5 %"
+    },
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1345",
+      "porcentaje": "15.4 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1160",
+      "porcentaje": "13.3 %"
+    },
+    {
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "1142",
+      "porcentaje": "13.1 %"
+    }
+  ],
+  "semana_actual": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "171",
+      "unidades": "7443",
+      "ordenes": "95"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
+      "tareas": "108",
+      "unidades": "9875",
+      "ordenes": "39"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "3",
+      "unidades": "36",
+      "ordenes": "3"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
+    }
+  ],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",

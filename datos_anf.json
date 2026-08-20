@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/08/2026 15:46",
+  "timestamp": "20/08/2026 16:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "124",
+      "valor": "154",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "21",
+      "valor": "26",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "4",
+      "valor": "9",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "158",
+      "valor": "204",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "20-08",
-      "valor": 124.0
+      "valor": 154.0
     }
   ],
   "cumplimiento": [
@@ -161,17 +161,17 @@
     },
     {
       "label": "AGO",
-      "valor": 1257.0
+      "valor": 1287.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 962.0
+      "valor": 963.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 281.0
+      "valor": 284.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -273,18 +273,18 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2049",
-      "porcentaje": "34.3 %"
+      "total": "2055",
+      "porcentaje": "34.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1213",
-      "porcentaje": "20.3 %"
+      "total": "1216",
+      "porcentaje": "20.2 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "601",
-      "porcentaje": "10.1 %"
+      "total": "622",
+      "porcentaje": "10.4 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -294,16 +294,16 @@
     {
       "operador": "LUIS ARDILES",
       "total": "549",
-      "porcentaje": "9.2 %"
+      "porcentaje": "9.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "97",
-      "unidades": "8668",
-      "ordenes": "40"
+      "tareas": "103",
+      "unidades": "9287",
+      "ordenes": "44"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -314,6 +314,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "42",
+      "unidades": "10084",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
       "tareas": "39",
       "unidades": "1508",
@@ -321,10 +328,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "39",
-      "unidades": "9539",
-      "ordenes": "6"
+      "usuario": "YRINCON",
+      "tareas": "25",
+      "unidades": "620",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -332,13 +339,6 @@
       "tareas": "9",
       "unidades": "316",
       "ordenes": "8"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "4",
-      "unidades": "563",
-      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -379,9 +379,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1112",
-      "disponibles": "226",
-      "porcentaje": "83.1 %"
+      "ocupadas": "1114",
+      "disponibles": "224",
+      "porcentaje": "83.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -415,9 +415,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "229",
-      "disponibles": "180",
-      "porcentaje": "56.0 %"
+      "ocupadas": "230",
+      "disponibles": "179",
+      "porcentaje": "56.2 %"
     }
   ]
 }

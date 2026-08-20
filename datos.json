@@ -1,14 +1,14 @@
 {
-  "timestamp": "20/08/2026 14:00",
+  "timestamp": "20/08/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "11",
+      "valor": "15",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "157",
+      "valor": "172",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "21",
+      "valor": "34",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "210",
+      "valor": "218",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "20-08",
-      "valor": 157.0
+      "valor": 172.0
     }
   ],
   "cumplimiento": [
@@ -173,13 +173,13 @@
     },
     {
       "label": "AGO",
-      "valor": 2013.0
+      "valor": 2028.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1536.0
+      "valor": 1537.0
     },
     {
       "label": "AGUNSA",
@@ -187,7 +187,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 391.0
+      "valor": 392.0
     },
     {
       "label": "ESTAFETA",
@@ -312,7 +312,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1200",
+      "total": "1202",
       "porcentaje": "13.6 %"
     },
     {
@@ -325,23 +325,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "220",
-      "unidades": "14090",
+      "tareas": "228",
+      "unidades": "16166",
       "ordenes": "105"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "166",
-      "unidades": "17600",
+      "tareas": "168",
+      "unidades": "17740",
       "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "10",
-      "unidades": "1235",
-      "ordenes": "8"
+      "tareas": "15",
+      "unidades": "1316",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -436,9 +436,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "457",
-      "disponibles": "236",
-      "porcentaje": "65.9 %"
+      "ocupadas": "460",
+      "disponibles": "233",
+      "porcentaje": "66.4 %"
     }
   ]
 }

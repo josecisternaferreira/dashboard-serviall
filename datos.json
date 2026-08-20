@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/08/2026 15:00",
+  "timestamp": "20/08/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "180",
+      "valor": "187",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.3 %",
+      "valor": "92.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "7",
+      "valor": "8",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "226",
+      "valor": "250",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "20-08",
-      "valor": 180.0
+      "valor": 187.0
     }
   ],
   "cumplimiento": [
@@ -139,7 +139,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.3
+      "valor": 92.4
     }
   ],
   "picking_mensual": [
@@ -173,13 +173,13 @@
     },
     {
       "label": "AGO",
-      "valor": 2036.0
+      "valor": 2043.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1538.0
+      "valor": 1539.0
     },
     {
       "label": "AGUNSA",
@@ -257,7 +257,7 @@
     },
     {
       "label": "AGO",
-      "valor": 860.0
+      "valor": 866.0
     }
   ],
   "fillrate_mensual": [
@@ -312,8 +312,8 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1204",
-      "porcentaje": "13.6 %"
+      "total": "1211",
+      "porcentaje": "13.7 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -332,8 +332,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "170",
-      "unidades": "17770",
+      "tareas": "177",
+      "unidades": "17963",
       "ordenes": "59"
     },
     {

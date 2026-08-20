@@ -1,14 +1,14 @@
 {
-  "timestamp": "20/08/2026 16:30",
+  "timestamp": "20/08/2026 17:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "21",
+      "valor": "26",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "235",
+      "valor": "252",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "23",
+      "valor": "33",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "88",
+      "valor": "105",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "326",
+      "valor": "342",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "20-08",
-      "valor": 235.0
+      "valor": 252.0
     }
   ],
   "cumplimiento": [
@@ -173,13 +173,13 @@
     },
     {
       "label": "AGO",
-      "valor": 2091.0
+      "valor": 2108.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1544.0
+      "valor": 1546.0
     },
     {
       "label": "AGUNSA",
@@ -257,7 +257,7 @@
     },
     {
       "label": "AGO",
-      "valor": 870.0
+      "valor": 872.0
     }
   ],
   "fillrate_mensual": [
@@ -302,7 +302,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1881",
+      "total": "1887",
       "porcentaje": "21.1 %"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1232",
+      "total": "1235",
       "porcentaje": "13.8 %"
     },
     {
@@ -325,16 +325,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "252",
-      "unidades": "17442",
+      "tareas": "260",
+      "unidades": "21779",
       "ordenes": "105"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "198",
-      "unidades": "19840",
-      "ordenes": "60"
+      "tareas": "201",
+      "unidades": "19950",
+      "ordenes": "61"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -346,9 +346,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "9",
-      "unidades": "72",
-      "ordenes": "5"
+      "tareas": "15",
+      "unidades": "106",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -398,9 +398,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "747",
-      "disponibles": "713",
-      "porcentaje": "51.2 %"
+      "ocupadas": "740",
+      "disponibles": "720",
+      "porcentaje": "50.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -443,9 +443,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "468",
-      "disponibles": "225",
-      "porcentaje": "67.5 %"
+      "ocupadas": "471",
+      "disponibles": "222",
+      "porcentaje": "68.0 %"
     }
   ]
 }

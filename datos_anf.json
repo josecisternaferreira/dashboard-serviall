@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/08/2026 08:45",
+  "timestamp": "21/08/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.1 %",
+      "valor": "90.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -94,6 +94,10 @@
     {
       "label": "20-08",
       "valor": 164.0
+    },
+    {
+      "label": "21-08",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -127,7 +131,7 @@
     },
     {
       "label": "AGO",
-      "valor": 91.1
+      "valor": 90.3
     }
   ],
   "picking_mensual": [
@@ -161,7 +165,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1297.0
+      "valor": 1299.0
     }
   ],
   "promedio_ruta": [
@@ -233,7 +237,7 @@
     },
     {
       "label": "AGO",
-      "valor": 459.0
+      "valor": 463.0
     }
   ],
   "fillrate_mensual": [
@@ -283,7 +287,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "625",
+      "total": "627",
       "porcentaje": "10.4 %"
     },
     {
@@ -329,9 +333,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "28",
-      "unidades": "646",
-      "ordenes": "6"
+      "tareas": "30",
+      "unidades": "1111",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/08/2026 14:15",
+  "timestamp": "21/08/2026 14:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "37",
+      "valor": "45",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "66",
+      "valor": "78",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "21-08",
-      "valor": 37.0
+      "valor": 45.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1334.0
+      "valor": 1342.0
     }
   ],
   "promedio_ruta": [
@@ -183,7 +183,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 183.0
+      "valor": 184.0
     },
     {
       "label": "SITRANS",
@@ -287,8 +287,8 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "629",
-      "porcentaje": "10.4 %"
+      "total": "637",
+      "porcentaje": "10.5 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -325,17 +325,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "40",
+      "unidades": "1340",
+      "ordenes": "11"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
       "tareas": "39",
       "unidades": "1508",
       "ordenes": "21"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "32",
-      "unidades": "1313",
-      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

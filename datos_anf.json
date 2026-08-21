@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/08/2026 12:45",
+  "timestamp": "21/08/2026 13:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "21",
+      "valor": "35",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "21",
+      "valor": "35",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "label": "AGO",
-      "valor": 480.0
+      "valor": 482.0
     }
   ],
   "fillrate_mensual": [
@@ -383,9 +383,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1115",
-      "disponibles": "223",
-      "porcentaje": "83.3 %"
+      "ocupadas": "1119",
+      "disponibles": "219",
+      "porcentaje": "83.6 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -419,9 +419,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "231",
-      "disponibles": "178",
-      "porcentaje": "56.5 %"
+      "ocupadas": "230",
+      "disponibles": "179",
+      "porcentaje": "56.2 %"
     }
   ]
 }

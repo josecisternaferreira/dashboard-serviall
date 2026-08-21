@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/08/2026 09:30",
+  "timestamp": "21/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "20",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.5 %",
+      "valor": "92.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "37",
+      "valor": "41",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "34",
+      "valor": "38",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "22",
+      "valor": "24",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "21-08",
-      "valor": 13.0
+      "valor": 20.0
     }
   ],
   "cumplimiento": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.5
+      "valor": 92.3
     }
   ],
   "picking_mensual": [
@@ -177,13 +177,13 @@
     },
     {
       "label": "AGO",
-      "valor": 2146.0
+      "valor": 2153.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1550.0
+      "valor": 1551.0
     },
     {
       "label": "AGUNSA",
@@ -191,7 +191,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 392.0
+      "valor": 393.0
     },
     {
       "label": "ESTAFETA",
@@ -261,7 +261,7 @@
     },
     {
       "label": "AGO",
-      "valor": 876.0
+      "valor": 878.0
     }
   ],
   "fillrate_mensual": [
@@ -302,11 +302,11 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1970",
-      "porcentaje": "22.0 %"
+      "porcentaje": "21.9 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1897",
+      "total": "1898",
       "porcentaje": "21.1 %"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1258",
-      "porcentaje": "14.0 %"
+      "total": "1263",
+      "porcentaje": "14.1 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -336,23 +336,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "224",
-      "unidades": "20490",
-      "ordenes": "74"
+      "tareas": "229",
+      "unidades": "20742",
+      "ordenes": "75"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "25",
-      "unidades": "1015",
+      "tareas": "26",
+      "unidades": "1215",
       "ordenes": "10"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "19",
-      "unidades": "2209",
-      "ordenes": "17"
+      "tareas": "20",
+      "unidades": "2224",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -402,9 +402,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "747",
-      "disponibles": "713",
-      "porcentaje": "51.2 %"
+      "ocupadas": "746",
+      "disponibles": "714",
+      "porcentaje": "51.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -447,9 +447,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "493",
-      "disponibles": "200",
-      "porcentaje": "71.1 %"
+      "ocupadas": "495",
+      "disponibles": "198",
+      "porcentaje": "71.4 %"
     }
   ]
 }

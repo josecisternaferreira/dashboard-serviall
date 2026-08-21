@@ -1,9 +1,9 @@
 {
-  "timestamp": "21/08/2026 15:00",
+  "timestamp": "21/08/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "22",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "55",
+      "valor": "79",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "99",
+      "valor": "114",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -402,9 +402,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "743",
-      "disponibles": "717",
-      "porcentaje": "50.9 %"
+      "ocupadas": "747",
+      "disponibles": "713",
+      "porcentaje": "51.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -438,18 +438,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "151",
-      "disponibles": "88",
-      "porcentaje": "63.2 %"
+      "ocupadas": "153",
+      "disponibles": "86",
+      "porcentaje": "64.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "501",
-      "disponibles": "192",
-      "porcentaje": "72.3 %"
+      "ocupadas": "503",
+      "disponibles": "190",
+      "porcentaje": "72.6 %"
     }
   ]
 }

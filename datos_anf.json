@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/08/2026 10:16",
+  "timestamp": "21/08/2026 10:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "5",
+      "valor": "7",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "89.8 %",
+      "valor": "89.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "0.7 días",
+      "valor": "0.8 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "6",
+      "valor": "12",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "21-08",
-      "valor": 5.0
+      "valor": 8.0
     }
   ],
   "cumplimiento": [
@@ -131,7 +131,7 @@
     },
     {
       "label": "AGO",
-      "valor": 89.8
+      "valor": 89.2
     }
   ],
   "picking_mensual": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1302.0
+      "valor": 1305.0
     }
   ],
   "promedio_ruta": [
@@ -237,7 +237,7 @@
     },
     {
       "label": "AGO",
-      "valor": 469.0
+      "valor": 473.0
     }
   ],
   "fillrate_mensual": [
@@ -277,7 +277,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2055",
+      "total": "2057",
       "porcentaje": "34.1 %"
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "627",
+      "total": "628",
       "porcentaje": "10.4 %"
     },
     {
@@ -305,9 +305,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "103",
-      "unidades": "9287",
-      "ordenes": "44"
+      "tareas": "105",
+      "unidades": "9322",
+      "ordenes": "46"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -333,9 +333,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "30",
-      "unidades": "1111",
-      "ordenes": "7"
+      "tareas": "31",
+      "unidades": "1113",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -419,9 +419,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "231",
-      "disponibles": "178",
-      "porcentaje": "56.5 %"
+      "ocupadas": "230",
+      "disponibles": "179",
+      "porcentaje": "56.2 %"
     }
   ]
 }

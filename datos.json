@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/08/2026 12:30",
+  "timestamp": "21/08/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "109",
+      "valor": "130",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "122",
+      "valor": "150",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "21-08",
-      "valor": 109.0
+      "valor": 130.0
     }
   ],
   "cumplimiento": [
@@ -177,17 +177,17 @@
     },
     {
       "label": "AGO",
-      "valor": 2242.0
+      "valor": 2263.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1559.0
+      "valor": 1561.0
     },
     {
       "label": "AGUNSA",
-      "valor": 395.0
+      "valor": 396.0
     },
     {
       "label": "SITRANS",
@@ -261,7 +261,7 @@
     },
     {
       "label": "AGO",
-      "valor": 889.0
+      "valor": 891.0
     }
   ],
   "fillrate_mensual": [
@@ -306,7 +306,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1916",
+      "total": "1918",
       "porcentaje": "21.1 %"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1304",
-      "porcentaje": "14.4 %"
+      "total": "1316",
+      "porcentaje": "14.5 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -329,23 +329,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "286",
-      "unidades": "26612",
-      "ordenes": "113"
+      "tareas": "294",
+      "unidades": "74513",
+      "ordenes": "116"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "270",
-      "unidades": "31016",
-      "ordenes": "83"
+      "tareas": "282",
+      "unidades": "31038",
+      "ordenes": "86"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "44",
-      "unidades": "2124",
-      "ordenes": "18"
+      "tareas": "46",
+      "unidades": "2135",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -438,9 +438,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "154",
-      "disponibles": "85",
-      "porcentaje": "64.4 %"
+      "ocupadas": "153",
+      "disponibles": "86",
+      "porcentaje": "64.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

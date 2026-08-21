@@ -1,14 +1,14 @@
 {
-  "timestamp": "21/08/2026 13:30",
+  "timestamp": "21/08/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "6",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "141",
+      "valor": "146",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "55",
+      "valor": "56",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "163",
+      "valor": "164",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "21-08",
-      "valor": 141.0
+      "valor": 146.0
     }
   ],
   "cumplimiento": [
@@ -177,13 +177,13 @@
     },
     {
       "label": "AGO",
-      "valor": 2274.0
+      "valor": 2279.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1561.0
+      "valor": 1562.0
     },
     {
       "label": "AGUNSA",
@@ -261,7 +261,7 @@
     },
     {
       "label": "AGO",
-      "valor": 897.0
+      "valor": 899.0
     }
   ],
   "fillrate_mensual": [
@@ -302,7 +302,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1970",
-      "porcentaje": "21.7 %"
+      "porcentaje": "21.6 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -316,7 +316,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1321",
+      "total": "1323",
       "porcentaje": "14.5 %"
     },
     {
@@ -329,16 +329,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "299",
-      "unidades": "74684",
-      "ordenes": "121"
+      "tareas": "302",
+      "unidades": "74690",
+      "ordenes": "124"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "287",
-      "unidades": "31062",
-      "ordenes": "90"
+      "tareas": "289",
+      "unidades": "31070",
+      "ordenes": "92"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -438,18 +438,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "152",
-      "disponibles": "87",
-      "porcentaje": "63.6 %"
+      "ocupadas": "150",
+      "disponibles": "89",
+      "porcentaje": "62.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "499",
-      "disponibles": "194",
-      "porcentaje": "72.0 %"
+      "ocupadas": "500",
+      "disponibles": "193",
+      "porcentaje": "72.2 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/08/2026 15:15",
+  "timestamp": "21/08/2026 15:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "51",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "88.2 %",
+      "valor": "88.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "86",
+      "valor": "95",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "21-08",
-      "valor": 51.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -131,7 +131,7 @@
     },
     {
       "label": "AGO",
-      "valor": 88.2
+      "valor": 88.1
     }
   ],
   "picking_mensual": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1348.0
+      "valor": 1351.0
     }
   ],
   "promedio_ruta": [
@@ -237,7 +237,7 @@
     },
     {
       "label": "AGO",
-      "valor": 491.0
+      "valor": 494.0
     }
   ],
   "fillrate_mensual": [
@@ -277,13 +277,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2066",
-      "porcentaje": "34.0 %"
+      "total": "2069",
+      "porcentaje": "34.1 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1223",
-      "porcentaje": "20.2 %"
+      "porcentaje": "20.1 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -305,9 +305,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "114",
-      "unidades": "9537",
-      "ordenes": "55"
+      "tareas": "117",
+      "unidades": "9547",
+      "ordenes": "56"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/08/2026 09:30",
+  "timestamp": "22/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -110,6 +110,10 @@
     {
       "label": "21-08",
       "valor": 146.0
+    },
+    {
+      "label": "22-08",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +181,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2279.0
+      "valor": 2280.0
     }
   ],
   "promedio_ruta": [
@@ -261,7 +265,7 @@
     },
     {
       "label": "AGO",
-      "valor": 911.0
+      "valor": 916.0
     }
   ],
   "fillrate_mensual": [
@@ -357,9 +361,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "3",
-      "unidades": "36",
-      "ordenes": "3"
+      "tareas": "4",
+      "unidades": "39",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA SANTIAGO",

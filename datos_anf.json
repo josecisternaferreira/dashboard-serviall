@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/08/2026 11:46",
+  "timestamp": "24/08/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "50",
+      "valor": "60",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "58",
+      "valor": "72",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "24-08",
-      "valor": 50.0
+      "valor": 60.0
     }
   ],
   "cumplimiento": [
@@ -169,7 +169,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1401.0
+      "valor": 1411.0
     }
   ],
   "promedio_ruta": [
@@ -241,7 +241,7 @@
     },
     {
       "label": "AGO",
-      "valor": 494.0
+      "valor": 495.0
     }
   ],
   "fillrate_mensual": [
@@ -281,13 +281,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2084",
+      "total": "2087",
       "porcentaje": "34.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1244",
-      "porcentaje": "20.4 %"
+      "total": "1249",
+      "porcentaje": "20.5 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -296,7 +296,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "601",
+      "total": "603",
       "porcentaje": "9.9 %"
     },
     {
@@ -309,23 +309,23 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "22",
-      "unidades": "7551",
-      "ordenes": "6"
+      "tareas": "27",
+      "unidades": "7697",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "20",
-      "unidades": "4807",
-      "ordenes": "14"
+      "tareas": "23",
+      "unidades": "4959",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "8",
-      "unidades": "14",
-      "ordenes": "6"
+      "tareas": "10",
+      "unidades": "16",
+      "ordenes": "8"
     }
   ],
   "ocupacion": [
@@ -352,8 +352,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1111",
-      "disponibles": "227",
+      "ocupadas": "1110",
+      "disponibles": "228",
       "porcentaje": "83.0 %"
     },
     {
@@ -388,9 +388,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "233",
-      "disponibles": "176",
-      "porcentaje": "57.0 %"
+      "ocupadas": "234",
+      "disponibles": "175",
+      "porcentaje": "57.2 %"
     }
   ]
 }

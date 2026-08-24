@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/08/2026 12:00",
+  "timestamp": "24/08/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "9",
+      "valor": "17",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "2",
+      "valor": "3",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "14",
+      "valor": "24",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "24-08",
-      "valor": 9.0
+      "valor": 17.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2289.0
+      "valor": 2297.0
     }
   ],
   "promedio_ruta": [
@@ -203,7 +203,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 268.0
+      "valor": 269.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -324,8 +324,8 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1324",
-      "porcentaje": "14.6 %"
+      "total": "1328",
+      "porcentaje": "14.7 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -337,16 +337,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "8",
-      "unidades": "799",
-      "ordenes": "7"
+      "tareas": "12",
+      "unidades": "811",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "1",
-      "unidades": "10",
-      "ordenes": "1"
+      "tareas": "5",
+      "unidades": "158",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [

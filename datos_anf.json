@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/08/2026 09:46",
+  "timestamp": "24/08/2026 10:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "21",
+      "valor": "28",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "22",
+      "valor": "36",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "24-08",
-      "valor": 21.0
+      "valor": 28.0
     }
   ],
   "cumplimiento": [
@@ -169,17 +169,17 @@
     },
     {
       "label": "AGO",
-      "valor": 1372.0
+      "valor": 1379.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 965.0
+      "valor": 966.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 284.0
+      "valor": 285.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -281,12 +281,12 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2078",
+      "total": "2080",
       "porcentaje": "34.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1229",
+      "total": "1234",
       "porcentaje": "20.3 %"
     },
     {
@@ -302,23 +302,23 @@
     {
       "operador": "LUIS ARDILES",
       "total": "549",
-      "porcentaje": "9.1 %"
+      "porcentaje": "9.0 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "14",
-      "unidades": "4641",
-      "ordenes": "8"
+      "tareas": "16",
+      "unidades": "4644",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "7",
-      "unidades": "3537",
-      "ordenes": "1"
+      "tareas": "12",
+      "unidades": "7117",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -345,9 +345,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1117",
-      "disponibles": "221",
-      "porcentaje": "83.5 %"
+      "ocupadas": "1115",
+      "disponibles": "223",
+      "porcentaje": "83.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -2,7 +2,11 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="refresh" content="900">
+<!-- Recarga cada 15 min para tomar cambios del HTML en la TV de bodega.
+     Va en JS y no en <meta refresh> porque dentro del rotador (tv.html) la
+     recarga la hace el padre mientras el tablero esta OCULTO: un meta refresh
+     no se puede cancelar desde afuera y su parpadeo se veria en pantalla. -->
+<script>if(window.top===window.self)setTimeout(function(){location.reload();},900000);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Centro de Control Operacional — Servi-All</title>
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">

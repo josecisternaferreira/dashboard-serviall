@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/08/2026 13:16",
+  "timestamp": "24/08/2026 13:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "63",
+      "valor": "73",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "79",
+      "valor": "84",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "24-08",
-      "valor": 63.0
+      "valor": 73.0
     }
   ],
   "cumplimiento": [
@@ -169,7 +169,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1414.0
+      "valor": 1424.0
     }
   ],
   "promedio_ruta": [
@@ -281,8 +281,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2087",
-      "porcentaje": "34.2 %"
+      "total": "2096",
+      "porcentaje": "34.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -291,7 +291,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "639",
+      "total": "640",
       "porcentaje": "10.5 %"
     },
     {
@@ -308,6 +308,13 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "32",
+      "unidades": "6121",
+      "ordenes": "21"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
       "tareas": "30",
       "unidades": "8001",
@@ -315,17 +322,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "23",
-      "unidades": "4959",
-      "ordenes": "17"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
       "tareas": "10",
       "unidades": "16",
       "ordenes": "8"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "1",
+      "unidades": "5150",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -343,18 +350,18 @@
       "area": "Z-CANTI",
       "tipo": "ACTIVO",
       "total": "4",
-      "ocupadas": "2",
-      "disponibles": "2",
-      "porcentaje": "50.0 %"
+      "ocupadas": "3",
+      "disponibles": "1",
+      "porcentaje": "75.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1109",
-      "disponibles": "229",
-      "porcentaje": "82.9 %"
+      "ocupadas": "1108",
+      "disponibles": "230",
+      "porcentaje": "82.8 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -388,9 +395,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "228",
-      "disponibles": "181",
-      "porcentaje": "55.7 %"
+      "ocupadas": "229",
+      "disponibles": "180",
+      "porcentaje": "56.0 %"
     }
   ]
 }

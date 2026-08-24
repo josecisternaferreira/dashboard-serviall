@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/08/2026 13:00",
+  "timestamp": "24/08/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "34",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.8 %",
+      "valor": "92.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "24",
+      "valor": "58",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "24-08",
-      "valor": 17.0
+      "valor": 34.0
     }
   ],
   "cumplimiento": [
@@ -151,7 +151,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.8
+      "valor": 92.9
     }
   ],
   "picking_mensual": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2297.0
+      "valor": 2314.0
     }
   ],
   "promedio_ruta": [
@@ -203,7 +203,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 269.0
+      "valor": 271.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -269,7 +269,7 @@
     },
     {
       "label": "AGO",
-      "valor": 953.0
+      "valor": 966.0
     }
   ],
   "fillrate_mensual": [
@@ -310,7 +310,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1970",
-      "porcentaje": "21.8 %"
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -320,12 +320,12 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1345",
-      "porcentaje": "14.9 %"
+      "porcentaje": "14.8 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1328",
-      "porcentaje": "14.7 %"
+      "porcentaje": "14.6 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -337,9 +337,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "12",
-      "unidades": "811",
-      "ordenes": "10"
+      "tareas": "29",
+      "unidades": "1071",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -373,9 +373,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "36",
-      "ocupadas": "16",
-      "disponibles": "20",
-      "porcentaje": "44.4 %"
+      "ocupadas": "15",
+      "disponibles": "21",
+      "porcentaje": "41.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",

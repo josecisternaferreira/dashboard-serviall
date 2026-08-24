@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Centro de Control · Rotación — Servi-All</title>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<!--
+  ROTADOR PARA LA TV DE BODEGA
+  ============================
+  Un solo televisor, dos bodegas: esta pagina monta los dos tableros y los va
+  alternando. NO es una tercera copia del dashboard: carga index.html e
+  index_anf.html tal cual en iframes, asi que cualquier cambio en los gemelos
+  se ve aca sin tocar este archivo (la regla de no duplicar el dashboard, que
+  fue lo que dejo mobile.html desactualizado, se mantiene).
+
+  Por que dos iframes montados a la vez y no uno que cambia de src:
+  el tablero tarda ~2 s en pintar sus graficos. Con los dos ya cargados el
+  cambio es un fundido instantaneo; con uno solo habria un parpadeo en blanco
+  cada 30 s. Si el equipo de la TV es muy justo de memoria existe
+  ?modo=liviano, que usa un solo iframe a cambio de ese parpadeo.
+
+  Parametros de URL (todos opcionales):
+    ?seg=45          segundos por bodega (5 a 600; queda guardado en el equipo)
+    ?inicio=1        con cual parte (0 = Santiago, 1 = Antofagasta)
+    ?modo=liviano    un solo iframe, para equipos con poca memoria
+-->
+<style>
+:root{
+  --brand:#D0191A;
+  --ink:#1a1d21;  --ink-2:#5c6670;  --ink-3:#8a939c;
+  --line:#e3e5e8; --surface:#fff;   --bg:#f4f5f7;
+  --r:6px;
+  --sombra:0 2px 10px rgba(16,24,40,.10);
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{height:100%;overflow:hidden;background:var(--bg);}
+body{font-family:'Public Sans',-apple-system,Segoe UI,sans-serif;color:var(--ink);
+     -webkit-font-smoothing:antialiased;}
+body.quieto{cursor:none;}
+
+/* ---- Tableros ---------------------------------------------------------- */
+.marco{position:fixed;inset:0;}
+.pantalla{position:absolute;inset:0;width:100%;height:100%;border:0;
+          opacity:0;transition:opacity .45s ease;
+          /* Sin eventos mientras rota: asi el mouse llega a esta pagina y
+             cualquier movimiento despierta los controles. En pausa se le
+             devuelven al tablero visible para poder explorar los graficos. */
+          pointer-events:none;}
+.pantalla.activa{opacity:1;z-index:1;}
+
+/* ---- Barra de avance --------------------------------------------------- */
+.barra{position:fixed;top:0;left:0;right:0;height:4px;background:rgba(0,0,0,.06);z-index:10;}
+.barra span{display:block;height:100%;width:0;background:var(--brand);transition:width .2s linear;}
+body.pausado .barra span{background:var(--ink-3);}
+
+/* ---- Panel de control -------------------------------------------------- */
+.panel{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);z-index:11;
+       display:flex;align-items:center;gap:6px;padding:6px;
+       background:rgba(255,255,255,.94);backdrop-filter:blur(6px);
+       border:1px solid var(--line);border-radius:10px;box-shadow:var(--sombra);
+       transition:opacity .25s ease,transform .25s ease;}
+.panel.oculto{opacity:0;transform:translateX(-50%) translateY(14px);pointer-events:none;}
+.btn{border:0;background:transparent;color:var(--ink-2);cursor:pointer;
+     font-family:inherit;font-size:16px;line-height:1;
+     min-width:34px;height:32px;border-radius:var(--r);}
+.btn:hover{background:var(--bg);color:var(--ink);}
+.pill{border:0;background:transparent;cursor:pointer;font-family:inherit;
+      font-size:13px;font-weight:500;color:var(--ink-2);
+      padding:0 12px;height:32px;border-radius:var(--r);white-space:nowrap;}
+.pill:hover{background:var(--bg);}
+.pill.on{background:var(--brand);color:#fff;font-weight:600;}
+.sep{width:1px;height:20px;background:var(--line);margin:0 2px;}
+.seg{border:0;background:transparent;cursor:pointer;font-family:inherit;
+     font-size:12px;font-weight:500;color:var(--ink-3);height:32px;
+     padding:0 8px;border-radius:var(--r);letter-spacing:.02em;}
+.seg:hover{background:var(--bg);color:var(--ink-2);}
+
+/* ---- Aviso pasajero ---------------------------------------------------- */
+.aviso{position:fixed;top:16px;left:50%;transform:translateX(-50%) translateY(-8px);
+       z-index:12;background:var(--ink);color:#fff;font-size:13px;font-weight:500;
+       padding:7px 14px;border-radius:var(--r);opacity:0;
+       transition:opacity .25s ease,transform .25s ease;pointer-events:none;}
+.aviso.ver{opacity:.92;transform:translateX(-50%) translateY(0);}
+
+/* En pantallas chicas el panel no tiene por que ocupar todo el ancho */
+@media (max-width:600px){
+  .panel{bottom:10px;}
+  .pill{padding:0 9px;font-size:12px;}
+}
+</style>
+</head>
+<body>
+
+<div class="marco" id="marco"></div>
+<div class="barra"><span id="avance"></span></div>
+
+<div class="panel" id="panel">
+  <button class="btn" id="b-prev" title="Anterior (flecha izquierda)">&#8249;</button>
+  <div id="pills" style="display:flex;gap:4px;"></div>
+  <button class="btn" id="b-next" title="Siguiente (flecha derecha)">&#8250;</button>
+  <span class="sep"></span>
+  <button class="btn" id="b-pausa" title="Pausar / reanudar (espacio)">&#10073;&#10073;</button>
+  <button class="seg" id="b-seg" title="Segundos por bodega (teclas + y -)">30 s</button>
+  <button class="btn" id="b-full" title="Pantalla completa (F)">&#9974;</button>
+</div>
+
+<div class="aviso" id="aviso"></div>
+
+<script>
+/* ==========================================================================
+   BODEGAS - lo unico que hay que tocar si algun dia se suma una tercera.
+   La rotacion, los botones y las teclas 1..9 se arman solos desde esta lista.
+   ========================================================================== */
+const BODEGAS = [
+  { nombre:"Santiago",    archivo:"index.html"     },
+  { nombre:"Antofagasta", archivo:"index_anf.html" }
+];
+
+const CFG = {
+  segDefecto     : 30,   // segundos por bodega
+  segMin         : 5,
+  segMax         : 600,
+  pausaMaxMin    : 5,    // si alguien deja pausado y se va, reanuda solo
+  recargaMin     : 30,   // cada cuanto se recarga un tablero (siempre oculto)
+  reinicioHoras  : 6,    // recarga del propio rotador: toma cambios del HTML
+  ocultarSeg     : 4,    // inactividad antes de esconder panel y cursor
+  presets        : [15,30,45,60,90]
+};
+
+const P        = new URLSearchParams(location.search);
+const liviano  = P.get("modo") === "liviano";
+const marco    = document.getElementById("marco");
+const panel    = document.getElementById("panel");
+const avance   = document.getElementById("avance");
+const pills    = document.getElementById("pills");
+const bPausa   = document.getElementById("b-pausa");
+const bSeg     = document.getElementById("b-seg");
+const elAviso  = document.getElementById("aviso");
+
+/* --- Preferencia de segundos: URL > lo guardado en el equipo > por defecto.
+       Se guarda para que un corte de luz no devuelva la TV al valor de fabrica. */
+function leerSeg(){
+  let v = parseInt(P.get("seg"), 10);
+  if(!v){ try{ v = parseInt(localStorage.getItem("tv_seg"), 10); }catch(e){} }
+  if(!v || isNaN(v)) v = CFG.segDefecto;
+  return Math.min(CFG.segMax, Math.max(CFG.segMin, v));
+}
+let seg = leerSeg();
+function guardarSeg(){ try{ localStorage.setItem("tv_seg", seg); }catch(e){} }
+
+/* --- Estado -------------------------------------------------------------- */
+let idx          = Math.min(BODEGAS.length-1, Math.max(0, parseInt(P.get("inicio"),10) || 0));
+let transcurrido = 0;      // ms mostrando la bodega actual
+let pausado      = false;
+let msPausa      = 0;
+let ultimo       = performance.now();
+const arranque   = Date.now();
+const frames     = [];
+const recargado  = BODEGAS.map(() => Date.now());
+
+/* Cada carga lleva sello de tiempo: GitHub Pages manda Cache-Control de 10 min
+   y sin esto la TV podria quedarse con una version vieja del tablero. */
+function urlDe(i){ return BODEGAS[i].archivo + "?tv=" + Date.now(); }
+
+/* --- Montaje de los tableros --------------------------------------------- */
+if(liviano){
+  const f = document.createElement("iframe");
+  f.className = "pantalla activa";
+  f.title = "Bodega " + BODEGAS[idx].nombre;
+  f.src = urlDe(idx);
+  marco.appendChild(f); frames.push(f);
+}else{
+  BODEGAS.forEach((b,i) => {
+    const f = document.createElement("iframe");
+    f.className = "pantalla" + (i === idx ? " activa" : "");
+    f.title = "Bodega " + b.nombre;
+    f.src = urlDe(i);
+    marco.appendChild(f); frames.push(f);
+  });
+}
+
+/* --- Botones de bodega --------------------------------------------------- */
+BODEGAS.forEach((b,i) => {
+  const p = document.createElement("button");
+  p.className = "pill"; p.textContent = b.nombre;
+  p.title = "Ver " + b.nombre + " (tecla " + (i+1) + ")";
+  p.onclick = () => ir(i, true);
+  pills.appendChild(p);
+});
+function pintarPills(){
+  [...pills.children].forEach((p,i) => p.classList.toggle("on", i === idx));
+}
+
+/* --- Cambio de bodega ---------------------------------------------------- */
+function ir(n, porUsuario){
+  const viejo = idx;
+  idx = (n + BODEGAS.length) % BODEGAS.length;
+  transcurrido = 0;
+  avance.style.width = "0%";
+
+  if(liviano){
+    frames[0].src = urlDe(idx);
+    frames[0].title = "Bodega " + BODEGAS[idx].nombre;
+    recargado[idx] = Date.now();
+  }else{
+    frames.forEach((f,i) => f.classList.toggle("activa", i === idx));
+    /* El tablero que acaba de quedar oculto es el momento exacto para
+       recargarlo: nadie ve el parpadeo de la recarga. */
+    if(viejo !== idx && Date.now() - recargado[viejo] > CFG.recargaMin*60000){
+      frames[viejo].src = urlDe(viejo);
+      recargado[viejo] = Date.now();
+    }
+  }
+  aplicarEventos();
+  pintarPills();
+  if(porUsuario) avisar(BODEGAS[idx].nombre);
+}
+
+/* --- Pausa / exploracion -------------------------------------------------- */
+function aplicarEventos(){
+  /* En pausa el tablero visible recibe el mouse (tooltips de los graficos);
+     rotando no, para que esta pagina siga viendo el movimiento del mouse. */
+  frames.forEach((f,i) => {
+    const visible = liviano || i === idx;
+    f.style.pointerEvents = (pausado && visible) ? "auto" : "none";
+  });
+}
+function pausar(v, callado){
+  pausado = v; msPausa = 0;
+  document.body.classList.toggle("pausado", pausado);
+  bPausa.innerHTML = pausado ? "&#9654;" : "&#10073;&#10073;";
+  bPausa.title = (pausado ? "Reanudar" : "Pausar") + " (espacio)";
+  aplicarEventos();
+  if(pausado){ clearTimeout(tOculto); panel.classList.remove("oculto");
+               document.body.classList.remove("quieto"); }
+  else programarOcultar();
+  if(!callado) avisar(pausado ? "Pausado · " + BODEGAS[idx].nombre
+                              : "Rotando cada " + seg + " s");
+}
+
+/* --- Intervalo ------------------------------------------------------------ */
+function ponerSeg(v, callado){
+  seg = Math.min(CFG.segMax, Math.max(CFG.segMin, v));
+  bSeg.textContent = seg + " s";
+  guardarSeg();
+  if(transcurrido > seg*1000) transcurrido = 0;
+  if(!callado) avisar("Cada " + seg + " s por bodega");
+}
+bSeg.onclick = () => {
+  const sig = CFG.presets.find(v => v > seg);
+  ponerSeg(sig !== undefined ? sig : CFG.presets[0]);
+};
+
+/* --- Panel que se esconde solo -------------------------------------------- */
+let tOculto;
+function programarOcultar(){
+  clearTimeout(tOculto);
+  if(pausado) return;                       // en pausa el panel queda a la vista
+  tOculto = setTimeout(() => {
+    panel.classList.add("oculto");
+    document.body.classList.add("quieto");  // y se esconde el cursor
+  }, CFG.ocultarSeg*1000);
+}
+function despertar(){
+  panel.classList.remove("oculto");
+  document.body.classList.remove("quieto");
+  programarOcultar();
+}
+
+/* --- Aviso pasajero -------------------------------------------------------- */
+let tAviso;
+function avisar(txt){
+  elAviso.textContent = txt;
+  elAviso.classList.add("ver");
+  clearTimeout(tAviso);
+  tAviso = setTimeout(() => elAviso.classList.remove("ver"), 1800);
+}
+
+/* --- Reloj de la rotacion ---------------------------------------------------
+   Un solo temporizador a 5 veces por segundo, midiendo con marcas de tiempo
+   reales: si el navegador frena los temporizadores (pestana en segundo plano)
+   la cuenta no se desfasa. El salto se acota para que al volver al frente no
+   cambie de bodega de golpe.                                                 */
+setInterval(() => {
+  const ahora = performance.now();
+  const dt = Math.min(ahora - ultimo, 2000);
+  ultimo = ahora;
+
+  if(pausado){
+    msPausa += dt;
+    if(msPausa > CFG.pausaMaxMin*60000) pausar(false);  // nadie la deja pausada para siempre
+    return;
+  }
+
+  transcurrido += dt;
+  avance.style.width = Math.min(100, transcurrido/(seg*1000)*100) + "%";
+
+  if(transcurrido >= seg*1000){
+    /* El reinicio del rotador se hace justo en un cambio de bodega: la pantalla
+       ya iba a moverse, asi que la recarga pasa desapercibida. Sirve para tomar
+       una version nueva de este archivo sin ir a la TV. */
+    if(Date.now() - arranque > CFG.reinicioHoras*3600000){ location.reload(); return; }
+    ir(idx + 1);
+  }
+}, 200);
+
+/* --- Teclado y mouse ------------------------------------------------------- */
+document.addEventListener("keydown", e => {
+  despertar();
+  const k = e.key;
+  if(k === " " || k === "Spacebar"){ e.preventDefault(); pausar(!pausado); }
+  else if(k === "ArrowRight") ir(idx + 1, true);
+  else if(k === "ArrowLeft")  ir(idx - 1, true);
+  else if(k === "+" || k === "=") ponerSeg(seg + 5);
+  else if(k === "-" || k === "_") ponerSeg(seg - 5);
+  else if(k.toLowerCase() === "f") pantallaCompleta();
+  else if(k >= "1" && k <= String(Math.min(9, BODEGAS.length))) ir(parseInt(k,10) - 1, true);
+});
+document.addEventListener("mousemove", despertar);
+document.addEventListener("touchstart", despertar, {passive:true});
+document.addEventListener("click", e => {
+  if(panel.contains(e.target)) return;   // los botones se manejan solos
+  pausar(!pausado);
+});
+
+document.getElementById("b-prev").onclick = () => ir(idx - 1, true);
+document.getElementById("b-next").onclick = () => ir(idx + 1, true);
+bPausa.onclick = () => pausar(!pausado);
+
+function pantallaCompleta(){
+  if(document.fullscreenElement) document.exitFullscreen();
+  else document.documentElement.requestFullscreen().catch(() => {
+    avisar("El navegador no dejo pasar a pantalla completa");
+  });
+}
+document.getElementById("b-full").onclick = pantallaCompleta;
+
+/* --- Arranque -------------------------------------------------------------- */
+ponerSeg(seg, true);
+pintarPills();
+aplicarEventos();
+avisar(BODEGAS[idx].nombre + " · rotando cada " + seg + " s");
+programarOcultar();
+</script>
+</body>
+</html>

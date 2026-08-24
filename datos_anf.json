@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/08/2026 10:15",
+  "timestamp": "24/08/2026 10:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "28",
+      "valor": "35",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "36",
+      "valor": "44",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "24-08",
-      "valor": 28.0
+      "valor": 35.0
     }
   ],
   "cumplimiento": [
@@ -169,7 +169,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1379.0
+      "valor": 1386.0
     }
   ],
   "promedio_ruta": [
@@ -281,12 +281,12 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2080",
+      "total": "2084",
       "porcentaje": "34.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1234",
+      "total": "1237",
       "porcentaje": "20.3 %"
     },
     {
@@ -309,16 +309,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "16",
-      "unidades": "4644",
-      "ordenes": "10"
+      "tareas": "20",
+      "unidades": "4807",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "12",
-      "unidades": "7117",
-      "ordenes": "5"
+      "tareas": "15",
+      "unidades": "7442",
+      "ordenes": "6"
     }
   ],
   "ocupacion": [
@@ -345,9 +345,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1338",
-      "ocupadas": "1115",
-      "disponibles": "223",
-      "porcentaje": "83.3 %"
+      "ocupadas": "1112",
+      "disponibles": "226",
+      "porcentaje": "83.1 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

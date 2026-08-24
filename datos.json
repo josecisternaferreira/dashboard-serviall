@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/08/2026 09:30",
+  "timestamp": "24/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "3",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "4",
+      "valor": "8",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "24-08",
-      "valor": 3.0
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2283.0
+      "valor": 2285.0
     }
   ],
   "promedio_ruta": [
@@ -269,7 +269,7 @@
     },
     {
       "label": "AGO",
-      "valor": 932.0
+      "valor": 933.0
     }
   ],
   "fillrate_mensual": [
@@ -324,7 +324,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1323",
+      "total": "1324",
       "porcentaje": "14.6 %"
     },
     {
@@ -337,9 +337,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "3",
-      "unidades": "216",
-      "ordenes": "3"
+      "tareas": "4",
+      "unidades": "219",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
+      "tareas": "1",
+      "unidades": "10",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

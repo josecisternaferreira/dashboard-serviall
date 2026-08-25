@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/08/2026 08:45",
+  "timestamp": "25/08/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -102,6 +102,10 @@
     {
       "label": "24-08",
       "valor": 129.0
+    },
+    {
+      "label": "25-08",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -169,7 +173,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1485.0
+      "valor": 1488.0
     }
   ],
   "promedio_ruta": [
@@ -179,7 +183,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 286.0
+      "valor": 287.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -282,7 +286,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2115",
-      "porcentaje": "34.3 %"
+      "porcentaje": "34.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -296,8 +300,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "614",
-      "porcentaje": "9.9 %"
+      "total": "617",
+      "porcentaje": "10.0 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -323,9 +327,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "21",
-      "unidades": "112",
-      "ordenes": "17"
+      "tareas": "24",
+      "unidades": "1852",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -402,9 +406,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "230",
-      "disponibles": "179",
-      "porcentaje": "56.2 %"
+      "ocupadas": "231",
+      "disponibles": "178",
+      "porcentaje": "56.5 %"
     }
   ]
 }

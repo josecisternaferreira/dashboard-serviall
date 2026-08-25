@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/08/2026 09:01",
+  "timestamp": "25/08/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "2",
+      "valor": "6",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "1",
+      "valor": "3",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -118,6 +118,10 @@
     {
       "label": "24-08",
       "valor": 41.0
+    },
+    {
+      "label": "25-08",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +189,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2321.0
+      "valor": 2322.0
     }
   ],
   "promedio_ruta": [
@@ -324,7 +328,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1328",
+      "total": "1329",
       "porcentaje": "14.6 %"
     },
     {
@@ -344,9 +348,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "5",
-      "unidades": "158",
-      "ordenes": "5"
+      "tareas": "6",
+      "unidades": "200",
+      "ordenes": "6"
     }
   ],
   "ocupacion": [
@@ -427,9 +431,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "510",
-      "disponibles": "183",
-      "porcentaje": "73.6 %"
+      "ocupadas": "511",
+      "disponibles": "182",
+      "porcentaje": "73.7 %"
     }
   ]
 }

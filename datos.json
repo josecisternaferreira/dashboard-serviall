@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/08/2026 12:00",
+  "timestamp": "25/08/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "97",
+      "valor": "98",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "8",
+      "valor": "10",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "label": "25-08",
-      "valor": 97.0
+      "valor": 98.0
     }
   ],
   "cumplimiento": [
@@ -189,7 +189,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2418.0
+      "valor": 2419.0
     }
   ],
   "promedio_ruta": [
@@ -334,16 +334,16 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1161",
-      "porcentaje": "12.7 %"
+      "porcentaje": "12.6 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "72",
-      "unidades": "2484",
-      "ordenes": "35"
+      "tareas": "73",
+      "unidades": "2664",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -400,9 +400,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "740",
-      "disponibles": "720",
-      "porcentaje": "50.7 %"
+      "ocupadas": "741",
+      "disponibles": "719",
+      "porcentaje": "50.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -445,9 +445,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "507",
-      "disponibles": "186",
-      "porcentaje": "73.2 %"
+      "ocupadas": "508",
+      "disponibles": "185",
+      "porcentaje": "73.3 %"
     }
   ]
 }

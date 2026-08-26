@@ -1,14 +1,14 @@
 {
-  "timestamp": "26/08/2026 15:01",
+  "timestamp": "26/08/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "32",
+      "valor": "36",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "51",
+      "valor": "57",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "65",
+      "valor": "76",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -122,6 +122,10 @@
     {
       "label": "25-08",
       "valor": 98.0
+    },
+    {
+      "label": "26-08",
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -189,7 +193,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2421.0
+      "valor": 2426.0
     }
   ],
   "promedio_ruta": [
@@ -207,7 +211,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 271.0
+      "valor": 272.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -273,7 +277,7 @@
     },
     {
       "label": "AGO",
-      "valor": 997.0
+      "valor": 998.0
     }
   ],
   "fillrate_mensual": [
@@ -318,8 +322,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1766",
-      "porcentaje": "20.1 %"
+      "total": "1771",
+      "porcentaje": "20.2 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -365,6 +369,13 @@
       "tareas": "11",
       "unidades": "739",
       "ordenes": "1"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "DGANDO",
+      "tareas": "5",
+      "unidades": "331",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

@@ -1,9 +1,9 @@
 {
-  "timestamp": "26/08/2026 12:30",
+  "timestamp": "26/08/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "23",
+      "valor": "29",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.8 %",
+      "valor": "92.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "35",
+      "valor": "43",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "50",
+      "valor": "58",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.8
+      "valor": 92.3
     }
   ],
   "picking_mensual": [
@@ -273,7 +273,7 @@
     },
     {
       "label": "AGO",
-      "valor": 991.0
+      "valor": 997.0
     }
   ],
   "fillrate_mensual": [
@@ -445,9 +445,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "508",
-      "disponibles": "185",
-      "porcentaje": "73.3 %"
+      "ocupadas": "509",
+      "disponibles": "184",
+      "porcentaje": "73.4 %"
     }
   ]
 }

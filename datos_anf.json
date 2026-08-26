@@ -1,14 +1,14 @@
 {
-  "timestamp": "26/08/2026 09:45",
+  "timestamp": "26/08/2026 10:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "2",
+      "valor": "3",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "66",
+      "valor": "109",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "12",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -106,6 +106,10 @@
     {
       "label": "25-08",
       "valor": 75.0
+    },
+    {
+      "label": "26-08",
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -173,7 +177,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1560.0
+      "valor": 1566.0
     }
   ],
   "promedio_ruta": [
@@ -203,7 +207,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 79.0
+      "valor": 80.0
     },
     {
       "label": "AGUNSA",
@@ -285,13 +289,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2111",
-      "porcentaje": "35.4 %"
+      "total": "2117",
+      "porcentaje": "35.5 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1225",
-      "porcentaje": "20.6 %"
+      "porcentaje": "20.5 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -313,9 +317,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "84",
-      "unidades": "9618",
-      "ordenes": "34"
+      "tareas": "90",
+      "unidades": "10839",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

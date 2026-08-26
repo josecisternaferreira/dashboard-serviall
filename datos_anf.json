@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/08/2026 16:16",
+  "timestamp": "26/08/2026 16:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "43",
+      "valor": "45",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "9",
+      "valor": "17",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "54",
+      "valor": "58",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "26-08",
-      "valor": 43.0
+      "valor": 45.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1603.0
+      "valor": 1605.0
     }
   ],
   "promedio_ruta": [
@@ -211,7 +211,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 30.0
+      "valor": 31.0
     },
     {
       "label": "REPOSICION",
@@ -289,7 +289,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2123",
+      "total": "2125",
       "porcentaje": "35.4 %"
     },
     {
@@ -317,8 +317,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "96",
-      "unidades": "10974",
+      "tareas": "98",
+      "unidades": "11134",
       "ordenes": "41"
     },
     {
@@ -381,9 +381,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1114",
-      "disponibles": "225",
-      "porcentaje": "83.2 %"
+      "ocupadas": "1118",
+      "disponibles": "221",
+      "porcentaje": "83.5 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

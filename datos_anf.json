@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/08/2026 12:46",
+  "timestamp": "27/08/2026 13:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "31",
+      "valor": "36",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "label": "27-08",
-      "valor": 31.0
+      "valor": 36.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +181,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1639.0
+      "valor": 1644.0
     }
   ],
   "promedio_ruta": [
@@ -293,8 +293,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2128",
-      "porcentaje": "35.2 %"
+      "total": "2133",
+      "porcentaje": "35.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -321,9 +321,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "101",
-      "unidades": "11740",
-      "ordenes": "44"
+      "tareas": "106",
+      "unidades": "13009",
+      "ordenes": "45"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -421,9 +421,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "235",
-      "disponibles": "174",
-      "porcentaje": "57.5 %"
+      "ocupadas": "236",
+      "disponibles": "173",
+      "porcentaje": "57.7 %"
     }
   ]
 }

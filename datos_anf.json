@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/08/2026 15:45",
+  "timestamp": "27/08/2026 16:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "88",
+      "valor": "100",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "88.6 %",
+      "valor": "88.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "21",
+      "valor": "29",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "21",
+      "valor": "29",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "121",
+      "valor": "128",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -113,7 +113,7 @@
     },
     {
       "label": "27-08",
-      "valor": 88.0
+      "valor": 100.0
     }
   ],
   "cumplimiento": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "AGO",
-      "valor": 88.6
+      "valor": 88.4
     }
   ],
   "picking_mensual": [
@@ -181,13 +181,13 @@
     },
     {
       "label": "AGO",
-      "valor": 1696.0
+      "valor": 1708.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 985.0
+      "valor": 987.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -253,7 +253,7 @@
     },
     {
       "label": "AGO",
-      "valor": 543.0
+      "valor": 544.0
     }
   ],
   "fillrate_mensual": [
@@ -294,12 +294,12 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2155",
-      "porcentaje": "35.4 %"
+      "porcentaje": "35.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1260",
-      "porcentaje": "20.7 %"
+      "total": "1272",
+      "porcentaje": "20.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -328,8 +328,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "104",
-      "unidades": "18521",
+      "tareas": "116",
+      "unidades": "19373",
       "ordenes": "26"
     },
     {
@@ -421,9 +421,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "235",
-      "disponibles": "174",
-      "porcentaje": "57.5 %"
+      "ocupadas": "236",
+      "disponibles": "173",
+      "porcentaje": "57.7 %"
     }
   ]
 }

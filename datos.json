@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/08/2026 09:00",
+  "timestamp": "27/08/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "11",
+      "valor": "72",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "16",
+      "valor": "102",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -129,7 +129,7 @@
     },
     {
       "label": "27-08",
-      "valor": 11.0
+      "valor": 72.0
     }
   ],
   "cumplimiento": [
@@ -197,21 +197,21 @@
     },
     {
       "label": "AGO",
-      "valor": 2461.0
+      "valor": 2522.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1571.0
+      "valor": 1577.0
     },
     {
       "label": "AGUNSA",
-      "valor": 399.0
+      "valor": 400.0
     },
     {
       "label": "SITRANS",
-      "valor": 398.0
+      "valor": 400.0
     },
     {
       "label": "ESTAFETA",
@@ -321,72 +321,79 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1873",
+      "total": "1879",
       "porcentaje": "21.2 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1778",
+      "total": "1790",
       "porcentaje": "20.1 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1374",
-      "porcentaje": "15.6 %"
+      "total": "1381",
+      "porcentaje": "15.5 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1368",
+      "total": "1373",
       "porcentaje": "15.5 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1013",
-      "porcentaje": "11.5 %"
+      "total": "1027",
+      "porcentaje": "11.6 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "75",
-      "unidades": "2705",
-      "ordenes": "38"
+      "tareas": "83",
+      "unidades": "2931",
+      "ordenes": "39"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "51",
-      "unidades": "7737",
+      "tareas": "58",
+      "unidades": "8356",
       "ordenes": "27"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "23",
-      "unidades": "2059",
-      "ordenes": "6"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "FESTUPIÑAN",
-      "tareas": "14",
-      "unidades": "901",
-      "ordenes": "2"
+      "tareas": "28",
+      "unidades": "2331",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "12",
-      "unidades": "4771",
-      "ordenes": "4"
+      "tareas": "24",
+      "unidades": "5245",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "20",
+      "unidades": "5711",
+      "ordenes": "8"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "14",
+      "unidades": "1412",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "4",
-      "unidades": "2450",
-      "ordenes": "2"
+      "tareas": "12",
+      "unidades": "2795",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -420,18 +427,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "36",
-      "ocupadas": "16",
-      "disponibles": "20",
-      "porcentaje": "44.4 %"
+      "ocupadas": "15",
+      "disponibles": "21",
+      "porcentaje": "41.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "750",
-      "disponibles": "710",
-      "porcentaje": "51.4 %"
+      "ocupadas": "748",
+      "disponibles": "712",
+      "porcentaje": "51.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -474,9 +481,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "512",
-      "disponibles": "181",
-      "porcentaje": "73.9 %"
+      "ocupadas": "510",
+      "disponibles": "183",
+      "porcentaje": "73.6 %"
     }
   ]
 }

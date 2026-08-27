@@ -1,14 +1,14 @@
 {
-  "timestamp": "27/08/2026 14:00",
+  "timestamp": "27/08/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "19",
+      "valor": "23",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "263",
+      "valor": "268",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "48",
+      "valor": "52",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "345",
+      "valor": "354",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -129,7 +129,7 @@
     },
     {
       "label": "27-08",
-      "valor": 263.0
+      "valor": 268.0
     }
   ],
   "cumplimiento": [
@@ -197,7 +197,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2714.0
+      "valor": 2719.0
     }
   ],
   "promedio_ruta": [
@@ -349,9 +349,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "143",
-      "unidades": "13611",
-      "ordenes": "46"
+      "tareas": "149",
+      "unidades": "13626",
+      "ordenes": "52"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -481,9 +481,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "514",
-      "disponibles": "179",
-      "porcentaje": "74.2 %"
+      "ocupadas": "515",
+      "disponibles": "178",
+      "porcentaje": "74.3 %"
     }
   ]
 }

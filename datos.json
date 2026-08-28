@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/08/2026 15:30",
+  "timestamp": "28/08/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "136",
+      "valor": "145",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.0 %",
+      "valor": "93.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "180",
+      "valor": "186",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "label": "28-08",
-      "valor": 136.0
+      "valor": 145.0
     }
   ],
   "cumplimiento": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "AGO",
-      "valor": 93.0
+      "valor": 93.2
     }
   ],
   "picking_mensual": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2873.0
+      "valor": 2882.0
     }
   ],
   "promedio_ruta": [
@@ -285,7 +285,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1114.0
+      "valor": 1145.0
     }
   ],
   "fillrate_mensual": [
@@ -335,8 +335,8 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1507",
-      "porcentaje": "16.3 %"
+      "total": "1516",
+      "porcentaje": "16.4 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -346,7 +346,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1039",
-      "porcentaje": "11.3 %"
+      "porcentaje": "11.2 %"
     }
   ],
   "semana_actual": [
@@ -360,9 +360,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "184",
-      "unidades": "14014",
-      "ordenes": "96"
+      "tareas": "193",
+      "unidades": "14107",
+      "ordenes": "100"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,19 +1,19 @@
 {
-  "timestamp": "28/08/2026 13:30",
+  "timestamp": "28/08/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "14",
+      "valor": "20",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "111",
+      "valor": "114",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.9 %",
+      "valor": "93.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "35",
+      "valor": "38",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "31",
+      "valor": "37",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "162",
+      "valor": "168",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "label": "28-08",
-      "valor": 111.0
+      "valor": 114.0
     }
   ],
   "cumplimiento": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "AGO",
-      "valor": 92.9
+      "valor": 93.0
     }
   ],
   "picking_mensual": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2848.0
+      "valor": 2851.0
     }
   ],
   "promedio_ruta": [
@@ -231,7 +231,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 77.0
+      "valor": 78.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -285,7 +285,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1105.0
+      "valor": 1107.0
     }
   ],
   "fillrate_mensual": [
@@ -341,7 +341,7 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1386",
-      "porcentaje": "15.1 %"
+      "porcentaje": "15.0 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -353,9 +353,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "215",
-      "unidades": "15464",
-      "ordenes": "91"
+      "tareas": "218",
+      "unidades": "15490",
+      "ordenes": "93"
     },
     {
       "region": "BODEGA SANTIAGO",

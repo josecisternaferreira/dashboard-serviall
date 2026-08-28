@@ -1,14 +1,14 @@
 {
-  "timestamp": "28/08/2026 14:00",
+  "timestamp": "28/08/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "21",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "114",
+      "valor": "122",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "38",
+      "valor": "46",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "37",
+      "valor": "39",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "168",
+      "valor": "180",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "label": "28-08",
-      "valor": 114.0
+      "valor": 122.0
     }
   ],
   "cumplimiento": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2851.0
+      "valor": 2859.0
     }
   ],
   "promedio_ruta": [
@@ -223,7 +223,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 111.0
+      "valor": 112.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -285,7 +285,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1107.0
+      "valor": 1110.0
     }
   ],
   "fillrate_mensual": [
@@ -353,9 +353,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "218",
-      "unidades": "15490",
-      "ordenes": "93"
+      "tareas": "226",
+      "unidades": "16076",
+      "ordenes": "95"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -440,9 +440,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "760",
-      "disponibles": "700",
-      "porcentaje": "52.1 %"
+      "ocupadas": "762",
+      "disponibles": "698",
+      "porcentaje": "52.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -476,18 +476,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "152",
-      "disponibles": "87",
-      "porcentaje": "63.6 %"
+      "ocupadas": "154",
+      "disponibles": "85",
+      "porcentaje": "64.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "524",
-      "disponibles": "169",
-      "porcentaje": "75.6 %"
+      "ocupadas": "528",
+      "disponibles": "165",
+      "porcentaje": "76.2 %"
     }
   ]
 }

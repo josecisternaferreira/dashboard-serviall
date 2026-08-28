@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/08/2026 14:30",
+  "timestamp": "28/08/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "122",
+      "valor": "125",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "46",
+      "valor": "48",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "label": "28-08",
-      "valor": 122.0
+      "valor": 125.0
     }
   ],
   "cumplimiento": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2859.0
+      "valor": 2862.0
     }
   ],
   "promedio_ruta": [
@@ -231,7 +231,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 78.0
+      "valor": 79.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -285,7 +285,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1110.0
+      "valor": 1112.0
     }
   ],
   "fillrate_mensual": [
@@ -331,11 +331,11 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1812",
-      "porcentaje": "19.7 %"
+      "porcentaje": "19.6 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1494",
+      "total": "1496",
       "porcentaje": "16.2 %"
     },
     {
@@ -360,9 +360,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "171",
-      "unidades": "13825",
-      "ordenes": "92"
+      "tareas": "173",
+      "unidades": "13840",
+      "ordenes": "94"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -404,6 +404,13 @@
       "usuario": "LMAITA",
       "tareas": "1",
       "unidades": "1",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "1",
+      "unidades": "10",
       "ordenes": "1"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/08/2026 13:15",
+  "timestamp": "28/08/2026 13:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "84",
+      "valor": "96",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "91",
+      "valor": "107",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "28-08",
-      "valor": 84.0
+      "valor": 96.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1797.0
+      "valor": 1809.0
     }
   ],
   "promedio_ruta": [
@@ -195,7 +195,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 289.0
+      "valor": 290.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -203,7 +203,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 189.0
+      "valor": 190.0
     },
     {
       "label": "SITRANS",
@@ -257,7 +257,7 @@
     },
     {
       "label": "AGO",
-      "valor": 568.0
+      "valor": 570.0
     }
   ],
   "fillrate_mensual": [
@@ -297,18 +297,18 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2199",
-      "porcentaje": "35.5 %"
+      "total": "2208",
+      "porcentaje": "35.6 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1294",
-      "porcentaje": "20.9 %"
+      "porcentaje": "20.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "653",
-      "porcentaje": "10.5 %"
+      "total": "656",
+      "porcentaje": "10.6 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -318,16 +318,16 @@
     {
       "operador": "LUIS ARDILES",
       "total": "506",
-      "porcentaje": "8.2 %"
+      "porcentaje": "8.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "172",
-      "unidades": "16865",
-      "ordenes": "64"
+      "tareas": "181",
+      "unidades": "17512",
+      "ordenes": "68"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -339,9 +339,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "60",
-      "unidades": "2416",
-      "ordenes": "35"
+      "tareas": "63",
+      "unidades": "2419",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -414,9 +414,9 @@
       "area": "Z-PISO",
       "tipo": "PISO",
       "total": "4",
-      "ocupadas": "2",
-      "disponibles": "2",
-      "porcentaje": "50.0 %"
+      "ocupadas": "3",
+      "disponibles": "1",
+      "porcentaje": "75.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

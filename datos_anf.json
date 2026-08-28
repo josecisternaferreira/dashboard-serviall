@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/08/2026 14:16",
+  "timestamp": "28/08/2026 14:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "97",
+      "valor": "98",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "88.9 %",
+      "valor": "89.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "108",
+      "valor": "111",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "28-08",
-      "valor": 97.0
+      "valor": 98.0
     }
   ],
   "cumplimiento": [
@@ -151,7 +151,7 @@
     },
     {
       "label": "AGO",
-      "valor": 88.9
+      "valor": 89.0
     }
   ],
   "picking_mensual": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1810.0
+      "valor": 1811.0
     }
   ],
   "promedio_ruta": [
@@ -257,7 +257,7 @@
     },
     {
       "label": "AGO",
-      "valor": 570.0
+      "valor": 571.0
     }
   ],
   "fillrate_mensual": [
@@ -363,6 +363,13 @@
       "tareas": "10",
       "unidades": "941",
       "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "1",
+      "unidades": "6",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

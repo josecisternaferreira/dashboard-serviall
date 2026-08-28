@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/08/2026 09:30",
+  "timestamp": "28/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "28",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "11",
+      "valor": "17",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "8",
+      "valor": "9",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "24",
+      "valor": "42",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "label": "28-08",
-      "valor": 17.0
+      "valor": 28.0
     }
   ],
   "cumplimiento": [
@@ -201,13 +201,13 @@
     },
     {
       "label": "AGO",
-      "valor": 2754.0
+      "valor": 2765.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1593.0
+      "valor": 1594.0
     },
     {
       "label": "AGUNSA",
@@ -335,7 +335,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1448",
+      "total": "1452",
       "porcentaje": "15.9 %"
     },
     {
@@ -353,16 +353,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "167",
-      "unidades": "14197",
-      "ordenes": "59"
+      "tareas": "174",
+      "unidades": "14241",
+      "ordenes": "63"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "125",
-      "unidades": "10769",
-      "ordenes": "62"
+      "tareas": "129",
+      "unidades": "10890",
+      "ordenes": "66"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -440,18 +440,18 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "759",
-      "disponibles": "701",
-      "porcentaje": "52.0 %"
+      "ocupadas": "760",
+      "disponibles": "700",
+      "porcentaje": "52.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "40",
-      "disponibles": "1",
-      "porcentaje": "97.6 %"
+      "ocupadas": "39",
+      "disponibles": "2",
+      "porcentaje": "95.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -476,18 +476,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "152",
-      "disponibles": "87",
-      "porcentaje": "63.6 %"
+      "ocupadas": "151",
+      "disponibles": "88",
+      "porcentaje": "63.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "515",
-      "disponibles": "178",
-      "porcentaje": "74.3 %"
+      "ocupadas": "521",
+      "disponibles": "172",
+      "porcentaje": "75.2 %"
     }
   ]
 }

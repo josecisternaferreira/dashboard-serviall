@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/08/2026 09:30",
+  "timestamp": "29/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "9",
+      "valor": "17",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "18",
+      "valor": "22",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -137,7 +137,7 @@
     },
     {
       "label": "29-08",
-      "valor": 9.0
+      "valor": 17.0
     }
   ],
   "cumplimiento": [
@@ -205,13 +205,13 @@
     },
     {
       "label": "AGO",
-      "valor": 2891.0
+      "valor": 2899.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1599.0
+      "valor": 1600.0
     },
     {
       "label": "AGUNSA",
@@ -235,7 +235,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 80.0
+      "valor": 81.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -247,7 +247,7 @@
     },
     {
       "label": "LOBOZA-FINNING",
-      "valor": 14.0
+      "valor": 15.0
     },
     {
       "label": "SQM_MRP",
@@ -289,7 +289,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1145.0
+      "valor": 1146.0
     }
   ],
   "fillrate_mensual": [
@@ -339,8 +339,8 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1521",
-      "porcentaje": "16.4 %"
+      "total": "1525",
+      "porcentaje": "16.5 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -357,16 +357,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "230",
-      "unidades": "16698",
-      "ordenes": "97"
+      "tareas": "234",
+      "unidades": "16733",
+      "ordenes": "101"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "198",
-      "unidades": "17615",
-      "ordenes": "105"
+      "tareas": "202",
+      "unidades": "17812",
+      "ordenes": "109"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -496,9 +496,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "527",
-      "disponibles": "166",
-      "porcentaje": "76.0 %"
+      "ocupadas": "529",
+      "disponibles": "164",
+      "porcentaje": "76.3 %"
     }
   ]
 }

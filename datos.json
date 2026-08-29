@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/08/2026 13:00",
+  "timestamp": "29/08/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "24",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "26",
+      "valor": "28",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -137,7 +137,7 @@
     },
     {
       "label": "29-08",
-      "valor": 24.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -171,7 +171,7 @@
     },
     {
       "label": "AGO",
-      "valor": 93.3
+      "valor": 93.4
     }
   ],
   "picking_mensual": [
@@ -205,7 +205,7 @@
     },
     {
       "label": "AGO",
-      "valor": 2912.0
+      "valor": 2913.0
     }
   ],
   "promedio_ruta": [
@@ -289,7 +289,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1171.0
+      "valor": 1174.0
     }
   ],
   "fillrate_mensual": [
@@ -357,9 +357,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "241",
-      "unidades": "16847",
-      "ordenes": "105"
+      "tareas": "242",
+      "unidades": "16848",
+      "ordenes": "106"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/08/2026 11:16",
+  "timestamp": "31/08/2026 11:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "12",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "16",
+      "valor": "18",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "31-08",
-      "valor": 10.0
+      "valor": 12.0
     }
   ],
   "cumplimiento": [
@@ -189,7 +189,7 @@
     },
     {
       "label": "AGO",
-      "valor": 1831.0
+      "valor": 1833.0
     }
   ],
   "promedio_ruta": [
@@ -261,7 +261,7 @@
     },
     {
       "label": "AGO",
-      "valor": 580.0
+      "valor": 581.0
     }
   ],
   "fillrate_mensual": [
@@ -301,7 +301,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2163",
+      "total": "2164",
       "porcentaje": "35.8 %"
     },
     {
@@ -311,8 +311,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "662",
-      "porcentaje": "10.9 %"
+      "total": "663",
+      "porcentaje": "11.0 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -329,16 +329,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "6",
-      "unidades": "78",
-      "ordenes": "5"
+      "tareas": "7",
+      "unidades": "82",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "4",
-      "unidades": "18",
-      "ordenes": "1"
+      "tareas": "5",
+      "unidades": "343",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

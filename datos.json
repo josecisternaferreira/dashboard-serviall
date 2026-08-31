@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/08/2026 09:30",
+  "timestamp": "31/08/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "22",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "label": "31-08",
-      "valor": 10.0
+      "valor": 22.0
     }
   ],
   "cumplimiento": [
@@ -209,13 +209,13 @@
     },
     {
       "label": "AGO",
-      "valor": 2923.0
+      "valor": 2935.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1602.0
+      "valor": 1603.0
     },
     {
       "label": "AGUNSA",
@@ -344,7 +344,7 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1525",
-      "porcentaje": "16.9 %"
+      "porcentaje": "16.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -361,8 +361,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "9",
-      "unidades": "27",
+      "tareas": "21",
+      "unidades": "72",
       "ordenes": "1"
     },
     {
@@ -406,9 +406,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "762",
-      "disponibles": "698",
-      "porcentaje": "52.2 %"
+      "ocupadas": "760",
+      "disponibles": "700",
+      "porcentaje": "52.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -442,18 +442,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "154",
-      "disponibles": "85",
-      "porcentaje": "64.4 %"
+      "ocupadas": "151",
+      "disponibles": "88",
+      "porcentaje": "63.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "528",
-      "disponibles": "165",
-      "porcentaje": "76.2 %"
+      "ocupadas": "503",
+      "disponibles": "190",
+      "porcentaje": "72.6 %"
     }
   ]
 }

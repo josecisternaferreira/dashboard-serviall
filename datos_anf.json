@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/09/2026 09:46",
+  "timestamp": "01/09/2026 10:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,11 +38,16 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "01-09",
+      "valor": 1.0
+    }
+  ],
   "cumplimiento": [
     {
       "label": "ENE",
@@ -113,6 +118,10 @@
     {
       "label": "AGO",
       "valor": 1919.0
+    },
+    {
+      "label": "SEP",
+      "valor": 1.0
     }
   ],
   "promedio_ruta": [
@@ -137,12 +146,12 @@
       "valor": 93.0
     },
     {
-      "label": "SQM_MRP",
-      "valor": 86.0
-    },
-    {
       "label": "ESTAFETA",
       "valor": 81.0
+    },
+    {
+      "label": "SQM_MRP",
+      "valor": 77.0
     },
     {
       "label": "AGUNSA",
@@ -188,7 +197,7 @@
     },
     {
       "label": "SEP",
-      "valor": 3.0
+      "valor": 7.0
     }
   ],
   "fillrate_mensual": [
@@ -242,7 +251,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "672",
+      "total": "673",
       "porcentaje": "11.0 %"
     },
     {
@@ -253,7 +262,7 @@
     {
       "operador": "LUIS ARDILES",
       "total": "506",
-      "porcentaje": "8.3 %"
+      "porcentaje": "8.2 %"
     }
   ],
   "semana_actual": [
@@ -274,9 +283,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "16",
-      "unidades": "191",
-      "ordenes": "13"
+      "tareas": "17",
+      "unidades": "226",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

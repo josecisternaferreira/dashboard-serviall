@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/09/2026 08:30",
+  "timestamp": "01/09/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,13 +13,13 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "FILLRATE MES ACTUAL - BODEGA SANTIAGO",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -75,6 +75,10 @@
     {
       "label": "AGO",
       "valor": 93.6
+    },
+    {
+      "label": "SEP",
+      "valor": 100.0
     }
   ],
   "picking_mensual": [
@@ -193,6 +197,10 @@
     {
       "label": "AGO",
       "valor": 1226.0
+    },
+    {
+      "label": "SEP",
+      "valor": 11.0
     }
   ],
   "fillrate_mensual": [
@@ -227,6 +235,10 @@
     {
       "label": "AGO",
       "valor": 99.7
+    },
+    {
+      "label": "SEP",
+      "valor": 100.0
     }
   ],
   "top5_operadores": [

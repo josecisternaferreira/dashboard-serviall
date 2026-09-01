@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/09/2026 16:00",
+  "timestamp": "01/09/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "91",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.4 %",
+      "valor": "95.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "37",
+      "valor": "60",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "158",
+      "valor": "154",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-09",
-      "valor": 91.0
+      "valor": 93.0
     }
   ],
   "cumplimiento": [
@@ -83,7 +83,7 @@
     },
     {
       "label": "SEP",
-      "valor": 95.4
+      "valor": 95.5
     }
   ],
   "picking_mensual": [
@@ -121,7 +121,7 @@
     },
     {
       "label": "SEP",
-      "valor": 91.0
+      "valor": 93.0
     }
   ],
   "promedio_ruta": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 113.0
+      "valor": 101.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -209,7 +209,7 @@
     },
     {
       "label": "SEP",
-      "valor": 108.0
+      "valor": 111.0
     }
   ],
   "fillrate_mensual": [
@@ -262,13 +262,13 @@
       "porcentaje": "19.1 %"
     },
     {
-      "operador": "CRISTHOFER CORTEZ",
-      "total": "1525",
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1526",
       "porcentaje": "16.4 %"
     },
     {
-      "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1524",
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "1525",
       "porcentaje": "16.4 %"
     },
     {
@@ -281,9 +281,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "138",
-      "unidades": "4976",
-      "ordenes": "74"
+      "tareas": "140",
+      "unidades": "4978",
+      "ordenes": "76"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -385,9 +385,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "511",
-      "disponibles": "182",
-      "porcentaje": "73.7 %"
+      "ocupadas": "513",
+      "disponibles": "180",
+      "porcentaje": "74.0 %"
     }
   ]
 }

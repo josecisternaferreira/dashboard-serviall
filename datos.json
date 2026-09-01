@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/08/2026 19:30",
+  "timestamp": "31/08/2026 20:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,13 +13,13 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.0 %",
-      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
+      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO",
+      "subtitulo": ""
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.7 %",
-      "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
+      "valor": "FILLRATE MES ACTUAL - BODEGA SANTIAGO",
+      "subtitulo": ""
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -42,108 +42,7 @@
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "01-08",
-      "valor": 3.0
-    },
-    {
-      "label": "03-08",
-      "valor": 98.0
-    },
-    {
-      "label": "04-08",
-      "valor": 116.0
-    },
-    {
-      "label": "05-08",
-      "valor": 291.0
-    },
-    {
-      "label": "06-08",
-      "valor": 317.0
-    },
-    {
-      "label": "07-08",
-      "valor": 128.0
-    },
-    {
-      "label": "08-08",
-      "valor": 52.0
-    },
-    {
-      "label": "10-08",
-      "valor": 31.0
-    },
-    {
-      "label": "11-08",
-      "valor": 164.0
-    },
-    {
-      "label": "12-08",
-      "valor": 167.0
-    },
-    {
-      "label": "13-08",
-      "valor": 137.0
-    },
-    {
-      "label": "14-08",
-      "valor": 99.0
-    },
-    {
-      "label": "17-08",
-      "valor": 48.0
-    },
-    {
-      "label": "18-08",
-      "valor": 112.0
-    },
-    {
-      "label": "19-08",
-      "valor": 87.0
-    },
-    {
-      "label": "20-08",
-      "valor": 277.0
-    },
-    {
-      "label": "21-08",
-      "valor": 146.0
-    },
-    {
-      "label": "22-08",
-      "valor": 1.0
-    },
-    {
-      "label": "24-08",
-      "valor": 41.0
-    },
-    {
-      "label": "25-08",
-      "valor": 98.0
-    },
-    {
-      "label": "26-08",
-      "valor": 29.0
-    },
-    {
-      "label": "27-08",
-      "valor": 285.0
-    },
-    {
-      "label": "28-08",
-      "valor": 145.0
-    },
-    {
-      "label": "29-08",
-      "valor": 25.0
-    },
-    {
-      "label": "31-08",
-      "valor": 174.0
-    }
-  ],
+  "tareas_por_dia": [],
   "cumplimiento": [
     {
       "label": "ENE",

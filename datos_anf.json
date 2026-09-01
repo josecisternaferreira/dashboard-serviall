@@ -1,5 +1,5 @@
 {
-  "timestamp": "31/08/2026 19:45",
+  "timestamp": "31/08/2026 20:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,13 +13,13 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.9 %",
-      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
+      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA",
+      "subtitulo": ""
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.9 %",
-      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
+      "valor": "FILLRATE MES ACTUAL - BODEGA LA NEGRA",
+      "subtitulo": ""
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -42,88 +42,7 @@
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
-  "tareas_por_dia": [
-    {
-      "label": "03-08",
-      "valor": 153.0
-    },
-    {
-      "label": "04-08",
-      "valor": 150.0
-    },
-    {
-      "label": "05-08",
-      "valor": 91.0
-    },
-    {
-      "label": "06-08",
-      "valor": 61.0
-    },
-    {
-      "label": "07-08",
-      "valor": 60.0
-    },
-    {
-      "label": "10-08",
-      "valor": 181.0
-    },
-    {
-      "label": "11-08",
-      "valor": 99.0
-    },
-    {
-      "label": "12-08",
-      "valor": 40.0
-    },
-    {
-      "label": "13-08",
-      "valor": 82.0
-    },
-    {
-      "label": "14-08",
-      "valor": 47.0
-    },
-    {
-      "label": "17-08",
-      "valor": 1.0
-    },
-    {
-      "label": "19-08",
-      "valor": 160.0
-    },
-    {
-      "label": "20-08",
-      "valor": 164.0
-    },
-    {
-      "label": "21-08",
-      "valor": 54.0
-    },
-    {
-      "label": "24-08",
-      "valor": 129.0
-    },
-    {
-      "label": "25-08",
-      "valor": 75.0
-    },
-    {
-      "label": "26-08",
-      "valor": 48.0
-    },
-    {
-      "label": "27-08",
-      "valor": 105.0
-    },
-    {
-      "label": "28-08",
-      "valor": 106.0
-    },
-    {
-      "label": "31-08",
-      "valor": 96.0
-    }
-  ],
+  "tareas_por_dia": [],
   "cumplimiento": [
     {
       "label": "ENE",

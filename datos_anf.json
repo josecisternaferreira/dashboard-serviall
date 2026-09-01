@@ -1,14 +1,14 @@
 {
-  "timestamp": "01/09/2026 16:46",
+  "timestamp": "01/09/2026 17:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "40",
+      "valor": "47",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -33,19 +33,19 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "53",
+      "valor": "65",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-09",
-      "valor": 40.0
+      "valor": 47.0
     }
   ],
   "cumplimiento": [
@@ -121,7 +121,7 @@
     },
     {
       "label": "SEP",
-      "valor": 40.0
+      "valor": 47.0
     }
   ],
   "promedio_ruta": [
@@ -151,7 +151,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 77.0
+      "valor": 78.0
     },
     {
       "label": "AGUNSA",
@@ -197,7 +197,7 @@
     },
     {
       "label": "SEP",
-      "valor": 33.0
+      "valor": 35.0
     }
   ],
   "fillrate_mensual": [
@@ -290,9 +290,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "5",
-      "unidades": "304",
-      "ordenes": "4"
+      "tareas": "11",
+      "unidades": "1292",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SPIZARRO",
+      "tareas": "1",
+      "unidades": "1",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -362,9 +369,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "234",
-      "disponibles": "175",
-      "porcentaje": "57.2 %"
+      "ocupadas": "233",
+      "disponibles": "176",
+      "porcentaje": "57.0 %"
     }
   ]
 }

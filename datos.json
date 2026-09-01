@@ -1,9 +1,9 @@
 {
-  "timestamp": "01/09/2026 09:30",
+  "timestamp": "01/09/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -333,9 +333,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "777",
-      "disponibles": "683",
-      "porcentaje": "53.2 %"
+      "ocupadas": "775",
+      "disponibles": "685",
+      "porcentaje": "53.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -369,18 +369,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "151",
-      "disponibles": "88",
-      "porcentaje": "63.2 %"
+      "ocupadas": "150",
+      "disponibles": "89",
+      "porcentaje": "62.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "502",
-      "disponibles": "191",
-      "porcentaje": "72.4 %"
+      "ocupadas": "501",
+      "disponibles": "192",
+      "porcentaje": "72.3 %"
     }
   ]
 }

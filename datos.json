@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/09/2026 13:00",
+  "timestamp": "01/09/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "85",
+      "valor": "86",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "140",
+      "valor": "142",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-09",
-      "valor": 85.0
+      "valor": 86.0
     }
   ],
   "cumplimiento": [
@@ -121,7 +121,7 @@
     },
     {
       "label": "SEP",
-      "valor": 85.0
+      "valor": 86.0
     }
   ],
   "promedio_ruta": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 98.0
+      "valor": 87.0
     },
     {
       "label": "ENEA-FINNING",
@@ -268,7 +268,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1518",
+      "total": "1519",
       "porcentaje": "16.3 %"
     },
     {
@@ -281,9 +281,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "132",
-      "unidades": "4895",
-      "ordenes": "70"
+      "tareas": "133",
+      "unidades": "4896",
+      "ordenes": "71"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -385,9 +385,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "515",
-      "disponibles": "178",
-      "porcentaje": "74.3 %"
+      "ocupadas": "511",
+      "disponibles": "182",
+      "porcentaje": "73.7 %"
     }
   ]
 }

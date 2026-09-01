@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/09/2026 11:16",
+  "timestamp": "01/09/2026 11:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "2",
+      "valor": "4",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-09",
-      "valor": 1.0
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -121,7 +121,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1.0
+      "valor": 2.0
     }
   ],
   "promedio_ruta": [
@@ -135,7 +135,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 275.0
+      "valor": 245.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -197,7 +197,7 @@
     },
     {
       "label": "SEP",
-      "valor": 12.0
+      "valor": 16.0
     }
   ],
   "fillrate_mensual": [
@@ -251,7 +251,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "673",
+      "total": "674",
       "porcentaje": "11.0 %"
     },
     {
@@ -283,9 +283,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "17",
-      "unidades": "226",
-      "ordenes": "14"
+      "tareas": "18",
+      "unidades": "246",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

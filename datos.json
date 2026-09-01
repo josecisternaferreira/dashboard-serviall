@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/09/2026 10:30",
+  "timestamp": "01/09/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "85.7 %",
+      "valor": "73.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "2",
+      "valor": "21",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "28",
+      "valor": "40",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-09",
-      "valor": 15.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -83,7 +83,7 @@
     },
     {
       "label": "SEP",
-      "valor": 85.7
+      "valor": 73.7
     }
   ],
   "picking_mensual": [
@@ -121,13 +121,13 @@
     },
     {
       "label": "SEP",
-      "valor": 15.0
+      "valor": 25.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1426.0
+      "valor": 1427.0
     },
     {
       "label": "SITRANS",
@@ -209,7 +209,7 @@
     },
     {
       "label": "SEP",
-      "valor": 14.0
+      "valor": 19.0
     }
   ],
   "fillrate_mensual": [
@@ -254,12 +254,12 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1812",
-      "porcentaje": "19.7 %"
+      "porcentaje": "19.6 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1776",
-      "porcentaje": "19.3 %"
+      "porcentaje": "19.2 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -268,29 +268,29 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1477",
-      "porcentaje": "16.0 %"
+      "total": "1483",
+      "porcentaje": "16.1 %"
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "981",
-      "porcentaje": "10.6 %"
+      "total": "984",
+      "porcentaje": "10.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "91",
-      "unidades": "4302",
-      "ordenes": "55"
+      "tareas": "97",
+      "unidades": "4424",
+      "ordenes": "60"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "86",
-      "unidades": "5274",
-      "ordenes": "41"
+      "tareas": "87",
+      "unidades": "5347",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -302,9 +302,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "4",
-      "unidades": "49",
-      "ordenes": "2"
+      "tareas": "7",
+      "unidades": "88",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -331,18 +331,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "36",
-      "ocupadas": "15",
-      "disponibles": "21",
-      "porcentaje": "41.7 %"
+      "ocupadas": "16",
+      "disponibles": "20",
+      "porcentaje": "44.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1460",
-      "ocupadas": "775",
-      "disponibles": "685",
-      "porcentaje": "53.1 %"
+      "ocupadas": "774",
+      "disponibles": "686",
+      "porcentaje": "53.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -376,18 +376,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "150",
-      "disponibles": "89",
-      "porcentaje": "62.8 %"
+      "ocupadas": "149",
+      "disponibles": "90",
+      "porcentaje": "62.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "502",
-      "disponibles": "191",
-      "porcentaje": "72.4 %"
+      "ocupadas": "512",
+      "disponibles": "181",
+      "porcentaje": "73.9 %"
     }
   ]
 }

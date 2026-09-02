@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/09/2026 15:45",
+  "timestamp": "02/09/2026 16:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "73",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "84",
+      "valor": "118",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "02-09",
-      "valor": 54.0
+      "valor": 73.0
     }
   ],
   "cumplimiento": [
@@ -125,7 +125,7 @@
     },
     {
       "label": "SEP",
-      "valor": 104.0
+      "valor": 123.0
     }
   ],
   "promedio_ruta": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 170.0
+      "valor": 172.0
     },
     {
       "label": "SITRANS",
@@ -246,17 +246,17 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2128",
-      "porcentaje": "35.7 %"
+      "porcentaje": "35.6 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1251",
-      "porcentaje": "21.0 %"
+      "porcentaje": "20.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "689",
-      "porcentaje": "11.6 %"
+      "total": "708",
+      "porcentaje": "11.8 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -266,7 +266,7 @@
     {
       "operador": "LUIS ARDILES",
       "total": "498",
-      "porcentaje": "8.4 %"
+      "porcentaje": "8.3 %"
     }
   ],
   "semana_actual": [
@@ -287,8 +287,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "33",
-      "unidades": "411",
+      "tareas": "52",
+      "unidades": "459",
       "ordenes": "18"
     },
     {
@@ -337,9 +337,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1100",
-      "disponibles": "239",
-      "porcentaje": "82.2 %"
+      "ocupadas": "1097",
+      "disponibles": "242",
+      "porcentaje": "81.9 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -373,9 +373,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "235",
-      "disponibles": "174",
-      "porcentaje": "57.5 %"
+      "ocupadas": "236",
+      "disponibles": "173",
+      "porcentaje": "57.7 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "02/09/2026 08:30",
+  "timestamp": "02/09/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -46,6 +46,10 @@
     {
       "label": "01-09",
       "valor": 93.0
+    },
+    {
+      "label": "02-09",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -121,13 +125,13 @@
     },
     {
       "label": "SEP",
-      "valor": 93.0
+      "valor": 97.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1430.0
+      "valor": 1431.0
     },
     {
       "label": "SITRANS",
@@ -151,7 +155,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 81.0
+      "valor": 72.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -263,8 +267,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1515",
-      "porcentaje": "17.2 %"
+      "total": "1519",
+      "porcentaje": "17.3 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -281,9 +285,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "140",
-      "unidades": "4978",
-      "ordenes": "76"
+      "tareas": "144",
+      "unidades": "5321",
+      "ordenes": "79"
     },
     {
       "region": "BODEGA SANTIAGO",

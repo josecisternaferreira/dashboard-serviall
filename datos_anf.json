@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/09/2026 16:15",
+  "timestamp": "02/09/2026 16:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "73",
+      "valor": "75",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "118",
+      "valor": "120",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "02-09",
-      "valor": 73.0
+      "valor": 75.0
     }
   ],
   "cumplimiento": [
@@ -125,7 +125,7 @@
     },
     {
       "label": "SEP",
-      "valor": 123.0
+      "valor": 125.0
     }
   ],
   "promedio_ruta": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 172.0
+      "valor": 173.0
     },
     {
       "label": "SITRANS",
@@ -201,7 +201,7 @@
     },
     {
       "label": "SEP",
-      "valor": 60.0
+      "valor": 61.0
     }
   ],
   "fillrate_mensual": [
@@ -255,8 +255,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "708",
-      "porcentaje": "11.8 %"
+      "total": "710",
+      "porcentaje": "11.9 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -287,8 +287,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "52",
-      "unidades": "459",
+      "tareas": "54",
+      "unidades": "462",
       "ordenes": "18"
     },
     {
@@ -337,9 +337,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1097",
-      "disponibles": "242",
-      "porcentaje": "81.9 %"
+      "ocupadas": "1098",
+      "disponibles": "241",
+      "porcentaje": "82.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -373,9 +373,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "236",
-      "disponibles": "173",
-      "porcentaje": "57.7 %"
+      "ocupadas": "237",
+      "disponibles": "172",
+      "porcentaje": "57.9 %"
     }
   ]
 }

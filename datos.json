@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/09/2026 17:30",
+  "timestamp": "02/09/2026 18:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "223",
+      "valor": "225",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.0 %",
+      "valor": "96.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "52",
+      "valor": "56",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "label": "02-09",
-      "valor": 223.0
+      "valor": 225.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "SEP",
-      "valor": 96.0
+      "valor": 96.1
     }
   ],
   "picking_mensual": [
@@ -125,7 +125,7 @@
     },
     {
       "label": "SEP",
-      "valor": 318.0
+      "valor": 320.0
     }
   ],
   "promedio_ruta": [
@@ -213,7 +213,7 @@
     },
     {
       "label": "SEP",
-      "valor": 199.0
+      "valor": 205.0
     }
   ],
   "fillrate_mensual": [
@@ -262,7 +262,7 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1625",
+      "total": "1627",
       "porcentaje": "18.0 %"
     },
     {
@@ -285,8 +285,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "250",
-      "unidades": "11301",
+      "tareas": "252",
+      "unidades": "11455",
       "ordenes": "113"
     },
     {
@@ -343,10 +343,10 @@
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
-      "total": "1460",
-      "ocupadas": "769",
-      "disponibles": "691",
-      "porcentaje": "52.7 %"
+      "total": "1444",
+      "ocupadas": "770",
+      "disponibles": "674",
+      "porcentaje": "53.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -389,9 +389,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "482",
-      "disponibles": "211",
-      "porcentaje": "69.6 %"
+      "ocupadas": "514",
+      "disponibles": "179",
+      "porcentaje": "74.2 %"
     }
   ]
 }

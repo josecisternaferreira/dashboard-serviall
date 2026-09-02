@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/09/2026 16:45",
+  "timestamp": "02/09/2026 17:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "75",
+      "valor": "77",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "120",
+      "valor": "122",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "02-09",
-      "valor": 75.0
+      "valor": 77.0
     }
   ],
   "cumplimiento": [
@@ -125,7 +125,7 @@
     },
     {
       "label": "SEP",
-      "valor": 125.0
+      "valor": 127.0
     }
   ],
   "promedio_ruta": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "SEP",
-      "valor": 61.0
+      "valor": 64.0
     }
   ],
   "fillrate_mensual": [
@@ -260,7 +260,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "530",
+      "total": "532",
       "porcentaje": "8.9 %"
     },
     {
@@ -301,9 +301,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "4",
-      "unidades": "42",
-      "ordenes": "2"
+      "tareas": "6",
+      "unidades": "107",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -337,9 +337,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1098",
-      "disponibles": "241",
-      "porcentaje": "82.0 %"
+      "ocupadas": "1089",
+      "disponibles": "250",
+      "porcentaje": "81.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -355,9 +355,9 @@
       "area": "Z-PISO",
       "tipo": "PISO",
       "total": "4",
-      "ocupadas": "3",
-      "disponibles": "1",
-      "porcentaje": "75.0 %"
+      "ocupadas": "2",
+      "disponibles": "2",
+      "porcentaje": "50.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -373,9 +373,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "237",
-      "disponibles": "172",
-      "porcentaje": "57.9 %"
+      "ocupadas": "221",
+      "disponibles": "188",
+      "porcentaje": "54.0 %"
     }
   ]
 }

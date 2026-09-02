@@ -1,14 +1,14 @@
 {
-  "timestamp": "02/09/2026 10:15",
+  "timestamp": "02/09/2026 10:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "21",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "24",
+      "valor": "41",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "02-09",
-      "valor": 21.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -125,13 +125,13 @@
     },
     {
       "label": "SEP",
-      "valor": 69.0
+      "valor": 75.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 890.0
+      "valor": 891.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -163,7 +163,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 17.0
+      "valor": 15.0
     }
   ],
   "despachos_mes": [
@@ -245,7 +245,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2120",
+      "total": "2124",
       "porcentaje": "35.8 %"
     },
     {
@@ -280,8 +280,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "57",
-      "unidades": "10700",
+      "tareas": "61",
+      "unidades": "10723",
       "ordenes": "17"
     },
     {
@@ -337,8 +337,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1119",
-      "disponibles": "220",
+      "ocupadas": "1120",
+      "disponibles": "219",
       "porcentaje": "83.6 %"
     },
     {
@@ -373,9 +373,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "235",
-      "disponibles": "174",
-      "porcentaje": "57.5 %"
+      "ocupadas": "236",
+      "disponibles": "173",
+      "porcentaje": "57.7 %"
     }
   ]
 }

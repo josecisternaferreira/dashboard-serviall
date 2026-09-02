@@ -1,14 +1,14 @@
 {
-  "timestamp": "02/09/2026 10:46",
+  "timestamp": "02/09/2026 11:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "25",
+      "valor": "26",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "100.0 %",
+      "valor": "99.9 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "1",
+      "valor": "18",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "label": "02-09",
-      "valor": 25.0
+      "valor": 26.0
     }
   ],
   "cumplimiento": [
@@ -125,7 +125,7 @@
     },
     {
       "label": "SEP",
-      "valor": 75.0
+      "valor": 76.0
     }
   ],
   "promedio_ruta": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "SEP",
-      "valor": 44.0
+      "valor": 46.0
     }
   ],
   "fillrate_mensual": [
@@ -239,7 +239,7 @@
     },
     {
       "label": "SEP",
-      "valor": 100.0
+      "valor": 99.9
     }
   ],
   "top5_operadores": [
@@ -294,9 +294,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "13",
-      "unidades": "1310",
-      "ordenes": "8"
+      "tareas": "14",
+      "unidades": "1315",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -373,9 +373,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "236",
-      "disponibles": "173",
-      "porcentaje": "57.7 %"
+      "ocupadas": "235",
+      "disponibles": "174",
+      "porcentaje": "57.5 %"
     }
   ]
 }

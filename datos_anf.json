@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/09/2026 10:16",
+  "timestamp": "03/09/2026 10:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "56",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.7 %",
+      "valor": "98.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "9",
+      "valor": "16",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "12",
+      "valor": "68",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "03-09",
-      "valor": 17.0
+      "valor": 56.0
     }
   ],
   "cumplimiento": [
@@ -91,7 +91,7 @@
     },
     {
       "label": "SEP",
-      "valor": 98.7
+      "valor": 98.8
     }
   ],
   "picking_mensual": [
@@ -129,17 +129,17 @@
     },
     {
       "label": "SEP",
-      "valor": 155.0
+      "valor": 194.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 893.0
+      "valor": 894.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 262.0
+      "valor": 264.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -159,7 +159,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 73.0
+      "valor": 74.0
     },
     {
       "label": "AGUNSA",
@@ -205,7 +205,7 @@
     },
     {
       "label": "SEP",
-      "valor": 79.0
+      "valor": 81.0
     }
   ],
   "fillrate_mensual": [
@@ -249,18 +249,18 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2139",
-      "porcentaje": "35.6 %"
+      "total": "2148",
+      "porcentaje": "35.5 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1251",
-      "porcentaje": "20.8 %"
+      "total": "1262",
+      "porcentaje": "20.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "710",
-      "porcentaje": "11.8 %"
+      "porcentaje": "11.7 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -270,22 +270,22 @@
     {
       "operador": "LUIS ARDILES",
       "total": "498",
-      "porcentaje": "8.3 %"
+      "porcentaje": "8.2 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "78",
-      "unidades": "9393",
-      "ordenes": "28"
+      "tareas": "89",
+      "unidades": "13369",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "76",
-      "unidades": "14811",
+      "tareas": "85",
+      "unidades": "15160",
       "ordenes": "22"
     },
     {
@@ -298,16 +298,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "28",
-      "unidades": "2155",
-      "ordenes": "16"
+      "tareas": "37",
+      "unidades": "2195",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "6",
-      "unidades": "113",
-      "ordenes": "1"
+      "tareas": "16",
+      "unidades": "291",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -348,9 +348,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1088",
-      "disponibles": "251",
-      "porcentaje": "81.3 %"
+      "ocupadas": "1093",
+      "disponibles": "246",
+      "porcentaje": "81.6 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -384,9 +384,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "223",
-      "disponibles": "186",
-      "porcentaje": "54.5 %"
+      "ocupadas": "226",
+      "disponibles": "183",
+      "porcentaje": "55.3 %"
     }
   ]
 }

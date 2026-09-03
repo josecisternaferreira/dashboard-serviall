@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/09/2026 10:45",
+  "timestamp": "03/09/2026 11:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "56",
+      "valor": "63",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "16",
+      "valor": "21",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "68",
+      "valor": "76",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "03-09",
-      "valor": 56.0
+      "valor": 63.0
     }
   ],
   "cumplimiento": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "SEP",
-      "valor": 194.0
+      "valor": 201.0
     }
   ],
   "promedio_ruta": [
@@ -205,7 +205,7 @@
     },
     {
       "label": "SEP",
-      "valor": 81.0
+      "valor": 85.0
     }
   ],
   "fillrate_mensual": [
@@ -249,12 +249,12 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2148",
+      "total": "2150",
       "porcentaje": "35.5 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1262",
+      "total": "1265",
       "porcentaje": "20.9 %"
     },
     {
@@ -277,16 +277,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "89",
-      "unidades": "13369",
-      "ordenes": "29"
+      "tareas": "92",
+      "unidades": "14108",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "85",
-      "unidades": "15160",
-      "ordenes": "22"
+      "tareas": "87",
+      "unidades": "15215",
+      "ordenes": "24"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -305,9 +305,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "16",
-      "unidades": "291",
-      "ordenes": "4"
+      "tareas": "18",
+      "unidades": "381",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -348,9 +348,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1093",
-      "disponibles": "246",
-      "porcentaje": "81.6 %"
+      "ocupadas": "1094",
+      "disponibles": "245",
+      "porcentaje": "81.7 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

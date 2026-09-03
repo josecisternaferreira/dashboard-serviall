@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/09/2026 15:00",
+  "timestamp": "03/09/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "163",
+      "valor": "164",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.0 %",
+      "valor": "92.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "41",
+      "valor": "42",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "224",
+      "valor": "226",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "03-09",
-      "valor": 163.0
+      "valor": 164.0
     }
   ],
   "cumplimiento": [
@@ -91,7 +91,7 @@
     },
     {
       "label": "SEP",
-      "valor": 92.0
+      "valor": 92.1
     }
   ],
   "picking_mensual": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "SEP",
-      "valor": 499.0
+      "valor": 500.0
     }
   ],
   "promedio_ruta": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "SEP",
-      "valor": 237.0
+      "valor": 239.0
     }
   ],
   "fillrate_mensual": [
@@ -296,8 +296,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "292",
-      "unidades": "20073",
+      "tareas": "293",
+      "unidades": "20173",
       "ordenes": "102"
     },
     {
@@ -347,10 +347,10 @@
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
-      "total": "1403",
-      "ocupadas": "773",
-      "disponibles": "630",
-      "porcentaje": "55.1 %"
+      "total": "1384",
+      "ocupadas": "775",
+      "disponibles": "609",
+      "porcentaje": "56.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "03/09/2026 11:45",
+  "timestamp": "03/09/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "83",
+      "valor": "103",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "28",
+      "valor": "35",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "110",
+      "valor": "146",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "03-09",
-      "valor": 83.0
+      "valor": 103.0
     }
   ],
   "cumplimiento": [
@@ -129,13 +129,13 @@
     },
     {
       "label": "SEP",
-      "valor": 221.0
+      "valor": 241.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 895.0
+      "valor": 897.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -151,7 +151,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 83.0
+      "valor": 84.0
     },
     {
       "label": "SQM_MRP",
@@ -249,22 +249,22 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2152",
+      "total": "2161",
       "porcentaje": "35.4 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1271",
-      "porcentaje": "20.9 %"
+      "total": "1279",
+      "porcentaje": "21.0 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "710",
-      "porcentaje": "11.7 %"
+      "porcentaje": "11.6 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "534",
+      "total": "535",
       "porcentaje": "8.8 %"
     },
     {
@@ -277,16 +277,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "98",
-      "unidades": "15164",
-      "ordenes": "31"
+      "tareas": "106",
+      "unidades": "15501",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "89",
-      "unidades": "15315",
-      "ordenes": "25"
+      "tareas": "98",
+      "unidades": "19655",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -305,16 +305,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "28",
-      "unidades": "515",
-      "ordenes": "12"
+      "tareas": "31",
+      "unidades": "555",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "8",
-      "unidades": "159",
-      "ordenes": "5"
+      "tareas": "9",
+      "unidades": "161",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

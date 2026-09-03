@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/09/2026 10:30",
+  "timestamp": "03/09/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "34",
+      "valor": "49",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "24",
+      "valor": "26",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "56",
+      "valor": "62",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "03-09",
-      "valor": 34.0
+      "valor": 49.0
     }
   ],
   "cumplimiento": [
@@ -129,13 +129,13 @@
     },
     {
       "label": "SEP",
-      "valor": 354.0
+      "valor": 369.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1451.0
+      "valor": 1452.0
     },
     {
       "label": "SITRANS",
@@ -266,8 +266,8 @@
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1640",
-      "porcentaje": "18.1 %"
+      "total": "1647",
+      "porcentaje": "18.2 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -289,15 +289,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "265",
-      "unidades": "16838",
+      "tareas": "272",
+      "unidades": "17885",
       "ordenes": "115"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "244",
-      "unidades": "12908",
+      "tareas": "252",
+      "unidades": "17026",
       "ordenes": "94"
     },
     {
@@ -393,9 +393,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "507",
-      "disponibles": "186",
-      "porcentaje": "73.2 %"
+      "ocupadas": "510",
+      "disponibles": "183",
+      "porcentaje": "73.6 %"
     }
   ]
 }

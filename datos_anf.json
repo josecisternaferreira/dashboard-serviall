@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/09/2026 15:16",
+  "timestamp": "03/09/2026 15:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "175",
+      "valor": "185",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "label": "03-09",
-      "valor": 175.0
+      "valor": 185.0
     }
   ],
   "cumplimiento": [
@@ -129,13 +129,13 @@
     },
     {
       "label": "SEP",
-      "valor": 313.0
+      "valor": 323.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 902.0
+      "valor": 903.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -205,7 +205,7 @@
     },
     {
       "label": "SEP",
-      "valor": 112.0
+      "valor": 113.0
     }
   ],
   "fillrate_mensual": [
@@ -250,12 +250,12 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2221",
-      "porcentaje": "36.0 %"
+      "porcentaje": "35.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1287",
-      "porcentaje": "20.9 %"
+      "total": "1297",
+      "porcentaje": "21.0 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -284,9 +284,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "114",
-      "unidades": "15779",
-      "ordenes": "44"
+      "tareas": "124",
+      "unidades": "21537",
+      "ordenes": "45"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -348,8 +348,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1096",
-      "disponibles": "243",
+      "ocupadas": "1097",
+      "disponibles": "242",
       "porcentaje": "81.9 %"
     },
     {
@@ -384,9 +384,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "223",
-      "disponibles": "186",
-      "porcentaje": "54.5 %"
+      "ocupadas": "226",
+      "disponibles": "183",
+      "porcentaje": "55.3 %"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "timestamp": "04/09/2026 14:30",
+  "timestamp": "04/09/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "18",
+      "valor": "19",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "124",
+      "valor": "126",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.8 %",
+      "valor": "90.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "16",
+      "valor": "17",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "38",
+      "valor": "42",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "label": "04-09",
-      "valor": 124.0
+      "valor": 126.0
     }
   ],
   "cumplimiento": [
@@ -95,7 +95,7 @@
     },
     {
       "label": "SEP",
-      "valor": 90.8
+      "valor": 90.9
     }
   ],
   "picking_mensual": [
@@ -133,7 +133,7 @@
     },
     {
       "label": "SEP",
-      "valor": 654.0
+      "valor": 656.0
     }
   ],
   "promedio_ruta": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "SEP",
-      "valor": 271.0
+      "valor": 274.0
     }
   ],
   "fillrate_mensual": [
@@ -264,13 +264,13 @@
   ],
   "top5_operadores": [
     {
-      "operador": "DIEGO GANDO",
-      "total": "1802",
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1803",
       "porcentaje": "19.3 %"
     },
     {
-      "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1801",
+      "operador": "DIEGO GANDO",
+      "total": "1802",
       "porcentaje": "19.3 %"
     },
     {
@@ -293,9 +293,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "426",
-      "unidades": "29353",
-      "ordenes": "188"
+      "tareas": "428",
+      "unidades": "29361",
+      "ordenes": "190"
     },
     {
       "region": "BODEGA SANTIAGO",

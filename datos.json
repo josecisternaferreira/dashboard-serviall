@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/09/2026 09:00",
+  "timestamp": "04/09/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -54,6 +54,10 @@
     {
       "label": "03-09",
       "valor": 192.0
+    },
+    {
+      "label": "04-09",
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -129,7 +133,7 @@
     },
     {
       "label": "SEP",
-      "valor": 530.0
+      "valor": 536.0
     }
   ],
   "promedio_ruta": [
@@ -262,11 +266,11 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1802",
-      "porcentaje": "19.6 %"
+      "porcentaje": "19.5 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1731",
+      "total": "1735",
       "porcentaje": "18.8 %"
     },
     {
@@ -282,23 +286,23 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "908",
-      "porcentaje": "9.9 %"
+      "porcentaje": "9.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "356",
-      "unidades": "26448",
-      "ordenes": "139"
+      "tareas": "360",
+      "unidades": "26497",
+      "ordenes": "142"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "303",
-      "unidades": "20258",
-      "ordenes": "106"
+      "tareas": "305",
+      "unidades": "20261",
+      "ordenes": "108"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -393,9 +397,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "519",
-      "disponibles": "174",
-      "porcentaje": "74.9 %"
+      "ocupadas": "518",
+      "disponibles": "175",
+      "porcentaje": "74.7 %"
     }
   ]
 }

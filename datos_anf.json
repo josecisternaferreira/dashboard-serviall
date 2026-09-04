@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/09/2026 08:46",
+  "timestamp": "04/09/2026 09:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "16",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "18",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -54,6 +54,10 @@
     {
       "label": "03-09",
       "valor": 200.0
+    },
+    {
+      "label": "04-09",
+      "valor": 16.0
     }
   ],
   "cumplimiento": [
@@ -129,7 +133,7 @@
     },
     {
       "label": "SEP",
-      "valor": 338.0
+      "valor": 354.0
     }
   ],
   "promedio_ruta": [
@@ -147,7 +151,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 173.0
+      "valor": 175.0
     },
     {
       "label": "SITRANS",
@@ -250,22 +254,22 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2228",
-      "porcentaje": "36.0 %"
+      "porcentaje": "35.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1305",
-      "porcentaje": "21.1 %"
+      "porcentaje": "21.0 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "710",
-      "porcentaje": "11.5 %"
+      "total": "726",
+      "porcentaje": "11.7 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "537",
-      "porcentaje": "8.7 %"
+      "porcentaje": "8.6 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -291,9 +295,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "54",
-      "unidades": "462",
-      "ordenes": "18"
+      "tareas": "70",
+      "unidades": "1271",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

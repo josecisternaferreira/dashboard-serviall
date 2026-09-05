@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/09/2026 09:30",
+  "timestamp": "05/09/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "7",
+      "valor": "10",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.9 %",
+      "valor": "91.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "label": "05-09",
-      "valor": 7.0
+      "valor": 10.0
     }
   ],
   "cumplimiento": [
@@ -99,7 +99,7 @@
     },
     {
       "label": "SEP",
-      "valor": 90.9
+      "valor": 91.0
     }
   ],
   "picking_mensual": [
@@ -137,13 +137,13 @@
     },
     {
       "label": "SEP",
-      "valor": 664.0
+      "valor": 667.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1469.0
+      "valor": 1470.0
     },
     {
       "label": "SITRANS",
@@ -225,7 +225,7 @@
     },
     {
       "label": "SEP",
-      "valor": 275.0
+      "valor": 279.0
     }
   ],
   "fillrate_mensual": [
@@ -304,8 +304,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "354",
-      "unidades": "28495",
+      "tareas": "357",
+      "unidades": "31555",
       "ordenes": "137"
     },
     {
@@ -347,18 +347,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "36",
-      "ocupadas": "15",
-      "disponibles": "21",
-      "porcentaje": "41.7 %"
+      "ocupadas": "14",
+      "disponibles": "22",
+      "porcentaje": "38.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "774",
-      "disponibles": "300",
-      "porcentaje": "72.1 %"
+      "ocupadas": "773",
+      "disponibles": "301",
+      "porcentaje": "72.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

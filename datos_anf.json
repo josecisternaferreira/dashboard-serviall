@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/09/2026 09:16",
+  "timestamp": "07/09/2026 09:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "3",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "6",
+      "valor": "10",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-09",
-      "valor": 3.0
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "SEP",
-      "valor": 365.0
+      "valor": 367.0
     }
   ],
   "promedio_ruta": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 265.0
+      "valor": 266.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -213,7 +213,7 @@
     },
     {
       "label": "SEP",
-      "valor": 127.0
+      "valor": 129.0
     }
   ],
   "fillrate_mensual": [
@@ -285,9 +285,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "3",
-      "unidades": "13",
-      "ordenes": "1"
+      "tareas": "5",
+      "unidades": "53",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -314,9 +314,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1099",
-      "disponibles": "240",
-      "porcentaje": "82.1 %"
+      "ocupadas": "1100",
+      "disponibles": "239",
+      "porcentaje": "82.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

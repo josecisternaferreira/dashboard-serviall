@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/09/2026 12:00",
+  "timestamp": "07/09/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "4",
+      "valor": "8",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "23",
+      "valor": "22",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -229,7 +229,7 @@
     },
     {
       "label": "SEP",
-      "valor": 347.0
+      "valor": 348.0
     }
   ],
   "fillrate_mensual": [
@@ -339,9 +339,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "774",
-      "disponibles": "300",
-      "porcentaje": "72.1 %"
+      "ocupadas": "776",
+      "disponibles": "298",
+      "porcentaje": "72.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/09/2026 17:16",
+  "timestamp": "07/09/2026 17:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "152",
+      "valor": "160",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.8 %",
+      "valor": "98.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "182",
+      "valor": "195",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-09",
-      "valor": 152.0
+      "valor": 160.0
     }
   ],
   "cumplimiento": [
@@ -99,7 +99,7 @@
     },
     {
       "label": "SEP",
-      "valor": 98.8
+      "valor": 98.9
     }
   ],
   "picking_mensual": [
@@ -137,13 +137,13 @@
     },
     {
       "label": "SEP",
-      "valor": 516.0
+      "valor": 524.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 912.0
+      "valor": 913.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -213,7 +213,7 @@
     },
     {
       "label": "SEP",
-      "valor": 164.0
+      "valor": 174.0
     }
   ],
   "fillrate_mensual": [
@@ -257,8 +257,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2234",
-      "porcentaje": "36.0 %"
+      "total": "2236",
+      "porcentaje": "35.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -285,9 +285,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "105",
-      "unidades": "15537",
-      "ordenes": "29"
+      "tareas": "107",
+      "unidades": "15777",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -299,8 +299,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
-      "tareas": "13",
-      "unidades": "3477",
+      "tareas": "19",
+      "unidades": "3717",
       "ordenes": "1"
     },
     {
@@ -378,9 +378,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "222",
-      "disponibles": "187",
-      "porcentaje": "54.3 %"
+      "ocupadas": "221",
+      "disponibles": "188",
+      "porcentaje": "54.0 %"
     }
   ]
 }

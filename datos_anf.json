@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/09/2026 15:45",
+  "timestamp": "07/09/2026 16:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "111",
+      "valor": "119",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.7 %",
+      "valor": "98.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "132",
+      "valor": "134",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-09",
-      "valor": 111.0
+      "valor": 119.0
     }
   ],
   "cumplimiento": [
@@ -99,7 +99,7 @@
     },
     {
       "label": "SEP",
-      "valor": 98.7
+      "valor": 98.8
     }
   ],
   "picking_mensual": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "SEP",
-      "valor": 475.0
+      "valor": 483.0
     }
   ],
   "promedio_ruta": [
@@ -213,7 +213,7 @@
     },
     {
       "label": "SEP",
-      "valor": 159.0
+      "valor": 160.0
     }
   ],
   "fillrate_mensual": [
@@ -257,8 +257,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2216",
-      "porcentaje": "35.9 %"
+      "total": "2223",
+      "porcentaje": "36.0 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -272,7 +272,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "541",
+      "total": "542",
       "porcentaje": "8.8 %"
     },
     {
@@ -285,9 +285,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "87",
-      "unidades": "10839",
-      "ordenes": "23"
+      "tareas": "94",
+      "unidades": "12060",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -298,17 +298,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "4",
+      "unidades": "265",
+      "ordenes": "3"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
       "tareas": "3",
       "unidades": "10",
       "ordenes": "1"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "3",
-      "unidades": "260",
-      "ordenes": "2"
     }
   ],
   "ocupacion": [

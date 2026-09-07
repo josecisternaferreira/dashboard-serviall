@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/09/2026 12:15",
+  "timestamp": "07/09/2026 12:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "48",
+      "valor": "60",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "48",
+      "valor": "66",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-09",
-      "valor": 48.0
+      "valor": 60.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "SEP",
-      "valor": 410.0
+      "valor": 422.0
     }
   ],
   "promedio_ruta": [
@@ -151,7 +151,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 250.0
+      "valor": 251.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -213,7 +213,7 @@
     },
     {
       "label": "SEP",
-      "valor": 140.0
+      "valor": 141.0
     }
   ],
   "fillrate_mensual": [
@@ -257,13 +257,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2165",
-      "porcentaje": "35.4 %"
+      "total": "2178",
+      "porcentaje": "35.6 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1286",
-      "porcentaje": "21.1 %"
+      "porcentaje": "21.0 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -285,9 +285,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "36",
-      "unidades": "1433",
-      "ordenes": "2"
+      "tareas": "49",
+      "unidades": "1944",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -328,9 +328,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1101",
-      "disponibles": "238",
-      "porcentaje": "82.2 %"
+      "ocupadas": "1102",
+      "disponibles": "237",
+      "porcentaje": "82.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

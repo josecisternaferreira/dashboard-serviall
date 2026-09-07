@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/09/2026 10:15",
+  "timestamp": "07/09/2026 10:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "12",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "20",
+      "valor": "24",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-09",
-      "valor": 12.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -137,13 +137,13 @@
     },
     {
       "label": "SEP",
-      "valor": 374.0
+      "valor": 387.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 904.0
+      "valor": 905.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -257,44 +257,44 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2130",
-      "porcentaje": "35.1 %"
+      "total": "2143",
+      "porcentaje": "35.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1286",
-      "porcentaje": "21.2 %"
+      "porcentaje": "21.1 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "733",
-      "porcentaje": "12.1 %"
+      "porcentaje": "12.0 %"
     },
     {
       "operador": "YEIMY RINCON",
       "total": "538",
-      "porcentaje": "8.9 %"
+      "porcentaje": "8.8 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "483",
-      "porcentaje": "8.0 %"
+      "porcentaje": "7.9 %"
     }
   ],
   "semana_actual": [
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "14",
+      "unidades": "682",
+      "ordenes": "1"
+    },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
       "tareas": "11",
       "unidades": "127",
       "ordenes": "7"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "1",
-      "unidades": "18",
-      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -357,9 +357,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "227",
-      "disponibles": "182",
-      "porcentaje": "55.5 %"
+      "ocupadas": "228",
+      "disponibles": "181",
+      "porcentaje": "55.7 %"
     }
   ]
 }

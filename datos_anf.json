@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/09/2026 10:46",
+  "timestamp": "07/09/2026 11:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "25",
+      "valor": "33",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "99.2 %",
+      "valor": "99.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "24",
+      "valor": "40",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-09",
-      "valor": 25.0
+      "valor": 33.0
     }
   ],
   "cumplimiento": [
@@ -99,7 +99,7 @@
     },
     {
       "label": "SEP",
-      "valor": 99.2
+      "valor": 99.3
     }
   ],
   "picking_mensual": [
@@ -137,13 +137,13 @@
     },
     {
       "label": "SEP",
-      "valor": 387.0
+      "valor": 395.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 905.0
+      "valor": 906.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -213,7 +213,7 @@
     },
     {
       "label": "SEP",
-      "valor": 132.0
+      "valor": 135.0
     }
   ],
   "fillrate_mensual": [
@@ -257,8 +257,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2143",
-      "porcentaje": "35.2 %"
+      "total": "2151",
+      "porcentaje": "35.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -285,8 +285,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "14",
-      "unidades": "682",
+      "tareas": "22",
+      "unidades": "893",
       "ordenes": "1"
     },
     {

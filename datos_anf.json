@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/09/2026 09:16",
+  "timestamp": "08/09/2026 09:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "10",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -62,6 +62,10 @@
     {
       "label": "07-09",
       "valor": 162.0
+    },
+    {
+      "label": "08-09",
+      "valor": 8.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +141,7 @@
     },
     {
       "label": "SEP",
-      "valor": 526.0
+      "valor": 534.0
     }
   ],
   "promedio_ruta": [
@@ -155,7 +159,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 180.0
+      "valor": 181.0
     },
     {
       "label": "SITRANS",
@@ -262,8 +266,8 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1286",
-      "porcentaje": "20.7 %"
+      "total": "1294",
+      "porcentaje": "20.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -302,6 +306,13 @@
       "tareas": "19",
       "unidades": "3717",
       "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "8",
+      "unidades": "320",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -385,9 +396,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "219",
-      "disponibles": "190",
-      "porcentaje": "53.5 %"
+      "ocupadas": "220",
+      "disponibles": "189",
+      "porcentaje": "53.8 %"
     }
   ]
 }

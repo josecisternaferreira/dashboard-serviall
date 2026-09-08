@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/09/2026 16:00",
+  "timestamp": "08/09/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "149",
+      "valor": "169",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "39",
+      "valor": "40",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "234",
+      "valor": "250",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "08-09",
-      "valor": 149.0
+      "valor": 169.0
     }
   ],
   "cumplimiento": [
@@ -145,13 +145,13 @@
     },
     {
       "label": "SEP",
-      "valor": 916.0
+      "valor": 936.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1477.0
+      "valor": 1479.0
     },
     {
       "label": "SITRANS",
@@ -277,13 +277,13 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1965",
+      "total": "1974",
       "porcentaje": "20.9 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1802",
-      "porcentaje": "19.2 %"
+      "porcentaje": "19.1 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -293,11 +293,11 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1387",
-      "porcentaje": "14.8 %"
+      "porcentaje": "14.7 %"
     },
     {
-      "operador": "LUCIANO ALFARO",
-      "total": "897",
+      "operador": "LEONARDO SAEZ",
+      "total": "899",
       "porcentaje": "9.5 %"
     }
   ],
@@ -305,15 +305,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "130",
-      "unidades": "6786",
+      "tareas": "139",
+      "unidades": "6949",
       "ordenes": "62"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "66",
-      "unidades": "2329",
+      "tareas": "77",
+      "unidades": "2888",
       "ordenes": "20"
     },
     {
@@ -409,9 +409,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "495",
-      "disponibles": "198",
-      "porcentaje": "71.4 %"
+      "ocupadas": "494",
+      "disponibles": "199",
+      "porcentaje": "71.3 %"
     }
   ]
 }

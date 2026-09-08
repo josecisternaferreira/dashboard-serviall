@@ -1,14 +1,14 @@
 {
-  "timestamp": "08/09/2026 14:45",
+  "timestamp": "08/09/2026 15:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "67",
+      "valor": "77",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "92",
+      "valor": "112",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -65,7 +65,7 @@
     },
     {
       "label": "08-09",
-      "valor": 67.0
+      "valor": 77.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "SEP",
-      "valor": 593.0
+      "valor": 603.0
     }
   ],
   "promedio_ruta": [
@@ -151,7 +151,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 267.0
+      "valor": 268.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -217,7 +217,7 @@
     },
     {
       "label": "SEP",
-      "valor": 206.0
+      "valor": 207.0
     }
   ],
   "fillrate_mensual": [
@@ -271,12 +271,12 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "746",
-      "porcentaje": "11.9 %"
+      "total": "754",
+      "porcentaje": "12.0 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "547",
+      "total": "549",
       "porcentaje": "8.7 %"
     },
     {
@@ -309,6 +309,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "21",
+      "unidades": "2149",
+      "ordenes": "8"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
       "tareas": "19",
       "unidades": "3717",
@@ -316,17 +323,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "13",
-      "unidades": "1855",
-      "ordenes": "7"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "9",
-      "unidades": "2082",
-      "ordenes": "7"
+      "tareas": "11",
+      "unidades": "2097",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -360,9 +360,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1094",
-      "disponibles": "245",
-      "porcentaje": "81.7 %"
+      "ocupadas": "1095",
+      "disponibles": "244",
+      "porcentaje": "81.8 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

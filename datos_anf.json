@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/09/2026 17:16",
+  "timestamp": "08/09/2026 17:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -23,12 +23,12 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "1.0 días",
+      "valor": "0.9 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "3",
+      "valor": "4",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "134",
+      "valor": "137",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -217,7 +217,7 @@
     },
     {
       "label": "SEP",
-      "valor": 217.0
+      "valor": 218.0
     }
   ],
   "fillrate_mensual": [
@@ -396,9 +396,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "207",
-      "disponibles": "202",
-      "porcentaje": "50.6 %"
+      "ocupadas": "211",
+      "disponibles": "198",
+      "porcentaje": "51.6 %"
     }
   ]
 }

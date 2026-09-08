@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/09/2026 14:15",
+  "timestamp": "08/09/2026 14:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.0 %",
+      "valor": "98.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "100",
+      "valor": "92",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -103,7 +103,7 @@
     },
     {
       "label": "SEP",
-      "valor": 97.5
+      "valor": 97.6
     }
   ],
   "picking_mensual": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "SEP",
-      "valor": 202.0
+      "valor": 206.0
     }
   ],
   "fillrate_mensual": [
@@ -360,9 +360,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1096",
-      "disponibles": "243",
-      "porcentaje": "81.9 %"
+      "ocupadas": "1094",
+      "disponibles": "245",
+      "porcentaje": "81.7 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "08/09/2026 10:15",
+  "timestamp": "08/09/2026 10:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "9",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.3 %",
+      "valor": "98.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "12",
+      "valor": "18",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -65,7 +65,7 @@
     },
     {
       "label": "08-09",
-      "valor": 9.0
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +103,7 @@
     },
     {
       "label": "SEP",
-      "valor": 98.3
+      "valor": 97.8
     }
   ],
   "picking_mensual": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "SEP",
-      "valor": 535.0
+      "valor": 539.0
     }
   ],
   "promedio_ruta": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 78.0
+      "valor": 79.0
     },
     {
       "label": "ESTAFETA",
@@ -217,7 +217,7 @@
     },
     {
       "label": "SEP",
-      "valor": 181.0
+      "valor": 182.0
     }
   ],
   "fillrate_mensual": [
@@ -271,8 +271,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "735",
-      "porcentaje": "11.8 %"
+      "total": "739",
+      "porcentaje": "11.9 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -316,6 +316,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "6",
+      "unidades": "1580",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "4",
       "unidades": "265",
@@ -327,13 +334,6 @@
       "tareas": "3",
       "unidades": "10",
       "ordenes": "1"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "2",
-      "unidades": "2",
-      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -396,9 +396,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "217",
-      "disponibles": "192",
-      "porcentaje": "53.1 %"
+      "ocupadas": "216",
+      "disponibles": "193",
+      "porcentaje": "52.8 %"
     }
   ]
 }

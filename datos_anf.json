@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/09/2026 16:16",
+  "timestamp": "09/09/2026 16:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "132",
+      "valor": "147",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "7",
+      "valor": "21",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "185",
+      "valor": "203",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "09-09",
-      "valor": 132.0
+      "valor": 147.0
     }
   ],
   "cumplimiento": [
@@ -145,7 +145,7 @@
     },
     {
       "label": "SEP",
-      "valor": 750.0
+      "valor": 765.0
     }
   ],
   "promedio_ruta": [
@@ -175,7 +175,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 77.0
+      "valor": 78.0
     },
     {
       "label": "AGUNSA",
@@ -221,7 +221,7 @@
     },
     {
       "label": "SEP",
-      "valor": 244.0
+      "valor": 245.0
     }
   ],
   "fillrate_mensual": [
@@ -265,7 +265,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2204",
+      "total": "2212",
       "porcentaje": "35.8 %"
     },
     {
@@ -275,8 +275,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "759",
-      "porcentaje": "12.3 %"
+      "total": "765",
+      "porcentaje": "12.4 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -293,8 +293,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "175",
-      "unidades": "22040",
+      "tareas": "183",
+      "unidades": "22334",
       "ordenes": "44"
     },
     {
@@ -307,8 +307,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "51",
-      "unidades": "4125",
+      "tareas": "57",
+      "unidades": "4560",
       "ordenes": "25"
     },
     {
@@ -371,9 +371,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1103",
-      "disponibles": "236",
-      "porcentaje": "82.4 %"
+      "ocupadas": "1106",
+      "disponibles": "233",
+      "porcentaje": "82.6 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

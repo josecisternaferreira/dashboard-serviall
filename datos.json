@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/09/2026 17:30",
+  "timestamp": "09/09/2026 18:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "183",
+      "valor": "184",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.3 %",
+      "valor": "94.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "64",
+      "valor": "65",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "218",
+      "valor": "232",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "09-09",
-      "valor": 183.0
+      "valor": 184.0
     }
   ],
   "cumplimiento": [
@@ -111,7 +111,7 @@
     },
     {
       "label": "SEP",
-      "valor": 94.1
+      "valor": 94.2
     }
   ],
   "picking_mensual": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1136.0
+      "valor": 1137.0
     }
   ],
   "promedio_ruta": [
@@ -237,7 +237,7 @@
     },
     {
       "label": "SEP",
-      "valor": 492.0
+      "valor": 502.0
     }
   ],
   "fillrate_mensual": [
@@ -301,7 +301,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "925",
+      "total": "926",
       "porcentaje": "10.1 %"
     }
   ],
@@ -316,8 +316,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "163",
-      "unidades": "12321",
+      "tareas": "164",
+      "unidades": "12329",
       "ordenes": "48"
     },
     {

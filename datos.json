@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/09/2026 15:00",
+  "timestamp": "09/09/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "45",
+      "valor": "48",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -350,9 +350,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "118",
-      "ocupadas": "31",
-      "disponibles": "87",
-      "porcentaje": "26.3 %"
+      "ocupadas": "32",
+      "disponibles": "86",
+      "porcentaje": "27.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -413,9 +413,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "487",
-      "disponibles": "206",
-      "porcentaje": "70.3 %"
+      "ocupadas": "481",
+      "disponibles": "212",
+      "porcentaje": "69.4 %"
     }
   ]
 }

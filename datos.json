@@ -1,14 +1,14 @@
 {
-  "timestamp": "09/09/2026 14:00",
+  "timestamp": "09/09/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "8",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "130",
+      "valor": "142",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "44",
+      "valor": "45",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "37",
+      "valor": "47",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "170",
+      "valor": "186",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "09-09",
-      "valor": 130.0
+      "valor": 142.0
     }
   ],
   "cumplimiento": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1083.0
+      "valor": 1095.0
     }
   ],
   "promedio_ruta": [
@@ -179,7 +179,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 72.0
+      "valor": 73.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -191,7 +191,7 @@
     },
     {
       "label": "LOBOZA-FINNING",
-      "valor": 14.0
+      "valor": 15.0
     },
     {
       "label": "SQM_MRP",
@@ -237,7 +237,7 @@
     },
     {
       "label": "SEP",
-      "valor": 483.0
+      "valor": 486.0
     }
   ],
   "fillrate_mensual": [
@@ -281,8 +281,8 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1968",
-      "porcentaje": "21.6 %"
+      "total": "1973",
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -301,7 +301,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "896",
+      "total": "903",
       "porcentaje": "9.9 %"
     }
   ],
@@ -309,16 +309,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "228",
-      "unidades": "16424",
-      "ordenes": "86"
+      "tareas": "233",
+      "unidades": "16605",
+      "ordenes": "87"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "134",
-      "unidades": "6715",
-      "ordenes": "44"
+      "tareas": "141",
+      "unidades": "6995",
+      "ordenes": "45"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -413,9 +413,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "484",
-      "disponibles": "209",
-      "porcentaje": "69.8 %"
+      "ocupadas": "487",
+      "disponibles": "206",
+      "porcentaje": "70.3 %"
     }
   ]
 }

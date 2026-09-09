@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/09/2026 17:16",
+  "timestamp": "09/09/2026 17:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "167",
+      "valor": "170",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "30",
+      "valor": "41",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "label": "09-09",
-      "valor": 167.0
+      "valor": 170.0
     }
   ],
   "cumplimiento": [
@@ -145,13 +145,13 @@
     },
     {
       "label": "SEP",
-      "valor": 785.0
+      "valor": 788.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 930.0
+      "valor": 931.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -275,8 +275,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "782",
-      "porcentaje": "12.6 %"
+      "total": "785",
+      "porcentaje": "12.7 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -299,17 +299,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "77",
+      "unidades": "8630",
+      "ordenes": "25"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
       "tareas": "76",
       "unidades": "12991",
       "ordenes": "18"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "74",
-      "unidades": "7615",
-      "ordenes": "25"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -371,9 +371,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1109",
-      "disponibles": "230",
-      "porcentaje": "82.8 %"
+      "ocupadas": "1110",
+      "disponibles": "229",
+      "porcentaje": "82.9 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -407,9 +407,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "216",
-      "disponibles": "193",
-      "porcentaje": "52.8 %"
+      "ocupadas": "218",
+      "disponibles": "191",
+      "porcentaje": "53.3 %"
     }
   ]
 }

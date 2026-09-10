@@ -1,14 +1,14 @@
 {
-  "timestamp": "10/09/2026 12:30",
+  "timestamp": "10/09/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "9",
+      "valor": "12",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "64",
+      "valor": "71",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "15",
+      "valor": "20",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "30",
+      "valor": "34",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "86",
+      "valor": "100",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -77,7 +77,7 @@
     },
     {
       "label": "10-09",
-      "valor": 64.0
+      "valor": 71.0
     }
   ],
   "cumplimiento": [
@@ -153,13 +153,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1201.0
+      "valor": 1208.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1498.0
+      "valor": 1499.0
     },
     {
       "label": "SITRANS",
@@ -285,13 +285,13 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "2027",
-      "porcentaje": "22.0 %"
+      "total": "2034",
+      "porcentaje": "22.1 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1672",
-      "porcentaje": "18.2 %"
+      "porcentaje": "18.1 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -313,8 +313,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "287",
-      "unidades": "21471",
+      "tareas": "294",
+      "unidades": "21729",
       "ordenes": "101"
     },
     {

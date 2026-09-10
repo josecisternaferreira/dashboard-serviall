@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/09/2026 11:45",
+  "timestamp": "10/09/2026 12:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "38",
+      "valor": "42",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "24",
+      "valor": "33",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "23",
+      "valor": "32",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "44",
+      "valor": "48",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-09",
-      "valor": 38.0
+      "valor": 42.0
     }
   ],
   "cumplimiento": [
@@ -149,13 +149,13 @@
     },
     {
       "label": "SEP",
-      "valor": 829.0
+      "valor": 833.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 931.0
+      "valor": 932.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -270,12 +270,12 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2233",
-      "porcentaje": "35.8 %"
+      "porcentaje": "35.7 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1337",
-      "porcentaje": "21.4 %"
+      "total": "1341",
+      "porcentaje": "21.5 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -304,8 +304,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "93",
-      "unidades": "14750",
+      "tareas": "97",
+      "unidades": "14811",
       "ordenes": "21"
     },
     {
@@ -411,9 +411,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "215",
-      "disponibles": "194",
-      "porcentaje": "52.6 %"
+      "ocupadas": "218",
+      "disponibles": "191",
+      "porcentaje": "53.3 %"
     }
   ]
 }

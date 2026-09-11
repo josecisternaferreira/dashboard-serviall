@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/09/2026 10:30",
+  "timestamp": "11/09/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "40",
+      "valor": "66",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "25",
+      "valor": "27",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "54",
+      "valor": "106",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "11-09",
-      "valor": 40.0
+      "valor": 66.0
     }
   ],
   "cumplimiento": [
@@ -157,21 +157,21 @@
     },
     {
       "label": "SEP",
-      "valor": 1324.0
+      "valor": 1350.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1508.0
+      "valor": 1510.0
     },
     {
       "label": "SITRANS",
-      "valor": 388.0
+      "valor": 389.0
     },
     {
       "label": "AGUNSA",
-      "valor": 385.0
+      "valor": 386.0
     },
     {
       "label": "ESTAFETA",
@@ -245,7 +245,7 @@
     },
     {
       "label": "SEP",
-      "valor": 549.0
+      "valor": 552.0
     }
   ],
   "fillrate_mensual": [
@@ -289,8 +289,8 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "2102",
-      "porcentaje": "22.5 %"
+      "total": "2119",
+      "porcentaje": "22.6 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -309,7 +309,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "994",
+      "total": "1003",
       "porcentaje": "10.7 %"
     }
   ],
@@ -317,16 +317,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "362",
-      "unidades": "24260",
-      "ordenes": "128"
+      "tareas": "379",
+      "unidades": "24289",
+      "ordenes": "142"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "232",
-      "unidades": "17319",
-      "ordenes": "62"
+      "tareas": "241",
+      "unidades": "19511",
+      "ordenes": "67"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -383,9 +383,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "813",
-      "disponibles": "261",
-      "porcentaje": "75.7 %"
+      "ocupadas": "814",
+      "disponibles": "260",
+      "porcentaje": "75.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",

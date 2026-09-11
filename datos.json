@@ -1,19 +1,19 @@
 {
-  "timestamp": "11/09/2026 11:30",
+  "timestamp": "11/09/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "10",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "74",
+      "valor": "79",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.9 %",
+      "valor": "95.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "32",
+      "valor": "35",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "32",
+      "valor": "33",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "118",
+      "valor": "128",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "11-09",
-      "valor": 74.0
+      "valor": 79.0
     }
   ],
   "cumplimiento": [
@@ -157,13 +157,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1358.0
+      "valor": 1365.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1510.0
+      "valor": 1511.0
     },
     {
       "label": "SITRANS",
@@ -245,7 +245,7 @@
     },
     {
       "label": "SEP",
-      "valor": 554.0
+      "valor": 556.0
     }
   ],
   "fillrate_mensual": [
@@ -290,12 +290,12 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "2122",
-      "porcentaje": "22.7 %"
+      "porcentaje": "22.6 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1672",
-      "porcentaje": "17.9 %"
+      "porcentaje": "17.8 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -309,7 +309,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1007",
+      "total": "1012",
       "porcentaje": "10.8 %"
     }
   ],
@@ -324,9 +324,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "245",
-      "unidades": "19723",
-      "ordenes": "71"
+      "tareas": "250",
+      "unidades": "23776",
+      "ordenes": "72"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -383,9 +383,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "815",
-      "disponibles": "259",
-      "porcentaje": "75.9 %"
+      "ocupadas": "816",
+      "disponibles": "258",
+      "porcentaje": "76.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/09/2026 13:00",
+  "timestamp": "14/09/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "28",
+      "valor": "41",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.4 %",
+      "valor": "95.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "30",
+      "valor": "35",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "48",
+      "valor": "49",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "38",
+      "valor": "56",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "14-09",
-      "valor": 28.0
+      "valor": 41.0
     }
   ],
   "cumplimiento": [
@@ -123,7 +123,7 @@
     },
     {
       "label": "SEP",
-      "valor": 95.2
+      "valor": 95.3
     }
   ],
   "picking_mensual": [
@@ -161,7 +161,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1393.0
+      "valor": 1406.0
     }
   ],
   "promedio_ruta": [
@@ -179,7 +179,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 263.0
+      "valor": 264.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -249,7 +249,7 @@
     },
     {
       "label": "SEP",
-      "valor": 605.0
+      "valor": 618.0
     }
   ],
   "fillrate_mensual": [
@@ -308,8 +308,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1392",
-      "porcentaje": "15.2 %"
+      "total": "1403",
+      "porcentaje": "15.3 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -321,9 +321,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "28",
-      "unidades": "2740",
-      "ordenes": "24"
+      "tareas": "39",
+      "unidades": "2843",
+      "ordenes": "31"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "2",
+      "unidades": "13",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -404,9 +411,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "490",
-      "disponibles": "203",
-      "porcentaje": "70.7 %"
+      "ocupadas": "491",
+      "disponibles": "202",
+      "porcentaje": "70.9 %"
     }
   ]
 }

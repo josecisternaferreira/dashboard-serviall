@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/09/2026 08:45",
+  "timestamp": "14/09/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -78,6 +78,10 @@
     {
       "label": "11-09",
       "valor": 72.0
+    },
+    {
+      "label": "14-09",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -153,7 +157,7 @@
     },
     {
       "label": "SEP",
-      "valor": 980.0
+      "valor": 982.0
     }
   ],
   "promedio_ruta": [
@@ -278,8 +282,8 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1368",
-      "porcentaje": "21.7 %"
+      "total": "1371",
+      "porcentaje": "21.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -299,11 +303,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "3",
+      "unidades": "88",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [

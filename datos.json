@@ -1,14 +1,14 @@
 {
-  "timestamp": "14/09/2026 14:30",
+  "timestamp": "14/09/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "25",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "56",
+      "valor": "68",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "36",
+      "valor": "41",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "53",
+      "valor": "69",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "78",
+      "valor": "92",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "14-09",
-      "valor": 56.0
+      "valor": 68.0
     }
   ],
   "cumplimiento": [
@@ -161,7 +161,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1421.0
+      "valor": 1433.0
     }
   ],
   "promedio_ruta": [
@@ -175,7 +175,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 388.0
+      "valor": 389.0
     },
     {
       "label": "ESTAFETA",
@@ -299,16 +299,16 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1510",
-      "porcentaje": "16.5 %"
+      "porcentaje": "16.4 %"
+    },
+    {
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "1423",
+      "porcentaje": "15.5 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1420",
-      "porcentaje": "15.5 %"
-    },
-    {
-      "operador": "FREYNER ESTUPIÑAN",
-      "total": "1417",
       "porcentaje": "15.5 %"
     },
     {
@@ -321,16 +321,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "53",
-      "unidades": "3569",
-      "ordenes": "43"
+      "tareas": "59",
+      "unidades": "3601",
+      "ordenes": "49"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "3",
-      "unidades": "17",
-      "ordenes": "3"
+      "tareas": "9",
+      "unidades": "45",
+      "ordenes": "8"
     }
   ],
   "ocupacion": [

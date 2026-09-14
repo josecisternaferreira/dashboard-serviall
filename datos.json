@@ -1,14 +1,14 @@
 {
-  "timestamp": "14/09/2026 12:00",
+  "timestamp": "14/09/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "7",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "17",
+      "valor": "26",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "15",
+      "valor": "30",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "20",
+      "valor": "34",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "14-09",
-      "valor": 17.0
+      "valor": 26.0
     }
   ],
   "cumplimiento": [
@@ -161,7 +161,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1382.0
+      "valor": 1391.0
     }
   ],
   "promedio_ruta": [
@@ -179,7 +179,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 262.0
+      "valor": 263.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -249,7 +249,7 @@
     },
     {
       "label": "SEP",
-      "valor": 603.0
+      "valor": 605.0
     }
   ],
   "fillrate_mensual": [
@@ -304,26 +304,26 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1420",
-      "porcentaje": "15.6 %"
+      "porcentaje": "15.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1381",
-      "porcentaje": "15.1 %"
+      "total": "1390",
+      "porcentaje": "15.2 %"
     },
     {
       "operador": "LEONARDO SAEZ",
       "total": "1000",
-      "porcentaje": "11.0 %"
+      "porcentaje": "10.9 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "17",
-      "unidades": "1923",
-      "ordenes": "16"
+      "tareas": "26",
+      "unidades": "2336",
+      "ordenes": "23"
     }
   ],
   "ocupacion": [
@@ -359,9 +359,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "816",
-      "disponibles": "258",
-      "porcentaje": "76.0 %"
+      "ocupadas": "815",
+      "disponibles": "259",
+      "porcentaje": "75.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -404,9 +404,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "490",
-      "disponibles": "203",
-      "porcentaje": "70.7 %"
+      "ocupadas": "489",
+      "disponibles": "204",
+      "porcentaje": "70.6 %"
     }
   ]
 }

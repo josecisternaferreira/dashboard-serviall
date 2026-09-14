@@ -1,14 +1,14 @@
 {
-  "timestamp": "14/09/2026 14:00",
+  "timestamp": "14/09/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "16",
+      "valor": "20",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "49",
+      "valor": "56",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "35",
+      "valor": "36",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "49",
+      "valor": "53",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "65",
+      "valor": "78",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "14-09",
-      "valor": 49.0
+      "valor": 56.0
     }
   ],
   "cumplimiento": [
@@ -161,7 +161,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1414.0
+      "valor": 1421.0
     }
   ],
   "promedio_ruta": [
@@ -175,7 +175,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 387.0
+      "valor": 388.0
     },
     {
       "label": "ESTAFETA",
@@ -249,7 +249,7 @@
     },
     {
       "label": "SEP",
-      "valor": 621.0
+      "valor": 622.0
     }
   ],
   "fillrate_mensual": [
@@ -308,8 +308,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1411",
-      "porcentaje": "15.4 %"
+      "total": "1417",
+      "porcentaje": "15.5 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -321,16 +321,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "47",
-      "unidades": "3448",
-      "ordenes": "39"
+      "tareas": "53",
+      "unidades": "3569",
+      "ordenes": "43"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "2",
-      "unidades": "13",
-      "ordenes": "2"
+      "tareas": "3",
+      "unidades": "17",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/09/2026 14:46",
+  "timestamp": "15/09/2026 15:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "119",
+      "valor": "131",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "134",
+      "valor": "154",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "15-09",
-      "valor": 119.0
+      "valor": 131.0
     }
   ],
   "cumplimiento": [
@@ -161,13 +161,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1316.0
+      "valor": 1328.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 969.0
+      "valor": 970.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -237,7 +237,7 @@
     },
     {
       "label": "SEP",
-      "valor": 389.0
+      "valor": 391.0
     }
   ],
   "fillrate_mensual": [
@@ -286,18 +286,18 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1452",
+      "total": "1457",
       "porcentaje": "21.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "832",
+      "total": "833",
       "porcentaje": "12.5 %"
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "529",
-      "porcentaje": "8.0 %"
+      "total": "535",
+      "porcentaje": "8.1 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -316,15 +316,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "84",
-      "unidades": "11739",
+      "tareas": "89",
+      "unidades": "12932",
       "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "54",
-      "unidades": "3452",
+      "tareas": "60",
+      "unidades": "3746",
       "ordenes": "33"
     },
     {
@@ -337,9 +337,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "17",
-      "unidades": "647",
-      "ordenes": "13"
+      "tareas": "18",
+      "unidades": "656",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -416,9 +416,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "214",
-      "disponibles": "195",
-      "porcentaje": "52.3 %"
+      "ocupadas": "210",
+      "disponibles": "199",
+      "porcentaje": "51.3 %"
     }
   ]
 }

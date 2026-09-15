@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/09/2026 16:45",
+  "timestamp": "15/09/2026 17:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "151",
+      "valor": "170",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "184",
+      "valor": "214",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "15-09",
-      "valor": 151.0
+      "valor": 170.0
     }
   ],
   "cumplimiento": [
@@ -161,13 +161,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1348.0
+      "valor": 1367.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 972.0
+      "valor": 974.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -282,11 +282,11 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2375",
-      "porcentaje": "35.6 %"
+      "porcentaje": "35.5 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1468",
+      "total": "1473",
       "porcentaje": "22.0 %"
     },
     {
@@ -316,8 +316,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "100",
-      "unidades": "14839",
+      "tareas": "105",
+      "unidades": "15120",
       "ordenes": "12"
     },
     {
@@ -326,6 +326,13 @@
       "tareas": "60",
       "unidades": "3746",
       "ordenes": "33"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ACID",
+      "tareas": "27",
+      "unidades": "3027",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -340,13 +347,6 @@
       "tareas": "18",
       "unidades": "656",
       "ordenes": "14"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ACID",
-      "tareas": "13",
-      "unidades": "605",
-      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

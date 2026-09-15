@@ -1,19 +1,19 @@
 {
-  "timestamp": "15/09/2026 15:30",
+  "timestamp": "15/09/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "13",
+      "valor": "16",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "193",
+      "valor": "204",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.9 %",
+      "valor": "95.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "36",
+      "valor": "38",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "38",
+      "valor": "41",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "262",
+      "valor": "278",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "15-09",
-      "valor": 193.0
+      "valor": 204.0
     }
   ],
   "cumplimiento": [
@@ -127,7 +127,7 @@
     },
     {
       "label": "SEP",
-      "valor": 94.8
+      "valor": 94.9
     }
   ],
   "picking_mensual": [
@@ -165,13 +165,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1628.0
+      "valor": 1639.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1530.0
+      "valor": 1531.0
     },
     {
       "label": "SITRANS",
@@ -253,7 +253,7 @@
     },
     {
       "label": "SEP",
-      "valor": 671.0
+      "valor": 680.0
     }
   ],
   "fillrate_mensual": [
@@ -302,8 +302,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1541",
-      "porcentaje": "16.4 %"
+      "total": "1545",
+      "porcentaje": "16.5 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -325,16 +325,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "177",
-      "unidades": "6749",
-      "ordenes": "95"
+      "tareas": "181",
+      "unidades": "6807",
+      "ordenes": "97"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "74",
-      "unidades": "7534",
-      "ordenes": "14"
+      "tareas": "81",
+      "unidades": "7977",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -422,9 +422,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "487",
-      "disponibles": "206",
-      "porcentaje": "70.3 %"
+      "ocupadas": "488",
+      "disponibles": "205",
+      "porcentaje": "70.4 %"
     }
   ]
 }

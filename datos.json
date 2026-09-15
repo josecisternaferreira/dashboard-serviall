@@ -1,14 +1,14 @@
 {
-  "timestamp": "15/09/2026 12:30",
+  "timestamp": "15/09/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "8",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "103",
+      "valor": "115",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "27",
+      "valor": "32",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "148",
+      "valor": "160",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "15-09",
-      "valor": 103.0
+      "valor": 115.0
     }
   ],
   "cumplimiento": [
@@ -165,13 +165,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1538.0
+      "valor": 1550.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1520.0
+      "valor": 1522.0
     },
     {
       "label": "SITRANS",
@@ -253,7 +253,7 @@
     },
     {
       "label": "SEP",
-      "valor": 649.0
+      "valor": 652.0
     }
   ],
   "fillrate_mensual": [
@@ -303,12 +303,12 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1510",
-      "porcentaje": "16.3 %"
+      "porcentaje": "16.2 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1480",
-      "porcentaje": "15.9 %"
+      "total": "1486",
+      "porcentaje": "16.0 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -325,15 +325,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "116",
-      "unidades": "5822",
-      "ordenes": "69"
+      "tareas": "122",
+      "unidades": "6145",
+      "ordenes": "71"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "46",
-      "unidades": "487",
+      "tareas": "52",
+      "unidades": "1081",
       "ordenes": "13"
     },
     {
@@ -422,9 +422,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "477",
-      "disponibles": "216",
-      "porcentaje": "68.8 %"
+      "ocupadas": "479",
+      "disponibles": "214",
+      "porcentaje": "69.1 %"
     }
   ]
 }

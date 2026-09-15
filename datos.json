@@ -1,14 +1,14 @@
 {
-  "timestamp": "15/09/2026 17:00",
+  "timestamp": "15/09/2026 17:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "24",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "227",
+      "valor": "230",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "43",
+      "valor": "44",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "53",
+      "valor": "61",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "label": "15-09",
-      "valor": 227.0
+      "valor": 230.0
     }
   ],
   "cumplimiento": [
@@ -165,13 +165,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1662.0
+      "valor": 1665.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1533.0
+      "valor": 1534.0
     },
     {
       "label": "SITRANS",
@@ -253,7 +253,7 @@
     },
     {
       "label": "SEP",
-      "valor": 683.0
+      "valor": 686.0
     }
   ],
   "fillrate_mensual": [
@@ -302,7 +302,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1558",
+      "total": "1561",
       "porcentaje": "16.6 %"
     },
     {
@@ -325,9 +325,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "194",
-      "unidades": "6875",
-      "ordenes": "104"
+      "tareas": "197",
+      "unidades": "6880",
+      "ordenes": "106"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -377,9 +377,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "813",
-      "disponibles": "261",
-      "porcentaje": "75.7 %"
+      "ocupadas": "818",
+      "disponibles": "256",
+      "porcentaje": "76.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

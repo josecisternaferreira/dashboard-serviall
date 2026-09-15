@@ -1,19 +1,19 @@
 {
-  "timestamp": "15/09/2026 15:00",
+  "timestamp": "15/09/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "12",
+      "valor": "13",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "186",
+      "valor": "193",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "95.0 %",
+      "valor": "94.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "36",
+      "valor": "38",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "258",
+      "valor": "262",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "15-09",
-      "valor": 186.0
+      "valor": 193.0
     }
   ],
   "cumplimiento": [
@@ -127,7 +127,7 @@
     },
     {
       "label": "SEP",
-      "valor": 94.9
+      "valor": 94.8
     }
   ],
   "picking_mensual": [
@@ -165,13 +165,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1621.0
+      "valor": 1628.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1529.0
+      "valor": 1530.0
     },
     {
       "label": "SITRANS",
@@ -253,7 +253,7 @@
     },
     {
       "label": "SEP",
-      "valor": 664.0
+      "valor": 671.0
     }
   ],
   "fillrate_mensual": [
@@ -298,7 +298,7 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "2038",
-      "porcentaje": "21.8 %"
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -313,7 +313,7 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1420",
-      "porcentaje": "15.2 %"
+      "porcentaje": "15.1 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -332,8 +332,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "67",
-      "unidades": "6620",
+      "tareas": "74",
+      "unidades": "7534",
       "ordenes": "14"
     },
     {
@@ -377,9 +377,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "817",
-      "disponibles": "257",
-      "porcentaje": "76.1 %"
+      "ocupadas": "815",
+      "disponibles": "259",
+      "porcentaje": "75.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -422,9 +422,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "484",
-      "disponibles": "209",
-      "porcentaje": "69.8 %"
+      "ocupadas": "487",
+      "disponibles": "206",
+      "porcentaje": "70.3 %"
     }
   ]
 }

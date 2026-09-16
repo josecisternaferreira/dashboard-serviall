@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/09/2026 13:30",
+  "timestamp": "16/09/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "47",
+      "valor": "58",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.0 %",
+      "valor": "91.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "56",
+      "valor": "68",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "16-09",
-      "valor": 47.0
+      "valor": 58.0
     }
   ],
   "cumplimiento": [
@@ -131,7 +131,7 @@
     },
     {
       "label": "SEP",
-      "valor": 91.8
+      "valor": 91.6
     }
   ],
   "picking_mensual": [
@@ -169,13 +169,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1712.0
+      "valor": 1723.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1536.0
+      "valor": 1537.0
     },
     {
       "label": "SITRANS",
@@ -257,7 +257,7 @@
     },
     {
       "label": "SEP",
-      "valor": 747.0
+      "valor": 750.0
     }
   ],
   "fillrate_mensual": [
@@ -306,8 +306,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1586",
-      "porcentaje": "17.5 %"
+      "total": "1598",
+      "porcentaje": "17.6 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -317,7 +317,7 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1385",
-      "porcentaje": "15.3 %"
+      "porcentaje": "15.2 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -329,9 +329,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "225",
-      "unidades": "8582",
-      "ordenes": "132"
+      "tareas": "236",
+      "unidades": "9050",
+      "ordenes": "139"
     },
     {
       "region": "BODEGA SANTIAGO",

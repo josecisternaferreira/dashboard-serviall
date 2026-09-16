@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/09/2026 15:15",
+  "timestamp": "16/09/2026 15:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "122",
+      "valor": "134",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "168",
+      "valor": "190",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-09",
-      "valor": 122.0
+      "valor": 134.0
     }
   ],
   "cumplimiento": [
@@ -165,13 +165,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1498.0
+      "valor": 1510.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 987.0
+      "valor": 988.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -285,12 +285,12 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2324",
+      "total": "2328",
       "porcentaje": "35.6 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1449",
+      "total": "1453",
       "porcentaje": "22.2 %"
     },
     {
@@ -300,36 +300,36 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "533",
+      "total": "537",
       "porcentaje": "8.2 %"
     },
     {
       "operador": "OSCAR ROJAS",
       "total": "467",
-      "porcentaje": "7.2 %"
+      "porcentaje": "7.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "218",
-      "unidades": "34266",
+      "tareas": "222",
+      "unidades": "35181",
       "ordenes": "36"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "144",
-      "unidades": "21178",
+      "tareas": "148",
+      "unidades": "22140",
       "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "60",
-      "unidades": "3746",
-      "ordenes": "33"
+      "tareas": "64",
+      "unidades": "4210",
+      "ordenes": "34"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

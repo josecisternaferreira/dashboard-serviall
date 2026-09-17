@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/09/2026 11:45",
+  "timestamp": "17/09/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "71",
+      "valor": "72",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.7 %",
+      "valor": "96.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "84",
+      "valor": "86",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "17-09",
-      "valor": 71.0
+      "valor": 72.0
     }
   ],
   "cumplimiento": [
@@ -169,7 +169,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1610.0
+      "valor": 1611.0
     }
   ],
   "promedio_ruta": [
@@ -187,7 +187,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 183.0
+      "valor": 184.0
     },
     {
       "label": "ESTAFETA",
@@ -245,7 +245,7 @@
     },
     {
       "label": "SEP",
-      "valor": 430.0
+      "valor": 433.0
     }
   ],
   "fillrate_mensual": [
@@ -368,6 +368,13 @@
       "usuario": "KHENAO",
       "tareas": "3",
       "unidades": "288",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "1",
+      "unidades": "105",
       "ordenes": "1"
     }
   ],

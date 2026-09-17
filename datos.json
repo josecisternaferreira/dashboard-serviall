@@ -1,14 +1,14 @@
 {
-  "timestamp": "17/09/2026 12:30",
+  "timestamp": "17/09/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "19",
+      "valor": "21",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "88",
+      "valor": "92",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "49",
+      "valor": "57",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "46",
+      "valor": "48",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "100",
+      "valor": "104",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "17-09",
-      "valor": 88.0
+      "valor": 92.0
     }
   ],
   "cumplimiento": [
@@ -173,13 +173,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1814.0
+      "valor": 1818.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1542.0
+      "valor": 1543.0
     },
     {
       "label": "SITRANS",
@@ -261,7 +261,7 @@
     },
     {
       "label": "SEP",
-      "valor": 809.0
+      "valor": 810.0
     }
   ],
   "fillrate_mensual": [
@@ -340,8 +340,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "154",
-      "unidades": "13822",
+      "tareas": "158",
+      "unidades": "13904",
       "ordenes": "44"
     },
     {
@@ -385,9 +385,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "826",
-      "disponibles": "248",
-      "porcentaje": "76.9 %"
+      "ocupadas": "827",
+      "disponibles": "247",
+      "porcentaje": "77.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -430,9 +430,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "508",
-      "disponibles": "185",
-      "porcentaje": "73.3 %"
+      "ocupadas": "509",
+      "disponibles": "184",
+      "porcentaje": "73.4 %"
     }
   ]
 }

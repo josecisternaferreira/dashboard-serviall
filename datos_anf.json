@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/09/2026 10:45",
+  "timestamp": "17/09/2026 11:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "59",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "66",
+      "valor": "72",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "17-09",
-      "valor": 54.0
+      "valor": 59.0
     }
   ],
   "cumplimiento": [
@@ -169,13 +169,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1593.0
+      "valor": 1598.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 993.0
+      "valor": 994.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -245,7 +245,7 @@
     },
     {
       "label": "SEP",
-      "valor": 427.0
+      "valor": 429.0
     }
   ],
   "fillrate_mensual": [
@@ -294,13 +294,13 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1464",
-      "porcentaje": "22.1 %"
+      "total": "1467",
+      "porcentaje": "22.2 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "797",
-      "porcentaje": "12.0 %"
+      "total": "799",
+      "porcentaje": "12.1 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -324,9 +324,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "159",
-      "unidades": "24981",
-      "ordenes": "18"
+      "tareas": "162",
+      "unidades": "25071",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -352,9 +352,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "24",
-      "unidades": "773",
-      "ordenes": "18"
+      "tareas": "26",
+      "unidades": "839",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -395,9 +395,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1090",
-      "disponibles": "249",
-      "porcentaje": "81.4 %"
+      "ocupadas": "1093",
+      "disponibles": "246",
+      "porcentaje": "81.6 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

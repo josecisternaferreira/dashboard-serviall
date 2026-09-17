@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/09/2026 08:30",
+  "timestamp": "17/09/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "11",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -94,6 +94,10 @@
     {
       "label": "16-09",
       "valor": 61.0
+    },
+    {
+      "label": "17-09",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -169,7 +173,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1726.0
+      "valor": 1729.0
     }
   ],
   "promedio_ruta": [
@@ -336,9 +340,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "110",
-      "unidades": "11224",
-      "ordenes": "24"
+      "tareas": "113",
+      "unidades": "11244",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -381,9 +385,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "822",
-      "disponibles": "252",
-      "porcentaje": "76.5 %"
+      "ocupadas": "826",
+      "disponibles": "248",
+      "porcentaje": "76.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",

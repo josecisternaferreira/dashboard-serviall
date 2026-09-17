@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/09/2026 08:46",
+  "timestamp": "17/09/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -90,6 +90,10 @@
     {
       "label": "16-09",
       "valor": 163.0
+    },
+    {
+      "label": "17-09",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -165,13 +169,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1539.0
+      "valor": 1540.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 990.0
+      "valor": 991.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -285,7 +289,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2343",
+      "total": "2344",
       "porcentaje": "35.7 %"
     },
     {
@@ -313,9 +317,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "237",
-      "unidades": "36520",
-      "ordenes": "40"
+      "tareas": "238",
+      "unidades": "37120",
+      "ordenes": "41"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

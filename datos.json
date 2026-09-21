@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/09/2026 16:00",
+  "timestamp": "21/09/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "115",
+      "valor": "123",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-09",
-      "valor": 115.0
+      "valor": 123.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1933.0
+      "valor": 1941.0
     }
   ],
   "promedio_ruta": [
@@ -187,7 +187,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 397.0
+      "valor": 398.0
     },
     {
       "label": "AGUNSA",
@@ -309,7 +309,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1737",
+      "total": "1745",
       "porcentaje": "19.3 %"
     },
     {
@@ -320,7 +320,7 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1385",
-      "porcentaje": "15.4 %"
+      "porcentaje": "15.3 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -337,9 +337,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "93",
-      "unidades": "14714",
-      "ordenes": "50"
+      "tareas": "101",
+      "unidades": "16675",
+      "ordenes": "54"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -427,9 +427,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "502",
-      "disponibles": "191",
-      "porcentaje": "72.4 %"
+      "ocupadas": "505",
+      "disponibles": "188",
+      "porcentaje": "72.9 %"
     }
   ]
 }

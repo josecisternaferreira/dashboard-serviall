@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/09/2026 11:45",
+  "timestamp": "21/09/2026 12:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "58",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "82",
+      "valor": "96",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "21-09",
-      "valor": 44.0
+      "valor": 58.0
     }
   ],
   "cumplimiento": [
@@ -173,7 +173,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1655.0
+      "valor": 1669.0
     }
   ],
   "promedio_ruta": [
@@ -187,7 +187,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 260.0
+      "valor": 261.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -249,7 +249,7 @@
     },
     {
       "label": "SEP",
-      "valor": 448.0
+      "valor": 449.0
     }
   ],
   "fillrate_mensual": [
@@ -294,16 +294,16 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2298",
-      "porcentaje": "35.8 %"
+      "porcentaje": "35.7 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1424",
-      "porcentaje": "22.2 %"
+      "porcentaje": "22.1 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "765",
+      "total": "767",
       "porcentaje": "11.9 %"
     },
     {
@@ -327,16 +327,16 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "4",
-      "unidades": "900",
-      "ordenes": "2"
+      "usuario": "YRINCON",
+      "tareas": "15",
+      "unidades": "991",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "3",
-      "unidades": "18",
+      "usuario": "SOCARANZA",
+      "tareas": "6",
+      "unidades": "1500",
       "ordenes": "3"
     },
     {
@@ -407,9 +407,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "201",
-      "disponibles": "208",
-      "porcentaje": "49.1 %"
+      "ocupadas": "202",
+      "disponibles": "207",
+      "porcentaje": "49.4 %"
     }
   ]
 }

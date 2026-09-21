@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/09/2026 11:30",
+  "timestamp": "21/09/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "61",
+      "valor": "67",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "78",
+      "valor": "90",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-09",
-      "valor": 61.0
+      "valor": 67.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1879.0
+      "valor": 1885.0
     }
   ],
   "promedio_ruta": [
@@ -308,13 +308,13 @@
   ],
   "top5_operadores": [
     {
-      "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1690",
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "1691",
       "porcentaje": "18.8 %"
     },
     {
-      "operador": "FREYNER ESTUPIÑAN",
-      "total": "1685",
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1690",
       "porcentaje": "18.8 %"
     },
     {
@@ -325,7 +325,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1287",
-      "porcentaje": "14.4 %"
+      "porcentaje": "14.3 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -337,9 +337,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "41",
-      "unidades": "2366",
-      "ordenes": "24"
+      "tareas": "47",
+      "unidades": "2387",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA SANTIAGO",

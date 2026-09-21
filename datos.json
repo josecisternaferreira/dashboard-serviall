@@ -1,14 +1,14 @@
 {
-  "timestamp": "21/09/2026 14:00",
+  "timestamp": "21/09/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "21",
+      "valor": "23",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "102",
+      "valor": "111",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "21",
+      "valor": "31",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "39",
+      "valor": "41",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "130",
+      "valor": "148",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-09",
-      "valor": 102.0
+      "valor": 111.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1920.0
+      "valor": 1929.0
     }
   ],
   "promedio_ruta": [
@@ -195,7 +195,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 270.0
+      "valor": 271.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -265,7 +265,7 @@
     },
     {
       "label": "SEP",
-      "valor": 822.0
+      "valor": 827.0
     }
   ],
   "fillrate_mensual": [
@@ -309,13 +309,13 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1726",
+      "total": "1735",
       "porcentaje": "19.2 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1690",
-      "porcentaje": "18.8 %"
+      "porcentaje": "18.7 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -330,16 +330,16 @@
     {
       "operador": "LEONARDO SAEZ",
       "total": "969",
-      "porcentaje": "10.8 %"
+      "porcentaje": "10.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "82",
-      "unidades": "4630",
-      "ordenes": "43"
+      "tareas": "91",
+      "unidades": "14632",
+      "ordenes": "48"
     },
     {
       "region": "BODEGA SANTIAGO",

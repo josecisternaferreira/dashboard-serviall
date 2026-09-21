@@ -1,14 +1,14 @@
 {
-  "timestamp": "21/09/2026 11:00",
+  "timestamp": "21/09/2026 11:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "11",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "50",
+      "valor": "61",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "8",
+      "valor": "19",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "64",
+      "valor": "78",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-09",
-      "valor": 50.0
+      "valor": 61.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1868.0
+      "valor": 1879.0
     }
   ],
   "promedio_ruta": [
@@ -187,7 +187,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 395.0
+      "valor": 396.0
     },
     {
       "label": "AGUNSA",
@@ -199,11 +199,11 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 104.0
+      "valor": 105.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 91.0
+      "valor": 92.0
     },
     {
       "label": "ENEA-FINNING",
@@ -310,17 +310,17 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1690",
-      "porcentaje": "18.9 %"
+      "porcentaje": "18.8 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1679",
-      "porcentaje": "18.7 %"
+      "total": "1685",
+      "porcentaje": "18.8 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1385",
-      "porcentaje": "15.5 %"
+      "porcentaje": "15.4 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -337,16 +337,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "35",
-      "unidades": "2346",
-      "ordenes": "21"
+      "tareas": "41",
+      "unidades": "2366",
+      "ordenes": "24"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "16",
-      "unidades": "720",
-      "ordenes": "11"
+      "tareas": "20",
+      "unidades": "742",
+      "ordenes": "14"
     }
   ],
   "ocupacion": [
@@ -427,9 +427,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "499",
-      "disponibles": "194",
-      "porcentaje": "72.0 %"
+      "ocupadas": "500",
+      "disponibles": "193",
+      "porcentaje": "72.2 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "21/09/2026 10:30",
+  "timestamp": "21/09/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "3",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "35",
+      "valor": "50",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "5",
+      "valor": "8",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "40",
+      "valor": "64",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-09",
-      "valor": 35.0
+      "valor": 50.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1853.0
+      "valor": 1868.0
     }
   ],
   "promedio_ruta": [
@@ -314,7 +314,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1669",
+      "total": "1679",
       "porcentaje": "18.7 %"
     },
     {
@@ -337,16 +337,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "25",
-      "unidades": "1977",
-      "ordenes": "14"
+      "tareas": "35",
+      "unidades": "2346",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "10",
-      "unidades": "510",
-      "ordenes": "6"
+      "tareas": "16",
+      "unidades": "720",
+      "ordenes": "11"
     }
   ],
   "ocupacion": [
@@ -427,9 +427,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "498",
-      "disponibles": "195",
-      "porcentaje": "71.9 %"
+      "ocupadas": "499",
+      "disponibles": "194",
+      "porcentaje": "72.0 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/09/2026 11:16",
+  "timestamp": "21/09/2026 11:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "41",
+      "valor": "44",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "113",
+      "valor": "82",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "21-09",
-      "valor": 41.0
+      "valor": 44.0
     }
   ],
   "cumplimiento": [
@@ -135,7 +135,7 @@
     },
     {
       "label": "SEP",
-      "valor": 96.6
+      "valor": 96.7
     }
   ],
   "picking_mensual": [
@@ -173,7 +173,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1652.0
+      "valor": 1655.0
     }
   ],
   "promedio_ruta": [
@@ -203,7 +203,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 81.0
+      "valor": 82.0
     },
     {
       "label": "AGUNSA",
@@ -249,7 +249,7 @@
     },
     {
       "label": "SEP",
-      "valor": 446.0
+      "valor": 448.0
     }
   ],
   "fillrate_mensual": [
@@ -303,7 +303,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "763",
+      "total": "765",
       "porcentaje": "11.9 %"
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "492",
+      "total": "493",
       "porcentaje": "7.7 %"
     }
   ],
@@ -327,6 +327,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "4",
+      "unidades": "900",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "3",
       "unidades": "18",
@@ -334,10 +341,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "2",
-      "unidades": "400",
-      "ordenes": "2"
+      "usuario": "LARDILES",
+      "tareas": "1",
+      "unidades": "100",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -400,9 +407,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "200",
-      "disponibles": "209",
-      "porcentaje": "48.9 %"
+      "ocupadas": "201",
+      "disponibles": "208",
+      "porcentaje": "49.1 %"
     }
   ]
 }

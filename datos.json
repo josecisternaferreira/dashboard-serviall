@@ -1,19 +1,19 @@
 {
-  "timestamp": "21/09/2026 13:30",
+  "timestamp": "21/09/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "15",
+      "valor": "21",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "92",
+      "valor": "102",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.6 %",
+      "valor": "91.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "17",
+      "valor": "21",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "26",
+      "valor": "39",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "118",
+      "valor": "130",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-09",
-      "valor": 92.0
+      "valor": 102.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1910.0
+      "valor": 1920.0
     }
   ],
   "promedio_ruta": [
@@ -195,7 +195,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 269.0
+      "valor": 270.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -265,7 +265,7 @@
     },
     {
       "label": "SEP",
-      "valor": 818.0
+      "valor": 822.0
     }
   ],
   "fillrate_mensual": [
@@ -309,8 +309,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1716",
-      "porcentaje": "19.1 %"
+      "total": "1726",
+      "porcentaje": "19.2 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -337,9 +337,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "72",
-      "unidades": "4389",
-      "ordenes": "37"
+      "tareas": "82",
+      "unidades": "4630",
+      "ordenes": "43"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -382,9 +382,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "826",
-      "disponibles": "248",
-      "porcentaje": "76.9 %"
+      "ocupadas": "827",
+      "disponibles": "247",
+      "porcentaje": "77.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

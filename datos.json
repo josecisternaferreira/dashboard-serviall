@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/09/2026 09:00",
+  "timestamp": "21/09/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.7 %",
+      "valor": "91.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "14",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -98,6 +98,10 @@
     {
       "label": "17-09",
       "valor": 92.0
+    },
+    {
+      "label": "21-09",
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -173,7 +177,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1818.0
+      "valor": 1831.0
     }
   ],
   "promedio_ruta": [
@@ -183,11 +187,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 394.0
+      "valor": 395.0
     },
     {
       "label": "AGUNSA",
-      "valor": 390.0
+      "valor": 391.0
     },
     {
       "label": "ESTAFETA",
@@ -261,7 +265,7 @@
     },
     {
       "label": "SEP",
-      "valor": 810.0
+      "valor": 813.0
     }
   ],
   "fillrate_mensual": [
@@ -306,22 +310,22 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1690",
-      "porcentaje": "19.0 %"
+      "porcentaje": "18.9 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1644",
-      "porcentaje": "18.5 %"
+      "total": "1655",
+      "porcentaje": "18.6 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1385",
-      "porcentaje": "15.6 %"
+      "porcentaje": "15.5 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1287",
-      "porcentaje": "14.5 %"
+      "porcentaje": "14.4 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -331,11 +335,18 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "11",
+      "unidades": "502",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "2",
+      "unidades": "385",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/09/2026 09:45",
+  "timestamp": "22/09/2026 10:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "2",
+      "valor": "10",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "22-09",
-      "valor": 1.0
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1706.0
+      "valor": 1711.0
     }
   ],
   "promedio_ruta": [
@@ -187,7 +187,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 278.0
+      "valor": 279.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -253,7 +253,7 @@
     },
     {
       "label": "SEP",
-      "valor": 478.0
+      "valor": 479.0
     }
   ],
   "fillrate_mensual": [
@@ -307,12 +307,12 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "768",
+      "total": "769",
       "porcentaje": "11.9 %"
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "525",
+      "total": "528",
       "porcentaje": "8.1 %"
     },
     {
@@ -324,6 +324,13 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "45",
+      "unidades": "1426",
+      "ordenes": "16"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "44",
       "unidades": "5360",
@@ -331,17 +338,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "42",
-      "unidades": "1269",
-      "ordenes": "13"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "7",
-      "unidades": "1501",
-      "ordenes": "4"
+      "tareas": "8",
+      "unidades": "1511",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -355,6 +355,13 @@
       "usuario": "LCARRIZO",
       "tareas": "1",
       "unidades": "15",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SPIZARRO",
+      "tareas": "1",
+      "unidades": "5",
       "ordenes": "1"
     }
   ],

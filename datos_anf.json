@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/09/2026 16:45",
+  "timestamp": "22/09/2026 17:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "120",
+      "valor": "125",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "149",
+      "valor": "158",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "22-09",
-      "valor": 120.0
+      "valor": 125.0
     }
   ],
   "cumplimiento": [
@@ -139,7 +139,7 @@
     },
     {
       "label": "SEP",
-      "valor": 96.8
+      "valor": 96.9
     }
   ],
   "picking_mensual": [
@@ -177,13 +177,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1825.0
+      "valor": 1830.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1004.0
+      "valor": 1005.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -253,7 +253,7 @@
     },
     {
       "label": "SEP",
-      "valor": 506.0
+      "valor": 508.0
     }
   ],
   "fillrate_mensual": [
@@ -297,12 +297,12 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2364",
+      "total": "2366",
       "porcentaje": "35.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1456",
+      "total": "1459",
       "porcentaje": "22.1 %"
     },
     {
@@ -325,9 +325,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "66",
-      "unidades": "7175",
-      "ordenes": "16"
+      "tareas": "68",
+      "unidades": "7325",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -346,9 +346,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "32",
-      "unidades": "1262",
-      "ordenes": "5"
+      "tareas": "35",
+      "unidades": "1331",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

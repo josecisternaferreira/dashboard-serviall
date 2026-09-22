@@ -1,19 +1,19 @@
 {
-  "timestamp": "22/09/2026 15:30",
+  "timestamp": "22/09/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "17",
+      "valor": "25",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "140",
+      "valor": "155",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.7 %",
+      "valor": "90.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "83",
+      "valor": "87",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "90",
+      "valor": "100",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "210",
+      "valor": "236",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "22-09",
-      "valor": 140.0
+      "valor": 155.0
     }
   ],
   "cumplimiento": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "SEP",
-      "valor": 90.6
+      "valor": 90.7
     }
   ],
   "picking_mensual": [
@@ -181,13 +181,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2087.0
+      "valor": 2102.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1555.0
+      "valor": 1556.0
     },
     {
       "label": "SITRANS",
@@ -269,7 +269,7 @@
     },
     {
       "label": "SEP",
-      "valor": 929.0
+      "valor": 932.0
     }
   ],
   "fillrate_mensual": [
@@ -313,7 +313,7 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1826",
+      "total": "1828",
       "porcentaje": "19.9 %"
     },
     {
@@ -333,31 +333,31 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "982",
-      "porcentaje": "10.7 %"
+      "total": "994",
+      "porcentaje": "10.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "182",
-      "unidades": "25898",
-      "ordenes": "79"
+      "tareas": "184",
+      "unidades": "26154",
+      "ordenes": "81"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "81",
-      "unidades": "5048",
-      "ordenes": "29"
+      "tareas": "93",
+      "unidades": "5078",
+      "ordenes": "31"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "6",
-      "unidades": "630",
-      "ordenes": "2"
+      "tareas": "7",
+      "unidades": "642",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [

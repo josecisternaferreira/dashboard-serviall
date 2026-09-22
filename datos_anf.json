@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/09/2026 12:45",
+  "timestamp": "22/09/2026 13:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "48",
+      "valor": "58",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "60",
+      "valor": "70",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "22-09",
-      "valor": 48.0
+      "valor": 58.0
     }
   ],
   "cumplimiento": [
@@ -177,13 +177,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1753.0
+      "valor": 1763.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 999.0
+      "valor": 1000.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -297,13 +297,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2328",
+      "total": "2333",
       "porcentaje": "35.7 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1433",
-      "porcentaje": "22.0 %"
+      "porcentaje": "21.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -312,21 +312,21 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "530",
-      "porcentaje": "8.1 %"
+      "total": "535",
+      "porcentaje": "8.2 %"
     },
     {
       "operador": "LUIS ARDILES",
       "total": "493",
-      "porcentaje": "7.6 %"
+      "porcentaje": "7.5 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "47",
-      "unidades": "1448",
+      "tareas": "52",
+      "unidades": "1618",
       "ordenes": "18"
     },
     {
@@ -339,8 +339,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "30",
-      "unidades": "1854",
+      "tareas": "35",
+      "unidades": "2652",
       "ordenes": "11"
     },
     {

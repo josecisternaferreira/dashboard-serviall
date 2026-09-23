@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/09/2026 15:30",
+  "timestamp": "23/09/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "181",
+      "valor": "191",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.5 %",
+      "valor": "90.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "22",
+      "valor": "30",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "271",
+      "valor": "287",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "23-09",
-      "valor": 181.0
+      "valor": 191.0
     }
   ],
   "cumplimiento": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "SEP",
-      "valor": 90.3
+      "valor": 90.4
     }
   ],
   "picking_mensual": [
@@ -185,13 +185,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2305.0
+      "valor": 2315.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1573.0
+      "valor": 1574.0
     },
     {
       "label": "SITRANS",
@@ -273,7 +273,7 @@
     },
     {
       "label": "SEP",
-      "valor": 976.0
+      "valor": 985.0
     }
   ],
   "fillrate_mensual": [
@@ -322,7 +322,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1624",
+      "total": "1627",
       "porcentaje": "18.4 %"
     },
     {
@@ -345,15 +345,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "311",
-      "unidades": "60518",
-      "ordenes": "124"
+      "tareas": "314",
+      "unidades": "60827",
+      "ordenes": "127"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "162",
-      "unidades": "14609",
+      "tareas": "170",
+      "unidades": "14893",
       "ordenes": "46"
     },
     {
@@ -447,18 +447,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "166",
-      "disponibles": "73",
-      "porcentaje": "69.5 %"
+      "ocupadas": "167",
+      "disponibles": "72",
+      "porcentaje": "69.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "484",
-      "disponibles": "209",
-      "porcentaje": "69.8 %"
+      "ocupadas": "486",
+      "disponibles": "207",
+      "porcentaje": "70.1 %"
     }
   ]
 }

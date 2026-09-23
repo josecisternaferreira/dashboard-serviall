@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/09/2026 10:15",
+  "timestamp": "23/09/2026 10:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "12",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -102,6 +102,10 @@
     {
       "label": "22-09",
       "valor": 125.0
+    },
+    {
+      "label": "23-09",
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +181,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1830.0
+      "valor": 1836.0
     }
   ],
   "promedio_ruta": [
@@ -253,7 +257,7 @@
     },
     {
       "label": "SEP",
-      "valor": 514.0
+      "valor": 517.0
     }
   ],
   "fillrate_mensual": [
@@ -312,8 +316,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "524",
-      "porcentaje": "8.4 %"
+      "total": "530",
+      "porcentaje": "8.5 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -332,9 +336,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "57",
-      "unidades": "1760",
-      "ordenes": "23"
+      "tareas": "63",
+      "unidades": "1854",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -432,9 +436,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "210",
-      "disponibles": "199",
-      "porcentaje": "51.3 %"
+      "ocupadas": "209",
+      "disponibles": "200",
+      "porcentaje": "51.1 %"
     }
   ]
 }

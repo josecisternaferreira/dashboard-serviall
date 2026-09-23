@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/09/2026 11:46",
+  "timestamp": "23/09/2026 12:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "16",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "22",
+      "valor": "26",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "23-09",
-      "valor": 13.0
+      "valor": 16.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +181,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1843.0
+      "valor": 1846.0
     }
   ],
   "promedio_ruta": [
@@ -257,7 +257,7 @@
     },
     {
       "label": "SEP",
-      "valor": 522.0
+      "valor": 523.0
     }
   ],
   "fillrate_mensual": [
@@ -302,7 +302,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2293",
-      "porcentaje": "36.7 %"
+      "porcentaje": "36.6 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -321,7 +321,7 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "456",
+      "total": "459",
       "porcentaje": "7.3 %"
     }
   ],
@@ -363,17 +363,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SPIZARRO",
-      "tareas": "2",
-      "unidades": "42",
+      "usuario": "LARDILES",
+      "tareas": "4",
+      "unidades": "270",
       "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "1",
-      "unidades": "100",
-      "ordenes": "1"
+      "usuario": "SPIZARRO",
+      "tareas": "2",
+      "unidades": "42",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -436,9 +436,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "207",
-      "disponibles": "202",
-      "porcentaje": "50.6 %"
+      "ocupadas": "209",
+      "disponibles": "200",
+      "porcentaje": "51.1 %"
     }
   ]
 }

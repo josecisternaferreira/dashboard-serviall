@@ -1,14 +1,14 @@
 {
-  "timestamp": "23/09/2026 14:00",
+  "timestamp": "23/09/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "17",
+      "valor": "19",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "156",
+      "valor": "166",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "30",
+      "valor": "35",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "237",
+      "valor": "254",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "23-09",
-      "valor": 156.0
+      "valor": 166.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "SEP",
-      "valor": 2280.0
+      "valor": 2291.0
     }
   ],
   "promedio_ruta": [
@@ -215,7 +215,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 75.0
+      "valor": 76.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -273,7 +273,7 @@
     },
     {
       "label": "SEP",
-      "valor": 968.0
+      "valor": 972.0
     }
   ],
   "fillrate_mensual": [
@@ -322,8 +322,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1608",
-      "porcentaje": "18.2 %"
+      "total": "1619",
+      "porcentaje": "18.3 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -345,9 +345,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "295",
-      "unidades": "59845",
-      "ordenes": "114"
+      "tareas": "306",
+      "unidades": "60332",
+      "ordenes": "121"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -456,9 +456,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "483",
-      "disponibles": "210",
-      "porcentaje": "69.7 %"
+      "ocupadas": "485",
+      "disponibles": "208",
+      "porcentaje": "70.0 %"
     }
   ]
 }

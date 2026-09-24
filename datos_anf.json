@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/09/2026 09:15",
+  "timestamp": "24/09/2026 09:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.0 %",
+      "valor": "97.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "2",
+      "valor": "8",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "24-09",
-      "valor": 1.0
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1922.0
+      "valor": 1925.0
     }
   ],
   "promedio_ruta": [
@@ -261,7 +261,7 @@
     },
     {
       "label": "SEP",
-      "valor": 542.0
+      "valor": 543.0
     }
   ],
   "fillrate_mensual": [
@@ -354,9 +354,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "50",
-      "unidades": "6005",
-      "ordenes": "30"
+      "tareas": "53",
+      "unidades": "6623",
+      "ordenes": "32"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -411,9 +411,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1084",
-      "disponibles": "255",
-      "porcentaje": "81.0 %"
+      "ocupadas": "1083",
+      "disponibles": "256",
+      "porcentaje": "80.9 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

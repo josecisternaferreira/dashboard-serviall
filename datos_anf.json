@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/09/2026 08:46",
+  "timestamp": "24/09/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -106,6 +106,10 @@
     {
       "label": "23-09",
       "valor": 91.0
+    },
+    {
+      "label": "24-09",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +185,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1921.0
+      "valor": 1922.0
     }
   ],
   "promedio_ruta": [
@@ -350,9 +354,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "49",
-      "unidades": "5695",
-      "ordenes": "29"
+      "tareas": "50",
+      "unidades": "6005",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -407,9 +411,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1086",
-      "disponibles": "253",
-      "porcentaje": "81.1 %"
+      "ocupadas": "1084",
+      "disponibles": "255",
+      "porcentaje": "81.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -443,9 +447,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "211",
-      "disponibles": "198",
-      "porcentaje": "51.6 %"
+      "ocupadas": "205",
+      "disponibles": "204",
+      "porcentaje": "50.1 %"
     }
   ]
 }

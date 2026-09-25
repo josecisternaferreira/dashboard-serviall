@@ -1,14 +1,14 @@
 {
-  "timestamp": "25/09/2026 13:30",
+  "timestamp": "25/09/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "7",
+      "valor": "12",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "116",
+      "valor": "118",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "34",
+      "valor": "36",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "35",
+      "valor": "44",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "label": "25-09",
-      "valor": 116.0
+      "valor": 118.0
     }
   ],
   "cumplimiento": [
@@ -193,7 +193,7 @@
     },
     {
       "label": "SEP",
-      "valor": 2657.0
+      "valor": 2659.0
     }
   ],
   "promedio_ruta": [
@@ -207,7 +207,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 399.0
+      "valor": 400.0
     },
     {
       "label": "ESTAFETA",
@@ -281,7 +281,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1093.0
+      "valor": 1094.0
     }
   ],
   "fillrate_mensual": [
@@ -345,7 +345,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1059",
+      "total": "1060",
       "porcentaje": "11.5 %"
     }
   ],
@@ -360,16 +360,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "324",
-      "unidades": "39260",
-      "ordenes": "76"
+      "tareas": "325",
+      "unidades": "39270",
+      "ordenes": "77"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "14",
-      "unidades": "686",
-      "ordenes": "8"
+      "tareas": "15",
+      "unidades": "706",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -471,9 +471,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "496",
-      "disponibles": "197",
-      "porcentaje": "71.6 %"
+      "ocupadas": "499",
+      "disponibles": "194",
+      "porcentaje": "72.0 %"
     }
   ]
 }

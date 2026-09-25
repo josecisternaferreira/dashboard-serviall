@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/09/2026 09:46",
+  "timestamp": "25/09/2026 10:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "4",
+      "valor": "18",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.0 %",
+      "valor": "96.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "16",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -113,7 +113,7 @@
     },
     {
       "label": "25-09",
-      "valor": 4.0
+      "valor": 18.0
     }
   ],
   "cumplimiento": [
@@ -151,7 +151,7 @@
     },
     {
       "label": "SEP",
-      "valor": 96.8
+      "valor": 96.7
     }
   ],
   "picking_mensual": [
@@ -189,13 +189,13 @@
     },
     {
       "label": "SEP",
-      "valor": 1985.0
+      "valor": 1999.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1012.0
+      "valor": 1013.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -211,7 +211,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 91.0
+      "valor": 92.0
     },
     {
       "label": "SITRANS",
@@ -265,7 +265,7 @@
     },
     {
       "label": "SEP",
-      "valor": 567.0
+      "valor": 568.0
     }
   ],
   "fillrate_mensual": [
@@ -309,18 +309,18 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2347",
-      "porcentaje": "36.7 %"
+      "total": "2357",
+      "porcentaje": "36.8 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1414",
+      "total": "1418",
       "porcentaje": "22.1 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "752",
-      "porcentaje": "11.8 %"
+      "porcentaje": "11.7 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -337,16 +337,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "122",
-      "unidades": "13680",
+      "tareas": "132",
+      "unidades": "14444",
       "ordenes": "50"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "74",
-      "unidades": "2984",
-      "ordenes": "14"
+      "tareas": "78",
+      "unidades": "3455",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -422,9 +422,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1083",
-      "disponibles": "256",
-      "porcentaje": "80.9 %"
+      "ocupadas": "1085",
+      "disponibles": "254",
+      "porcentaje": "81.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

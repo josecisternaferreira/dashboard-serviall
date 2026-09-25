@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/09/2026 10:00",
+  "timestamp": "25/09/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "23",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "10",
+      "valor": "11",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "21",
+      "valor": "22",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "10",
+      "valor": "46",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "25-09",
-      "valor": 23.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -155,7 +155,7 @@
     },
     {
       "label": "SEP",
-      "valor": 90.8
+      "valor": 90.9
     }
   ],
   "picking_mensual": [
@@ -193,13 +193,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2564.0
+      "valor": 2587.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1592.0
+      "valor": 1594.0
     },
     {
       "label": "SITRANS",
@@ -281,7 +281,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1069.0
+      "valor": 1073.0
     }
   ],
   "fillrate_mensual": [
@@ -319,19 +319,19 @@
     },
     {
       "label": "SEP",
-      "valor": 99.7
+      "valor": 99.8
     }
   ],
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1770",
+      "total": "1776",
       "porcentaje": "19.5 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1691",
-      "porcentaje": "18.6 %"
+      "porcentaje": "18.5 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -341,27 +341,27 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1281",
-      "porcentaje": "14.1 %"
+      "porcentaje": "14.0 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1009",
-      "porcentaje": "11.1 %"
+      "total": "1026",
+      "porcentaje": "11.3 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "457",
-      "unidades": "69969",
-      "ordenes": "199"
+      "tareas": "463",
+      "unidades": "70196",
+      "ordenes": "205"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "274",
-      "unidades": "38659",
+      "tareas": "291",
+      "unidades": "38983",
       "ordenes": "67"
     },
     {

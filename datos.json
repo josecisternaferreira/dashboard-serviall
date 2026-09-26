@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/09/2026 09:30",
+  "timestamp": "26/09/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -23,17 +23,17 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "2.6 días",
+      "valor": "2.5 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "1",
+      "valor": "6",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "16",
+      "valor": "17",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -118,6 +118,10 @@
     {
       "label": "25-09",
       "valor": 131.0
+    },
+    {
+      "label": "26-09",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -193,7 +197,7 @@
     },
     {
       "label": "SEP",
-      "valor": 2672.0
+      "valor": 2674.0
     }
   ],
   "promedio_ruta": [
@@ -281,7 +285,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1102.0
+      "valor": 1105.0
     }
   ],
   "fillrate_mensual": [
@@ -326,7 +330,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1818",
-      "porcentaje": "19.8 %"
+      "porcentaje": "19.7 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -367,9 +371,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "15",
-      "unidades": "706",
-      "ordenes": "9"
+      "tareas": "17",
+      "unidades": "757",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -471,9 +475,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "501",
-      "disponibles": "192",
-      "porcentaje": "72.3 %"
+      "ocupadas": "505",
+      "disponibles": "188",
+      "porcentaje": "72.9 %"
     }
   ]
 }

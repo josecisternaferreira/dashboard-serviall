@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/09/2026 09:30",
+  "timestamp": "28/09/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "10",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.5 %",
+      "valor": "91.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "2",
+      "valor": "18",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "28-09",
-      "valor": 1.0
+      "valor": 10.0
     }
   ],
   "cumplimiento": [
@@ -163,7 +163,7 @@
     },
     {
       "label": "SEP",
-      "valor": 91.1
+      "valor": 91.2
     }
   ],
   "picking_mensual": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "SEP",
-      "valor": 2676.0
+      "valor": 2686.0
     }
   ],
   "promedio_ruta": [
@@ -289,7 +289,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1124.0
+      "valor": 1130.0
     }
   ],
   "fillrate_mensual": [
@@ -338,8 +338,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1660",
-      "porcentaje": "18.6 %"
+      "total": "1669",
+      "porcentaje": "18.7 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -361,9 +361,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "1",
-      "unidades": "8",
-      "ordenes": "1"
+      "tareas": "10",
+      "unidades": "453",
+      "ordenes": "9"
     }
   ],
   "ocupacion": [

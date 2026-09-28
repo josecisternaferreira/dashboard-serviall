@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/09/2026 10:30",
+  "timestamp": "28/09/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "35",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "25",
+      "valor": "56",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "28-09",
-      "valor": 15.0
+      "valor": 35.0
     }
   ],
   "cumplimiento": [
@@ -201,13 +201,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2691.0
+      "valor": 2711.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1599.0
+      "valor": 1601.0
     },
     {
       "label": "SITRANS",
@@ -219,7 +219,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 278.0
+      "valor": 279.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -332,14 +332,14 @@
   ],
   "top5_operadores": [
     {
-      "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1691",
-      "porcentaje": "19.0 %"
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "1694",
+      "porcentaje": "18.9 %"
     },
     {
-      "operador": "FREYNER ESTUPIÑAN",
-      "total": "1674",
-      "porcentaje": "18.8 %"
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1691",
+      "porcentaje": "18.9 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -349,21 +349,21 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1281",
-      "porcentaje": "14.4 %"
+      "porcentaje": "14.3 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "996",
-      "porcentaje": "11.2 %"
+      "porcentaje": "11.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "15",
-      "unidades": "1151",
-      "ordenes": "13"
+      "tareas": "35",
+      "unidades": "1800",
+      "ordenes": "16"
     }
   ],
   "ocupacion": [
@@ -435,9 +435,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "166",
-      "disponibles": "73",
-      "porcentaje": "69.5 %"
+      "ocupadas": "164",
+      "disponibles": "75",
+      "porcentaje": "68.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",

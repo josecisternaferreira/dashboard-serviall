@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/09/2026 09:46",
+  "timestamp": "28/09/2026 10:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "16",
+      "valor": "37",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "8",
+      "valor": "35",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "28-09",
-      "valor": 16.0
+      "valor": 37.0
     }
   ],
   "cumplimiento": [
@@ -193,13 +193,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2083.0
+      "valor": 2104.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1016.0
+      "valor": 1018.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -207,7 +207,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 265.0
+      "valor": 266.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -219,7 +219,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 91.0
+      "valor": 92.0
     },
     {
       "label": "SQM_MRP",
@@ -269,7 +269,7 @@
     },
     {
       "label": "SEP",
-      "valor": 592.0
+      "valor": 595.0
     }
   ],
   "fillrate_mensual": [
@@ -313,22 +313,22 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2303",
-      "porcentaje": "37.0 %"
+      "total": "2307",
+      "porcentaje": "36.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1406",
-      "porcentaje": "22.6 %"
+      "total": "1420",
+      "porcentaje": "22.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "707",
-      "porcentaje": "11.4 %"
+      "porcentaje": "11.3 %"
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "534",
+      "total": "538",
       "porcentaje": "8.6 %"
     },
     {
@@ -340,17 +340,24 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "9",
-      "unidades": "848",
-      "ordenes": "6"
+      "usuario": "ZCARVAJAL",
+      "tareas": "20",
+      "unidades": "1380",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "6",
-      "unidades": "254",
-      "ordenes": "1"
+      "usuario": "LCARRIZO",
+      "tareas": "13",
+      "unidades": "913",
+      "ordenes": "10"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "4",
+      "unidades": "27",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

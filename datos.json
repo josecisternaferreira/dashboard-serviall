@@ -1,9 +1,9 @@
 {
-  "timestamp": "28/09/2026 17:30",
+  "timestamp": "28/09/2026 18:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "32",
+      "valor": "37",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "50",
+      "valor": "53",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "68",
+      "valor": "79",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -163,7 +163,7 @@
     },
     {
       "label": "SEP",
-      "valor": 91.1
+      "valor": 91.2
     }
   ],
   "picking_mensual": [
@@ -289,7 +289,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1186.0
+      "valor": 1192.0
     }
   ],
   "fillrate_mensual": [
@@ -381,27 +381,27 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "118",
-      "ocupadas": "30",
-      "disponibles": "88",
-      "porcentaje": "25.4 %"
+      "ocupadas": "28",
+      "disponibles": "90",
+      "porcentaje": "23.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "15",
-      "disponibles": "3",
-      "porcentaje": "83.3 %"
+      "ocupadas": "11",
+      "disponibles": "7",
+      "porcentaje": "61.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "862",
-      "disponibles": "212",
-      "porcentaje": "80.3 %"
+      "ocupadas": "838",
+      "disponibles": "236",
+      "porcentaje": "78.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -444,9 +444,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "518",
-      "disponibles": "175",
-      "porcentaje": "74.7 %"
+      "ocupadas": "506",
+      "disponibles": "187",
+      "porcentaje": "73.0 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/09/2026 15:46",
+  "timestamp": "28/09/2026 16:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "137",
+      "valor": "153",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "194",
+      "valor": "222",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "28-09",
-      "valor": 137.0
+      "valor": 153.0
     }
   ],
   "cumplimiento": [
@@ -193,13 +193,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2204.0
+      "valor": 2220.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1026.0
+      "valor": 1028.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -313,12 +313,12 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2332",
+      "total": "2338",
       "porcentaje": "36.7 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1454",
+      "total": "1458",
       "porcentaje": "22.9 %"
     },
     {
@@ -333,31 +333,31 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "484",
-      "porcentaje": "7.6 %"
+      "total": "489",
+      "porcentaje": "7.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "54",
-      "unidades": "10246",
-      "ordenes": "9"
+      "tareas": "58",
+      "unidades": "10686",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "38",
-      "unidades": "3099",
+      "tareas": "44",
+      "unidades": "4939",
       "ordenes": "22"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "24",
-      "unidades": "6991",
-      "ordenes": "1"
+      "tareas": "29",
+      "unidades": "7000",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -376,9 +376,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "1",
-      "unidades": "1",
-      "ordenes": "1"
+      "tareas": "2",
+      "unidades": "101",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/09/2026 09:00",
+  "timestamp": "28/09/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -122,6 +122,10 @@
     {
       "label": "26-09",
       "valor": 3.0
+    },
+    {
+      "label": "28-09",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -197,7 +201,7 @@
     },
     {
       "label": "SEP",
-      "valor": 2675.0
+      "valor": 2676.0
     }
   ],
   "promedio_ruta": [
@@ -334,7 +338,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1659",
+      "total": "1660",
       "porcentaje": "18.6 %"
     },
     {
@@ -355,11 +359,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "1",
+      "unidades": "8",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -377,9 +381,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "118",
-      "ocupadas": "31",
-      "disponibles": "87",
-      "porcentaje": "26.3 %"
+      "ocupadas": "30",
+      "disponibles": "88",
+      "porcentaje": "25.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -440,9 +444,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "505",
-      "disponibles": "188",
-      "porcentaje": "72.9 %"
+      "ocupadas": "502",
+      "disponibles": "191",
+      "porcentaje": "72.4 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "28/09/2026 11:30",
+  "timestamp": "28/09/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "3",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "1",
+      "valor": "4",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "66",
+      "valor": "80",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "28-09",
-      "valor": 44.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "SEP",
-      "valor": 2720.0
+      "valor": 2730.0
     }
   ],
   "promedio_ruta": [
@@ -243,7 +243,7 @@
     },
     {
       "label": "LOBOZA-FINNING",
-      "valor": 15.0
+      "valor": 16.0
     },
     {
       "label": "SQM_MRP",
@@ -289,7 +289,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1157.0
+      "valor": 1158.0
     }
   ],
   "fillrate_mensual": [
@@ -333,8 +333,8 @@
   "top5_operadores": [
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1703",
-      "porcentaje": "19.0 %"
+      "total": "1713",
+      "porcentaje": "19.1 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -361,9 +361,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "44",
-      "unidades": "2898",
-      "ordenes": "16"
+      "tareas": "54",
+      "unidades": "2992",
+      "ordenes": "19"
     }
   ],
   "ocupacion": [

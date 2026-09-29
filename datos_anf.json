@@ -1,14 +1,14 @@
 {
-  "timestamp": "29/09/2026 14:46",
+  "timestamp": "29/09/2026 15:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "92",
+      "valor": "97",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "102",
+      "valor": "112",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "29-09",
-      "valor": 92.0
+      "valor": 97.0
     }
   ],
   "cumplimiento": [
@@ -159,7 +159,7 @@
     },
     {
       "label": "SEP",
-      "valor": 96.4
+      "valor": 96.5
     }
   ],
   "picking_mensual": [
@@ -197,7 +197,7 @@
     },
     {
       "label": "SEP",
-      "valor": 2392.0
+      "valor": 2397.0
     }
   ],
   "promedio_ruta": [
@@ -215,7 +215,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 195.0
+      "valor": 196.0
     },
     {
       "label": "ESTAFETA",
@@ -273,7 +273,7 @@
     },
     {
       "label": "SEP",
-      "valor": 647.0
+      "valor": 651.0
     }
   ],
   "fillrate_mensual": [
@@ -327,8 +327,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "721",
-      "porcentaje": "11.0 %"
+      "total": "726",
+      "porcentaje": "11.1 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -372,17 +372,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "19",
+      "unidades": "544",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "15",
       "unidades": "130",
       "ordenes": "4"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "14",
-      "unidades": "404",
-      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -409,9 +409,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1076",
-      "disponibles": "263",
-      "porcentaje": "80.4 %"
+      "ocupadas": "1075",
+      "disponibles": "264",
+      "porcentaje": "80.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -445,9 +445,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "215",
-      "disponibles": "194",
-      "porcentaje": "52.6 %"
+      "ocupadas": "213",
+      "disponibles": "196",
+      "porcentaje": "52.1 %"
     }
   ]
 }

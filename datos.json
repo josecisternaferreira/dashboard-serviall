@@ -1,14 +1,14 @@
 {
-  "timestamp": "29/09/2026 15:30",
+  "timestamp": "29/09/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "14",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "207",
+      "valor": "225",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "48",
+      "valor": "54",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "55",
+      "valor": "65",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "348",
+      "valor": "374",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -129,7 +129,7 @@
     },
     {
       "label": "29-09",
-      "valor": 207.0
+      "valor": 225.0
     }
   ],
   "cumplimiento": [
@@ -205,13 +205,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2967.0
+      "valor": 2985.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1622.0
+      "valor": 1624.0
     },
     {
       "label": "SITRANS",
@@ -293,7 +293,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1232.0
+      "valor": 1236.0
     }
   ],
   "fillrate_mensual": [
@@ -347,33 +347,33 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1403",
-      "porcentaje": "15.3 %"
+      "total": "1417",
+      "porcentaje": "15.4 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1385",
-      "porcentaje": "15.1 %"
+      "porcentaje": "15.0 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1080",
-      "porcentaje": "11.7 %"
+      "total": "1084",
+      "porcentaje": "11.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "122",
-      "unidades": "18523",
-      "ordenes": "16"
+      "tareas": "136",
+      "unidades": "19912",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "84",
-      "unidades": "2518",
+      "tareas": "88",
+      "unidades": "2533",
       "ordenes": "9"
     },
     {
@@ -424,9 +424,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "832",
-      "disponibles": "242",
-      "porcentaje": "77.5 %"
+      "ocupadas": "833",
+      "disponibles": "241",
+      "porcentaje": "77.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -460,18 +460,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "165",
-      "disponibles": "74",
-      "porcentaje": "69.0 %"
+      "ocupadas": "167",
+      "disponibles": "72",
+      "porcentaje": "69.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "504",
-      "disponibles": "189",
-      "porcentaje": "72.7 %"
+      "ocupadas": "505",
+      "disponibles": "188",
+      "porcentaje": "72.9 %"
     }
   ]
 }

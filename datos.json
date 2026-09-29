@@ -1,19 +1,19 @@
 {
-  "timestamp": "29/09/2026 16:30",
+  "timestamp": "29/09/2026 17:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "24",
+      "valor": "26",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "235",
+      "valor": "244",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.8 %",
+      "valor": "91.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "56",
+      "valor": "66",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "78",
+      "valor": "85",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "420",
+      "valor": "396",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -129,7 +129,7 @@
     },
     {
       "label": "29-09",
-      "valor": 235.0
+      "valor": 244.0
     }
   ],
   "cumplimiento": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "SEP",
-      "valor": 91.4
+      "valor": 91.5
     }
   ],
   "picking_mensual": [
@@ -205,13 +205,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2995.0
+      "valor": 3004.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1625.0
+      "valor": 1626.0
     },
     {
       "label": "SITRANS",
@@ -293,7 +293,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1238.0
+      "valor": 1243.0
     }
   ],
   "fillrate_mensual": [
@@ -347,7 +347,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1427",
+      "total": "1430",
       "porcentaje": "15.5 %"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1084",
+      "total": "1090",
       "porcentaje": "11.8 %"
     }
   ],
@@ -365,15 +365,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "146",
-      "unidades": "20117",
+      "tareas": "149",
+      "unidades": "20453",
       "ordenes": "21"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "88",
-      "unidades": "2533",
+      "tareas": "94",
+      "unidades": "2559",
       "ordenes": "9"
     },
     {
@@ -469,9 +469,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "508",
-      "disponibles": "185",
-      "porcentaje": "73.3 %"
+      "ocupadas": "510",
+      "disponibles": "183",
+      "porcentaje": "73.6 %"
     }
   ]
 }

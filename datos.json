@@ -1,14 +1,14 @@
 {
-  "timestamp": "29/09/2026 10:00",
+  "timestamp": "29/09/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "38",
+      "valor": "47",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "28",
+      "valor": "30",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "12",
+      "valor": "15",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "64",
+      "valor": "82",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -129,7 +129,7 @@
     },
     {
       "label": "29-09",
-      "valor": 38.0
+      "valor": 47.0
     }
   ],
   "cumplimiento": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "SEP",
-      "valor": 91.1
+      "valor": 91.2
     }
   ],
   "picking_mensual": [
@@ -205,13 +205,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2798.0
+      "valor": 2807.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1606.0
+      "valor": 1607.0
     },
     {
       "label": "SITRANS",
@@ -293,7 +293,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1197.0
+      "valor": 1198.0
     }
   ],
   "fillrate_mensual": [
@@ -352,13 +352,13 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1302",
-      "porcentaje": "14.4 %"
+      "total": "1307",
+      "porcentaje": "14.5 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1013",
-      "porcentaje": "11.2 %"
+      "total": "1017",
+      "porcentaje": "11.3 %"
     }
   ],
   "semana_actual": [
@@ -372,15 +372,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "21",
-      "unidades": "5191",
-      "ordenes": "3"
+      "tareas": "26",
+      "unidades": "6815",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "17",
-      "unidades": "991",
+      "tareas": "21",
+      "unidades": "1191",
       "ordenes": "4"
     }
   ],

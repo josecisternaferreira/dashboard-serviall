@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/09/2026 13:30",
+  "timestamp": "30/09/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "110",
+      "valor": "123",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "140",
+      "valor": "164",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "label": "30-09",
-      "valor": 110.0
+      "valor": 123.0
     }
   ],
   "cumplimiento": [
@@ -209,7 +209,7 @@
     },
     {
       "label": "SEP",
-      "valor": 3143.0
+      "valor": 3156.0
     }
   ],
   "promedio_ruta": [
@@ -223,7 +223,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 401.0
+      "valor": 402.0
     },
     {
       "label": "ESTAFETA",
@@ -347,17 +347,17 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1581",
-      "porcentaje": "17.5 %"
+      "porcentaje": "17.4 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1494",
-      "porcentaje": "16.5 %"
+      "total": "1501",
+      "porcentaje": "16.6 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1372",
-      "porcentaje": "15.2 %"
+      "porcentaje": "15.1 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -369,9 +369,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "213",
-      "unidades": "21565",
-      "ordenes": "42"
+      "tareas": "220",
+      "unidades": "24156",
+      "ordenes": "49"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -390,9 +390,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "4",
-      "unidades": "15",
-      "ordenes": "3"
+      "tareas": "10",
+      "unidades": "1102",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [
@@ -419,9 +419,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "11",
-      "disponibles": "7",
-      "porcentaje": "61.1 %"
+      "ocupadas": "9",
+      "disponibles": "9",
+      "porcentaje": "50.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

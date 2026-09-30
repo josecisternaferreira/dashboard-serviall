@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/09/2026 16:16",
+  "timestamp": "30/09/2026 16:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "41",
+      "valor": "64",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "78",
+      "valor": "124",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "30-09",
-      "valor": 41.0
+      "valor": 64.0
     }
   ],
   "cumplimiento": [
@@ -201,13 +201,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2459.0
+      "valor": 2482.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1046.0
+      "valor": 1048.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -277,7 +277,7 @@
     },
     {
       "label": "SEP",
-      "valor": 680.0
+      "valor": 686.0
     }
   ],
   "fillrate_mensual": [
@@ -322,12 +322,12 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2285",
-      "porcentaje": "36.5 %"
+      "porcentaje": "36.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1440",
-      "porcentaje": "23.0 %"
+      "total": "1441",
+      "porcentaje": "22.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -336,8 +336,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "572",
-      "porcentaje": "9.1 %"
+      "total": "594",
+      "porcentaje": "9.4 %"
     },
     {
       "operador": "LUIS ARDILES",
@@ -356,9 +356,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "125",
-      "unidades": "18650",
-      "ordenes": "18"
+      "tareas": "126",
+      "unidades": "20150",
+      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -370,9 +370,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "38",
-      "unidades": "3201",
-      "ordenes": "22"
+      "tareas": "60",
+      "unidades": "3223",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -440,9 +440,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "80",
-      "ocupadas": "70",
-      "disponibles": "10",
-      "porcentaje": "87.5 %"
+      "ocupadas": "69",
+      "disponibles": "11",
+      "porcentaje": "86.3 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

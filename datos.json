@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/09/2026 10:30",
+  "timestamp": "30/09/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "43",
+      "valor": "53",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.9 %",
+      "valor": "92.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "32",
+      "valor": "39",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "44",
+      "valor": "58",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "label": "30-09",
-      "valor": 43.0
+      "valor": 53.0
     }
   ],
   "cumplimiento": [
@@ -171,7 +171,7 @@
     },
     {
       "label": "SEP",
-      "valor": 91.5
+      "valor": 91.6
     }
   ],
   "picking_mensual": [
@@ -209,7 +209,7 @@
     },
     {
       "label": "SEP",
-      "valor": 3056.0
+      "valor": 3066.0
     }
   ],
   "promedio_ruta": [
@@ -231,7 +231,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 109.0
+      "valor": 110.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -297,7 +297,7 @@
     },
     {
       "label": "SEP",
-      "valor": 1244.0
+      "valor": 1257.0
     }
   ],
   "fillrate_mensual": [
@@ -351,7 +351,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1464",
+      "total": "1470",
       "porcentaje": "16.3 %"
     },
     {
@@ -361,24 +361,24 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1055",
-      "porcentaje": "11.7 %"
+      "total": "1057",
+      "porcentaje": "11.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "183",
-      "unidades": "21535",
-      "ordenes": "27"
+      "tareas": "189",
+      "unidades": "21541",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "111",
-      "unidades": "4641",
-      "ordenes": "11"
+      "tareas": "113",
+      "unidades": "4675",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -390,9 +390,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "2",
-      "unidades": "12",
-      "ordenes": "2"
+      "tareas": "4",
+      "unidades": "15",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [

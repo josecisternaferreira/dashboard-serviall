@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/09/2026 09:16",
+  "timestamp": "30/09/2026 09:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -122,6 +122,10 @@
     {
       "label": "29-09",
       "valor": 118.0
+    },
+    {
+      "label": "30-09",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -197,13 +201,13 @@
     },
     {
       "label": "SEP",
-      "valor": 2418.0
+      "valor": 2420.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1041.0
+      "valor": 1042.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -317,7 +321,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2266",
+      "total": "2268",
       "porcentaje": "36.4 %"
     },
     {
@@ -327,7 +331,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "726",
+      "total": "727",
       "porcentaje": "11.7 %"
     },
     {
@@ -352,9 +356,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "113",
-      "unidades": "10238",
-      "ordenes": "45"
+      "tareas": "115",
+      "unidades": "14038",
+      "ordenes": "46"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

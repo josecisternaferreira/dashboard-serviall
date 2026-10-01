@@ -1,14 +1,14 @@
 {
-  "timestamp": "01/10/2026 16:30",
+  "timestamp": "01/10/2026 17:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "27",
+      "valor": "28",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "128",
+      "valor": "145",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,24 +28,24 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "31",
+      "valor": "36",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "63",
+      "valor": "65",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "169",
+      "valor": "194",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-10",
-      "valor": 128.0
+      "valor": 145.0
     }
   ],
   "cumplimiento": [
@@ -129,13 +129,13 @@
     },
     {
       "label": "OCT",
-      "valor": 128.0
+      "valor": 145.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1478.0
+      "valor": 1480.0
     },
     {
       "label": "SITRANS",
@@ -270,17 +270,17 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1666",
-      "porcentaje": "18.0 %"
+      "porcentaje": "17.9 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1636",
+      "total": "1645",
       "porcentaje": "17.7 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1581",
-      "porcentaje": "17.1 %"
+      "porcentaje": "17.0 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -289,24 +289,24 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1140",
-      "porcentaje": "12.3 %"
+      "total": "1148",
+      "porcentaje": "12.4 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "355",
-      "unidades": "42777",
-      "ordenes": "129"
+      "tareas": "364",
+      "unidades": "42847",
+      "ordenes": "133"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "196",
-      "unidades": "6299",
-      "ordenes": "55"
+      "tareas": "204",
+      "unidades": "6441",
+      "ordenes": "60"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -392,18 +392,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "170",
-      "disponibles": "69",
-      "porcentaje": "71.1 %"
+      "ocupadas": "169",
+      "disponibles": "70",
+      "porcentaje": "70.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "503",
-      "disponibles": "190",
-      "porcentaje": "72.6 %"
+      "ocupadas": "504",
+      "disponibles": "189",
+      "porcentaje": "72.7 %"
     }
   ]
 }

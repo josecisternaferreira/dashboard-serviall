@@ -1,19 +1,19 @@
 {
-  "timestamp": "01/10/2026 10:00",
+  "timestamp": "01/10/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "7",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "19",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "50.0 %",
+      "valor": "57.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,19 +33,19 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "3",
+      "valor": "10",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "26",
+      "valor": "28",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-10",
-      "valor": 15.0
+      "valor": 19.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "OCT",
-      "valor": 50.0
+      "valor": 57.1
     }
   ],
   "picking_mensual": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "OCT",
-      "valor": 15.0
+      "valor": 19.0
     }
   ],
   "promedio_ruta": [
@@ -155,7 +155,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 94.0
+      "valor": 85.0
     },
     {
       "label": "ENEA-FINNING",
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 6.0
+      "valor": 7.0
     }
   ],
   "fillrate_mensual": [
@@ -279,8 +279,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1558",
-      "porcentaje": "17.0 %"
+      "total": "1562",
+      "porcentaje": "17.1 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -297,9 +297,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "277",
-      "unidades": "28760",
-      "ordenes": "97"
+      "tareas": "281",
+      "unidades": "28890",
+      "ordenes": "98"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "500",
-      "disponibles": "193",
-      "porcentaje": "72.2 %"
+      "ocupadas": "502",
+      "disponibles": "191",
+      "porcentaje": "72.4 %"
     }
   ]
 }

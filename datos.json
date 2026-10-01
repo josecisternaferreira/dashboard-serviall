@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/10/2026 17:00",
+  "timestamp": "01/10/2026 17:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "145",
+      "valor": "150",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "93.5 %",
+      "valor": "93.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "36",
+      "valor": "42",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "194",
+      "valor": "202",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-10",
-      "valor": 145.0
+      "valor": 150.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "OCT",
-      "valor": 93.5
+      "valor": 93.6
     }
   ],
   "picking_mensual": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "OCT",
-      "valor": 145.0
+      "valor": 150.0
     }
   ],
   "promedio_ruta": [
@@ -139,7 +139,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 373.0
+      "valor": 374.0
     },
     {
       "label": "AGUNSA",
@@ -151,7 +151,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 112.0
+      "valor": 101.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 77.0
+      "valor": 78.0
     }
   ],
   "fillrate_mensual": [
@@ -274,8 +274,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1645",
-      "porcentaje": "17.7 %"
+      "total": "1650",
+      "porcentaje": "17.8 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -297,9 +297,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "364",
-      "unidades": "42847",
-      "ordenes": "133"
+      "tareas": "369",
+      "unidades": "42891",
+      "ordenes": "138"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -356,9 +356,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "839",
-      "disponibles": "235",
-      "porcentaje": "78.1 %"
+      "ocupadas": "842",
+      "disponibles": "232",
+      "porcentaje": "78.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -392,18 +392,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "169",
-      "disponibles": "70",
-      "porcentaje": "70.7 %"
+      "ocupadas": "165",
+      "disponibles": "74",
+      "porcentaje": "69.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "504",
-      "disponibles": "189",
-      "porcentaje": "72.7 %"
+      "ocupadas": "507",
+      "disponibles": "186",
+      "porcentaje": "73.2 %"
     }
   ]
 }

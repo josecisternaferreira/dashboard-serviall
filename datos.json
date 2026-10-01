@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/10/2026 12:30",
+  "timestamp": "01/10/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "52",
+      "valor": "63",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "87.1 %",
+      "valor": "89.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "80",
+      "valor": "106",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-10",
-      "valor": 52.0
+      "valor": 63.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "OCT",
-      "valor": 87.1
+      "valor": 89.5
     }
   ],
   "picking_mensual": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "OCT",
-      "valor": 52.0
+      "valor": 63.0
     }
   ],
   "promedio_ruta": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 253.0
+      "valor": 254.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 31.0
+      "valor": 38.0
     }
   ],
   "fillrate_mensual": [
@@ -274,8 +274,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1595",
-      "porcentaje": "17.4 %"
+      "total": "1607",
+      "porcentaje": "17.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -297,8 +297,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "314",
-      "unidades": "32874",
+      "tareas": "326",
+      "unidades": "37916",
       "ordenes": "108"
     },
     {
@@ -392,9 +392,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "168",
-      "disponibles": "71",
-      "porcentaje": "70.3 %"
+      "ocupadas": "169",
+      "disponibles": "70",
+      "porcentaje": "70.7 %"
     },
     {
       "region": "BODEGA SANTIAGO",

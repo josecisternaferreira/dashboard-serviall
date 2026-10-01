@@ -1,19 +1,19 @@
 {
-  "timestamp": "01/10/2026 13:30",
+  "timestamp": "01/10/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "13",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "72",
+      "valor": "75",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "88.1 %",
+      "valor": "90.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,24 +28,24 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "14",
+      "valor": "16",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "28",
+      "valor": "34",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "112",
+      "valor": "114",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-10",
-      "valor": 72.0
+      "valor": 75.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "OCT",
-      "valor": 88.1
+      "valor": 90.0
     }
   ],
   "picking_mensual": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "OCT",
-      "valor": 72.0
+      "valor": 75.0
     }
   ],
   "promedio_ruta": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 42.0
+      "valor": 50.0
     }
   ],
   "fillrate_mensual": [
@@ -274,7 +274,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1615",
+      "total": "1616",
       "porcentaje": "17.5 %"
     },
     {
@@ -289,7 +289,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1120",
+      "total": "1121",
       "porcentaje": "12.2 %"
     }
   ],
@@ -297,16 +297,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "334",
-      "unidades": "38903",
+      "tareas": "335",
+      "unidades": "38905",
       "ordenes": "113"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "176",
-      "unidades": "5817",
-      "ordenes": "49"
+      "tareas": "177",
+      "unidades": "5818",
+      "ordenes": "50"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -318,9 +318,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "13",
-      "unidades": "1140",
-      "ordenes": "6"
+      "tareas": "14",
+      "unidades": "1249",
+      "ordenes": "7"
     }
   ],
   "ocupacion": [
@@ -356,9 +356,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "837",
-      "disponibles": "237",
-      "porcentaje": "77.9 %"
+      "ocupadas": "838",
+      "disponibles": "236",
+      "porcentaje": "78.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,24 +1,24 @@
 {
-  "timestamp": "01/10/2026 13:00",
+  "timestamp": "01/10/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "7",
+      "valor": "13",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "63",
+      "valor": "72",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "89.5 %",
+      "valor": "88.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "100.0 %",
+      "valor": "99.8 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -33,19 +33,19 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "10",
+      "valor": "28",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "106",
+      "valor": "112",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-10",
-      "valor": 63.0
+      "valor": 72.0
     }
   ],
   "cumplimiento": [
@@ -87,7 +87,7 @@
     },
     {
       "label": "OCT",
-      "valor": 89.5
+      "valor": 88.1
     }
   ],
   "picking_mensual": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "OCT",
-      "valor": 63.0
+      "valor": 72.0
     }
   ],
   "promedio_ruta": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 254.0
+      "valor": 255.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -159,7 +159,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 78.0
+      "valor": 71.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 38.0
+      "valor": 42.0
     }
   ],
   "fillrate_mensual": [
@@ -263,7 +263,7 @@
     },
     {
       "label": "OCT",
-      "valor": 100.0
+      "valor": 99.8
     }
   ],
   "top5_operadores": [
@@ -274,7 +274,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1607",
+      "total": "1615",
       "porcentaje": "17.5 %"
     },
     {
@@ -297,9 +297,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "326",
-      "unidades": "37916",
-      "ordenes": "108"
+      "tareas": "334",
+      "unidades": "38903",
+      "ordenes": "113"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -347,18 +347,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "7",
-      "disponibles": "11",
-      "porcentaje": "38.9 %"
+      "ocupadas": "8",
+      "disponibles": "10",
+      "porcentaje": "44.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "838",
-      "disponibles": "236",
-      "porcentaje": "78.0 %"
+      "ocupadas": "837",
+      "disponibles": "237",
+      "porcentaje": "77.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -401,9 +401,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "501",
-      "disponibles": "192",
-      "porcentaje": "72.3 %"
+      "ocupadas": "499",
+      "disponibles": "194",
+      "porcentaje": "72.0 %"
     }
   ]
 }

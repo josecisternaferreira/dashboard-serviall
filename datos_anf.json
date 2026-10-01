@@ -1,5 +1,5 @@
 {
-  "timestamp": "01/10/2026 09:45",
+  "timestamp": "01/10/2026 10:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,18 +8,18 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "15",
+      "valor": "26",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "FILLRATE MES ACTUAL - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "22",
+      "valor": "44",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-10",
-      "valor": 15.0
+      "valor": 26.0
     }
   ],
   "cumplimiento": [
@@ -84,6 +84,10 @@
     {
       "label": "SEP",
       "valor": 96.7
+    },
+    {
+      "label": "OCT",
+      "valor": 100.0
     }
   ],
   "picking_mensual": [
@@ -125,7 +129,7 @@
     },
     {
       "label": "OCT",
-      "valor": 15.0
+      "valor": 26.0
     }
   ],
   "promedio_ruta": [
@@ -134,16 +138,16 @@
       "valor": 945.0
     },
     {
-      "label": "SUCURSAL.FINNING",
-      "valor": 268.0
-    },
-    {
       "label": "DESPACHO-CLIENTE",
       "valor": 254.0
     },
     {
+      "label": "SUCURSAL.FINNING",
+      "valor": 241.0
+    },
+    {
       "label": "CLIENTE RETIRA",
-      "valor": 177.0
+      "valor": 178.0
     },
     {
       "label": "ESTAFETA",
@@ -202,6 +206,10 @@
     {
       "label": "SEP",
       "valor": 704.0
+    },
+    {
+      "label": "OCT",
+      "valor": 8.0
     }
   ],
   "fillrate_mensual": [
@@ -240,13 +248,17 @@
     {
       "label": "SEP",
       "valor": 99.7
+    },
+    {
+      "label": "OCT",
+      "valor": 100.0
     }
   ],
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
       "total": "2295",
-      "porcentaje": "36.3 %"
+      "porcentaje": "36.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -255,8 +267,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "729",
-      "porcentaje": "11.5 %"
+      "total": "735",
+      "porcentaje": "11.6 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -301,16 +313,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "29",
-      "unidades": "685",
-      "ordenes": "12"
+      "tareas": "34",
+      "unidades": "1290",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "22",
-      "unidades": "1053",
-      "ordenes": "10"
+      "tareas": "28",
+      "unidades": "1288",
+      "ordenes": "14"
     }
   ],
   "ocupacion": [
@@ -373,9 +385,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "203",
-      "disponibles": "206",
-      "porcentaje": "49.6 %"
+      "ocupadas": "204",
+      "disponibles": "205",
+      "porcentaje": "49.9 %"
     }
   ]
 }

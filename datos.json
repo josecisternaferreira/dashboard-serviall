@@ -1,14 +1,14 @@
 {
-  "timestamp": "01/10/2026 17:30",
+  "timestamp": "01/10/2026 18:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "28",
+      "valor": "30",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "150",
+      "valor": "151",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,24 +28,24 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "42",
+      "valor": "58",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "65",
+      "valor": "72",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "202",
+      "valor": "204",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "01-10",
-      "valor": 150.0
+      "valor": 151.0
     }
   ],
   "cumplimiento": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "OCT",
-      "valor": 150.0
+      "valor": 151.0
     }
   ],
   "promedio_ruta": [
@@ -274,7 +274,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1650",
+      "total": "1651",
       "porcentaje": "17.8 %"
     },
     {
@@ -297,8 +297,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "369",
-      "unidades": "42891",
+      "tareas": "370",
+      "unidades": "42941",
       "ordenes": "138"
     },
     {
@@ -356,9 +356,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "842",
-      "disponibles": "232",
-      "porcentaje": "78.4 %"
+      "ocupadas": "843",
+      "disponibles": "231",
+      "porcentaje": "78.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",

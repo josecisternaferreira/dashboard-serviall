@@ -1,14 +1,14 @@
 {
-  "timestamp": "02/10/2026 13:30",
+  "timestamp": "02/10/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "13",
+      "valor": "14",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "146",
+      "valor": "147",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "38",
+      "valor": "40",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "38",
+      "valor": "41",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "261",
+      "valor": "244",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "02-10",
-      "valor": 146.0
+      "valor": 147.0
     }
   ],
   "cumplimiento": [
@@ -133,7 +133,7 @@
     },
     {
       "label": "OCT",
-      "valor": 300.0
+      "valor": 301.0
     }
   ],
   "promedio_ruta": [
@@ -225,7 +225,7 @@
     },
     {
       "label": "OCT",
-      "valor": 135.0
+      "valor": 136.0
     }
   ],
   "fillrate_mensual": [
@@ -293,7 +293,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1228",
+      "total": "1229",
       "porcentaje": "13.0 %"
     }
   ],
@@ -308,8 +308,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "284",
-      "unidades": "8935",
+      "tareas": "285",
+      "unidades": "8937",
       "ordenes": "91"
     },
     {
@@ -405,9 +405,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "508",
-      "disponibles": "185",
-      "porcentaje": "73.3 %"
+      "ocupadas": "509",
+      "disponibles": "184",
+      "porcentaje": "73.4 %"
     }
   ]
 }

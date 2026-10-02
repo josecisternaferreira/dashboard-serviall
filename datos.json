@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/10/2026 08:30",
+  "timestamp": "02/10/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -46,6 +46,10 @@
     {
       "label": "01-10",
       "valor": 151.0
+    },
+    {
+      "label": "02-10",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -129,7 +133,7 @@
     },
     {
       "label": "OCT",
-      "valor": 151.0
+      "valor": 152.0
     }
   ],
   "promedio_ruta": [
@@ -289,7 +293,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1148",
+      "total": "1149",
       "porcentaje": "12.4 %"
     }
   ],
@@ -304,9 +308,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "204",
-      "unidades": "6441",
-      "ordenes": "60"
+      "tareas": "205",
+      "unidades": "6444",
+      "ordenes": "61"
     },
     {
       "region": "BODEGA SANTIAGO",

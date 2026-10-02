@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/10/2026 11:46",
+  "timestamp": "02/10/2026 12:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "25",
+      "valor": "53",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "24",
+      "valor": "27",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "24",
+      "valor": "27",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "37",
+      "valor": "44",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "02-10",
-      "valor": 25.0
+      "valor": 53.0
     }
   ],
   "cumplimiento": [
@@ -133,13 +133,13 @@
     },
     {
       "label": "OCT",
-      "valor": 116.0
+      "valor": 144.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 948.0
+      "valor": 949.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -151,7 +151,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 180.0
+      "valor": 182.0
     },
     {
       "label": "ESTAFETA",
@@ -213,7 +213,7 @@
     },
     {
       "label": "OCT",
-      "valor": 46.0
+      "valor": 47.0
     }
   ],
   "fillrate_mensual": [
@@ -261,18 +261,18 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2362",
+      "total": "2376",
       "porcentaje": "36.8 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1443",
-      "porcentaje": "22.5 %"
+      "porcentaje": "22.4 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "736",
-      "porcentaje": "11.5 %"
+      "total": "750",
+      "porcentaje": "11.6 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -289,9 +289,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "209",
-      "unidades": "39711",
-      "ordenes": "80"
+      "tareas": "223",
+      "unidades": "42513",
+      "ordenes": "82"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -316,17 +316,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "43",
+      "unidades": "1502",
+      "ordenes": "21"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "40",
       "unidades": "1429",
       "ordenes": "18"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "29",
-      "unidades": "1488",
-      "ordenes": "15"
     }
   ],
   "ocupacion": [
@@ -389,9 +389,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "208",
-      "disponibles": "201",
-      "porcentaje": "50.9 %"
+      "ocupadas": "210",
+      "disponibles": "199",
+      "porcentaje": "51.3 %"
     }
   ]
 }

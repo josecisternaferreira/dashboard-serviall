@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/10/2026 10:15",
+  "timestamp": "03/10/2026 10:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "14",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "20",
+      "valor": "24",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "03-10",
-      "valor": 10.0
+      "valor": 14.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "OCT",
-      "valor": 166.0
+      "valor": 170.0
     }
   ],
   "promedio_ruta": [
@@ -266,7 +266,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2379",
-      "porcentaje": "36.8 %"
+      "porcentaje": "36.7 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -275,8 +275,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "759",
-      "porcentaje": "11.7 %"
+      "total": "761",
+      "porcentaje": "11.8 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -321,9 +321,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "52",
-      "unidades": "3650",
-      "ordenes": "25"
+      "tareas": "54",
+      "unidades": "3668",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -335,9 +335,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JBARRERA",
-      "tareas": "3",
-      "unidades": "258",
-      "ordenes": "1"
+      "tareas": "5",
+      "unidades": "738",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [
@@ -400,9 +400,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "214",
-      "disponibles": "195",
-      "porcentaje": "52.3 %"
+      "ocupadas": "215",
+      "disponibles": "194",
+      "porcentaje": "52.6 %"
     }
   ]
 }

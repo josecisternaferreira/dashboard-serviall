@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/10/2026 15:16",
+  "timestamp": "05/10/2026 15:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "47",
+      "valor": "48",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "54",
+      "valor": "56",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "05-10",
-      "valor": 47.0
+      "valor": 48.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "OCT",
-      "valor": 217.0
+      "valor": 218.0
     }
   ],
   "promedio_ruta": [
@@ -313,6 +313,13 @@
       "usuario": "SOCARANZA",
       "tareas": "1",
       "unidades": "5",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "YRINCON",
+      "tareas": "1",
+      "unidades": "23",
       "ordenes": "1"
     }
   ],

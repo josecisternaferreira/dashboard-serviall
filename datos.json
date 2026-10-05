@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/10/2026 09:00",
+  "timestamp": "05/10/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "41",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "10",
+      "valor": "64",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "05-10",
-      "valor": 6.0
+      "valor": 41.0
     }
   ],
   "cumplimiento": [
@@ -137,13 +137,13 @@
     },
     {
       "label": "OCT",
-      "valor": 337.0
+      "valor": 372.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1495.0
+      "valor": 1498.0
     },
     {
       "label": "SITRANS",
@@ -277,44 +277,51 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "1737",
-      "porcentaje": "18.9 %"
+      "total": "1749",
+      "porcentaje": "19.0 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1666",
-      "porcentaje": "18.2 %"
+      "total": "1683",
+      "porcentaje": "18.3 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1446",
-      "porcentaje": "15.8 %"
+      "porcentaje": "15.7 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1372",
-      "porcentaje": "15.0 %"
+      "porcentaje": "14.9 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1113",
+      "total": "1119",
       "porcentaje": "12.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "5",
-      "unidades": "76",
-      "ordenes": "1"
+      "usuario": "JMELGAR",
+      "tareas": "18",
+      "unidades": "322",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "1",
-      "unidades": "72",
-      "ordenes": "1"
+      "usuario": "DGANDO",
+      "tareas": "17",
+      "unidades": "315",
+      "ordenes": "2"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "MTORRES",
+      "tareas": "6",
+      "unidades": "34",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

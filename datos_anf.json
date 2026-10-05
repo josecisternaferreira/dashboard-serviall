@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/10/2026 12:16",
+  "timestamp": "05/10/2026 12:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "40",
+      "valor": "32",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -266,7 +266,33 @@
       "valor": 100.0
     }
   ],
-  "top5_operadores": [],
+  "top5_operadores": [
+    {
+      "operador": "LESLIE CARRIZO",
+      "total": "2356",
+      "porcentaje": "36.8 %"
+    },
+    {
+      "operador": "ZOAR CARVAJAL",
+      "total": "1407",
+      "porcentaje": "22.0 %"
+    },
+    {
+      "operador": "SEBASTIAN OCARANZA",
+      "total": "761",
+      "porcentaje": "11.9 %"
+    },
+    {
+      "operador": "OSCAR ROJAS",
+      "total": "628",
+      "porcentaje": "9.8 %"
+    },
+    {
+      "operador": "LUIS ARDILES",
+      "total": "494",
+      "porcentaje": "7.7 %"
+    }
+  ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -307,9 +333,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1093",
-      "disponibles": "246",
-      "porcentaje": "81.6 %"
+      "ocupadas": "1094",
+      "disponibles": "245",
+      "porcentaje": "81.7 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

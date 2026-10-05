@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/10/2026 10:16",
+  "timestamp": "05/10/2026 10:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -54,6 +54,10 @@
     {
       "label": "03-10",
       "valor": 14.0
+    },
+    {
+      "label": "05-10",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +141,7 @@
     },
     {
       "label": "OCT",
-      "valor": 170.0
+      "valor": 172.0
     }
   ],
   "promedio_ruta": [
@@ -217,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 52.0
+      "valor": 54.0
     }
   ],
   "fillrate_mensual": [
@@ -280,7 +284,7 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "617",
+      "total": "619",
       "porcentaje": "9.7 %"
     },
     {
@@ -291,11 +295,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "2",
+      "unidades": "61",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -322,9 +326,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1096",
-      "disponibles": "243",
-      "porcentaje": "81.9 %"
+      "ocupadas": "1095",
+      "disponibles": "244",
+      "porcentaje": "81.8 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/10/2026 15:45",
+  "timestamp": "05/10/2026 16:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "48",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.3 %",
+      "valor": "98.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "56",
+      "valor": "58",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "05-10",
-      "valor": 48.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -99,7 +99,7 @@
     },
     {
       "label": "OCT",
-      "valor": 98.3
+      "valor": 98.4
     }
   ],
   "picking_mensual": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "OCT",
-      "valor": 218.0
+      "valor": 224.0
     }
   ],
   "promedio_ruta": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 60.0
+      "valor": 61.0
     }
   ],
   "fillrate_mensual": [
@@ -269,13 +269,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2379",
+      "total": "2383",
       "porcentaje": "37.0 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1407",
-      "porcentaje": "21.9 %"
+      "porcentaje": "21.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -297,8 +297,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "33",
-      "unidades": "1644",
+      "tareas": "37",
+      "unidades": "1711",
       "ordenes": "22"
     },
     {
@@ -307,6 +307,13 @@
       "tareas": "13",
       "unidades": "441",
       "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "IMPRESIONANF",
+      "tareas": "2",
+      "unidades": "2000",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

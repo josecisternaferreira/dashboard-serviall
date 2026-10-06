@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/10/2026 09:16",
+  "timestamp": "06/10/2026 09:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "9",
+      "valor": "26",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.4 %",
+      "valor": "98.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "label": "06-10",
-      "valor": 9.0
+      "valor": 26.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +103,7 @@
     },
     {
       "label": "OCT",
-      "valor": 98.4
+      "valor": 98.5
     }
   ],
   "picking_mensual": [
@@ -145,13 +145,13 @@
     },
     {
       "label": "OCT",
-      "valor": 244.0
+      "valor": 261.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 952.0
+      "valor": 954.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -225,7 +225,7 @@
     },
     {
       "label": "OCT",
-      "valor": 63.0
+      "valor": 65.0
     }
   ],
   "fillrate_mensual": [
@@ -273,18 +273,18 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2399",
-      "porcentaje": "37.1 %"
+      "total": "2415",
+      "porcentaje": "37.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1407",
-      "porcentaje": "21.8 %"
+      "porcentaje": "21.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "766",
-      "porcentaje": "11.9 %"
+      "total": "767",
+      "porcentaje": "11.8 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -301,9 +301,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "53",
-      "unidades": "2280",
-      "ordenes": "25"
+      "tareas": "69",
+      "unidades": "5314",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -315,9 +315,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "5",
-      "unidades": "12",
-      "ordenes": "4"
+      "tareas": "6",
+      "unidades": "14",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -349,9 +349,9 @@
       "area": "Z-CANTI",
       "tipo": "ACTIVO",
       "total": "4",
-      "ocupadas": "3",
-      "disponibles": "1",
-      "porcentaje": "75.0 %"
+      "ocupadas": "2",
+      "disponibles": "2",
+      "porcentaje": "50.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -394,9 +394,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "205",
-      "disponibles": "204",
-      "porcentaje": "50.1 %"
+      "ocupadas": "207",
+      "disponibles": "202",
+      "porcentaje": "50.6 %"
     }
   ]
 }

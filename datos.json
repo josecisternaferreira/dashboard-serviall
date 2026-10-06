@@ -1,14 +1,14 @@
 {
-  "timestamp": "06/10/2026 16:00",
+  "timestamp": "06/10/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "19",
+      "valor": "21",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "74",
+      "valor": "92",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "50",
+      "valor": "55",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "55",
+      "valor": "59",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "98",
+      "valor": "114",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "06-10",
-      "valor": 74.0
+      "valor": 92.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "OCT",
-      "valor": 547.0
+      "valor": 565.0
     }
   ],
   "promedio_ruta": [
@@ -151,11 +151,11 @@
     },
     {
       "label": "SITRANS",
-      "valor": 378.0
+      "valor": 379.0
     },
     {
       "label": "AGUNSA",
-      "valor": 369.0
+      "valor": 370.0
     },
     {
       "label": "ESTAFETA",
@@ -233,7 +233,7 @@
     },
     {
       "label": "OCT",
-      "valor": 256.0
+      "valor": 257.0
     }
   ],
   "fillrate_mensual": [
@@ -281,8 +281,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "1830",
-      "porcentaje": "19.5 %"
+      "total": "1839",
+      "porcentaje": "19.6 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -301,7 +301,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1198",
+      "total": "1205",
       "porcentaje": "12.8 %"
     }
   ],
@@ -309,16 +309,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "98",
-      "unidades": "9528",
-      "ordenes": "54"
+      "tareas": "107",
+      "unidades": "10862",
+      "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "85",
-      "unidades": "3311",
-      "ordenes": "46"
+      "tareas": "92",
+      "unidades": "11466",
+      "ordenes": "52"
     },
     {
       "region": "BODEGA SANTIAGO",

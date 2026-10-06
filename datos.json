@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/10/2026 11:01",
+  "timestamp": "06/10/2026 11:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "22",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "18",
+      "valor": "21",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "18",
+      "valor": "21",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "6",
+      "valor": "34",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "06-10",
-      "valor": 6.0
+      "valor": 22.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "OCT",
-      "valor": 479.0
+      "valor": 495.0
     }
   ],
   "promedio_ruta": [
@@ -159,7 +159,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 259.0
+      "valor": 260.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -278,63 +278,8 @@
       "valor": 99.9
     }
   ],
-  "top5_operadores": [
-    {
-      "operador": "DIEGO GANDO",
-      "total": "1800",
-      "porcentaje": "19.3 %"
-    },
-    {
-      "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1683",
-      "porcentaje": "18.1 %"
-    },
-    {
-      "operador": "FREYNER ESTUPIÑAN",
-      "total": "1446",
-      "porcentaje": "15.5 %"
-    },
-    {
-      "operador": "CRISTHOFER CORTEZ",
-      "total": "1372",
-      "porcentaje": "14.7 %"
-    },
-    {
-      "operador": "MATIAS TORRES",
-      "total": "1158",
-      "porcentaje": "12.4 %"
-    }
-  ],
-  "semana_actual": [
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "DGANDO",
-      "tareas": "68",
-      "unidades": "6000",
-      "ordenes": "30"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "MTORRES",
-      "tareas": "45",
-      "unidades": "893",
-      "ordenes": "12"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "JMELGAR",
-      "tareas": "18",
-      "unidades": "322",
-      "ordenes": "2"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "17",
-      "unidades": "880",
-      "ordenes": "7"
-    }
-  ],
+  "top5_operadores": [],
+  "semana_actual": [],
   "ocupacion": [
     {
       "region": "BODEGA SANTIAGO",
@@ -368,9 +313,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "848",
-      "disponibles": "226",
-      "porcentaje": "79.0 %"
+      "ocupadas": "847",
+      "disponibles": "227",
+      "porcentaje": "78.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",

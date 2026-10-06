@@ -1,14 +1,14 @@
 {
-  "timestamp": "06/10/2026 12:00",
+  "timestamp": "06/10/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "9",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "30",
+      "valor": "35",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "21",
+      "valor": "24",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "21",
+      "valor": "35",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "48",
+      "valor": "54",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "06-10",
-      "valor": 30.0
+      "valor": 35.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "OCT",
-      "valor": 503.0
+      "valor": 508.0
     }
   ],
   "promedio_ruta": [
@@ -281,7 +281,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "1818",
+      "total": "1819",
       "porcentaje": "19.5 %"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1164",
+      "total": "1168",
       "porcentaje": "12.5 %"
     }
   ],
@@ -309,16 +309,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "86",
-      "unidades": "6331",
-      "ordenes": "44"
+      "tareas": "87",
+      "unidades": "6431",
+      "ordenes": "45"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "51",
-      "unidades": "1160",
-      "ordenes": "16"
+      "tareas": "55",
+      "unidades": "1625",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA SANTIAGO",

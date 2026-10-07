@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/10/2026 09:30",
+  "timestamp": "07/10/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "20",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.0 %",
+      "valor": "91.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "12",
+      "valor": "40",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-10",
-      "valor": 6.0
+      "valor": 20.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +103,7 @@
     },
     {
       "label": "OCT",
-      "valor": 92.0
+      "valor": 91.7
     }
   ],
   "picking_mensual": [
@@ -145,17 +145,17 @@
     },
     {
       "label": "OCT",
-      "valor": 597.0
+      "valor": 611.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1504.0
+      "valor": 1505.0
     },
     {
       "label": "SITRANS",
-      "valor": 380.0
+      "valor": 381.0
     },
     {
       "label": "AGUNSA",
@@ -237,7 +237,7 @@
     },
     {
       "label": "OCT",
-      "valor": 261.0
+      "valor": 265.0
     }
   ],
   "fillrate_mensual": [
@@ -290,8 +290,8 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1666",
-      "porcentaje": "18.6 %"
+      "total": "1674",
+      "porcentaje": "18.7 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -300,7 +300,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1208",
+      "total": "1214",
       "porcentaje": "13.5 %"
     },
     {
@@ -313,16 +313,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "136",
-      "unidades": "13924",
-      "ordenes": "82"
+      "tareas": "144",
+      "unidades": "14205",
+      "ordenes": "90"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "95",
-      "unidades": "50567",
-      "ordenes": "54"
+      "tareas": "101",
+      "unidades": "50643",
+      "ordenes": "55"
     },
     {
       "region": "BODEGA SANTIAGO",

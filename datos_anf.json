@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/10/2026 09:16",
+  "timestamp": "07/10/2026 09:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -62,6 +62,10 @@
     {
       "label": "06-10",
       "valor": 129.0
+    },
+    {
+      "label": "07-10",
+      "valor": 4.0
     }
   ],
   "cumplimiento": [
@@ -145,7 +149,7 @@
     },
     {
       "label": "OCT",
-      "valor": 364.0
+      "valor": 368.0
     }
   ],
   "promedio_ruta": [
@@ -163,7 +167,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 182.0
+      "valor": 183.0
     },
     {
       "label": "ESTAFETA",
@@ -282,7 +286,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1368",
+      "total": "1369",
       "porcentaje": "22.0 %"
     },
     {
@@ -292,8 +296,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "584",
-      "porcentaje": "9.4 %"
+      "total": "587",
+      "porcentaje": "9.5 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -312,16 +316,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "39",
-      "unidades": "5119",
-      "ordenes": "5"
+      "tareas": "40",
+      "unidades": "5407",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "24",
-      "unidades": "1935",
-      "ordenes": "12"
+      "tareas": "27",
+      "unidades": "2087",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/10/2026 10:01",
+  "timestamp": "07/10/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "20",
+      "valor": "32",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "40",
+      "valor": "62",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-10",
-      "valor": 20.0
+      "valor": 32.0
     }
   ],
   "cumplimiento": [
@@ -145,13 +145,13 @@
     },
     {
       "label": "OCT",
-      "valor": 611.0
+      "valor": 623.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1505.0
+      "valor": 1506.0
     },
     {
       "label": "SITRANS",
@@ -286,11 +286,11 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1683",
-      "porcentaje": "18.8 %"
+      "porcentaje": "18.7 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1674",
+      "total": "1678",
       "porcentaje": "18.7 %"
     },
     {
@@ -300,8 +300,8 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1214",
-      "porcentaje": "13.5 %"
+      "total": "1222",
+      "porcentaje": "13.6 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -313,16 +313,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "144",
-      "unidades": "14205",
-      "ordenes": "90"
+      "tareas": "148",
+      "unidades": "14214",
+      "ordenes": "94"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "101",
-      "unidades": "50643",
-      "ordenes": "55"
+      "tareas": "109",
+      "unidades": "50739",
+      "ordenes": "57"
     },
     {
       "region": "BODEGA SANTIAGO",

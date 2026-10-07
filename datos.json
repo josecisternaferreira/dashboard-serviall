@@ -1,19 +1,19 @@
 {
-  "timestamp": "07/10/2026 17:01",
+  "timestamp": "07/10/2026 18:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "31",
+      "valor": "35",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "154",
+      "valor": "162",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "89.4 %",
+      "valor": "89.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "35",
+      "valor": "42",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "88",
+      "valor": "94",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "218",
+      "valor": "226",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "07-10",
-      "valor": 154.0
+      "valor": 162.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +103,7 @@
     },
     {
       "label": "OCT",
-      "valor": 89.1
+      "valor": 89.3
     }
   ],
   "picking_mensual": [
@@ -145,13 +145,13 @@
     },
     {
       "label": "OCT",
-      "valor": 745.0
+      "valor": 753.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1510.0
+      "valor": 1511.0
     },
     {
       "label": "SITRANS",
@@ -237,7 +237,7 @@
     },
     {
       "label": "OCT",
-      "valor": 312.0
+      "valor": 319.0
     }
   ],
   "fillrate_mensual": [
@@ -285,8 +285,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "1739",
-      "porcentaje": "19.1 %"
+      "total": "1745",
+      "porcentaje": "19.2 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -300,7 +300,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1282",
+      "total": "1283",
       "porcentaje": "14.1 %"
     },
     {
@@ -313,16 +313,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "209",
-      "unidades": "15793",
-      "ordenes": "148"
+      "tareas": "215",
+      "unidades": "16314",
+      "ordenes": "153"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "169",
-      "unidades": "55189",
-      "ordenes": "63"
+      "tareas": "170",
+      "unidades": "55219",
+      "ordenes": "64"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "19",
+      "unidades": "885",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -330,13 +337,6 @@
       "tareas": "18",
       "unidades": "322",
       "ordenes": "2"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "WCONTRERAS",
-      "tareas": "18",
-      "unidades": "884",
-      "ordenes": "8"
     }
   ],
   "ocupacion": [
@@ -363,9 +363,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "13",
-      "disponibles": "5",
-      "porcentaje": "72.2 %"
+      "ocupadas": "14",
+      "disponibles": "4",
+      "porcentaje": "77.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -381,9 +381,9 @@
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "38",
-      "disponibles": "3",
-      "porcentaje": "92.7 %"
+      "ocupadas": "37",
+      "disponibles": "4",
+      "porcentaje": "90.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -408,18 +408,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "145",
-      "disponibles": "94",
-      "porcentaje": "60.7 %"
+      "ocupadas": "146",
+      "disponibles": "93",
+      "porcentaje": "61.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "500",
-      "disponibles": "193",
-      "porcentaje": "72.2 %"
+      "ocupadas": "499",
+      "disponibles": "194",
+      "porcentaje": "72.0 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/10/2026 12:30",
+  "timestamp": "10/10/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "89",
+      "valor": "99",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "23",
+      "valor": "25",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "138",
+      "valor": "154",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-10",
-      "valor": 89.0
+      "valor": 99.0
     }
   ],
   "cumplimiento": [
@@ -157,13 +157,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1261.0
+      "valor": 1271.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1546.0
+      "valor": 1547.0
     },
     {
       "label": "SITRANS",
@@ -249,7 +249,7 @@
     },
     {
       "label": "OCT",
-      "valor": 422.0
+      "valor": 424.0
     }
   ],
   "fillrate_mensual": [
@@ -297,8 +297,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "1995",
-      "porcentaje": "20.7 %"
+      "total": "2005",
+      "porcentaje": "20.8 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -325,9 +325,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "465",
-      "unidades": "50779",
-      "ordenes": "213"
+      "tareas": "475",
+      "unidades": "51041",
+      "ordenes": "218"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -436,9 +436,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "523",
-      "disponibles": "170",
-      "porcentaje": "75.5 %"
+      "ocupadas": "525",
+      "disponibles": "168",
+      "porcentaje": "75.8 %"
     }
   ]
 }

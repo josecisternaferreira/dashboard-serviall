@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/10/2026 10:30",
+  "timestamp": "10/10/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "57",
+      "valor": "66",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "18",
+      "valor": "20",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "10",
+      "valor": "12",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "90",
+      "valor": "103",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-10",
-      "valor": 57.0
+      "valor": 66.0
     }
   ],
   "cumplimiento": [
@@ -157,13 +157,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1229.0
+      "valor": 1238.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1544.0
+      "valor": 1545.0
     },
     {
       "label": "SITRANS",
@@ -183,7 +183,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 86.0
+      "valor": 87.0
     },
     {
       "label": "ENEA-FINNING",
@@ -249,7 +249,7 @@
     },
     {
       "label": "OCT",
-      "valor": 415.0
+      "valor": 416.0
     }
   ],
   "fillrate_mensual": [
@@ -297,13 +297,13 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "1966",
-      "porcentaje": "20.5 %"
+      "total": "1973",
+      "porcentaje": "20.6 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1692",
-      "porcentaje": "17.7 %"
+      "porcentaje": "17.6 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -325,9 +325,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "436",
-      "unidades": "49937",
-      "ordenes": "200"
+      "tareas": "443",
+      "unidades": "49957",
+      "ordenes": "201"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -353,9 +353,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "14",
-      "unidades": "253",
-      "ordenes": "2"
+      "tareas": "16",
+      "unidades": "274",
+      "ordenes": "3"
     }
   ],
   "ocupacion": [

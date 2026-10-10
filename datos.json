@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/10/2026 11:30",
+  "timestamp": "10/10/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "75",
+      "valor": "82",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "88.7 %",
+      "valor": "88.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "118",
+      "valor": "128",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-10",
-      "valor": 75.0
+      "valor": 82.0
     }
   ],
   "cumplimiento": [
@@ -115,7 +115,7 @@
     },
     {
       "label": "OCT",
-      "valor": 88.0
+      "valor": 88.2
     }
   ],
   "picking_mensual": [
@@ -157,7 +157,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1247.0
+      "valor": 1254.0
     }
   ],
   "promedio_ruta": [
@@ -249,7 +249,7 @@
     },
     {
       "label": "OCT",
-      "valor": 416.0
+      "valor": 422.0
     }
   ],
   "fillrate_mensual": [
@@ -297,8 +297,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "1981",
-      "porcentaje": "20.6 %"
+      "total": "1988",
+      "porcentaje": "20.7 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -313,7 +313,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1446",
-      "porcentaje": "15.1 %"
+      "porcentaje": "15.0 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -325,9 +325,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "451",
-      "unidades": "49988",
-      "ordenes": "202"
+      "tareas": "458",
+      "unidades": "50191",
+      "ordenes": "208"
     },
     {
       "region": "BODEGA SANTIAGO",

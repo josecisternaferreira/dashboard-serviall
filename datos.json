@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/10/2026 10:00",
+  "timestamp": "10/10/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "46",
+      "valor": "57",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "12",
+      "valor": "18",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "82",
+      "valor": "90",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-10",
-      "valor": 46.0
+      "valor": 57.0
     }
   ],
   "cumplimiento": [
@@ -157,13 +157,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1218.0
+      "valor": 1229.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1543.0
+      "valor": 1544.0
     },
     {
       "label": "SITRANS",
@@ -297,7 +297,7 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "1964",
+      "total": "1966",
       "porcentaje": "20.5 %"
     },
     {
@@ -325,8 +325,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "434",
-      "unidades": "49867",
+      "tareas": "436",
+      "unidades": "49937",
       "ordenes": "200"
     },
     {
@@ -339,9 +339,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "63",
-      "unidades": "10811",
-      "ordenes": "32"
+      "tareas": "64",
+      "unidades": "10812",
+      "ordenes": "33"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -353,8 +353,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "6",
-      "unidades": "81",
+      "tareas": "14",
+      "unidades": "253",
       "ordenes": "2"
     }
   ],
@@ -382,9 +382,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "14",
-      "disponibles": "4",
-      "porcentaje": "77.8 %"
+      "ocupadas": "17",
+      "disponibles": "1",
+      "porcentaje": "94.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -436,9 +436,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "521",
-      "disponibles": "172",
-      "porcentaje": "75.2 %"
+      "ocupadas": "522",
+      "disponibles": "171",
+      "porcentaje": "75.3 %"
     }
   ]
 }

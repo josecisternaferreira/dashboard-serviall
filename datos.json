@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/10/2026 13:30",
+  "timestamp": "10/10/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "101",
+      "valor": "107",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "156",
+      "valor": "160",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-10",
-      "valor": 101.0
+      "valor": 107.0
     }
   ],
   "cumplimiento": [
@@ -157,7 +157,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1273.0
+      "valor": 1279.0
     }
   ],
   "promedio_ruta": [
@@ -171,7 +171,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 377.0
+      "valor": 378.0
     },
     {
       "label": "ESTAFETA",
@@ -297,8 +297,8 @@
   "top5_operadores": [
     {
       "operador": "DIEGO GANDO",
-      "total": "2007",
-      "porcentaje": "20.8 %"
+      "total": "2013",
+      "porcentaje": "20.9 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -308,7 +308,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1469",
-      "porcentaje": "15.3 %"
+      "porcentaje": "15.2 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -325,9 +325,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "477",
-      "unidades": "51076",
-      "ordenes": "220"
+      "tareas": "483",
+      "unidades": "101090",
+      "ordenes": "225"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -436,9 +436,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "525",
-      "disponibles": "168",
-      "porcentaje": "75.8 %"
+      "ocupadas": "526",
+      "disponibles": "167",
+      "porcentaje": "75.9 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "13/10/2026 16:00",
+  "timestamp": "13/10/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "31",
+      "valor": "32",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "88",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "24",
+      "valor": "26",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "56",
+      "valor": "58",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "116",
+      "valor": "124",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -77,7 +77,7 @@
     },
     {
       "label": "13-10",
-      "valor": 88.0
+      "valor": 93.0
     }
   ],
   "cumplimiento": [
@@ -161,7 +161,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1367.0
+      "valor": 1372.0
     }
   ],
   "promedio_ruta": [
@@ -312,7 +312,7 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1469",
-      "porcentaje": "15.8 %"
+      "porcentaje": "15.7 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -321,7 +321,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1042",
+      "total": "1043",
       "porcentaje": "11.2 %"
     }
   ],
@@ -329,16 +329,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "54",
-      "unidades": "3969",
-      "ordenes": "47"
+      "tareas": "58",
+      "unidades": "3976",
+      "ordenes": "48"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "34",
-      "unidades": "1780",
-      "ordenes": "27"
+      "tareas": "35",
+      "unidades": "1783",
+      "ordenes": "28"
     }
   ],
   "ocupacion": [

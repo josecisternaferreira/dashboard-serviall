@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/10/2026 16:46",
+  "timestamp": "13/10/2026 17:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "148",
+      "valor": "152",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "206",
+      "valor": "214",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -77,7 +77,7 @@
     },
     {
       "label": "13-10",
-      "valor": 148.0
+      "valor": 152.0
     }
   ],
   "cumplimiento": [
@@ -119,7 +119,7 @@
     },
     {
       "label": "OCT",
-      "valor": 92.2
+      "valor": 92.3
     }
   ],
   "picking_mensual": [
@@ -161,7 +161,7 @@
     },
     {
       "label": "OCT",
-      "valor": 708.0
+      "valor": 712.0
     }
   ],
   "promedio_ruta": [
@@ -245,7 +245,7 @@
     },
     {
       "label": "OCT",
-      "valor": 115.0
+      "valor": 117.0
     }
   ],
   "fillrate_mensual": [
@@ -303,7 +303,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "802",
+      "total": "803",
       "porcentaje": "12.6 %"
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "490",
+      "total": "491",
       "porcentaje": "7.7 %"
     }
   ],
@@ -335,16 +335,23 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "21",
-      "unidades": "377",
-      "ordenes": "15"
+      "tareas": "22",
+      "unidades": "378",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "18",
-      "unidades": "1614",
-      "ordenes": "3"
+      "tareas": "19",
+      "unidades": "1964",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "16",
+      "unidades": "908",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -352,13 +359,6 @@
       "tareas": "15",
       "unidades": "3880",
       "ordenes": "3"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "14",
-      "unidades": "745",
-      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

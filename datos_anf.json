@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/10/2026 13:16",
+  "timestamp": "14/10/2026 13:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "61",
+      "valor": "67",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "96",
+      "valor": "108",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "14-10",
-      "valor": 61.0
+      "valor": 67.0
     }
   ],
   "cumplimiento": [
@@ -165,13 +165,13 @@
     },
     {
       "label": "OCT",
-      "valor": 778.0
+      "valor": 784.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 979.0
+      "valor": 980.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -298,7 +298,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2225",
-      "porcentaje": "36.2 %"
+      "porcentaje": "36.1 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -312,8 +312,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "550",
-      "porcentaje": "8.9 %"
+      "total": "555",
+      "porcentaje": "9.0 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -332,9 +332,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "33",
-      "unidades": "6232",
-      "ordenes": "13"
+      "tareas": "34",
+      "unidades": "6312",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -352,17 +352,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "22",
+      "unidades": "2322",
+      "ordenes": "10"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "22",
       "unidades": "1968",
       "ordenes": "7"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "17",
-      "unidades": "947",
-      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/10/2026 13:45",
+  "timestamp": "14/10/2026 14:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "67",
+      "valor": "72",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.2 %",
+      "valor": "99.3 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "108",
+      "valor": "114",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "14-10",
-      "valor": 67.0
+      "valor": 72.0
     }
   ],
   "cumplimiento": [
@@ -123,7 +123,7 @@
     },
     {
       "label": "OCT",
-      "valor": 92.7
+      "valor": 92.9
     }
   ],
   "picking_mensual": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "OCT",
-      "valor": 784.0
+      "valor": 789.0
     }
   ],
   "promedio_ruta": [
@@ -249,7 +249,7 @@
     },
     {
       "label": "OCT",
-      "valor": 123.0
+      "valor": 127.0
     }
   ],
   "fillrate_mensual": [
@@ -291,7 +291,7 @@
     },
     {
       "label": "OCT",
-      "valor": 99.2
+      "valor": 99.3
     }
   ],
   "top5_operadores": [
@@ -302,17 +302,17 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1446",
+      "total": "1449",
       "porcentaje": "23.5 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "804",
-      "porcentaje": "13.1 %"
+      "porcentaje": "13.0 %"
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "555",
+      "total": "557",
       "porcentaje": "9.0 %"
     },
     {
@@ -325,9 +325,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "75",
-      "unidades": "6985",
-      "ordenes": "11"
+      "tareas": "78",
+      "unidades": "7005",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -335,6 +335,13 @@
       "tareas": "34",
       "unidades": "6312",
       "ordenes": "14"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "24",
+      "unidades": "3802",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -349,13 +356,6 @@
       "tareas": "23",
       "unidades": "413",
       "ordenes": "17"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "22",
-      "unidades": "2322",
-      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

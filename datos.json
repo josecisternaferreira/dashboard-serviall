@@ -1,14 +1,14 @@
 {
-  "timestamp": "14/10/2026 15:30",
+  "timestamp": "14/10/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "14",
+      "valor": "15",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "188",
+      "valor": "190",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "66",
+      "valor": "69",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "82",
+      "valor": "86",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "296",
+      "valor": "274",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "14-10",
-      "valor": 188.0
+      "valor": 190.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1560.0
+      "valor": 1562.0
     }
   ],
   "promedio_ruta": [
@@ -257,7 +257,7 @@
     },
     {
       "label": "OCT",
-      "valor": 582.0
+      "valor": 583.0
     }
   ],
   "fillrate_mensual": [
@@ -325,7 +325,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "933",
+      "total": "934",
       "porcentaje": "10.1 %"
     }
   ],
@@ -333,16 +333,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "132",
-      "unidades": "8350",
-      "ordenes": "75"
+      "tareas": "133",
+      "unidades": "8351",
+      "ordenes": "76"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "106",
-      "unidades": "6208",
-      "ordenes": "65"
+      "tareas": "107",
+      "unidades": "6268",
+      "ordenes": "66"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -437,9 +437,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "490",
-      "disponibles": "203",
-      "porcentaje": "70.7 %"
+      "ocupadas": "492",
+      "disponibles": "201",
+      "porcentaje": "71.0 %"
     }
   ]
 }

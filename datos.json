@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/10/2026 17:01",
+  "timestamp": "14/10/2026 17:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "214",
+      "valor": "218",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "86.3 %",
+      "valor": "86.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "74",
+      "valor": "81",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "308",
+      "valor": "312",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "14-10",
-      "valor": 214.0
+      "valor": 218.0
     }
   ],
   "cumplimiento": [
@@ -123,7 +123,7 @@
     },
     {
       "label": "OCT",
-      "valor": 85.8
+      "valor": 85.6
     }
   ],
   "picking_mensual": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1586.0
+      "valor": 1590.0
     }
   ],
   "promedio_ruta": [
@@ -183,7 +183,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 276.0
+      "valor": 277.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -212,6 +212,10 @@
     {
       "label": "SQM_MRP",
       "valor": 4.0
+    },
+    {
+      "label": "STARKEN",
+      "valor": 2.0
     },
     {
       "label": "VARMONTT",
@@ -257,7 +261,7 @@
     },
     {
       "label": "OCT",
-      "valor": 593.0
+      "valor": 596.0
     }
   ],
   "fillrate_mensual": [
@@ -325,24 +329,24 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "946",
-      "porcentaje": "10.2 %"
+      "total": "948",
+      "porcentaje": "10.3 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "145",
-      "unidades": "10429",
-      "ordenes": "88"
+      "tareas": "147",
+      "unidades": "10431",
+      "ordenes": "90"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "119",
-      "unidades": "6571",
-      "ordenes": "77"
+      "tareas": "121",
+      "unidades": "6611",
+      "ordenes": "78"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -437,9 +441,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "495",
-      "disponibles": "198",
-      "porcentaje": "71.4 %"
+      "ocupadas": "496",
+      "disponibles": "197",
+      "porcentaje": "71.6 %"
     }
   ]
 }

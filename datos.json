@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/10/2026 13:30",
+  "timestamp": "14/10/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "158",
+      "valor": "175",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "87.5 %",
+      "valor": "87.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "232",
+      "valor": "264",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "14-10",
-      "valor": 158.0
+      "valor": 175.0
     }
   ],
   "cumplimiento": [
@@ -123,7 +123,7 @@
     },
     {
       "label": "OCT",
-      "valor": 87.0
+      "valor": 87.1
     }
   ],
   "picking_mensual": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1530.0
+      "valor": 1547.0
     }
   ],
   "promedio_ruta": [
@@ -179,7 +179,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 380.0
+      "valor": 381.0
     },
     {
       "label": "ESTAFETA",
@@ -195,7 +195,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 73.0
+      "valor": 74.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -257,7 +257,7 @@
     },
     {
       "label": "OCT",
-      "valor": 562.0
+      "valor": 564.0
     }
   ],
   "fillrate_mensual": [
@@ -321,28 +321,28 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1403",
-      "porcentaje": "15.3 %"
+      "porcentaje": "15.2 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "921",
-      "porcentaje": "10.0 %"
+      "total": "928",
+      "porcentaje": "10.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "115",
-      "unidades": "7571",
-      "ordenes": "62"
+      "tareas": "124",
+      "unidades": "7882",
+      "ordenes": "69"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "94",
-      "unidades": "5938",
-      "ordenes": "54"
+      "tareas": "101",
+      "unidades": "6002",
+      "ordenes": "61"
     },
     {
       "region": "BODEGA SANTIAGO",

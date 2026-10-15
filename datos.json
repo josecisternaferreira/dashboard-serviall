@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/10/2026 14:30",
+  "timestamp": "15/10/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "122",
+      "valor": "123",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "49",
+      "valor": "50",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "181",
+      "valor": "183",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "15-10",
-      "valor": 122.0
+      "valor": 123.0
     }
   ],
   "cumplimiento": [
@@ -169,7 +169,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1712.0
+      "valor": 1713.0
     }
   ],
   "promedio_ruta": [
@@ -265,7 +265,7 @@
     },
     {
       "label": "OCT",
-      "valor": 627.0
+      "valor": 629.0
     }
   ],
   "fillrate_mensual": [
@@ -362,9 +362,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "8",
-      "unidades": "117",
-      "ordenes": "3"
+      "tareas": "9",
+      "unidades": "119",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [
@@ -436,9 +436,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "239",
-      "ocupadas": "157",
-      "disponibles": "82",
-      "porcentaje": "65.7 %"
+      "ocupadas": "156",
+      "disponibles": "83",
+      "porcentaje": "65.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "15/10/2026 16:01",
+  "timestamp": "15/10/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "22",
+      "valor": "24",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "146",
+      "valor": "158",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -22,24 +22,24 @@
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
+      "valor": "2.5 días",
+      "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "LINEAS_ALMACENADAS",
+      "valor": "66",
+      "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "LINEAS_RECEPCIONADAS_HOY",
+      "valor": "75",
+      "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "LINEAS_EMBALADAS_HOY",
+      "valor": "232",
+      "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
@@ -85,7 +85,7 @@
     },
     {
       "label": "15-10",
-      "valor": 146.0
+      "valor": 158.0
     }
   ],
   "cumplimiento": [
@@ -130,8 +130,102 @@
       "valor": 85.6
     }
   ],
-  "picking_mensual": [],
-  "promedio_ruta": [],
+  "picking_mensual": [
+    {
+      "label": "ENE",
+      "valor": 3388.0
+    },
+    {
+      "label": "FEB",
+      "valor": 2168.0
+    },
+    {
+      "label": "MAR",
+      "valor": 2799.0
+    },
+    {
+      "label": "ABR",
+      "valor": 3828.0
+    },
+    {
+      "label": "MAY",
+      "valor": 2970.0
+    },
+    {
+      "label": "JUN",
+      "valor": 3136.0
+    },
+    {
+      "label": "JUL",
+      "valor": 3069.0
+    },
+    {
+      "label": "AGO",
+      "valor": 3087.0
+    },
+    {
+      "label": "SEP",
+      "valor": 3231.0
+    },
+    {
+      "label": "OCT",
+      "valor": 1748.0
+    }
+  ],
+  "promedio_ruta": [
+    {
+      "label": "CONSOLIDADO",
+      "valor": 1562.0
+    },
+    {
+      "label": "SITRANS",
+      "valor": 401.0
+    },
+    {
+      "label": "AGUNSA",
+      "valor": 383.0
+    },
+    {
+      "label": "ESTAFETA",
+      "valor": 279.0
+    },
+    {
+      "label": "CLIENTE RETIRA",
+      "valor": 105.0
+    },
+    {
+      "label": "DESPACHO-CLIENTE",
+      "valor": 87.0
+    },
+    {
+      "label": "ENEA-FINNING",
+      "valor": 74.0
+    },
+    {
+      "label": "REPO. MULTINIVEL",
+      "valor": 41.0
+    },
+    {
+      "label": "REPOSICION",
+      "valor": 20.0
+    },
+    {
+      "label": "LOBOZA-FINNING",
+      "valor": 14.0
+    },
+    {
+      "label": "SQM_MRP",
+      "valor": 4.0
+    },
+    {
+      "label": "STARKEN",
+      "valor": 2.0
+    },
+    {
+      "label": "VARMONTT",
+      "valor": 1.0
+    }
+  ],
   "despachos_mes": [
     {
       "label": "ENE",
@@ -174,8 +268,186 @@
       "valor": 630.0
     }
   ],
-  "fillrate_mensual": [],
-  "top5_operadores": [],
-  "semana_actual": [],
-  "ocupacion": []
+  "fillrate_mensual": [
+    {
+      "label": "ENE",
+      "valor": 100.0
+    },
+    {
+      "label": "FEB",
+      "valor": 100.0
+    },
+    {
+      "label": "MAR",
+      "valor": 100.0
+    },
+    {
+      "label": "ABR",
+      "valor": 100.0
+    },
+    {
+      "label": "MAY",
+      "valor": 100.0
+    },
+    {
+      "label": "JUN",
+      "valor": 100.0
+    },
+    {
+      "label": "JUL",
+      "valor": 100.0
+    },
+    {
+      "label": "AGO",
+      "valor": 99.7
+    },
+    {
+      "label": "SEP",
+      "valor": 99.8
+    },
+    {
+      "label": "OCT",
+      "valor": 99.9
+    }
+  ],
+  "top5_operadores": [
+    {
+      "operador": "DIEGO GANDO",
+      "total": "1757",
+      "porcentaje": "18.7 %"
+    },
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1726",
+      "porcentaje": "18.4 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1469",
+      "porcentaje": "15.6 %"
+    },
+    {
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "1403",
+      "porcentaje": "14.9 %"
+    },
+    {
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "1044",
+      "porcentaje": "11.1 %"
+    }
+  ],
+  "semana_actual": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
+      "tareas": "217",
+      "unidades": "17089",
+      "ordenes": "105"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LALFARO",
+      "tareas": "206",
+      "unidades": "12547",
+      "ordenes": "109"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "35",
+      "unidades": "7058",
+      "ordenes": "16"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "11",
+      "unidades": "121",
+      "ordenes": "5"
+    }
+  ],
+  "ocupacion": [
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CANTI",
+      "tipo": "ACTIVO",
+      "total": "18",
+      "ocupadas": "13",
+      "disponibles": "5",
+      "porcentaje": "72.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "ACTIVO",
+      "total": "118",
+      "ocupadas": "32",
+      "disponibles": "86",
+      "porcentaje": "27.1 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-CONSIG",
+      "tipo": "RESERVA",
+      "total": "18",
+      "ocupadas": "16",
+      "disponibles": "2",
+      "porcentaje": "88.9 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "ACTIVO",
+      "total": "1074",
+      "ocupadas": "850",
+      "disponibles": "224",
+      "porcentaje": "79.1 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-MULTI",
+      "tipo": "RESERVA",
+      "total": "41",
+      "ocupadas": "37",
+      "disponibles": "4",
+      "porcentaje": "90.2 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PISO",
+      "tipo": "PISO",
+      "total": "2",
+      "ocupadas": "2",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-PTF",
+      "tipo": "PLATAFORMA",
+      "total": "1",
+      "ocupadas": "1",
+      "disponibles": "0",
+      "porcentaje": "100.0 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "ACTIVO",
+      "total": "239",
+      "ocupadas": "156",
+      "disponibles": "83",
+      "porcentaje": "65.3 %"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "area": "Z-RACK",
+      "tipo": "RESERVA",
+      "total": "693",
+      "ocupadas": "469",
+      "disponibles": "224",
+      "porcentaje": "67.7 %"
+    }
+  ]
 }

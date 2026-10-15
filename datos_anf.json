@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/10/2026 14:15",
+  "timestamp": "15/10/2026 14:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "38",
+      "valor": "39",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "68",
+      "valor": "70",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "15-10",
-      "valor": 38.0
+      "valor": 39.0
     }
   ],
   "cumplimiento": [
@@ -169,7 +169,7 @@
     },
     {
       "label": "OCT",
-      "valor": 878.0
+      "valor": 879.0
     }
   ],
   "promedio_ruta": [
@@ -342,17 +342,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "37",
+      "unidades": "6632",
+      "ordenes": "17"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "37",
       "unidades": "3167",
       "ordenes": "13"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "36",
-      "unidades": "6542",
-      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -450,9 +450,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "198",
-      "disponibles": "211",
-      "porcentaje": "48.4 %"
+      "ocupadas": "199",
+      "disponibles": "210",
+      "porcentaje": "48.7 %"
     }
   ]
 }

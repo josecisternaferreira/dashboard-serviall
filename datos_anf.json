@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/10/2026 11:15",
+  "timestamp": "15/10/2026 11:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "6",
+      "valor": "11",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.7 %",
+      "valor": "97.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "12",
+      "valor": "18",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "15-10",
-      "valor": 7.0
+      "valor": 11.0
     }
   ],
   "cumplimiento": [
@@ -127,7 +127,7 @@
     },
     {
       "label": "OCT",
-      "valor": 93.2
+      "valor": 93.3
     }
   ],
   "picking_mensual": [
@@ -169,7 +169,7 @@
     },
     {
       "label": "OCT",
-      "valor": 846.0
+      "valor": 851.0
     }
   ],
   "promedio_ruta": [
@@ -191,7 +191,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 93.0
+      "valor": 94.0
     },
     {
       "label": "SITRANS",
@@ -253,7 +253,7 @@
     },
     {
       "label": "OCT",
-      "valor": 133.0
+      "valor": 134.0
     }
   ],
   "fillrate_mensual": [
@@ -316,12 +316,12 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "568",
-      "porcentaje": "9.1 %"
+      "total": "570",
+      "porcentaje": "9.2 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "499",
+      "total": "500",
       "porcentaje": "8.0 %"
     }
   ],
@@ -335,16 +335,16 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "36",
-      "unidades": "6542",
-      "ordenes": "16"
+      "usuario": "OROJAS",
+      "tareas": "37",
+      "unidades": "4365",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "35",
-      "unidades": "4362",
+      "usuario": "LARDILES",
+      "tareas": "36",
+      "unidades": "6542",
       "ordenes": "16"
     },
     {
@@ -357,9 +357,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "30",
-      "unidades": "2786",
-      "ordenes": "11"
+      "tareas": "31",
+      "unidades": "2806",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

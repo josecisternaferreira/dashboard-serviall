@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/10/2026 09:16",
+  "timestamp": "15/10/2026 09:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -82,6 +82,10 @@
     {
       "label": "14-10",
       "valor": 123.0
+    },
+    {
+      "label": "15-10",
+      "valor": 5.0
     }
   ],
   "cumplimiento": [
@@ -165,13 +169,13 @@
     },
     {
       "label": "OCT",
-      "valor": 840.0
+      "valor": 845.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 983.0
+      "valor": 984.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -307,17 +311,17 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "811",
+      "total": "814",
       "porcentaje": "13.1 %"
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "566",
+      "total": "567",
       "porcentaje": "9.1 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "496",
+      "total": "497",
       "porcentaje": "8.0 %"
     }
   ],
@@ -339,23 +343,23 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "33",
-      "unidades": "4261",
-      "ordenes": "14"
+      "tareas": "34",
+      "unidades": "4262",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "30",
-      "unidades": "544",
-      "ordenes": "21"
+      "tareas": "33",
+      "unidades": "579",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "27",
-      "unidades": "2774",
-      "ordenes": "9"
+      "tareas": "28",
+      "unidades": "2778",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

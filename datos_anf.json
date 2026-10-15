@@ -1,5 +1,5 @@
 {
-  "timestamp": "15/10/2026 10:46",
+  "timestamp": "15/10/2026 11:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "13",
+      "valor": "12",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -85,7 +85,7 @@
     },
     {
       "label": "15-10",
-      "valor": 6.0
+      "valor": 7.0
     }
   ],
   "cumplimiento": [
@@ -253,7 +253,7 @@
     },
     {
       "label": "OCT",
-      "valor": 132.0
+      "valor": 133.0
     }
   ],
   "fillrate_mensual": [
@@ -307,7 +307,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1477",
-      "porcentaje": "23.8 %"
+      "porcentaje": "23.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -321,7 +321,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "497",
+      "total": "499",
       "porcentaje": "8.0 %"
     }
   ],
@@ -357,9 +357,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "28",
-      "unidades": "2778",
-      "ordenes": "10"
+      "tareas": "30",
+      "unidades": "2786",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -414,9 +414,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1086",
-      "disponibles": "253",
-      "porcentaje": "81.1 %"
+      "ocupadas": "1087",
+      "disponibles": "252",
+      "porcentaje": "81.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -450,9 +450,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "196",
-      "disponibles": "213",
-      "porcentaje": "47.9 %"
+      "ocupadas": "197",
+      "disponibles": "212",
+      "porcentaje": "48.2 %"
     }
   ]
 }

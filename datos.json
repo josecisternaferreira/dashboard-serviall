@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/10/2026 12:30",
+  "timestamp": "16/10/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "81",
+      "valor": "100",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "35",
+      "valor": "37",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "96",
+      "valor": "132",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-10",
-      "valor": 81.0
+      "valor": 100.0
     }
   ],
   "cumplimiento": [
@@ -131,7 +131,7 @@
     },
     {
       "label": "OCT",
-      "valor": 84.7
+      "valor": 84.8
     }
   ],
   "picking_mensual": [
@@ -173,13 +173,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1887.0
+      "valor": 1906.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1575.0
+      "valor": 1577.0
     },
     {
       "label": "SITRANS",
@@ -269,7 +269,7 @@
     },
     {
       "label": "OCT",
-      "valor": 662.0
+      "valor": 663.0
     }
   ],
   "fillrate_mensual": [
@@ -337,24 +337,24 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1105",
-      "porcentaje": "11.6 %"
+      "total": "1123",
+      "porcentaje": "11.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "280",
-      "unidades": "21082",
-      "ordenes": "121"
+      "usuario": "CCORTEZ",
+      "tareas": "296",
+      "unidades": "28828",
+      "ordenes": "109"
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "278",
-      "unidades": "27404",
-      "ordenes": "109"
+      "usuario": "LALFARO",
+      "tareas": "281",
+      "unidades": "21086",
+      "ordenes": "121"
     },
     {
       "region": "BODEGA SANTIAGO",

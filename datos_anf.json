@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/10/2026 14:45",
+  "timestamp": "16/10/2026 15:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "90",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "126",
+      "valor": "132",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-10",
-      "valor": 90.0
+      "valor": 93.0
     }
   ],
   "cumplimiento": [
@@ -173,7 +173,7 @@
     },
     {
       "label": "OCT",
-      "valor": 990.0
+      "valor": 993.0
     }
   ],
   "promedio_ruta": [
@@ -310,12 +310,12 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1519",
+      "total": "1521",
       "porcentaje": "23.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "824",
+      "total": "825",
       "porcentaje": "13.0 %"
     },
     {
@@ -326,16 +326,16 @@
     {
       "operador": "YEIMY RINCON",
       "total": "506",
-      "porcentaje": "8.0 %"
+      "porcentaje": "7.9 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "148",
-      "unidades": "18272",
-      "ordenes": "39"
+      "tareas": "150",
+      "unidades": "19072",
+      "ordenes": "41"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -354,9 +354,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "43",
-      "unidades": "1041",
-      "ordenes": "28"
+      "tareas": "44",
+      "unidades": "1042",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -454,9 +454,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "202",
-      "disponibles": "207",
-      "porcentaje": "49.4 %"
+      "ocupadas": "201",
+      "disponibles": "208",
+      "porcentaje": "49.1 %"
     }
   ]
 }

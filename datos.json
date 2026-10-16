@@ -1,19 +1,19 @@
 {
-  "timestamp": "16/10/2026 14:30",
+  "timestamp": "16/10/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "20",
+      "valor": "26",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "140",
+      "valor": "143",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "85.5 %",
+      "valor": "85.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "38",
+      "valor": "48",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "182",
+      "valor": "186",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-10",
-      "valor": 140.0
+      "valor": 143.0
     }
   ],
   "cumplimiento": [
@@ -131,7 +131,7 @@
     },
     {
       "label": "OCT",
-      "valor": 85.0
+      "valor": 85.1
     }
   ],
   "picking_mensual": [
@@ -173,7 +173,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1946.0
+      "valor": 1949.0
     }
   ],
   "promedio_ruta": [
@@ -269,7 +269,7 @@
     },
     {
       "label": "OCT",
-      "valor": 674.0
+      "valor": 679.0
     }
   ],
   "fillrate_mensual": [
@@ -352,8 +352,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "300",
-      "unidades": "21882",
+      "tareas": "303",
+      "unidades": "21919",
       "ordenes": "121"
     },
     {

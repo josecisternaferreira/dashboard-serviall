@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/10/2026 11:30",
+  "timestamp": "17/10/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "75",
+      "valor": "98",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "24",
+      "valor": "27",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "94",
+      "valor": "134",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "17-10",
-      "valor": 75.0
+      "valor": 98.0
     }
   ],
   "cumplimiento": [
@@ -177,13 +177,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2024.0
+      "valor": 2047.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1587.0
+      "valor": 1589.0
     },
     {
       "label": "SITRANS",
@@ -273,7 +273,7 @@
     },
     {
       "label": "OCT",
-      "valor": 740.0
+      "valor": 744.0
     }
   ],
   "fillrate_mensual": [
@@ -322,7 +322,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1757",
-      "porcentaje": "18.2 %"
+      "porcentaje": "18.1 %"
     },
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
@@ -341,7 +341,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1179",
+      "total": "1186",
       "porcentaje": "12.2 %"
     }
   ],
@@ -349,15 +349,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "352",
-      "unidades": "32872",
-      "ordenes": "129"
+      "tareas": "359",
+      "unidades": "37326",
+      "ordenes": "135"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "343",
-      "unidades": "22019",
+      "tareas": "359",
+      "unidades": "22122",
       "ordenes": "125"
     },
     {
@@ -460,9 +460,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "477",
-      "disponibles": "216",
-      "porcentaje": "68.8 %"
+      "ocupadas": "478",
+      "disponibles": "215",
+      "porcentaje": "69.0 %"
     }
   ]
 }

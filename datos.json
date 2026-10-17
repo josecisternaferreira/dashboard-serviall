@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/10/2026 13:30",
+  "timestamp": "17/10/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "128",
+      "valor": "130",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "85.0 %",
+      "valor": "85.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "label": "17-10",
-      "valor": 128.0
+      "valor": 130.0
     }
   ],
   "cumplimiento": [
@@ -135,7 +135,7 @@
     },
     {
       "label": "OCT",
-      "valor": 84.6
+      "valor": 84.7
     }
   ],
   "picking_mensual": [
@@ -177,13 +177,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2077.0
+      "valor": 2079.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1590.0
+      "valor": 1591.0
     },
     {
       "label": "SITRANS",
@@ -273,7 +273,7 @@
     },
     {
       "label": "OCT",
-      "valor": 749.0
+      "valor": 753.0
     }
   ],
   "fillrate_mensual": [
@@ -341,24 +341,24 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1200",
+      "total": "1202",
       "porcentaje": "12.3 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "CCORTEZ",
+      "tareas": "375",
+      "unidades": "37670",
+      "ordenes": "141"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
       "tareas": "375",
       "unidades": "22277",
       "ordenes": "134"
-    },
-    {
-      "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "373",
-      "unidades": "37663",
-      "ordenes": "141"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/10/2026 11:46",
+  "timestamp": "19/10/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "47",
+      "valor": "49",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "70",
+      "valor": "74",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "19-10",
-      "valor": 47.0
+      "valor": 49.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1046.0
+      "valor": 1048.0
     }
   ],
   "promedio_ruta": [
@@ -314,7 +314,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1539",
+      "total": "1540",
       "porcentaje": "24.3 %"
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "508",
+      "total": "509",
       "porcentaje": "8.0 %"
     }
   ],
@@ -344,16 +344,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "15",
-      "unidades": "1357",
-      "ordenes": "5"
+      "tareas": "16",
+      "unidades": "1507",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "3",
-      "unidades": "12",
-      "ordenes": "3"
+      "tareas": "4",
+      "unidades": "211",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -423,9 +423,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "201",
-      "disponibles": "208",
-      "porcentaje": "49.1 %"
+      "ocupadas": "202",
+      "disponibles": "207",
+      "porcentaje": "49.4 %"
     }
   ]
 }

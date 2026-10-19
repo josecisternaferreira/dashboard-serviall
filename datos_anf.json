@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/10/2026 15:46",
+  "timestamp": "19/10/2026 16:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "68",
+      "valor": "79",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.2 %",
+      "valor": "98.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "102",
+      "valor": "116",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "19-10",
-      "valor": 68.0
+      "valor": 79.0
     }
   ],
   "cumplimiento": [
@@ -135,7 +135,7 @@
     },
     {
       "label": "OCT",
-      "valor": 94.7
+      "valor": 94.8
     }
   ],
   "picking_mensual": [
@@ -177,17 +177,17 @@
     },
     {
       "label": "OCT",
-      "valor": 1067.0
+      "valor": 1081.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 994.0
+      "valor": 995.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 265.0
+      "valor": 266.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -261,7 +261,7 @@
     },
     {
       "label": "OCT",
-      "valor": 169.0
+      "valor": 172.0
     }
   ],
   "fillrate_mensual": [
@@ -319,7 +319,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "830",
+      "total": "831",
       "porcentaje": "13.0 %"
     },
     {
@@ -357,10 +357,24 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "9",
+      "unidades": "578",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "2",
-      "unidades": "1400",
-      "ordenes": "2"
+      "tareas": "3",
+      "unidades": "1402",
+      "ordenes": "3"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SPIZARRO",
+      "tareas": "1",
+      "unidades": "50",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -423,9 +437,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "202",
-      "disponibles": "207",
-      "porcentaje": "49.4 %"
+      "ocupadas": "203",
+      "disponibles": "206",
+      "porcentaje": "49.6 %"
     }
   ]
 }

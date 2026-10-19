@@ -1,19 +1,19 @@
 {
-  "timestamp": "19/10/2026 11:31",
+  "timestamp": "19/10/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "48",
+      "valor": "56",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "81.7 %",
+      "valor": "81.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -23,22 +23,22 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "2.7 días",
+      "valor": "2.6 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "10",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "56",
+      "valor": "69",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "19-10",
-      "valor": 48.0
+      "valor": 56.0
     }
   ],
   "cumplimiento": [
@@ -139,7 +139,7 @@
     },
     {
       "label": "OCT",
-      "valor": 81.3
+      "valor": 81.2
     }
   ],
   "picking_mensual": [
@@ -181,13 +181,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2127.0
+      "valor": 2135.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1593.0
+      "valor": 1594.0
     },
     {
       "label": "SITRANS",
@@ -195,7 +195,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 384.0
+      "valor": 385.0
     },
     {
       "label": "ESTAFETA",
@@ -277,7 +277,7 @@
     },
     {
       "label": "OCT",
-      "valor": 802.0
+      "valor": 805.0
     }
   ],
   "fillrate_mensual": [
@@ -345,24 +345,24 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1162",
-      "porcentaje": "12.0 %"
+      "total": "1167",
+      "porcentaje": "12.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "26",
-      "unidades": "5072",
-      "ordenes": "12"
+      "tareas": "29",
+      "unidades": "5455",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "22",
-      "unidades": "2183",
-      "ordenes": "8"
+      "tareas": "27",
+      "unidades": "2288",
+      "ordenes": "12"
     }
   ],
   "ocupacion": [
@@ -443,9 +443,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "476",
-      "disponibles": "217",
-      "porcentaje": "68.7 %"
+      "ocupadas": "477",
+      "disponibles": "216",
+      "porcentaje": "68.8 %"
     }
   ]
 }

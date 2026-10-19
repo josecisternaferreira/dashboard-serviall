@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/10/2026 13:00",
+  "timestamp": "19/10/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "77",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "92",
+      "valor": "106",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "19-10",
-      "valor": 78.0
+      "valor": 93.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +181,7 @@
     },
     {
       "label": "OCT",
-      "valor": 2157.0
+      "valor": 2172.0
     }
   ],
   "promedio_ruta": [
@@ -191,7 +191,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 404.0
+      "valor": 405.0
     },
     {
       "label": "AGUNSA",
@@ -345,7 +345,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1181",
+      "total": "1186",
       "porcentaje": "12.2 %"
     }
   ],
@@ -353,23 +353,23 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "41",
-      "unidades": "8344",
-      "ordenes": "23"
+      "tareas": "46",
+      "unidades": "8407",
+      "ordenes": "28"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "35",
-      "unidades": "6974",
-      "ordenes": "19"
+      "tareas": "41",
+      "unidades": "7145",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "2",
-      "unidades": "30",
-      "ordenes": "2"
+      "tareas": "6",
+      "unidades": "1066",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -450,9 +450,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "480",
-      "disponibles": "213",
-      "porcentaje": "69.3 %"
+      "ocupadas": "484",
+      "disponibles": "209",
+      "porcentaje": "69.8 %"
     }
   ]
 }

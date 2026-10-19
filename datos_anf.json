@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/10/2026 12:16",
+  "timestamp": "19/10/2026 12:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "49",
+      "valor": "53",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "74",
+      "valor": "82",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "19-10",
-      "valor": 49.0
+      "valor": 53.0
     }
   ],
   "cumplimiento": [
@@ -177,7 +177,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1048.0
+      "valor": 1052.0
     }
   ],
   "promedio_ruta": [
@@ -261,7 +261,7 @@
     },
     {
       "label": "OCT",
-      "valor": 166.0
+      "valor": 167.0
     }
   ],
   "fillrate_mensual": [
@@ -314,7 +314,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1540",
+      "total": "1543",
       "porcentaje": "24.3 %"
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "646",
+      "total": "647",
       "porcentaje": "10.2 %"
     },
     {
@@ -337,16 +337,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "27",
-      "unidades": "648",
-      "ordenes": "8"
+      "tareas": "28",
+      "unidades": "649",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "16",
-      "unidades": "1507",
-      "ordenes": "6"
+      "tareas": "19",
+      "unidades": "2087",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -423,9 +423,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "202",
-      "disponibles": "207",
-      "porcentaje": "49.4 %"
+      "ocupadas": "201",
+      "disponibles": "208",
+      "porcentaje": "49.1 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/10/2026 10:45",
+  "timestamp": "19/10/2026 11:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "31",
+      "valor": "45",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "52",
+      "valor": "80",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "19-10",
-      "valor": 31.0
+      "valor": 45.0
     }
   ],
   "cumplimiento": [
@@ -135,7 +135,7 @@
     },
     {
       "label": "OCT",
-      "valor": 94.2
+      "valor": 94.4
     }
   ],
   "picking_mensual": [
@@ -177,13 +177,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1030.0
+      "valor": 1044.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 992.0
+      "valor": 993.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -199,7 +199,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 94.0
+      "valor": 95.0
     },
     {
       "label": "SITRANS",
@@ -261,7 +261,7 @@
     },
     {
       "label": "OCT",
-      "valor": 156.0
+      "valor": 162.0
     }
   ],
   "fillrate_mensual": [
@@ -314,7 +314,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1529",
+      "total": "1537",
       "porcentaje": "24.2 %"
     },
     {
@@ -324,8 +324,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "640",
-      "porcentaje": "10.1 %"
+      "total": "646",
+      "porcentaje": "10.2 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -337,16 +337,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "21",
-      "unidades": "623",
-      "ordenes": "4"
+      "tareas": "27",
+      "unidades": "648",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "5",
-      "unidades": "970",
-      "ordenes": "2"
+      "tareas": "13",
+      "unidades": "1240",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

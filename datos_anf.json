@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/10/2026 09:16",
+  "timestamp": "19/10/2026 09:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -90,6 +90,10 @@
     {
       "label": "16-10",
       "valor": 99.0
+    },
+    {
+      "label": "19-10",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -173,7 +177,7 @@
     },
     {
       "label": "OCT",
-      "valor": 999.0
+      "valor": 1002.0
     }
   ],
   "promedio_ruta": [
@@ -310,13 +314,13 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1524",
+      "total": "1527",
       "porcentaje": "24.2 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "828",
-      "porcentaje": "13.2 %"
+      "porcentaje": "13.1 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -331,11 +335,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "3",
+      "unidades": "500",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -362,9 +366,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1084",
-      "disponibles": "255",
-      "porcentaje": "81.0 %"
+      "ocupadas": "1082",
+      "disponibles": "257",
+      "porcentaje": "80.8 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

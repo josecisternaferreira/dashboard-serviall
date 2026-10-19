@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/10/2026 09:30",
+  "timestamp": "19/10/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "2",
+      "valor": "17",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "85.3 %",
+      "valor": "81.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "2.6 días",
+      "valor": "2.7 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "4",
+      "valor": "28",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "19-10",
-      "valor": 2.0
+      "valor": 17.0
     }
   ],
   "cumplimiento": [
@@ -139,7 +139,7 @@
     },
     {
       "label": "OCT",
-      "valor": 84.9
+      "valor": 81.2
     }
   ],
   "picking_mensual": [
@@ -181,13 +181,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2081.0
+      "valor": 2096.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1591.0
+      "valor": 1592.0
     },
     {
       "label": "SITRANS",
@@ -277,7 +277,7 @@
     },
     {
       "label": "OCT",
-      "valor": 764.0
+      "valor": 799.0
     }
   ],
   "fillrate_mensual": [
@@ -326,12 +326,12 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1726",
-      "porcentaje": "18.0 %"
+      "porcentaje": "17.9 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1688",
-      "porcentaje": "17.6 %"
+      "porcentaje": "17.5 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -345,24 +345,24 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1141",
+      "total": "1147",
       "porcentaje": "11.9 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "CCORTEZ",
-      "tareas": "1",
-      "unidades": "4",
-      "ordenes": "1"
+      "usuario": "LALFARO",
+      "tareas": "10",
+      "unidades": "4351",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA SANTIAGO",
-      "usuario": "LALFARO",
-      "tareas": "1",
-      "unidades": "300",
-      "ordenes": "1"
+      "usuario": "CCORTEZ",
+      "tareas": "7",
+      "unidades": "2041",
+      "ordenes": "5"
     }
   ],
   "ocupacion": [
@@ -443,9 +443,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "479",
-      "disponibles": "214",
-      "porcentaje": "69.1 %"
+      "ocupadas": "474",
+      "disponibles": "219",
+      "porcentaje": "68.4 %"
     }
   ]
 }

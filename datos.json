@@ -1,19 +1,19 @@
 {
-  "timestamp": "20/10/2026 09:31",
+  "timestamp": "20/10/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "12",
+      "valor": "28",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "82.6 %",
+      "valor": "82.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,13 +33,13 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "1",
+      "valor": "6",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "LINEAS_EMBALADAS_HOY",
+      "valor": "54",
+      "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
   "tareas_por_dia": [
@@ -101,7 +101,7 @@
     },
     {
       "label": "20-10",
-      "valor": 12.0
+      "valor": 28.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "OCT",
-      "valor": 2210.0
+      "valor": 2226.0
     }
   ],
   "promedio_ruta": [
@@ -199,7 +199,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 387.0
+      "valor": 388.0
     },
     {
       "label": "ESTAFETA",
@@ -281,7 +281,7 @@
     },
     {
       "label": "OCT",
-      "valor": 853.0
+      "valor": 855.0
     }
   ],
   "fillrate_mensual": [
@@ -326,21 +326,47 @@
       "valor": 99.9
     }
   ],
-  "top5_operadores": [],
+  "top5_operadores": [
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1726",
+      "porcentaje": "17.7 %"
+    },
+    {
+      "operador": "DIEGO GANDO",
+      "total": "1688",
+      "porcentaje": "17.3 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1470",
+      "porcentaje": "15.1 %"
+    },
+    {
+      "operador": "FREYNER ESTUPIÑAN",
+      "total": "1403",
+      "porcentaje": "14.4 %"
+    },
+    {
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "1206",
+      "porcentaje": "12.4 %"
+    }
+  ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "64",
-      "unidades": "8119",
-      "ordenes": "42"
+      "tareas": "75",
+      "unidades": "8198",
+      "ordenes": "53"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "62",
-      "unidades": "9498",
-      "ordenes": "38"
+      "tareas": "66",
+      "unidades": "9627",
+      "ordenes": "42"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -374,9 +400,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "14",
-      "disponibles": "4",
-      "porcentaje": "77.8 %"
+      "ocupadas": "13",
+      "disponibles": "5",
+      "porcentaje": "72.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

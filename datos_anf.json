@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/10/2026 17:15",
+  "timestamp": "20/10/2026 17:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "80",
+      "valor": "93",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "85",
+      "valor": "82",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -337,57 +337,7 @@
       "porcentaje": "8.1 %"
     }
   ],
-  "semana_actual": [
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "80",
-      "unidades": "13962",
-      "ordenes": "26"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "36",
-      "unidades": "790",
-      "ordenes": "15"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "31",
-      "unidades": "2320",
-      "ordenes": "11"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "YRINCON",
-      "tareas": "19",
-      "unidades": "365",
-      "ordenes": "14"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "11",
-      "unidades": "1410",
-      "ordenes": "4"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JBARRERA",
-      "tareas": "1",
-      "unidades": "30",
-      "ordenes": "1"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SPIZARRO",
-      "tareas": "1",
-      "unidades": "50",
-      "ordenes": "1"
-    }
-  ],
+  "semana_actual": [],
   "ocupacion": [
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -412,9 +362,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1095",
-      "disponibles": "244",
-      "porcentaje": "81.8 %"
+      "ocupadas": "1096",
+      "disponibles": "243",
+      "porcentaje": "81.9 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

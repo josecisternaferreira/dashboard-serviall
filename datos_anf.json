@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/10/2026 13:46",
+  "timestamp": "20/10/2026 14:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "67",
+      "valor": "75",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.7 %",
+      "valor": "97.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "23",
+      "valor": "33",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "64",
+      "valor": "76",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "20-10",
-      "valor": 68.0
+      "valor": 75.0
     }
   ],
   "cumplimiento": [
@@ -139,7 +139,7 @@
     },
     {
       "label": "OCT",
-      "valor": 94.3
+      "valor": 94.4
     }
   ],
   "picking_mensual": [
@@ -181,13 +181,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1170.0
+      "valor": 1178.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1002.0
+      "valor": 1003.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -265,7 +265,7 @@
     },
     {
       "label": "OCT",
-      "valor": 176.0
+      "valor": 178.0
     }
   ],
   "fillrate_mensual": [
@@ -355,9 +355,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "25",
-      "unidades": "1419",
-      "ordenes": "10"
+      "tareas": "31",
+      "unidades": "2320",
+      "ordenes": "11"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -372,6 +372,13 @@
       "tareas": "11",
       "unidades": "1410",
       "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "1",
+      "unidades": "30",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

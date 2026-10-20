@@ -1,14 +1,14 @@
 {
-  "timestamp": "20/10/2026 12:16",
+  "timestamp": "20/10/2026 12:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "51",
+      "valor": "60",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "44",
+      "valor": "58",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "20-10",
-      "valor": 51.0
+      "valor": 60.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +181,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1154.0
+      "valor": 1163.0
     }
   ],
   "promedio_ruta": [
@@ -314,11 +314,11 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2191",
-      "porcentaje": "34.0 %"
+      "porcentaje": "33.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1598",
+      "total": "1603",
       "porcentaje": "24.8 %"
     },
     {
@@ -341,9 +341,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "74",
-      "unidades": "13447",
-      "ordenes": "22"
+      "tareas": "79",
+      "unidades": "13953",
+      "ordenes": "25"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -354,17 +354,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "20",
+      "unidades": "1110",
+      "ordenes": "6"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "19",
       "unidades": "365",
       "ordenes": "14"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "16",
-      "unidades": "917",
-      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -405,8 +405,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1093",
-      "disponibles": "246",
+      "ocupadas": "1092",
+      "disponibles": "247",
       "porcentaje": "81.6 %"
     },
     {

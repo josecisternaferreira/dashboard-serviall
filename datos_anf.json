@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/10/2026 11:46",
+  "timestamp": "21/10/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "53",
+      "valor": "69",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.8 %",
+      "valor": "97.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "20",
+      "valor": "22",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "92",
+      "valor": "120",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-10",
-      "valor": 53.0
+      "valor": 69.0
     }
   ],
   "cumplimiento": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "OCT",
-      "valor": 94.6
+      "valor": 94.7
     }
   ],
   "picking_mensual": [
@@ -185,13 +185,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1234.0
+      "valor": 1250.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1004.0
+      "valor": 1006.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -269,7 +269,7 @@
     },
     {
       "label": "OCT",
-      "valor": 185.0
+      "valor": 187.0
     }
   ],
   "fillrate_mensual": [
@@ -318,36 +318,50 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2058",
-      "porcentaje": "33.3 %"
+      "porcentaje": "33.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1598",
+      "total": "1602",
       "porcentaje": "25.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "833",
-      "porcentaje": "13.5 %"
+      "porcentaje": "13.4 %"
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "608",
-      "porcentaje": "9.8 %"
+      "total": "612",
+      "porcentaje": "9.9 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "490",
-      "porcentaje": "7.9 %"
+      "total": "494",
+      "porcentaje": "8.0 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "100",
-      "unidades": "17656",
+      "tareas": "104",
+      "unidades": "21056",
       "ordenes": "32"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "40",
+      "unidades": "6138",
+      "ordenes": "15"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "40",
+      "unidades": "863",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -358,24 +372,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "36",
-      "unidades": "5918",
-      "ordenes": "14"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "36",
-      "unidades": "790",
-      "ordenes": "15"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "19",
-      "unidades": "365",
-      "ordenes": "14"
+      "tareas": "23",
+      "unidades": "795",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

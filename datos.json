@@ -1,19 +1,19 @@
 {
-  "timestamp": "21/10/2026 14:00",
+  "timestamp": "21/10/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "12",
+      "valor": "14",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "143",
+      "valor": "145",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "84.0 %",
+      "valor": "84.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "33",
+      "valor": "41",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "label": "21-10",
-      "valor": 143.0
+      "valor": 145.0
     }
   ],
   "cumplimiento": [
@@ -189,7 +189,7 @@
     },
     {
       "label": "OCT",
-      "valor": 2484.0
+      "valor": 2486.0
     }
   ],
   "promedio_ruta": [
@@ -285,7 +285,7 @@
     },
     {
       "label": "OCT",
-      "valor": 939.0
+      "valor": 941.0
     }
   ],
   "fillrate_mensual": [
@@ -353,7 +353,7 @@
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "1285",
+      "total": "1287",
       "porcentaje": "13.4 %"
     }
   ],
@@ -368,8 +368,8 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "192",
-      "unidades": "14069",
+      "tareas": "194",
+      "unidades": "14309",
       "ordenes": "98"
     },
     {
@@ -458,9 +458,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "458",
-      "disponibles": "235",
-      "porcentaje": "66.1 %"
+      "ocupadas": "459",
+      "disponibles": "234",
+      "porcentaje": "66.2 %"
     }
   ]
 }

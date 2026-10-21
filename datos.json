@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/10/2026 13:00",
+  "timestamp": "21/10/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "113",
+      "valor": "127",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "160",
+      "valor": "184",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "21-10",
-      "valor": 113.0
+      "valor": 127.0
     }
   ],
   "cumplimiento": [
@@ -189,13 +189,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2454.0
+      "valor": 2468.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1607.0
+      "valor": 1608.0
     },
     {
       "label": "SITRANS",
@@ -285,7 +285,7 @@
     },
     {
       "label": "OCT",
-      "valor": 924.0
+      "valor": 930.0
     }
   ],
   "fillrate_mensual": [
@@ -343,7 +343,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1332",
+      "total": "1334",
       "porcentaje": "14.0 %"
     },
     {
@@ -353,24 +353,24 @@
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "1264",
-      "porcentaje": "13.2 %"
+      "total": "1276",
+      "porcentaje": "13.3 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "192",
-      "unidades": "17397",
-      "ordenes": "84"
+      "tareas": "194",
+      "unidades": "17410",
+      "ordenes": "85"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "171",
-      "unidades": "13230",
-      "ordenes": "97"
+      "tareas": "183",
+      "unidades": "13570",
+      "ordenes": "98"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -458,9 +458,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "459",
-      "disponibles": "234",
-      "porcentaje": "66.2 %"
+      "ocupadas": "458",
+      "disponibles": "235",
+      "porcentaje": "66.1 %"
     }
   ]
 }

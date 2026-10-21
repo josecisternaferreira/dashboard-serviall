@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/10/2026 14:15",
+  "timestamp": "21/10/2026 14:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "112",
+      "valor": "121",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "172",
+      "valor": "185",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-10",
-      "valor": 112.0
+      "valor": 121.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1293.0
+      "valor": 1302.0
     }
   ],
   "promedio_ruta": [
@@ -269,7 +269,7 @@
     },
     {
       "label": "OCT",
-      "valor": 191.0
+      "valor": 193.0
     }
   ],
   "fillrate_mensual": [
@@ -318,7 +318,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2058",
-      "porcentaje": "33.0 %"
+      "porcentaje": "32.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -337,8 +337,8 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "495",
-      "porcentaje": "7.9 %"
+      "total": "502",
+      "porcentaje": "8.0 %"
     }
   ],
   "semana_actual": [
@@ -358,6 +358,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "42",
+      "unidades": "8593",
+      "ordenes": "16"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
       "tareas": "41",
       "unidades": "893",
@@ -365,17 +372,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "40",
-      "unidades": "6138",
-      "ordenes": "15"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "24",
-      "unidades": "796",
-      "ordenes": "18"
+      "tareas": "31",
+      "unidades": "6641",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

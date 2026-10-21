@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/10/2026 10:48",
+  "timestamp": "21/10/2026 11:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "43",
+      "valor": "47",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "15",
+      "valor": "17",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "72",
+      "valor": "80",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "21-10",
-      "valor": 43.0
+      "valor": 47.0
     }
   ],
   "cumplimiento": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "OCT",
-      "valor": 94.5
+      "valor": 94.6
     }
   ],
   "picking_mensual": [
@@ -185,13 +185,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1224.0
+      "valor": 1228.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1003.0
+      "valor": 1004.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -269,7 +269,7 @@
     },
     {
       "label": "OCT",
-      "valor": 182.0
+      "valor": 185.0
     }
   ],
   "fillrate_mensual": [
@@ -327,8 +327,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "830",
-      "porcentaje": "13.4 %"
+      "total": "833",
+      "porcentaje": "13.5 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -351,6 +351,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "39",
+      "unidades": "1439",
+      "ordenes": "9"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
       "tareas": "36",
       "unidades": "790",
@@ -358,17 +365,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "36",
-      "unidades": "1435",
-      "ordenes": "6"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "32",
-      "unidades": "2368",
-      "ordenes": "12"
+      "tareas": "33",
+      "unidades": "2518",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -452,9 +452,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "202",
-      "disponibles": "207",
-      "porcentaje": "49.4 %"
+      "ocupadas": "199",
+      "disponibles": "210",
+      "porcentaje": "48.7 %"
     }
   ]
 }

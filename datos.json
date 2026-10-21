@@ -1,19 +1,19 @@
 {
-  "timestamp": "21/10/2026 13:30",
+  "timestamp": "21/10/2026 14:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "11",
+      "valor": "12",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "127",
+      "valor": "143",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "83.9 %",
+      "valor": "84.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "32",
+      "valor": "33",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "184",
+      "valor": "214",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "21-10",
-      "valor": 127.0
+      "valor": 143.0
     }
   ],
   "cumplimiento": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "OCT",
-      "valor": 83.3
+      "valor": 83.5
     }
   ],
   "picking_mensual": [
@@ -189,13 +189,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2468.0
+      "valor": 2484.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1608.0
+      "valor": 1610.0
     },
     {
       "label": "SITRANS",
@@ -285,7 +285,7 @@
     },
     {
       "label": "OCT",
-      "valor": 930.0
+      "valor": 939.0
     }
   ],
   "fillrate_mensual": [
@@ -334,7 +334,7 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1726",
-      "porcentaje": "18.1 %"
+      "porcentaje": "18.0 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -343,7 +343,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1334",
+      "total": "1341",
       "porcentaje": "14.0 %"
     },
     {
@@ -353,23 +353,23 @@
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "1276",
-      "porcentaje": "13.3 %"
+      "total": "1285",
+      "porcentaje": "13.4 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "194",
-      "unidades": "17410",
-      "ordenes": "85"
+      "tareas": "201",
+      "unidades": "17803",
+      "ordenes": "86"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "183",
-      "unidades": "13570",
+      "tareas": "192",
+      "unidades": "14069",
       "ordenes": "98"
     },
     {

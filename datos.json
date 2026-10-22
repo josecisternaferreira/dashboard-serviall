@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/10/2026 11:30",
+  "timestamp": "22/10/2026 12:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "56",
+      "valor": "65",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "84.6 %",
+      "valor": "84.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "27",
+      "valor": "29",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "10",
+      "valor": "11",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "82",
+      "valor": "86",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "22-10",
-      "valor": 56.0
+      "valor": 65.0
     }
   ],
   "cumplimiento": [
@@ -151,7 +151,7 @@
     },
     {
       "label": "OCT",
-      "valor": 84.0
+      "valor": 84.2
     }
   ],
   "picking_mensual": [
@@ -193,13 +193,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2609.0
+      "valor": 2618.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1617.0
+      "valor": 1618.0
     },
     {
       "label": "SITRANS",
@@ -289,7 +289,7 @@
     },
     {
       "label": "OCT",
-      "valor": 978.0
+      "valor": 987.0
     }
   ],
   "fillrate_mensual": [
@@ -347,12 +347,12 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1407",
+      "total": "1410",
       "porcentaje": "14.5 %"
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "1338",
+      "total": "1344",
       "porcentaje": "13.8 %"
     },
     {
@@ -365,16 +365,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "267",
-      "unidades": "24827",
-      "ordenes": "114"
+      "tareas": "270",
+      "unidades": "24906",
+      "ordenes": "117"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "245",
-      "unidades": "21158",
-      "ordenes": "112"
+      "tareas": "251",
+      "unidades": "21417",
+      "ordenes": "115"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -469,9 +469,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "488",
-      "disponibles": "205",
-      "porcentaje": "70.4 %"
+      "ocupadas": "492",
+      "disponibles": "201",
+      "porcentaje": "71.0 %"
     }
   ]
 }

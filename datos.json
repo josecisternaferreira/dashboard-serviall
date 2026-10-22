@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/10/2026 08:30",
+  "timestamp": "22/10/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -106,6 +106,10 @@
     {
       "label": "21-10",
       "valor": 207.0
+    },
+    {
+      "label": "22-10",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -189,7 +193,7 @@
     },
     {
       "label": "OCT",
-      "valor": 2548.0
+      "valor": 2550.0
     }
   ],
   "promedio_ruta": [
@@ -219,7 +223,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 74.0
+      "valor": 75.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -227,7 +231,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 24.0
+      "valor": 25.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -285,7 +289,7 @@
     },
     {
       "label": "OCT",
-      "valor": 972.0
+      "valor": 973.0
     }
   ],
   "fillrate_mensual": [
@@ -343,7 +347,7 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1378",
+      "total": "1379",
       "porcentaje": "14.3 %"
     },
     {
@@ -361,9 +365,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "238",
-      "unidades": "23784",
-      "ordenes": "96"
+      "tareas": "239",
+      "unidades": "23788",
+      "ordenes": "97"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -458,9 +462,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "482",
-      "disponibles": "211",
-      "porcentaje": "69.6 %"
+      "ocupadas": "483",
+      "disponibles": "210",
+      "porcentaje": "69.7 %"
     }
   ]
 }

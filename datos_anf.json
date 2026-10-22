@@ -1,5 +1,5 @@
 {
-  "timestamp": "22/10/2026 10:46",
+  "timestamp": "22/10/2026 11:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "16",
+      "valor": "27",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "24",
+      "valor": "38",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "22-10",
-      "valor": 16.0
+      "valor": 27.0
     }
   ],
   "cumplimiento": [
@@ -189,7 +189,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1343.0
+      "valor": 1354.0
     }
   ],
   "promedio_ruta": [
@@ -207,7 +207,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 200.0
+      "valor": 201.0
     },
     {
       "label": "ESTAFETA",
@@ -322,17 +322,17 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2058",
-      "porcentaje": "32.7 %"
+      "porcentaje": "32.6 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1666",
-      "porcentaje": "26.5 %"
+      "total": "1677",
+      "porcentaje": "26.6 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "841",
-      "porcentaje": "13.4 %"
+      "porcentaje": "13.3 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -349,8 +349,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "168",
-      "unidades": "31239",
+      "tareas": "179",
+      "unidades": "31706",
       "ordenes": "45"
     },
     {
@@ -456,9 +456,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "199",
-      "disponibles": "210",
-      "porcentaje": "48.7 %"
+      "ocupadas": "200",
+      "disponibles": "209",
+      "porcentaje": "48.9 %"
     }
   ]
 }

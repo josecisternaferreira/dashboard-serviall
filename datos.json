@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/10/2026 10:00",
+  "timestamp": "23/10/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "16",
+      "valor": "25",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "12",
+      "valor": "20",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -113,7 +113,7 @@
     },
     {
       "label": "23-10",
-      "valor": 16.0
+      "valor": 25.0
     }
   ],
   "cumplimiento": [
@@ -197,13 +197,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2765.0
+      "valor": 2774.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1629.0
+      "valor": 1630.0
     },
     {
       "label": "SITRANS",
@@ -293,7 +293,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1031.0
+      "valor": 1034.0
     }
   ],
   "fillrate_mensual": [
@@ -351,12 +351,12 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1463",
+      "total": "1470",
       "porcentaje": "14.9 %"
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "1425",
+      "total": "1427",
       "porcentaje": "14.5 %"
     },
     {
@@ -369,15 +369,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "332",
-      "unidades": "27054",
-      "ordenes": "146"
+      "tareas": "334",
+      "unidades": "27159",
+      "ordenes": "148"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "323",
-      "unidades": "33485",
+      "tareas": "330",
+      "unidades": "37795",
       "ordenes": "128"
     },
     {
@@ -487,9 +487,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "482",
-      "disponibles": "211",
-      "porcentaje": "69.6 %"
+      "ocupadas": "481",
+      "disponibles": "212",
+      "porcentaje": "69.4 %"
     }
   ]
 }

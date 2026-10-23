@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/10/2026 10:16",
+  "timestamp": "23/10/2026 10:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -424,9 +424,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1113",
-      "disponibles": "226",
-      "porcentaje": "83.1 %"
+      "ocupadas": "1114",
+      "disponibles": "225",
+      "porcentaje": "83.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -460,9 +460,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "201",
-      "disponibles": "208",
-      "porcentaje": "49.1 %"
+      "ocupadas": "203",
+      "disponibles": "206",
+      "porcentaje": "49.6 %"
     }
   ]
 }

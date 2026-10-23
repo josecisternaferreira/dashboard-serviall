@@ -1,19 +1,19 @@
 {
-  "timestamp": "23/10/2026 13:00",
+  "timestamp": "23/10/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "15",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "82",
+      "valor": "96",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "85.5 %",
+      "valor": "85.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "11",
+      "valor": "14",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "32",
+      "valor": "41",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "108",
+      "valor": "132",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -113,7 +113,7 @@
     },
     {
       "label": "23-10",
-      "valor": 82.0
+      "valor": 96.0
     }
   ],
   "cumplimiento": [
@@ -155,7 +155,7 @@
     },
     {
       "label": "OCT",
-      "valor": 85.0
+      "valor": 85.2
     }
   ],
   "picking_mensual": [
@@ -197,7 +197,7 @@
     },
     {
       "label": "OCT",
-      "valor": 2831.0
+      "valor": 2845.0
     }
   ],
   "promedio_ruta": [
@@ -215,7 +215,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 287.0
+      "valor": 288.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -293,7 +293,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1060.0
+      "valor": 1073.0
     }
   ],
   "fillrate_mensual": [
@@ -351,13 +351,13 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1503",
+      "total": "1509",
       "porcentaje": "15.2 %"
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "1451",
-      "porcentaje": "14.6 %"
+      "total": "1459",
+      "porcentaje": "14.7 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -369,16 +369,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "363",
-      "unidades": "38363",
-      "ordenes": "142"
+      "tareas": "369",
+      "unidades": "39988",
+      "ordenes": "146"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "358",
-      "unidades": "27882",
-      "ordenes": "170"
+      "tareas": "366",
+      "unidades": "28182",
+      "ordenes": "172"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -487,9 +487,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "487",
-      "disponibles": "206",
-      "porcentaje": "70.3 %"
+      "ocupadas": "489",
+      "disponibles": "204",
+      "porcentaje": "70.6 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/10/2026 10:30",
+  "timestamp": "24/10/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "11",
+      "valor": "32",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "14",
+      "valor": "52",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "24-10",
-      "valor": 11.0
+      "valor": 32.0
     }
   ],
   "cumplimiento": [
@@ -201,17 +201,17 @@
     },
     {
       "label": "OCT",
-      "valor": 2863.0
+      "valor": 2884.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1632.0
+      "valor": 1634.0
     },
     {
       "label": "SITRANS",
-      "valor": 415.0
+      "valor": 416.0
     },
     {
       "label": "AGUNSA",
@@ -297,7 +297,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1111.0
+      "valor": 1112.0
     }
   ],
   "fillrate_mensual": [
@@ -346,7 +346,7 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1727",
-      "porcentaje": "17.4 %"
+      "porcentaje": "17.3 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -355,34 +355,34 @@
     },
     {
       "operador": "CRISTHOFER CORTEZ",
-      "total": "1516",
-      "porcentaje": "15.2 %"
+      "total": "1521",
+      "porcentaje": "15.3 %"
     },
     {
       "operador": "LUCIANO ALFARO",
-      "total": "1470",
-      "porcentaje": "14.8 %"
+      "total": "1486",
+      "porcentaje": "14.9 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1330",
-      "porcentaje": "13.4 %"
+      "porcentaje": "13.3 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LALFARO",
-      "tareas": "377",
-      "unidades": "28360",
-      "ordenes": "176"
+      "tareas": "393",
+      "unidades": "28445",
+      "ordenes": "180"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "CCORTEZ",
-      "tareas": "376",
-      "unidades": "40937",
-      "ordenes": "152"
+      "tareas": "381",
+      "unidades": "41216",
+      "ordenes": "157"
     },
     {
       "region": "BODEGA SANTIAGO",

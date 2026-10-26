@@ -1,14 +1,14 @@
 {
-  "timestamp": "26/10/2026 14:30",
+  "timestamp": "26/10/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "12",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "121",
+      "valor": "133",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "7",
+      "valor": "17",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "136",
+      "valor": "150",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "26-10",
-      "valor": 121.0
+      "valor": 133.0
     }
   ],
   "cumplimiento": [
@@ -205,13 +205,13 @@
     },
     {
       "label": "OCT",
-      "valor": 3018.0
+      "valor": 3030.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1640.0
+      "valor": 1641.0
     },
     {
       "label": "SITRANS",
@@ -349,7 +349,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1804",
+      "total": "1811",
       "porcentaje": "17.9 %"
     },
     {
@@ -377,15 +377,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "77",
-      "unidades": "11136",
-      "ordenes": "16"
+      "tareas": "84",
+      "unidades": "11167",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "44",
-      "unidades": "3921",
+      "tareas": "49",
+      "unidades": "4110",
       "ordenes": "34"
     }
   ],
@@ -467,9 +467,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "478",
-      "disponibles": "215",
-      "porcentaje": "69.0 %"
+      "ocupadas": "479",
+      "disponibles": "214",
+      "porcentaje": "69.1 %"
     }
   ]
 }

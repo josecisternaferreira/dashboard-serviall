@@ -1,14 +1,14 @@
 {
-  "timestamp": "26/10/2026 16:30",
+  "timestamp": "26/10/2026 17:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "19",
+      "valor": "20",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "145",
+      "valor": "157",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "20",
+      "valor": "31",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "36",
+      "valor": "39",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "160",
+      "valor": "180",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "26-10",
-      "valor": 145.0
+      "valor": 157.0
     }
   ],
   "cumplimiento": [
@@ -205,17 +205,17 @@
     },
     {
       "label": "OCT",
-      "valor": 3042.0
+      "valor": 3054.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1642.0
+      "valor": 1643.0
     },
     {
       "label": "SITRANS",
-      "valor": 418.0
+      "valor": 419.0
     },
     {
       "label": "AGUNSA",
@@ -301,7 +301,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1166.0
+      "valor": 1167.0
     }
   ],
   "fillrate_mensual": [
@@ -349,13 +349,13 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1820",
-      "porcentaje": "18.0 %"
+      "total": "1829",
+      "porcentaje": "18.1 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1614",
-      "porcentaje": "16.0 %"
+      "porcentaje": "15.9 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -377,16 +377,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "93",
-      "unidades": "11451",
-      "ordenes": "21"
+      "tareas": "102",
+      "unidades": "11491",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "52",
-      "unidades": "4130",
-      "ordenes": "36"
+      "tareas": "56",
+      "unidades": "4154",
+      "ordenes": "39"
     }
   ],
   "ocupacion": [
@@ -422,9 +422,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "841",
-      "disponibles": "233",
-      "porcentaje": "78.3 %"
+      "ocupadas": "843",
+      "disponibles": "231",
+      "porcentaje": "78.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -467,9 +467,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "483",
-      "disponibles": "210",
-      "porcentaje": "69.7 %"
+      "ocupadas": "480",
+      "disponibles": "213",
+      "porcentaje": "69.3 %"
     }
   ]
 }

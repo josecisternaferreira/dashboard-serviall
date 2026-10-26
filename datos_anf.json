@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/10/2026 13:45",
+  "timestamp": "26/10/2026 14:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "100",
+      "valor": "106",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "156",
+      "valor": "158",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -113,7 +113,7 @@
     },
     {
       "label": "26-10",
-      "valor": 100.0
+      "valor": 106.0
     }
   ],
   "cumplimiento": [
@@ -197,7 +197,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1614.0
+      "valor": 1620.0
     }
   ],
   "promedio_ruta": [
@@ -207,7 +207,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 274.0
+      "valor": 275.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -344,8 +344,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "715",
-      "porcentaje": "11.2 %"
+      "total": "721",
+      "porcentaje": "11.3 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -357,9 +357,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "55",
-      "unidades": "1012",
-      "ordenes": "18"
+      "tareas": "61",
+      "unidades": "1337",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -428,9 +428,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1112",
-      "disponibles": "227",
-      "porcentaje": "83.0 %"
+      "ocupadas": "1108",
+      "disponibles": "231",
+      "porcentaje": "82.7 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -464,9 +464,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "204",
-      "disponibles": "205",
-      "porcentaje": "49.9 %"
+      "ocupadas": "199",
+      "disponibles": "210",
+      "porcentaje": "48.7 %"
     }
   ]
 }

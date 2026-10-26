@@ -1,19 +1,19 @@
 {
-  "timestamp": "26/10/2026 15:30",
+  "timestamp": "26/10/2026 16:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "12",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "133",
+      "valor": "137",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "86.3 %",
+      "valor": "86.4 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "11",
+      "valor": "17",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "17",
+      "valor": "23",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "150",
+      "valor": "156",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "26-10",
-      "valor": 133.0
+      "valor": 137.0
     }
   ],
   "cumplimiento": [
@@ -205,13 +205,13 @@
     },
     {
       "label": "OCT",
-      "valor": 3030.0
+      "valor": 3034.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1641.0
+      "valor": 1642.0
     },
     {
       "label": "SITRANS",
@@ -301,7 +301,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1162.0
+      "valor": 1165.0
     }
   ],
   "fillrate_mensual": [
@@ -349,7 +349,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1811",
+      "total": "1814",
       "porcentaje": "17.9 %"
     },
     {
@@ -365,7 +365,7 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "1491",
-      "porcentaje": "14.8 %"
+      "porcentaje": "14.7 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -377,16 +377,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "84",
-      "unidades": "11167",
-      "ordenes": "17"
+      "tareas": "87",
+      "unidades": "11251",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "49",
-      "unidades": "4110",
-      "ordenes": "34"
+      "tareas": "50",
+      "unidades": "4120",
+      "ordenes": "35"
     }
   ],
   "ocupacion": [
@@ -458,18 +458,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "166",
-      "disponibles": "74",
-      "porcentaje": "69.2 %"
+      "ocupadas": "165",
+      "disponibles": "75",
+      "porcentaje": "68.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "481",
-      "disponibles": "212",
-      "porcentaje": "69.4 %"
+      "ocupadas": "480",
+      "disponibles": "213",
+      "porcentaje": "69.3 %"
     }
   ]
 }

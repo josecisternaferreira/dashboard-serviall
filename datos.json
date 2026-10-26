@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/10/2026 10:00",
+  "timestamp": "26/10/2026 10:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "23",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "22",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -118,6 +118,10 @@
     {
       "label": "24-10",
       "valor": 45.0
+    },
+    {
+      "label": "26-10",
+      "valor": 23.0
     }
   ],
   "cumplimiento": [
@@ -201,13 +205,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2897.0
+      "valor": 2920.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1634.0
+      "valor": 1636.0
     },
     {
       "label": "SITRANS",
@@ -297,7 +301,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1148.0
+      "valor": 1149.0
     }
   ],
   "fillrate_mensual": [
@@ -345,13 +349,13 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1727",
-      "porcentaje": "17.3 %"
+      "total": "1745",
+      "porcentaje": "17.5 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1614",
-      "porcentaje": "16.2 %"
+      "porcentaje": "16.1 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -361,7 +365,7 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "1491",
-      "porcentaje": "15.0 %"
+      "porcentaje": "14.9 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -371,11 +375,18 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "JMELGAR",
+      "tareas": "18",
+      "unidades": "353",
+      "ordenes": "3"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "LSAEZ",
+      "tareas": "6",
+      "unidades": "73",
+      "ordenes": "6"
     }
   ],
   "ocupacion": [

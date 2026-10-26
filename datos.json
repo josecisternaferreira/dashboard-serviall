@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/10/2026 12:30",
+  "timestamp": "26/10/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "65",
+      "valor": "83",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "4",
+      "valor": "6",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "82",
+      "valor": "104",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "26-10",
-      "valor": 65.0
+      "valor": 83.0
     }
   ],
   "cumplimiento": [
@@ -205,13 +205,13 @@
     },
     {
       "label": "OCT",
-      "valor": 2962.0
+      "valor": 2980.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1636.0
+      "valor": 1637.0
     },
     {
       "label": "SITRANS",
@@ -349,7 +349,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1772",
+      "total": "1784",
       "porcentaje": "17.7 %"
     },
     {
@@ -365,28 +365,28 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "1491",
-      "porcentaje": "14.9 %"
+      "porcentaje": "14.8 %"
     },
     {
       "operador": "MATIAS TORRES",
       "total": "1320",
-      "porcentaje": "13.2 %"
+      "porcentaje": "13.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "45",
-      "unidades": "2018",
-      "ordenes": "14"
+      "tareas": "57",
+      "unidades": "3012",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "20",
-      "unidades": "651",
-      "ordenes": "19"
+      "tareas": "26",
+      "unidades": "1887",
+      "ordenes": "25"
     }
   ],
   "ocupacion": [
@@ -467,9 +467,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "474",
-      "disponibles": "219",
-      "porcentaje": "68.4 %"
+      "ocupadas": "475",
+      "disponibles": "218",
+      "porcentaje": "68.5 %"
     }
   ]
 }

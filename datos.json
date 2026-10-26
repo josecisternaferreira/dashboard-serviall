@@ -1,10 +1,10 @@
 {
-  "timestamp": "26/10/2026 18:00",
+  "timestamp": "26/10/2026 18:30",
   "kpis": [
     {
-      "titulo": "",
-      "valor": "",
-      "subtitulo": ""
+      "titulo": "TOTAL_ASN_HOY",
+      "valor": "20",
+      "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
@@ -42,7 +42,88 @@
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "01-10",
+      "valor": 151.0
+    },
+    {
+      "label": "02-10",
+      "valor": 177.0
+    },
+    {
+      "label": "05-10",
+      "valor": 142.0
+    },
+    {
+      "label": "06-10",
+      "valor": 118.0
+    },
+    {
+      "label": "07-10",
+      "valor": 162.0
+    },
+    {
+      "label": "08-10",
+      "valor": 226.0
+    },
+    {
+      "label": "09-10",
+      "valor": 192.0
+    },
+    {
+      "label": "10-10",
+      "valor": 107.0
+    },
+    {
+      "label": "13-10",
+      "valor": 93.0
+    },
+    {
+      "label": "14-10",
+      "valor": 218.0
+    },
+    {
+      "label": "15-10",
+      "valor": 216.0
+    },
+    {
+      "label": "16-10",
+      "valor": 143.0
+    },
+    {
+      "label": "17-10",
+      "valor": 130.0
+    },
+    {
+      "label": "19-10",
+      "valor": 119.0
+    },
+    {
+      "label": "20-10",
+      "valor": 142.0
+    },
+    {
+      "label": "21-10",
+      "valor": 207.0
+    },
+    {
+      "label": "22-10",
+      "valor": 196.0
+    },
+    {
+      "label": "23-10",
+      "valor": 103.0
+    },
+    {
+      "label": "24-10",
+      "valor": 45.0
+    },
+    {
+      "label": "26-10",
+      "valor": 165.0
+    }
+  ],
   "cumplimiento": [
     {
       "label": "ENE",

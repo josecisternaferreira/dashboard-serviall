@@ -1,19 +1,19 @@
 {
-  "timestamp": "26/10/2026 12:00",
+  "timestamp": "26/10/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "4",
+      "valor": "6",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "65",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "86.3 %",
+      "valor": "86.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "3",
+      "valor": "4",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "4",
+      "valor": "6",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "68",
+      "valor": "82",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "26-10",
-      "valor": 54.0
+      "valor": 65.0
     }
   ],
   "cumplimiento": [
@@ -163,7 +163,7 @@
     },
     {
       "label": "OCT",
-      "valor": 85.9
+      "valor": 85.8
     }
   ],
   "picking_mensual": [
@@ -205,7 +205,7 @@
     },
     {
       "label": "OCT",
-      "valor": 2951.0
+      "valor": 2962.0
     }
   ],
   "promedio_ruta": [
@@ -301,7 +301,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1153.0
+      "valor": 1155.0
     }
   ],
   "fillrate_mensual": [
@@ -346,21 +346,47 @@
       "valor": 99.9
     }
   ],
-  "top5_operadores": [],
+  "top5_operadores": [
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "1772",
+      "porcentaje": "17.7 %"
+    },
+    {
+      "operador": "DIEGO GANDO",
+      "total": "1614",
+      "porcentaje": "16.1 %"
+    },
+    {
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "1529",
+      "porcentaje": "15.2 %"
+    },
+    {
+      "operador": "LUCIANO ALFARO",
+      "total": "1491",
+      "porcentaje": "14.9 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1320",
+      "porcentaje": "13.2 %"
+    }
+  ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "38",
-      "unidades": "1831",
-      "ordenes": "12"
+      "tareas": "45",
+      "unidades": "2018",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "16",
-      "unidades": "411",
-      "ordenes": "15"
+      "tareas": "20",
+      "unidades": "651",
+      "ordenes": "19"
     }
   ],
   "ocupacion": [
@@ -387,9 +413,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "12",
-      "disponibles": "6",
-      "porcentaje": "66.7 %"
+      "ocupadas": "10",
+      "disponibles": "8",
+      "porcentaje": "55.6 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -441,9 +467,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "475",
-      "disponibles": "218",
-      "porcentaje": "68.5 %"
+      "ocupadas": "474",
+      "disponibles": "219",
+      "porcentaje": "68.4 %"
     }
   ]
 }

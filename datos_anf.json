@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/10/2026 13:46",
+  "timestamp": "27/10/2026 14:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "63",
+      "valor": "70",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "label": "27-10",
-      "valor": 63.0
+      "valor": 70.0
     }
   ],
   "cumplimiento": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1769.0
+      "valor": 1776.0
     }
   ],
   "promedio_ruta": [
@@ -219,7 +219,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 204.0
+      "valor": 205.0
     },
     {
       "label": "ESTAFETA",
@@ -334,17 +334,17 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1985",
-      "porcentaje": "30.5 %"
+      "porcentaje": "30.4 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1743",
+      "total": "1744",
       "porcentaje": "26.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "855",
-      "porcentaje": "13.1 %"
+      "total": "859",
+      "porcentaje": "13.2 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -382,9 +382,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "40",
-      "unidades": "3750",
-      "ordenes": "10"
+      "tareas": "41",
+      "unidades": "3774",
+      "ordenes": "11"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "15",
+      "unidades": "373",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -395,17 +402,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "11",
-      "unidades": "228",
-      "ordenes": "8"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "3",
-      "unidades": "52",
-      "ordenes": "3"
+      "tareas": "5",
+      "unidades": "56",
+      "ordenes": "4"
     }
   ],
   "ocupacion": [

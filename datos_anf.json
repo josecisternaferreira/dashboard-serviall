@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/10/2026 17:16",
+  "timestamp": "27/10/2026 17:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "131",
+      "valor": "138",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "146",
+      "valor": "156",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "27-10",
-      "valor": 131.0
+      "valor": 138.0
     }
   ],
   "cumplimiento": [
@@ -201,13 +201,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1837.0
+      "valor": 1844.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1031.0
+      "valor": 1032.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -333,12 +333,12 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2013",
+      "total": "2018",
       "porcentaje": "30.6 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1749",
+      "total": "1751",
       "porcentaje": "26.6 %"
     },
     {
@@ -360,17 +360,17 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "79",
+      "unidades": "3362",
+      "ordenes": "19"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "MGARCIA",
       "tareas": "75",
       "unidades": "7582",
       "ordenes": "12"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "74",
-      "unidades": "3188",
-      "ordenes": "19"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -382,8 +382,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "46",
-      "unidades": "5674",
+      "tareas": "48",
+      "unidades": "6734",
       "ordenes": "12"
     },
     {

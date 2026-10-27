@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/10/2026 14:31",
+  "timestamp": "27/10/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "84",
+      "valor": "86",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "86.9 %",
+      "valor": "87.0 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "9",
+      "valor": "11",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "label": "27-10",
-      "valor": 84.0
+      "valor": 86.0
     }
   ],
   "cumplimiento": [
@@ -209,7 +209,7 @@
     },
     {
       "label": "OCT",
-      "valor": 3148.0
+      "valor": 3150.0
     }
   ],
   "promedio_ruta": [
@@ -305,7 +305,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1218.0
+      "valor": 1219.0
     }
   ],
   "fillrate_mensual": [
@@ -353,7 +353,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1888",
+      "total": "1890",
       "porcentaje": "18.5 %"
     },
     {
@@ -381,9 +381,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "161",
-      "unidades": "23071",
-      "ordenes": "54"
+      "tareas": "163",
+      "unidades": "23082",
+      "ordenes": "56"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -478,9 +478,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "483",
-      "disponibles": "210",
-      "porcentaje": "69.7 %"
+      "ocupadas": "481",
+      "disponibles": "212",
+      "porcentaje": "69.4 %"
     }
   ]
 }

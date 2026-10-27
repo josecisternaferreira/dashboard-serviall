@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/10/2026 11:16",
+  "timestamp": "27/10/2026 11:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "50",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "40",
+      "valor": "50",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "27-10",
-      "valor": 44.0
+      "valor": 50.0
     }
   ],
   "cumplimiento": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1748.0
+      "valor": 1754.0
     }
   ],
   "promedio_ruta": [
@@ -333,7 +333,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1979",
+      "total": "1985",
       "porcentaje": "30.5 %"
     },
     {
@@ -375,9 +375,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "40",
-      "unidades": "768",
-      "ordenes": "8"
+      "tareas": "46",
+      "unidades": "877",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -432,9 +432,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1104",
-      "disponibles": "235",
-      "porcentaje": "82.4 %"
+      "ocupadas": "1112",
+      "disponibles": "227",
+      "porcentaje": "83.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -468,9 +468,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "202",
-      "disponibles": "207",
-      "porcentaje": "49.4 %"
+      "ocupadas": "204",
+      "disponibles": "205",
+      "porcentaje": "49.9 %"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "timestamp": "27/10/2026 12:00",
+  "timestamp": "27/10/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "9",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "9",
+      "valor": "13",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -209,7 +209,7 @@
     },
     {
       "label": "OCT",
-      "valor": 3105.0
+      "valor": 3106.0
     }
   ],
   "promedio_ruta": [
@@ -247,7 +247,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 26.0
+      "valor": 27.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -305,7 +305,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1206.0
+      "valor": 1208.0
     }
   ],
   "fillrate_mensual": [
@@ -478,9 +478,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "487",
-      "disponibles": "206",
-      "porcentaje": "70.3 %"
+      "ocupadas": "486",
+      "disponibles": "207",
+      "porcentaje": "70.1 %"
     }
   ]
 }

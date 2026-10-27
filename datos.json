@@ -1,19 +1,19 @@
 {
-  "timestamp": "27/10/2026 12:30",
+  "timestamp": "27/10/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "9",
+      "valor": "12",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "42",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "86.8 %",
+      "valor": "86.9 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "1",
+      "valor": "6",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "13",
+      "valor": "17",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "64",
+      "valor": "70",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "27-10",
-      "valor": 42.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "OCT",
-      "valor": 86.4
+      "valor": 86.5
     }
   ],
   "picking_mensual": [
@@ -209,13 +209,13 @@
     },
     {
       "label": "OCT",
-      "valor": 3106.0
+      "valor": 3110.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1643.0
+      "valor": 1644.0
     },
     {
       "label": "SITRANS",
@@ -305,7 +305,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1208.0
+      "valor": 1212.0
     }
   ],
   "fillrate_mensual": [
@@ -353,13 +353,13 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1856",
-      "porcentaje": "18.2 %"
+      "total": "1860",
+      "porcentaje": "18.3 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1614",
-      "porcentaje": "15.9 %"
+      "porcentaje": "15.8 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
@@ -381,9 +381,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "129",
-      "unidades": "22741",
-      "ordenes": "46"
+      "tareas": "133",
+      "unidades": "22751",
+      "ordenes": "47"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -469,18 +469,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "163",
-      "disponibles": "77",
-      "porcentaje": "67.9 %"
+      "ocupadas": "164",
+      "disponibles": "76",
+      "porcentaje": "68.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "486",
-      "disponibles": "207",
-      "porcentaje": "70.1 %"
+      "ocupadas": "485",
+      "disponibles": "208",
+      "porcentaje": "70.0 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/10/2026 09:46",
+  "timestamp": "27/10/2026 10:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "10",
+      "valor": "18",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "8",
+      "valor": "14",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "27-10",
-      "valor": 10.0
+      "valor": 18.0
     }
   ],
   "cumplimiento": [
@@ -201,13 +201,13 @@
     },
     {
       "label": "OCT",
-      "valor": 1714.0
+      "valor": 1722.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1026.0
+      "valor": 1027.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -339,7 +339,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1735",
-      "porcentaje": "26.9 %"
+      "porcentaje": "26.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -368,8 +368,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "MGARCIA",
-      "tareas": "48",
-      "unidades": "6534",
+      "tareas": "56",
+      "unidades": "7035",
       "ordenes": "12"
     },
     {
@@ -468,9 +468,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "207",
-      "disponibles": "202",
-      "porcentaje": "50.6 %"
+      "ocupadas": "206",
+      "disponibles": "203",
+      "porcentaje": "50.4 %"
     }
   ]
 }

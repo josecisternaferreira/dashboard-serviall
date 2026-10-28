@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/10/2026 12:15",
+  "timestamp": "28/10/2026 12:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "12",
+      "valor": "21",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "16",
+      "valor": "20",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "28-10",
-      "valor": 12.0
+      "valor": 21.0
     }
   ],
   "cumplimiento": [
@@ -205,7 +205,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1857.0
+      "valor": 1866.0
     }
   ],
   "promedio_ruta": [
@@ -215,7 +215,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 280.0
+      "valor": 281.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -337,8 +337,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1920",
-      "porcentaje": "30.3 %"
+      "total": "1929",
+      "porcentaje": "30.4 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -365,9 +365,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "86",
-      "unidades": "4858",
-      "ordenes": "25"
+      "tareas": "95",
+      "unidades": "5368",
+      "ordenes": "28"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -443,9 +443,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1106",
-      "disponibles": "233",
-      "porcentaje": "82.6 %"
+      "ocupadas": "1107",
+      "disponibles": "232",
+      "porcentaje": "82.7 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -479,9 +479,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "207",
-      "disponibles": "202",
-      "porcentaje": "50.6 %"
+      "ocupadas": "210",
+      "disponibles": "199",
+      "porcentaje": "51.3 %"
     }
   ]
 }

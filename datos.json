@@ -1,14 +1,14 @@
 {
-  "timestamp": "28/10/2026 12:30",
+  "timestamp": "28/10/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "4",
+      "valor": "8",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "53",
+      "valor": "70",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "17",
+      "valor": "27",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "76",
+      "valor": "102",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -129,7 +129,7 @@
     },
     {
       "label": "28-10",
-      "valor": 53.0
+      "valor": 70.0
     }
   ],
   "cumplimiento": [
@@ -213,13 +213,13 @@
     },
     {
       "label": "OCT",
-      "valor": 3231.0
+      "valor": 3248.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1650.0
+      "valor": 1652.0
     },
     {
       "label": "SITRANS",
@@ -357,18 +357,18 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1885",
+      "total": "1892",
       "porcentaje": "19.2 %"
     },
     {
       "operador": "DIEGO GANDO",
       "total": "1608",
-      "porcentaje": "16.4 %"
+      "porcentaje": "16.3 %"
     },
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1468",
-      "porcentaje": "15.0 %"
+      "porcentaje": "14.9 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -385,15 +385,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "212",
-      "unidades": "26341",
+      "tareas": "219",
+      "unidades": "27281",
       "ordenes": "70"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "116",
-      "unidades": "8411",
+      "tareas": "126",
+      "unidades": "11647",
       "ordenes": "71"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "timestamp": "28/10/2026 16:46",
+  "timestamp": "28/10/2026 18:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "67",
+      "valor": "97",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "1.0 días",
+      "valor": "0.9 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "86",
+      "valor": "146",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "28-10",
-      "valor": 67.0
+      "valor": 97.0
     }
   ],
   "cumplimiento": [
@@ -163,7 +163,7 @@
     },
     {
       "label": "OCT",
-      "valor": 95.9
+      "valor": 96.0
     }
   ],
   "picking_mensual": [
@@ -205,7 +205,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1912.0
+      "valor": 1942.0
     }
   ],
   "promedio_ruta": [
@@ -215,7 +215,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 281.0
+      "valor": 284.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -289,7 +289,7 @@
     },
     {
       "label": "OCT",
-      "valor": 268.0
+      "valor": 275.0
     }
   ],
   "fillrate_mensual": [
@@ -338,17 +338,17 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "1957",
-      "porcentaje": "30.6 %"
+      "porcentaje": "30.5 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1679",
-      "porcentaje": "26.3 %"
+      "porcentaje": "26.2 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "877",
-      "porcentaje": "13.7 %"
+      "total": "907",
+      "porcentaje": "14.1 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -358,7 +358,7 @@
     {
       "operador": "YEIMY RINCON",
       "total": "478",
-      "porcentaje": "7.5 %"
+      "porcentaje": "7.4 %"
     }
   ],
   "semana_actual": [
@@ -368,6 +368,13 @@
       "tareas": "123",
       "unidades": "6713",
       "ordenes": "36"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "79",
+      "unidades": "1136",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -382,13 +389,6 @@
       "tareas": "66",
       "unidades": "4642",
       "ordenes": "25"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "49",
-      "unidades": "857",
-      "ordenes": "20"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -443,9 +443,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1110",
-      "disponibles": "229",
-      "porcentaje": "82.9 %"
+      "ocupadas": "1113",
+      "disponibles": "226",
+      "porcentaje": "83.1 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

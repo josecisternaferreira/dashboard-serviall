@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/10/2026 09:00",
+  "timestamp": "29/10/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "5",
+      "valor": "16",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "5",
+      "valor": "10",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "2",
+      "valor": "24",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "label": "29-10",
-      "valor": 1.0
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -217,13 +217,13 @@
     },
     {
       "label": "OCT",
-      "valor": 3333.0
+      "valor": 3345.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1659.0
+      "valor": 1660.0
     },
     {
       "label": "SITRANS",
@@ -243,7 +243,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 89.0
+      "valor": 90.0
     },
     {
       "label": "ENEA-FINNING",
@@ -313,7 +313,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1292.0
+      "valor": 1293.0
     }
   ],
   "fillrate_mensual": [
@@ -361,7 +361,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "1944",
+      "total": "1950",
       "porcentaje": "19.6 %"
     },
     {
@@ -389,16 +389,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "271",
-      "unidades": "35363",
-      "ordenes": "77"
+      "tareas": "277",
+      "unidades": "35495",
+      "ordenes": "82"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "158",
-      "unidades": "18491",
-      "ordenes": "80"
+      "tareas": "165",
+      "unidades": "18551",
+      "ordenes": "86"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -448,9 +448,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "848",
-      "disponibles": "226",
-      "porcentaje": "79.0 %"
+      "ocupadas": "846",
+      "disponibles": "228",
+      "porcentaje": "78.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -493,9 +493,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "476",
-      "disponibles": "217",
-      "porcentaje": "68.7 %"
+      "ocupadas": "477",
+      "disponibles": "216",
+      "porcentaje": "68.8 %"
     }
   ]
 }

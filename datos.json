@@ -1,5 +1,5 @@
 {
-  "timestamp": "29/10/2026 08:30",
+  "timestamp": "29/10/2026 09:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "5",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -130,6 +130,10 @@
     {
       "label": "28-10",
       "valor": 154.0
+    },
+    {
+      "label": "29-10",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -213,7 +217,7 @@
     },
     {
       "label": "OCT",
-      "valor": 3332.0
+      "valor": 3333.0
     }
   ],
   "promedio_ruta": [
@@ -231,7 +235,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 294.0
+      "valor": 295.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -309,7 +313,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1290.0
+      "valor": 1292.0
     }
   ],
   "fillrate_mensual": [
@@ -392,9 +396,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "157",
-      "unidades": "18489",
-      "ordenes": "79"
+      "tareas": "158",
+      "unidades": "18491",
+      "ordenes": "80"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -444,9 +448,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "845",
-      "disponibles": "229",
-      "porcentaje": "78.7 %"
+      "ocupadas": "848",
+      "disponibles": "226",
+      "porcentaje": "79.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

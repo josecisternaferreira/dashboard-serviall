@@ -1,5 +1,5 @@
 {
-  "timestamp": "30/10/2026 10:30",
+  "timestamp": "30/10/2026 11:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "23",
+      "valor": "32",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "26",
+      "valor": "42",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -137,7 +137,7 @@
     },
     {
       "label": "30-10",
-      "valor": 23.0
+      "valor": 32.0
     }
   ],
   "cumplimiento": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 3537.0
+      "valor": 3546.0
     }
   ],
   "promedio_ruta": [
@@ -231,7 +231,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 426.0
+      "valor": 427.0
     },
     {
       "label": "AGUNSA",
@@ -365,7 +365,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "2061",
+      "total": "2067",
       "porcentaje": "20.4 %"
     },
     {
@@ -393,16 +393,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "388",
-      "unidades": "37583",
-      "ordenes": "127"
+      "tareas": "394",
+      "unidades": "37611",
+      "ordenes": "133"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "242",
-      "unidades": "29593",
-      "ordenes": "127"
+      "tareas": "245",
+      "unidades": "29660",
+      "ordenes": "130"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -497,9 +497,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "472",
-      "disponibles": "221",
-      "porcentaje": "68.1 %"
+      "ocupadas": "471",
+      "disponibles": "222",
+      "porcentaje": "68.0 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "30/10/2026 12:30",
+  "timestamp": "30/10/2026 13:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "6",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "63",
+      "valor": "69",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "20",
+      "valor": "25",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "label": "30-10",
-      "valor": 63.0
+      "valor": 69.0
     }
   ],
   "cumplimiento": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 3577.0
+      "valor": 3583.0
     }
   ],
   "promedio_ruta": [
@@ -317,7 +317,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1397.0
+      "valor": 1399.0
     }
   ],
   "fillrate_mensual": [
@@ -365,8 +365,8 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "2087",
-      "porcentaje": "20.5 %"
+      "total": "2090",
+      "porcentaje": "20.6 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -393,16 +393,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "414",
-      "unidades": "37702",
-      "ordenes": "137"
+      "tareas": "417",
+      "unidades": "37720",
+      "ordenes": "139"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "256",
-      "unidades": "29973",
-      "ordenes": "138"
+      "tareas": "259",
+      "unidades": "30125",
+      "ordenes": "141"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -497,9 +497,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "468",
-      "disponibles": "225",
-      "porcentaje": "67.5 %"
+      "ocupadas": "470",
+      "disponibles": "223",
+      "porcentaje": "67.8 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "30/10/2026 12:00",
+  "timestamp": "30/10/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "6",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "62",
+      "valor": "63",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "19",
+      "valor": "23",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "label": "30-10",
-      "valor": 62.0
+      "valor": 63.0
     }
   ],
   "cumplimiento": [
@@ -179,7 +179,7 @@
     },
     {
       "label": "OCT",
-      "valor": 87.4
+      "valor": 87.5
     }
   ],
   "picking_mensual": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "OCT",
-      "valor": 3576.0
+      "valor": 3577.0
     }
   ],
   "promedio_ruta": [
@@ -317,7 +317,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1394.0
+      "valor": 1397.0
     }
   ],
   "fillrate_mensual": [
@@ -400,9 +400,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "255",
-      "unidades": "29870",
-      "ordenes": "137"
+      "tareas": "256",
+      "unidades": "29973",
+      "ordenes": "138"
     },
     {
       "region": "BODEGA SANTIAGO",

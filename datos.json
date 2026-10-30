@@ -1,9 +1,9 @@
 {
-  "timestamp": "30/10/2026 15:01",
+  "timestamp": "30/10/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "23",
+      "valor": "25",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -23,17 +23,17 @@
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
-      "valor": "2.7 días",
+      "valor": "2.6 días",
       "subtitulo": "PROMEDIO DÍAS ENTRE PICKEADO A DESPACHADO - CLD SANTIAGO"
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "24",
+      "valor": "27",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "45",
+      "valor": "48",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "label": "OCT",
-      "valor": 87.5
+      "valor": 87.6
     }
   ],
   "picking_mensual": [
@@ -317,7 +317,7 @@
     },
     {
       "label": "OCT",
-      "valor": 1404.0
+      "valor": 1406.0
     }
   ],
   "fillrate_mensual": [
@@ -497,9 +497,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "473",
-      "disponibles": "220",
-      "porcentaje": "68.3 %"
+      "ocupadas": "476",
+      "disponibles": "217",
+      "porcentaje": "68.7 %"
     }
   ]
 }

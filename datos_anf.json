@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/11/2026 14:46",
+  "timestamp": "02/11/2026 15:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "51",
+      "valor": "59",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "86",
+      "valor": "100",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "02-11",
-      "valor": 51.0
+      "valor": 59.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "NOV",
-      "valor": 51.0
+      "valor": 59.0
     }
   ],
   "promedio_ruta": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 264.0
+      "valor": 265.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -225,7 +225,7 @@
     },
     {
       "label": "NOV",
-      "valor": 8.0
+      "valor": 12.0
     }
   ],
   "fillrate_mensual": [
@@ -292,8 +292,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "700",
-      "porcentaje": "10.6 %"
+      "total": "707",
+      "porcentaje": "10.7 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -308,6 +308,13 @@
       "tareas": "13",
       "unidades": "231",
       "ordenes": "5"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "12",
+      "unidades": "958",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -326,16 +333,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "7",
-      "unidades": "6000",
-      "ordenes": "1"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "5",
-      "unidades": "479",
-      "ordenes": "4"
+      "tareas": "8",
+      "unidades": "6010",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

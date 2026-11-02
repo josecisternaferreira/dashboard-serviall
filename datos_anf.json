@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/11/2026 14:16",
+  "timestamp": "02/11/2026 14:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "49",
+      "valor": "51",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -45,7 +45,7 @@
   "tareas_por_dia": [
     {
       "label": "02-11",
-      "valor": 49.0
+      "valor": 51.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "NOV",
-      "valor": 49.0
+      "valor": 51.0
     }
   ],
   "promedio_ruta": [
@@ -292,7 +292,7 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "698",
+      "total": "700",
       "porcentaje": "10.6 %"
     },
     {
@@ -332,17 +332,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "5",
+      "unidades": "479",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
       "tareas": "5",
       "unidades": "179",
       "ordenes": "2"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "3",
-      "unidades": "79",
-      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

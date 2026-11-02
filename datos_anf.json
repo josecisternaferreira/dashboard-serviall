@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/11/2026 09:15",
+  "timestamp": "02/11/2026 09:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,18 +8,18 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "FILLRATE MES ACTUAL - BODEGA LA NEGRA",
-      "subtitulo": ""
+      "valor": "100.0 %",
+      "subtitulo": "FILLRATE MES ACTUAL - BODEGA LA NEGRA"
     },
     {
       "titulo": "DIAS_PROMEDIO_PICKING_DESPACHO",
@@ -38,11 +38,16 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
-  "tareas_por_dia": [],
+  "tareas_por_dia": [
+    {
+      "label": "02-11",
+      "valor": 1.0
+    }
+  ],
   "cumplimiento": [
     {
       "label": "ENE",
@@ -83,6 +88,10 @@
     {
       "label": "OCT",
       "valor": 96.4
+    },
+    {
+      "label": "NOV",
+      "valor": 100.0
     }
   ],
   "picking_mensual": [
@@ -125,6 +134,10 @@
     {
       "label": "OCT",
       "valor": 2160.0
+    },
+    {
+      "label": "NOV",
+      "valor": 1.0
     }
   ],
   "promedio_ruta": [
@@ -138,7 +151,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 258.0
+      "valor": 235.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -209,6 +222,10 @@
     {
       "label": "OCT",
       "valor": 302.0
+    },
+    {
+      "label": "NOV",
+      "valor": 1.0
     }
   ],
   "fillrate_mensual": [
@@ -251,6 +268,10 @@
     {
       "label": "OCT",
       "valor": 99.7
+    },
+    {
+      "label": "NOV",
+      "valor": 100.0
     }
   ],
   "top5_operadores": [
@@ -266,7 +287,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "915",
+      "total": "916",
       "porcentaje": "14.0 %"
     },
     {
@@ -282,11 +303,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "1",
+      "unidades": "10",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -349,9 +370,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "221",
-      "disponibles": "188",
-      "porcentaje": "54.0 %"
+      "ocupadas": "220",
+      "disponibles": "189",
+      "porcentaje": "53.8 %"
     }
   ]
 }

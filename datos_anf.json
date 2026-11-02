@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/11/2026 11:46",
+  "timestamp": "02/11/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "32",
+      "valor": "36",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "54",
+      "valor": "66",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
   "tareas_por_dia": [
     {
       "label": "02-11",
-      "valor": 32.0
+      "valor": 36.0
     }
   ],
   "cumplimiento": [
@@ -137,7 +137,7 @@
     },
     {
       "label": "NOV",
-      "valor": 32.0
+      "valor": 36.0
     }
   ],
   "promedio_ruta": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "SQM_MRP",
-      "valor": 77.0
+      "valor": 70.0
     },
     {
       "label": "AGUNSA",
@@ -225,7 +225,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1.0
+      "valor": 6.0
     }
   ],
   "fillrate_mensual": [
@@ -283,12 +283,12 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1692",
-      "porcentaje": "25.8 %"
+      "porcentaje": "25.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "916",
-      "porcentaje": "13.9 %"
+      "total": "920",
+      "porcentaje": "14.0 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -325,17 +325,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "OROJAS",
-      "tareas": "3",
-      "unidades": "79",
+      "usuario": "SOCARANZA",
+      "tareas": "5",
+      "unidades": "43",
       "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "1",
-      "unidades": "10",
-      "ordenes": "1"
+      "usuario": "OROJAS",
+      "tareas": "3",
+      "unidades": "79",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

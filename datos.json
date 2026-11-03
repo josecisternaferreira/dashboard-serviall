@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/11/2026 17:02",
+  "timestamp": "03/11/2026 17:32",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "77",
+      "valor": "81",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -290,7 +290,33 @@
       "valor": 100.0
     }
   ],
-  "top5_operadores": [],
+  "top5_operadores": [
+    {
+      "operador": "JUAN DANIEL MELGAR SEGOVIA",
+      "total": "2241",
+      "porcentaje": "22.1 %"
+    },
+    {
+      "operador": "DIEGO GANDO",
+      "total": "1569",
+      "porcentaje": "15.5 %"
+    },
+    {
+      "operador": "CRISTHOFER CORTEZ",
+      "total": "1468",
+      "porcentaje": "14.5 %"
+    },
+    {
+      "operador": "LUCIANO ALFARO",
+      "total": "1404",
+      "porcentaje": "13.9 %"
+    },
+    {
+      "operador": "MATIAS TORRES",
+      "total": "1186",
+      "porcentaje": "11.7 %"
+    }
+  ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",

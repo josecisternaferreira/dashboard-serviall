@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/11/2026 09:46",
+  "timestamp": "03/11/2026 10:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "2",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "2",
+      "valor": "4",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "03-11",
-      "valor": 2.0
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "NOV",
-      "valor": 111.0
+      "valor": 112.0
     }
   ],
   "promedio_ruta": [
@@ -175,7 +175,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 31.0
+      "valor": 28.0
     },
     {
       "label": "REPOSICION",
@@ -286,7 +286,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1692",
+      "total": "1693",
       "porcentaje": "25.5 %"
     },
     {
@@ -360,6 +360,13 @@
       "usuario": "SPIZARRO",
       "tareas": "1",
       "unidades": "19",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "1",
+      "unidades": "225",
       "ordenes": "1"
     }
   ],

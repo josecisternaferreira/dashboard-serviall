@@ -1,5 +1,5 @@
 {
-  "timestamp": "03/11/2026 12:16",
+  "timestamp": "03/11/2026 12:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "28",
+      "valor": "34",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "36",
+      "valor": "44",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "label": "03-11",
-      "valor": 28.0
+      "valor": 34.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +141,7 @@
     },
     {
       "label": "NOV",
-      "valor": 137.0
+      "valor": 143.0
     }
   ],
   "promedio_ruta": [
@@ -286,8 +286,8 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1710",
-      "porcentaje": "25.6 %"
+      "total": "1716",
+      "porcentaje": "25.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -297,7 +297,7 @@
     {
       "operador": "OSCAR ROJAS",
       "total": "711",
-      "porcentaje": "10.7 %"
+      "porcentaje": "10.6 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -315,17 +315,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "ZCARVAJAL",
+      "tareas": "24",
+      "unidades": "15090",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "MGARCIA",
       "tareas": "18",
       "unidades": "3146",
       "ordenes": "5"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "18",
-      "unidades": "12911",
-      "ordenes": "3"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -430,9 +430,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "208",
-      "disponibles": "201",
-      "porcentaje": "50.9 %"
+      "ocupadas": "206",
+      "disponibles": "203",
+      "porcentaje": "50.4 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/11/2026 09:16",
+  "timestamp": "04/11/2026 09:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -50,6 +50,10 @@
     {
       "label": "03-11",
       "valor": 84.0
+    },
+    {
+      "label": "04-11",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -141,7 +145,7 @@
     },
     {
       "label": "NOV",
-      "valor": 193.0
+      "valor": 194.0
     }
   ],
   "promedio_ruta": [
@@ -229,7 +233,7 @@
     },
     {
       "label": "NOV",
-      "valor": 23.0
+      "valor": 24.0
     }
   ],
   "fillrate_mensual": [
@@ -301,7 +305,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "426",
+      "total": "427",
       "porcentaje": "6.7 %"
     }
   ],
@@ -344,9 +348,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "14",
-      "unidades": "586",
-      "ordenes": "8"
+      "tareas": "15",
+      "unidades": "588",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

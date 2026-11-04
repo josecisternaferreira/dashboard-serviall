@@ -1,5 +1,5 @@
 {
-  "timestamp": "04/11/2026 12:16",
+  "timestamp": "04/11/2026 12:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "72",
+      "valor": "90",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "82",
+      "valor": "108",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -53,7 +53,7 @@
     },
     {
       "label": "04-11",
-      "valor": 72.0
+      "valor": 90.0
     }
   ],
   "cumplimiento": [
@@ -145,13 +145,13 @@
     },
     {
       "label": "NOV",
-      "valor": 265.0
+      "valor": 283.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 962.0
+      "valor": 963.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -285,8 +285,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "1952",
-      "porcentaje": "30.5 %"
+      "total": "1963",
+      "porcentaje": "30.6 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -295,8 +295,8 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "907",
-      "porcentaje": "14.2 %"
+      "total": "908",
+      "porcentaje": "14.1 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -305,17 +305,17 @@
     },
     {
       "operador": "LUIS ARDILES",
-      "total": "432",
-      "porcentaje": "6.7 %"
+      "total": "438",
+      "porcentaje": "6.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "64",
-      "unidades": "9872",
-      "ordenes": "14"
+      "tareas": "70",
+      "unidades": "11362",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -327,15 +327,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "40",
-      "unidades": "5494",
+      "tareas": "51",
+      "unidades": "5855",
       "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "30",
-      "unidades": "1615",
+      "tareas": "31",
+      "unidades": "1815",
       "ordenes": "12"
     },
     {
@@ -389,9 +389,9 @@
       "area": "Z-CANTI",
       "tipo": "ACTIVO",
       "total": "4",
-      "ocupadas": "1",
-      "disponibles": "3",
-      "porcentaje": "25.0 %"
+      "ocupadas": "2",
+      "disponibles": "2",
+      "porcentaje": "50.0 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

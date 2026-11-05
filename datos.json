@@ -1,19 +1,19 @@
 {
-  "timestamp": "05/11/2026 16:00",
+  "timestamp": "05/11/2026 16:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "15",
+      "valor": "17",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "155",
+      "valor": "162",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.5 %",
+      "valor": "96.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "58",
+      "valor": "60",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "250",
+      "valor": "258",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "05-11",
-      "valor": 155.0
+      "valor": 162.0
     }
   ],
   "cumplimiento": [
@@ -103,7 +103,7 @@
     },
     {
       "label": "NOV",
-      "valor": 96.5
+      "valor": 96.6
     }
   ],
   "picking_mensual": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "NOV",
-      "valor": 596.0
+      "valor": 603.0
     }
   ],
   "promedio_ruta": [
@@ -249,7 +249,7 @@
     },
     {
       "label": "NOV",
-      "valor": 198.0
+      "valor": 204.0
     }
   ],
   "fillrate_mensual": [
@@ -301,7 +301,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "2049",
+      "total": "2051",
       "porcentaje": "21.3 %"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1229",
+      "total": "1234",
       "porcentaje": "12.8 %"
     }
   ],
@@ -329,15 +329,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "343",
-      "unidades": "27174",
+      "tareas": "345",
+      "unidades": "31276",
       "ordenes": "128"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "244",
-      "unidades": "40923",
+      "tareas": "249",
+      "unidades": "41796",
       "ordenes": "92"
     },
     {
@@ -447,9 +447,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "455",
-      "disponibles": "238",
-      "porcentaje": "65.7 %"
+      "ocupadas": "457",
+      "disponibles": "236",
+      "porcentaje": "65.9 %"
     }
   ]
 }

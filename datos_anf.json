@@ -1,5 +1,5 @@
 {
-  "timestamp": "05/11/2026 14:16",
+  "timestamp": "05/11/2026 14:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "49",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "40",
+      "valor": "53",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "label": "05-11",
-      "valor": 44.0
+      "valor": 49.0
     }
   ],
   "cumplimiento": [
@@ -149,7 +149,7 @@
     },
     {
       "label": "NOV",
-      "valor": 408.0
+      "valor": 413.0
     }
   ],
   "promedio_ruta": [
@@ -237,7 +237,7 @@
     },
     {
       "label": "NOV",
-      "valor": 46.0
+      "valor": 49.0
     }
   ],
   "fillrate_mensual": [
@@ -304,7 +304,7 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "673",
+      "total": "676",
       "porcentaje": "10.4 %"
     },
     {
@@ -345,16 +345,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "32",
-      "unidades": "1536",
-      "ordenes": "20"
+      "tareas": "35",
+      "unidades": "2136",
+      "ordenes": "23"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "27",
-      "unidades": "5642",
-      "ordenes": "20"
+      "tareas": "29",
+      "unidades": "5645",
+      "ordenes": "21"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -438,9 +438,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "202",
-      "disponibles": "207",
-      "porcentaje": "49.4 %"
+      "ocupadas": "201",
+      "disponibles": "208",
+      "porcentaje": "49.1 %"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "timestamp": "06/11/2026 15:31",
+  "timestamp": "06/11/2026 16:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "18",
+      "valor": "22",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "168",
+      "valor": "169",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.6 %",
+      "valor": "96.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "37",
+      "valor": "39",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "53",
+      "valor": "64",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "label": "06-11",
-      "valor": 168.0
+      "valor": 169.0
     }
   ],
   "cumplimiento": [
@@ -107,7 +107,7 @@
     },
     {
       "label": "NOV",
-      "valor": 96.6
+      "valor": 96.2
     }
   ],
   "picking_mensual": [
@@ -153,7 +153,7 @@
     },
     {
       "label": "NOV",
-      "valor": 810.0
+      "valor": 811.0
     }
   ],
   "promedio_ruta": [
@@ -253,7 +253,7 @@
     },
     {
       "label": "NOV",
-      "valor": 236.0
+      "valor": 238.0
     }
   ],
   "fillrate_mensual": [
@@ -310,7 +310,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1394",
+      "total": "1395",
       "porcentaje": "14.2 %"
     },
     {
@@ -354,9 +354,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "3",
-      "unidades": "71",
-      "ordenes": "2"
+      "tareas": "4",
+      "unidades": "72",
+      "ordenes": "3"
     },
     {
       "region": "BODEGA SANTIAGO",

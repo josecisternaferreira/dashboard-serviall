@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/11/2026 11:00",
+  "timestamp": "06/11/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "73",
+      "valor": "91",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "7",
+      "valor": "8",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "120",
+      "valor": "134",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "06-11",
-      "valor": 73.0
+      "valor": 91.0
     }
   ],
   "cumplimiento": [
@@ -153,7 +153,7 @@
     },
     {
       "label": "NOV",
-      "valor": 715.0
+      "valor": 733.0
     }
   ],
   "promedio_ruta": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 373.0
+      "valor": 374.0
     },
     {
       "label": "ESTAFETA",
@@ -305,7 +305,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "2118",
+      "total": "2127",
       "porcentaje": "21.8 %"
     },
     {
@@ -325,31 +325,31 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1268",
-      "porcentaje": "13.0 %"
+      "total": "1274",
+      "porcentaje": "13.1 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "412",
-      "unidades": "34803",
-      "ordenes": "137"
+      "tareas": "421",
+      "unidades": "34815",
+      "ordenes": "138"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "283",
-      "unidades": "45162",
-      "ordenes": "99"
+      "tareas": "289",
+      "unidades": "45424",
+      "ordenes": "100"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "15",
-      "unidades": "1835",
-      "ordenes": "7"
+      "tareas": "18",
+      "unidades": "1926",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -406,9 +406,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "849",
-      "disponibles": "225",
-      "porcentaje": "79.1 %"
+      "ocupadas": "848",
+      "disponibles": "226",
+      "porcentaje": "79.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/11/2026 13:46",
+  "timestamp": "06/11/2026 14:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "71",
+      "valor": "91",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "104",
+      "valor": "142",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "06-11",
-      "valor": 71.0
+      "valor": 91.0
     }
   ],
   "cumplimiento": [
@@ -153,13 +153,13 @@
     },
     {
       "label": "NOV",
-      "valor": 531.0
+      "valor": 551.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 977.0
+      "valor": 979.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -294,17 +294,17 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2050",
-      "porcentaje": "31.0 %"
+      "porcentaje": "30.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1697",
-      "porcentaje": "25.7 %"
+      "porcentaje": "25.6 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
       "total": "910",
-      "porcentaje": "13.8 %"
+      "porcentaje": "13.7 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -313,7 +313,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "474",
+      "total": "476",
       "porcentaje": "7.2 %"
     }
   ],
@@ -342,9 +342,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "68",
-      "unidades": "19036",
-      "ordenes": "34"
+      "tareas": "70",
+      "unidades": "22036",
+      "ordenes": "35"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -359,6 +359,13 @@
       "tareas": "43",
       "unidades": "2367",
       "ordenes": "19"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "18",
+      "unidades": "39",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

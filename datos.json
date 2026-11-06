@@ -1,5 +1,5 @@
 {
-  "timestamp": "06/11/2026 14:01",
+  "timestamp": "06/11/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "147",
+      "valor": "162",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "23",
+      "valor": "26",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "204",
+      "valor": "230",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "label": "06-11",
-      "valor": 147.0
+      "valor": 162.0
     }
   ],
   "cumplimiento": [
@@ -153,13 +153,13 @@
     },
     {
       "label": "NOV",
-      "valor": 789.0
+      "valor": 804.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1555.0
+      "valor": 1556.0
     },
     {
       "label": "SITRANS",
@@ -305,7 +305,7 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "2152",
+      "total": "2161",
       "porcentaje": "22.0 %"
     },
     {
@@ -320,7 +320,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1302",
+      "total": "1308",
       "porcentaje": "13.3 %"
     },
     {
@@ -333,16 +333,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "446",
-      "unidades": "35041",
-      "ordenes": "146"
+      "tareas": "455",
+      "unidades": "35658",
+      "ordenes": "153"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "317",
-      "unidades": "47563",
-      "ordenes": "123"
+      "tareas": "323",
+      "unidades": "48591",
+      "ordenes": "129"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -451,9 +451,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "457",
-      "disponibles": "236",
-      "porcentaje": "65.9 %"
+      "ocupadas": "458",
+      "disponibles": "235",
+      "porcentaje": "66.1 %"
     }
   ]
 }

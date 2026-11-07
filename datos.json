@@ -1,5 +1,5 @@
 {
-  "timestamp": "07/11/2026 09:00",
+  "timestamp": "07/11/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "10",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -62,6 +62,10 @@
     {
       "label": "06-11",
       "valor": 169.0
+    },
+    {
+      "label": "07-11",
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -153,7 +157,7 @@
     },
     {
       "label": "NOV",
-      "valor": 811.0
+      "valor": 817.0
     }
   ],
   "promedio_ruta": [
@@ -167,7 +171,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 375.0
+      "valor": 376.0
     },
     {
       "label": "ESTAFETA",
@@ -305,8 +309,8 @@
   "top5_operadores": [
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
-      "total": "2163",
-      "porcentaje": "22.0 %"
+      "total": "2167",
+      "porcentaje": "22.1 %"
     },
     {
       "operador": "DIEGO GANDO",
@@ -320,7 +324,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1312",
+      "total": "1314",
       "porcentaje": "13.4 %"
     },
     {
@@ -333,16 +337,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "JMELGAR",
-      "tareas": "457",
-      "unidades": "36233",
-      "ordenes": "155"
+      "tareas": "461",
+      "unidades": "36247",
+      "ordenes": "159"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "327",
-      "unidades": "48815",
-      "ordenes": "133"
+      "tareas": "329",
+      "unidades": "48825",
+      "ordenes": "135"
     },
     {
       "region": "BODEGA SANTIAGO",

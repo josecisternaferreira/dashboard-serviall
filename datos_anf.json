@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/11/2026 11:46",
+  "timestamp": "09/11/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "69",
+      "valor": "82",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "68",
+      "valor": "88",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -65,7 +65,7 @@
     },
     {
       "label": "09-11",
-      "valor": 69.0
+      "valor": 82.0
     }
   ],
   "cumplimiento": [
@@ -157,13 +157,13 @@
     },
     {
       "label": "NOV",
-      "valor": 627.0
+      "valor": 640.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 982.0
+      "valor": 983.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -171,7 +171,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 241.0
+      "valor": 242.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -297,8 +297,8 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2078",
-      "porcentaje": "31.3 %"
+      "total": "2079",
+      "porcentaje": "31.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -317,30 +317,30 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "484",
-      "porcentaje": "7.3 %"
+      "total": "493",
+      "porcentaje": "7.4 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "40",
-      "unidades": "1424",
-      "ordenes": "9"
+      "tareas": "41",
+      "unidades": "1474",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
-      "tareas": "16",
-      "unidades": "1186",
-      "ordenes": "4"
+      "tareas": "19",
+      "unidades": "1250",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "8",
-      "unidades": "242",
+      "tareas": "17",
+      "unidades": "464",
       "ordenes": "2"
     },
     {

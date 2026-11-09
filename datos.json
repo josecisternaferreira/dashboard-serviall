@@ -1,19 +1,19 @@
 {
-  "timestamp": "09/11/2026 17:01",
+  "timestamp": "09/11/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "25",
+      "valor": "26",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "125",
+      "valor": "136",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.0 %",
+      "valor": "92.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "49",
+      "valor": "56",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "59",
+      "valor": "60",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "160",
+      "valor": "178",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "09-11",
-      "valor": 125.0
+      "valor": 136.0
     }
   ],
   "cumplimiento": [
@@ -115,7 +115,7 @@
     },
     {
       "label": "NOV",
-      "valor": 92.0
+      "valor": 92.1
     }
   ],
   "picking_mensual": [
@@ -161,13 +161,13 @@
     },
     {
       "label": "NOV",
-      "valor": 977.0
+      "valor": 988.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1562.0
+      "valor": 1563.0
     },
     {
       "label": "SITRANS",
@@ -261,7 +261,7 @@
     },
     {
       "label": "NOV",
-      "valor": 364.0
+      "valor": 365.0
     }
   ],
   "fillrate_mensual": [
@@ -319,7 +319,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1348",
-      "porcentaje": "13.8 %"
+      "porcentaje": "13.7 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -341,16 +341,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "87",
-      "unidades": "7086",
-      "ordenes": "48"
+      "tareas": "92",
+      "unidades": "7280",
+      "ordenes": "53"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "37",
-      "unidades": "2303",
-      "ordenes": "12"
+      "tareas": "43",
+      "unidades": "2309",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -393,9 +393,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "852",
-      "disponibles": "222",
-      "porcentaje": "79.3 %"
+      "ocupadas": "853",
+      "disponibles": "221",
+      "porcentaje": "79.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",

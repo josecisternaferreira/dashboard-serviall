@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/11/2026 12:16",
+  "timestamp": "09/11/2026 12:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "82",
+      "valor": "96",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.1 %",
+      "valor": "98.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "88",
+      "valor": "112",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -65,7 +65,7 @@
     },
     {
       "label": "09-11",
-      "valor": 82.0
+      "valor": 96.0
     }
   ],
   "cumplimiento": [
@@ -111,7 +111,7 @@
     },
     {
       "label": "NOV",
-      "valor": 98.1
+      "valor": 98.2
     }
   ],
   "picking_mensual": [
@@ -157,13 +157,13 @@
     },
     {
       "label": "NOV",
-      "valor": 640.0
+      "valor": 654.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 983.0
+      "valor": 984.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -245,7 +245,7 @@
     },
     {
       "label": "NOV",
-      "valor": 54.0
+      "valor": 55.0
     }
   ],
   "fillrate_mensual": [
@@ -297,13 +297,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2079",
+      "total": "2081",
       "porcentaje": "31.2 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1685",
-      "porcentaje": "25.3 %"
+      "porcentaje": "25.2 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -325,15 +325,15 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "41",
-      "unidades": "1474",
-      "ordenes": "10"
+      "tareas": "43",
+      "unidades": "1778",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
-      "tareas": "19",
-      "unidades": "1250",
+      "tareas": "26",
+      "unidades": "1389",
       "ordenes": "5"
     },
     {
@@ -346,9 +346,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "MGARCIA",
-      "tareas": "3",
-      "unidades": "122",
-      "ordenes": "1"
+      "tareas": "8",
+      "unidades": "372",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

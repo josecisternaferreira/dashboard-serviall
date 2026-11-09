@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/11/2026 09:00",
+  "timestamp": "09/11/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.7 %",
+      "valor": "91.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -66,6 +66,10 @@
     {
       "label": "07-11",
       "valor": 40.0
+    },
+    {
+      "label": "09-11",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -111,7 +115,7 @@
     },
     {
       "label": "NOV",
-      "valor": 91.7
+      "valor": 91.8
     }
   ],
   "picking_mensual": [
@@ -157,7 +161,7 @@
     },
     {
       "label": "NOV",
-      "valor": 851.0
+      "valor": 854.0
     }
   ],
   "promedio_ruta": [
@@ -195,7 +199,7 @@
     },
     {
       "label": "REPOSICION",
-      "valor": 26.0
+      "valor": 20.0
     },
     {
       "label": "LOBOZA-FINNING",
@@ -257,7 +261,7 @@
     },
     {
       "label": "NOV",
-      "valor": 325.0
+      "valor": 329.0
     }
   ],
   "fillrate_mensual": [
@@ -335,11 +339,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "2",
+      "unidades": "7",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -420,9 +424,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "467",
-      "disponibles": "226",
-      "porcentaje": "67.4 %"
+      "ocupadas": "468",
+      "disponibles": "225",
+      "porcentaje": "67.5 %"
     }
   ]
 }

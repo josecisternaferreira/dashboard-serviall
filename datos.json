@@ -1,5 +1,5 @@
 {
-  "timestamp": "09/11/2026 13:00",
+  "timestamp": "09/11/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "72",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "64",
+      "valor": "86",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -69,7 +69,7 @@
     },
     {
       "label": "09-11",
-      "valor": 54.0
+      "valor": 72.0
     }
   ],
   "cumplimiento": [
@@ -161,13 +161,13 @@
     },
     {
       "label": "NOV",
-      "valor": 906.0
+      "valor": 924.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1557.0
+      "valor": 1559.0
     },
     {
       "label": "SITRANS",
@@ -319,7 +319,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1348",
-      "porcentaje": "13.9 %"
+      "porcentaje": "13.8 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -334,23 +334,23 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1262",
-      "porcentaje": "13.0 %"
+      "porcentaje": "12.9 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "42",
-      "unidades": "6486",
-      "ordenes": "29"
+      "tareas": "55",
+      "unidades": "6632",
+      "ordenes": "31"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "11",
-      "unidades": "509",
-      "ordenes": "9"
+      "tareas": "16",
+      "unidades": "595",
+      "ordenes": "10"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -438,9 +438,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "470",
-      "disponibles": "223",
-      "porcentaje": "67.8 %"
+      "ocupadas": "466",
+      "disponibles": "227",
+      "porcentaje": "67.2 %"
     }
   ]
 }

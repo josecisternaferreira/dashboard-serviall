@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/11/2026 12:30",
+  "timestamp": "10/11/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "61",
+      "valor": "66",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.5 %",
+      "valor": "92.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "72",
+      "valor": "75",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-11",
-      "valor": 61.0
+      "valor": 66.0
     }
   ],
   "cumplimiento": [
@@ -119,7 +119,7 @@
     },
     {
       "label": "NOV",
-      "valor": 92.5
+      "valor": 92.7
     }
   ],
   "picking_mensual": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1050.0
+      "valor": 1055.0
     }
   ],
   "promedio_ruta": [
@@ -265,7 +265,7 @@
     },
     {
       "label": "NOV",
-      "valor": 415.0
+      "valor": 425.0
     }
   ],
   "fillrate_mensual": [
@@ -345,16 +345,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "124",
-      "unidades": "8065",
-      "ordenes": "81"
+      "tareas": "127",
+      "unidades": "8152",
+      "ordenes": "84"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "71",
-      "unidades": "3732",
-      "ordenes": "33"
+      "tareas": "73",
+      "unidades": "3804",
+      "ordenes": "35"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -449,9 +449,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "460",
-      "disponibles": "233",
-      "porcentaje": "66.4 %"
+      "ocupadas": "463",
+      "disponibles": "230",
+      "porcentaje": "66.8 %"
     }
   ]
 }

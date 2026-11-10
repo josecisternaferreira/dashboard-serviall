@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/11/2026 09:30",
+  "timestamp": "10/11/2026 10:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "18",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "2",
+      "valor": "16",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-11",
-      "valor": 1.0
+      "valor": 18.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "NOV",
-      "valor": 990.0
+      "valor": 1007.0
     }
   ],
   "promedio_ruta": [
@@ -175,7 +175,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 400.0
+      "valor": 401.0
     },
     {
       "label": "AGUNSA",
@@ -265,7 +265,7 @@
     },
     {
       "label": "NOV",
-      "valor": 400.0
+      "valor": 402.0
     }
   ],
   "fillrate_mensual": [
@@ -328,7 +328,7 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "1342",
-      "porcentaje": "13.7 %"
+      "porcentaje": "13.6 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -338,23 +338,30 @@
     {
       "operador": "CRISTHOFER CORTEZ",
       "total": "1262",
-      "porcentaje": "12.9 %"
+      "porcentaje": "12.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "93",
-      "unidades": "7504",
-      "ordenes": "54"
+      "tareas": "98",
+      "unidades": "7630",
+      "ordenes": "59"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "44",
-      "unidades": "2314",
-      "ordenes": "17"
+      "tareas": "54",
+      "unidades": "3439",
+      "ordenes": "23"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "2",
+      "unidades": "20",
+      "ordenes": "2"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -433,9 +440,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "157",
-      "disponibles": "83",
-      "porcentaje": "65.4 %"
+      "ocupadas": "158",
+      "disponibles": "82",
+      "porcentaje": "65.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",

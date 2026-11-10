@@ -1,14 +1,14 @@
 {
-  "timestamp": "10/11/2026 10:30",
+  "timestamp": "10/11/2026 11:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "34",
+      "valor": "36",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "3",
+      "valor": "6",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "41",
+      "valor": "42",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-11",
-      "valor": 34.0
+      "valor": 36.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1023.0
+      "valor": 1025.0
     }
   ],
   "promedio_ruta": [
@@ -345,16 +345,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "109",
-      "unidades": "7823",
-      "ordenes": "69"
+      "tareas": "110",
+      "unidades": "7845",
+      "ordenes": "70"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "59",
-      "unidades": "3583",
-      "ordenes": "26"
+      "tareas": "60",
+      "unidades": "3585",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -449,9 +449,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "464",
-      "disponibles": "229",
-      "porcentaje": "67.0 %"
+      "ocupadas": "463",
+      "disponibles": "230",
+      "porcentaje": "66.8 %"
     }
   ]
 }

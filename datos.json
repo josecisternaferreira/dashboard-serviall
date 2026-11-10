@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/11/2026 12:01",
+  "timestamp": "10/11/2026 12:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "61",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "5",
+      "valor": "6",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "62",
+      "valor": "72",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-11",
-      "valor": 53.0
+      "valor": 61.0
     }
   ],
   "cumplimiento": [
@@ -165,13 +165,13 @@
     },
     {
       "label": "NOV",
-      "valor": 1042.0
+      "valor": 1050.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1563.0
+      "valor": 1564.0
     },
     {
       "label": "SITRANS",
@@ -265,7 +265,7 @@
     },
     {
       "label": "NOV",
-      "valor": 412.0
+      "valor": 415.0
     }
   ],
   "fillrate_mensual": [
@@ -323,7 +323,7 @@
     {
       "operador": "DIEGO GANDO",
       "total": "1348",
-      "porcentaje": "13.7 %"
+      "porcentaje": "13.6 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -345,16 +345,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "122",
-      "unidades": "8057",
-      "ordenes": "79"
+      "tareas": "124",
+      "unidades": "8065",
+      "ordenes": "81"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "66",
-      "unidades": "3716",
-      "ordenes": "32"
+      "tareas": "71",
+      "unidades": "3732",
+      "ordenes": "33"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -440,9 +440,9 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "160",
-      "disponibles": "80",
-      "porcentaje": "66.7 %"
+      "ocupadas": "159",
+      "disponibles": "81",
+      "porcentaje": "66.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",

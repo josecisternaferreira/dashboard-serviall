@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/11/2026 14:01",
+  "timestamp": "10/11/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "78",
+      "valor": "86",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "88",
+      "valor": "104",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-11",
-      "valor": 78.0
+      "valor": 86.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1069.0
+      "valor": 1077.0
     }
   ],
   "promedio_ruta": [
@@ -179,7 +179,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 379.0
+      "valor": 380.0
     },
     {
       "label": "ESTAFETA",
@@ -345,9 +345,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "131",
-      "unidades": "8681",
-      "ordenes": "88"
+      "tareas": "139",
+      "unidades": "8894",
+      "ordenes": "95"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -449,9 +449,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "458",
-      "disponibles": "235",
-      "porcentaje": "66.1 %"
+      "ocupadas": "459",
+      "disponibles": "234",
+      "porcentaje": "66.2 %"
     }
   ]
 }

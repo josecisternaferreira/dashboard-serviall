@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/11/2026 13:01",
+  "timestamp": "10/11/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "66",
+      "valor": "68",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "75",
+      "valor": "76",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "10-11",
-      "valor": 66.0
+      "valor": 68.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1055.0
+      "valor": 1059.0
     }
   ],
   "promedio_ruta": [
@@ -265,7 +265,7 @@
     },
     {
       "label": "NOV",
-      "valor": 425.0
+      "valor": 426.0
     }
   ],
   "fillrate_mensual": [
@@ -345,16 +345,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "127",
-      "unidades": "8152",
-      "ordenes": "84"
+      "tareas": "128",
+      "unidades": "8160",
+      "ordenes": "85"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "73",
-      "unidades": "3804",
-      "ordenes": "35"
+      "tareas": "74",
+      "unidades": "3805",
+      "ordenes": "36"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -404,9 +404,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "851",
-      "disponibles": "223",
-      "porcentaje": "79.2 %"
+      "ocupadas": "848",
+      "disponibles": "226",
+      "porcentaje": "79.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -449,9 +449,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "463",
-      "disponibles": "230",
-      "porcentaje": "66.8 %"
+      "ocupadas": "458",
+      "disponibles": "235",
+      "porcentaje": "66.1 %"
     }
   ]
 }

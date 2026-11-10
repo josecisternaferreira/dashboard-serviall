@@ -1,5 +1,5 @@
 {
-  "timestamp": "10/11/2026 09:00",
+  "timestamp": "10/11/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "92.7 %",
+      "valor": "92.8 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -70,6 +70,10 @@
     {
       "label": "09-11",
       "valor": 137.0
+    },
+    {
+      "label": "10-11",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -115,7 +119,7 @@
     },
     {
       "label": "NOV",
-      "valor": 92.7
+      "valor": 92.8
     }
   ],
   "picking_mensual": [
@@ -161,7 +165,7 @@
     },
     {
       "label": "NOV",
-      "valor": 989.0
+      "valor": 990.0
     }
   ],
   "promedio_ruta": [
@@ -261,7 +265,7 @@
     },
     {
       "label": "NOV",
-      "valor": 399.0
+      "valor": 400.0
     }
   ],
   "fillrate_mensual": [
@@ -348,9 +352,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "43",
-      "unidades": "2309",
-      "ordenes": "16"
+      "tareas": "44",
+      "unidades": "2314",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -429,18 +433,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "158",
-      "disponibles": "82",
-      "porcentaje": "65.8 %"
+      "ocupadas": "157",
+      "disponibles": "83",
+      "porcentaje": "65.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "464",
-      "disponibles": "229",
-      "porcentaje": "67.0 %"
+      "ocupadas": "463",
+      "disponibles": "230",
+      "porcentaje": "66.8 %"
     }
   ]
 }

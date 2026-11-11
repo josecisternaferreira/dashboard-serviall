@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/11/2026 09:00",
+  "timestamp": "11/11/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "1",
+      "valor": "15",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "1",
+      "valor": "12",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -74,6 +74,10 @@
     {
       "label": "10-11",
       "valor": 126.0
+    },
+    {
+      "label": "11-11",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +169,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1117.0
+      "valor": 1120.0
     }
   ],
   "promedio_ruta": [
@@ -179,7 +183,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 380.0
+      "valor": 381.0
     },
     {
       "label": "ESTAFETA",
@@ -332,7 +336,7 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1282",
+      "total": "1284",
       "porcentaje": "13.4 %"
     },
     {
@@ -345,16 +349,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "158",
-      "unidades": "11388",
-      "ordenes": "109"
+      "tareas": "159",
+      "unidades": "11408",
+      "ordenes": "110"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "102",
-      "unidades": "4447",
-      "ordenes": "49"
+      "tareas": "104",
+      "unidades": "4634",
+      "ordenes": "50"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -404,9 +408,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "846",
-      "disponibles": "228",
-      "porcentaje": "78.8 %"
+      "ocupadas": "848",
+      "disponibles": "226",
+      "porcentaje": "79.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",

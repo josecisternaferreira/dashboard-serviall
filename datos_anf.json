@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/11/2026 12:16",
+  "timestamp": "11/11/2026 12:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "41",
+      "valor": "46",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "54",
+      "valor": "56",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "11-11",
-      "valor": 41.0
+      "valor": 46.0
     }
   ],
   "cumplimiento": [
@@ -165,7 +165,7 @@
     },
     {
       "label": "NOV",
-      "valor": 905.0
+      "valor": 910.0
     }
   ],
   "promedio_ruta": [
@@ -191,7 +191,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 85.0
+      "valor": 86.0
     },
     {
       "label": "SQM_MRP",
@@ -306,11 +306,11 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2039",
-      "porcentaje": "30.9 %"
+      "porcentaje": "30.8 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1662",
+      "total": "1664",
       "porcentaje": "25.2 %"
     },
     {
@@ -339,17 +339,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "49",
-      "unidades": "5205",
-      "ordenes": "6"
+      "usuario": "LARDILES",
+      "tareas": "51",
+      "unidades": "6794",
+      "ordenes": "15"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "48",
-      "unidades": "6743",
-      "ordenes": "13"
+      "usuario": "ZCARVAJAL",
+      "tareas": "51",
+      "unidades": "6805",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -454,9 +454,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "208",
-      "disponibles": "201",
-      "porcentaje": "50.9 %"
+      "ocupadas": "207",
+      "disponibles": "202",
+      "porcentaje": "50.6 %"
     }
   ]
 }

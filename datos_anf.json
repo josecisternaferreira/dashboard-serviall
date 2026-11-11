@@ -1,5 +1,5 @@
 {
-  "timestamp": "11/11/2026 10:46",
+  "timestamp": "11/11/2026 11:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "24",
+      "valor": "32",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "22",
+      "valor": "38",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -73,7 +73,7 @@
     },
     {
       "label": "11-11",
-      "valor": 24.0
+      "valor": 32.0
     }
   ],
   "cumplimiento": [
@@ -165,13 +165,13 @@
     },
     {
       "label": "NOV",
-      "valor": 888.0
+      "valor": 896.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 992.0
+      "valor": 993.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -310,7 +310,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1656",
+      "total": "1657",
       "porcentaje": "25.1 %"
     },
     {
@@ -346,17 +346,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "ZCARVAJAL",
-      "tareas": "43",
-      "unidades": "1985",
-      "ordenes": "5"
+      "usuario": "LARDILES",
+      "tareas": "45",
+      "unidades": "6074",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "38",
-      "unidades": "5086",
-      "ordenes": "10"
+      "usuario": "ZCARVAJAL",
+      "tareas": "44",
+      "unidades": "2535",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

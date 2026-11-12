@@ -1,5 +1,5 @@
 {
-  "timestamp": "12/11/2026 10:45",
+  "timestamp": "12/11/2026 11:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
@@ -422,8 +422,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1081",
-      "disponibles": "258",
+      "ocupadas": "1080",
+      "disponibles": "259",
       "porcentaje": "80.7 %"
     },
     {
@@ -458,9 +458,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "203",
-      "disponibles": "206",
-      "porcentaje": "49.6 %"
+      "ocupadas": "204",
+      "disponibles": "205",
+      "porcentaje": "49.9 %"
     }
   ]
 }

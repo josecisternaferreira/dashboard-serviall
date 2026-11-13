@@ -1,5 +1,5 @@
 {
-  "timestamp": "13/11/2026 13:16",
+  "timestamp": "13/11/2026 13:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "77",
+      "valor": "83",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.0 %",
+      "valor": "96.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "84",
+      "valor": "95",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -81,7 +81,7 @@
     },
     {
       "label": "13-11",
-      "valor": 77.0
+      "valor": 83.0
     }
   ],
   "cumplimiento": [
@@ -127,7 +127,7 @@
     },
     {
       "label": "NOV",
-      "valor": 95.0
+      "valor": 95.1
     }
   ],
   "picking_mensual": [
@@ -173,7 +173,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1129.0
+      "valor": 1135.0
     }
   ],
   "promedio_ruta": [
@@ -261,7 +261,7 @@
     },
     {
       "label": "NOV",
-      "valor": 100.0
+      "valor": 103.0
     }
   ],
   "fillrate_mensual": [
@@ -323,17 +323,17 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "832",
+      "total": "835",
       "porcentaje": "12.2 %"
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "660",
+      "total": "661",
       "porcentaje": "9.7 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "525",
+      "total": "527",
       "porcentaje": "7.7 %"
     }
   ],
@@ -355,9 +355,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "83",
-      "unidades": "2367",
-      "ordenes": "25"
+      "tareas": "85",
+      "unidades": "2457",
+      "ordenes": "27"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -390,9 +390,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "24",
-      "unidades": "389",
-      "ordenes": "17"
+      "tareas": "27",
+      "unidades": "480",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -404,9 +404,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "1",
-      "unidades": "100",
-      "ordenes": "1"
+      "tareas": "2",
+      "unidades": "450",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [

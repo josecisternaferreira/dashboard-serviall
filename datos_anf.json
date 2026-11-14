@@ -1,5 +1,5 @@
 {
-  "timestamp": "14/11/2026 10:15",
+  "timestamp": "14/11/2026 10:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "4",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -82,6 +82,10 @@
     {
       "label": "13-11",
       "valor": 93.0
+    },
+    {
+      "label": "14-11",
+      "valor": 3.0
     }
   ],
   "cumplimiento": [
@@ -127,7 +131,7 @@
     },
     {
       "label": "NOV",
-      "valor": 95.2
+      "valor": 95.3
     }
   ],
   "picking_mensual": [
@@ -173,7 +177,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1145.0
+      "valor": 1148.0
     }
   ],
   "promedio_ruta": [
@@ -261,7 +265,7 @@
     },
     {
       "label": "NOV",
-      "valor": 105.0
+      "valor": 106.0
     }
   ],
   "fillrate_mensual": [
@@ -314,7 +318,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2112",
-      "porcentaje": "30.9 %"
+      "porcentaje": "30.8 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -368,17 +372,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JBARRERA",
+      "tareas": "48",
+      "unidades": "6241",
+      "ordenes": "18"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
       "tareas": "46",
       "unidades": "5760",
       "ordenes": "10"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "JBARRERA",
-      "tareas": "45",
-      "unidades": "6187",
-      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

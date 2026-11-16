@@ -1,14 +1,14 @@
 {
-  "timestamp": "16/11/2026 13:31",
+  "timestamp": "16/11/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "7",
+      "valor": "8",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "52",
+      "valor": "65",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "11",
+      "valor": "14",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "14",
+      "valor": "19",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "54",
+      "valor": "60",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-11",
-      "valor": 52.0
+      "valor": 65.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +181,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1610.0
+      "valor": 1623.0
     }
   ],
   "promedio_ruta": [
@@ -191,7 +191,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 406.0
+      "valor": 407.0
     },
     {
       "label": "AGUNSA",
@@ -281,7 +281,7 @@
     },
     {
       "label": "NOV",
-      "valor": 681.0
+      "valor": 683.0
     }
   ],
   "fillrate_mensual": [
@@ -339,12 +339,12 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1432",
-      "porcentaje": "14.6 %"
+      "porcentaje": "14.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1398",
-      "porcentaje": "14.2 %"
+      "total": "1411",
+      "porcentaje": "14.3 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -354,16 +354,16 @@
     {
       "operador": "LEONARDO SAEZ",
       "total": "1284",
-      "porcentaje": "13.1 %"
+      "porcentaje": "13.0 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "40",
-      "unidades": "4017",
-      "ordenes": "19"
+      "tareas": "53",
+      "unidades": "4713",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -458,9 +458,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "466",
-      "disponibles": "227",
-      "porcentaje": "67.2 %"
+      "ocupadas": "468",
+      "disponibles": "225",
+      "porcentaje": "67.5 %"
     }
   ]
 }

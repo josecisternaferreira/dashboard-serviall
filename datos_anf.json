@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/11/2026 15:16",
+  "timestamp": "16/11/2026 15:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "139",
+      "valor": "162",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "186",
+      "valor": "216",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-11",
-      "valor": 139.0
+      "valor": 162.0
     }
   ],
   "cumplimiento": [
@@ -135,7 +135,7 @@
     },
     {
       "label": "NOV",
-      "valor": 95.8
+      "valor": 95.9
     }
   ],
   "picking_mensual": [
@@ -181,17 +181,17 @@
     },
     {
       "label": "NOV",
-      "valor": 1287.0
+      "valor": 1310.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1007.0
+      "valor": 1008.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 277.0
+      "valor": 278.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -199,7 +199,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 201.0
+      "valor": 202.0
     },
     {
       "label": "ESTAFETA",
@@ -269,7 +269,7 @@
     },
     {
       "label": "NOV",
-      "valor": 120.0
+      "valor": 122.0
     }
   ],
   "fillrate_mensual": [
@@ -321,18 +321,18 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2124",
-      "porcentaje": "31.0 %"
+      "total": "2127",
+      "porcentaje": "30.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1701",
-      "porcentaje": "24.8 %"
+      "porcentaje": "24.7 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "810",
-      "porcentaje": "11.8 %"
+      "total": "819",
+      "porcentaje": "11.9 %"
     },
     {
       "operador": "OSCAR ROJAS",
@@ -342,7 +342,7 @@
     {
       "operador": "YEIMY RINCON",
       "total": "526",
-      "porcentaje": "7.7 %"
+      "porcentaje": "7.6 %"
     }
   ],
   "semana_actual": [
@@ -356,23 +356,23 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "24",
-      "unidades": "764",
-      "ordenes": "12"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "22",
-      "unidades": "8914",
-      "ordenes": "17"
+      "tareas": "33",
+      "unidades": "854",
+      "ordenes": "14"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "MGARCIA",
-      "tareas": "20",
-      "unidades": "2287",
+      "tareas": "31",
+      "unidades": "2803",
       "ordenes": "3"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "25",
+      "unidades": "8922",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "16/11/2026 14:30",
+  "timestamp": "16/11/2026 15:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "8",
+      "valor": "10",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "65",
+      "valor": "69",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "14",
+      "valor": "18",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "19",
+      "valor": "21",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "60",
+      "valor": "68",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-11",
-      "valor": 65.0
+      "valor": 69.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +181,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1623.0
+      "valor": 1627.0
     }
   ],
   "promedio_ruta": [
@@ -343,8 +343,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1411",
-      "porcentaje": "14.3 %"
+      "total": "1415",
+      "porcentaje": "14.4 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -361,9 +361,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "53",
-      "unidades": "4713",
-      "ordenes": "26"
+      "tareas": "57",
+      "unidades": "4767",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -458,9 +458,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "468",
-      "disponibles": "225",
-      "porcentaje": "67.5 %"
+      "ocupadas": "472",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

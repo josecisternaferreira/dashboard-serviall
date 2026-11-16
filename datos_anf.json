@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/11/2026 10:46",
+  "timestamp": "16/11/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "37",
+      "valor": "111",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "96.3 %",
+      "valor": "96.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "56",
+      "valor": "152",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-11",
-      "valor": 37.0
+      "valor": 111.0
     }
   ],
   "cumplimiento": [
@@ -135,7 +135,7 @@
     },
     {
       "label": "NOV",
-      "valor": 95.4
+      "valor": 95.6
     }
   ],
   "picking_mensual": [
@@ -181,21 +181,21 @@
     },
     {
       "label": "NOV",
-      "valor": 1185.0
+      "valor": 1259.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1004.0
+      "valor": 1007.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 274.0
+      "valor": 276.0
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 249.0
+      "valor": 251.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -207,7 +207,7 @@
     },
     {
       "label": "SITRANS",
-      "valor": 86.0
+      "valor": 87.0
     },
     {
       "label": "SQM_MRP",
@@ -269,7 +269,7 @@
     },
     {
       "label": "NOV",
-      "valor": 109.0
+      "valor": 114.0
     }
   ],
   "fillrate_mensual": [
@@ -321,65 +321,79 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2108",
-      "porcentaje": "31.2 %"
+      "total": "2118",
+      "porcentaje": "31.0 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1671",
-      "porcentaje": "24.7 %"
+      "total": "1701",
+      "porcentaje": "24.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "788",
-      "porcentaje": "11.7 %"
+      "total": "795",
+      "porcentaje": "11.6 %"
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "659",
+      "total": "668",
       "porcentaje": "9.8 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "525",
-      "porcentaje": "7.8 %"
+      "total": "526",
+      "porcentaje": "7.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "MGARCIA",
-      "tareas": "8",
-      "unidades": "2151",
-      "ordenes": "1"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "8",
-      "unidades": "227",
-      "ordenes": "3"
+      "tareas": "38",
+      "unidades": "2566",
+      "ordenes": "7"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
-      "tareas": "7",
-      "unidades": "26",
-      "ordenes": "1"
+      "tareas": "16",
+      "unidades": "333",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "6",
-      "unidades": "970",
-      "ordenes": "5"
+      "tareas": "16",
+      "unidades": "8774",
+      "ordenes": "12"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "MGARCIA",
+      "tareas": "14",
+      "unidades": "2225",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "OROJAS",
+      "tareas": "9",
+      "unidades": "9",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "9",
+      "unidades": "511",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "3",
-      "unidades": "39",
-      "ordenes": "3"
+      "tareas": "5",
+      "unidades": "249",
+      "ordenes": "5"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -390,17 +404,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "2",
-      "unidades": "51",
-      "ordenes": "2"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "1",
-      "unidades": "1",
-      "ordenes": "1"
+      "tareas": "2",
+      "unidades": "55",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -427,9 +434,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1095",
-      "disponibles": "244",
-      "porcentaje": "81.8 %"
+      "ocupadas": "1094",
+      "disponibles": "245",
+      "porcentaje": "81.7 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -463,9 +470,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "204",
-      "disponibles": "205",
-      "porcentaje": "49.9 %"
+      "ocupadas": "205",
+      "disponibles": "204",
+      "porcentaje": "50.1 %"
     }
   ]
 }

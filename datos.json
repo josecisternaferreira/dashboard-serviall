@@ -1,14 +1,14 @@
 {
-  "timestamp": "16/11/2026 10:31",
+  "timestamp": "16/11/2026 11:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "1",
+      "valor": "7",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "8",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-11",
-      "valor": 1.0
+      "valor": 7.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +181,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1559.0
+      "valor": 1565.0
     }
   ],
   "promedio_ruta": [
@@ -195,7 +195,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 383.0
+      "valor": 384.0
     },
     {
       "label": "ESTAFETA",
@@ -203,11 +203,11 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 104.0
+      "valor": 105.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 86.0
+      "valor": 87.0
     },
     {
       "label": "ENEA-FINNING",
@@ -281,7 +281,7 @@
     },
     {
       "label": "NOV",
-      "valor": 669.0
+      "valor": 670.0
     }
   ],
   "fillrate_mensual": [
@@ -343,7 +343,7 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1358",
+      "total": "1363",
       "porcentaje": "13.9 %"
     },
     {
@@ -360,10 +360,17 @@
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
+      "usuario": "FESTUPIÑAN",
+      "tareas": "5",
+      "unidades": "315",
+      "ordenes": "5"
+    },
+    {
+      "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "1",
-      "unidades": "28",
-      "ordenes": "1"
+      "tareas": "2",
+      "unidades": "29",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -390,9 +397,9 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "14",
-      "disponibles": "4",
-      "porcentaje": "77.8 %"
+      "ocupadas": "13",
+      "disponibles": "5",
+      "porcentaje": "72.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -444,9 +451,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "470",
-      "disponibles": "223",
-      "porcentaje": "67.8 %"
+      "ocupadas": "468",
+      "disponibles": "225",
+      "porcentaje": "67.5 %"
     }
   ]
 }

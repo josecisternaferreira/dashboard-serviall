@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/11/2026 12:16",
+  "timestamp": "16/11/2026 12:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "111",
+      "valor": "115",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "152",
+      "valor": "160",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "label": "16-11",
-      "valor": 111.0
+      "valor": 115.0
     }
   ],
   "cumplimiento": [
@@ -181,7 +181,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1259.0
+      "valor": 1263.0
     }
   ],
   "promedio_ruta": [
@@ -321,7 +321,7 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2118",
+      "total": "2120",
       "porcentaje": "31.0 %"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "795",
+      "total": "796",
       "porcentaje": "11.6 %"
     },
     {
@@ -355,17 +355,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LCARRIZO",
+      "tareas": "18",
+      "unidades": "8903",
+      "ordenes": "14"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
       "tareas": "16",
       "unidades": "333",
       "ordenes": "4"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LCARRIZO",
-      "tareas": "16",
-      "unidades": "8774",
-      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -376,6 +376,13 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "SOCARANZA",
+      "tareas": "10",
+      "unidades": "512",
+      "ordenes": "7"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
       "tareas": "9",
       "unidades": "9",
@@ -383,17 +390,10 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
-      "usuario": "SOCARANZA",
-      "tareas": "9",
-      "unidades": "511",
-      "ordenes": "6"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "5",
-      "unidades": "249",
-      "ordenes": "5"
+      "tareas": "6",
+      "unidades": "264",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

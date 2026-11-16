@@ -1,5 +1,5 @@
 {
-  "timestamp": "16/11/2026 09:01",
+  "timestamp": "16/11/2026 09:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.8 %",
+      "valor": "94.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -86,6 +86,10 @@
     {
       "label": "13-11",
       "valor": 107.0
+    },
+    {
+      "label": "16-11",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -131,7 +135,7 @@
     },
     {
       "label": "NOV",
-      "valor": 94.0
+      "valor": 93.8
     }
   ],
   "picking_mensual": [
@@ -177,7 +181,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1558.0
+      "valor": 1559.0
     }
   ],
   "promedio_ruta": [
@@ -277,7 +281,7 @@
     },
     {
       "label": "NOV",
-      "valor": 652.0
+      "valor": 665.0
     }
   ],
   "fillrate_mensual": [
@@ -355,11 +359,11 @@
   ],
   "semana_actual": [
     {
-      "region": "",
-      "usuario": "",
-      "tareas": "",
-      "unidades": "",
-      "ordenes": ""
+      "region": "BODEGA SANTIAGO",
+      "usuario": "WCONTRERAS",
+      "tareas": "1",
+      "unidades": "28",
+      "ordenes": "1"
     }
   ],
   "ocupacion": [
@@ -395,18 +399,18 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "839",
-      "disponibles": "235",
-      "porcentaje": "78.1 %"
+      "ocupadas": "838",
+      "disponibles": "236",
+      "porcentaje": "78.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "34",
-      "disponibles": "7",
-      "porcentaje": "82.9 %"
+      "ocupadas": "33",
+      "disponibles": "8",
+      "porcentaje": "80.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -440,9 +444,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "480",
-      "disponibles": "213",
-      "porcentaje": "69.3 %"
+      "ocupadas": "470",
+      "disponibles": "223",
+      "porcentaje": "67.8 %"
     }
   ]
 }

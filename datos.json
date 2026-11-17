@@ -1,5 +1,5 @@
 {
-  "timestamp": "17/11/2026 17:30",
+  "timestamp": "17/11/2026 18:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "171",
+      "valor": "174",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "56",
+      "valor": "60",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "240",
+      "valor": "242",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "17-11",
-      "valor": 171.0
+      "valor": 174.0
     }
   ],
   "cumplimiento": [
@@ -139,7 +139,7 @@
     },
     {
       "label": "NOV",
-      "valor": 94.1
+      "valor": 94.2
     }
   ],
   "picking_mensual": [
@@ -185,7 +185,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1818.0
+      "valor": 1821.0
     }
   ],
   "promedio_ruta": [
@@ -199,7 +199,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 386.0
+      "valor": 387.0
     },
     {
       "label": "ESTAFETA",
@@ -285,7 +285,7 @@
     },
     {
       "label": "NOV",
-      "valor": 717.0
+      "valor": 719.0
     }
   ],
   "fillrate_mensual": [
@@ -342,12 +342,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1532",
+      "total": "1533",
       "porcentaje": "15.3 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1504",
+      "total": "1506",
       "porcentaje": "15.0 %"
     },
     {
@@ -365,15 +365,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "174",
-      "unidades": "10117",
-      "ordenes": "86"
+      "tareas": "175",
+      "unidades": "10172",
+      "ordenes": "87"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "82",
-      "unidades": "4071",
+      "tareas": "84",
+      "unidades": "4164",
       "ordenes": "30"
     },
     {
@@ -469,9 +469,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "465",
-      "disponibles": "228",
-      "porcentaje": "67.1 %"
+      "ocupadas": "466",
+      "disponibles": "227",
+      "porcentaje": "67.2 %"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "17/11/2026 16:30",
+  "timestamp": "17/11/2026 17:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "35",
+      "valor": "40",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "146",
+      "valor": "171",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "35",
+      "valor": "56",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "77",
+      "valor": "101",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "204",
+      "valor": "240",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -93,7 +93,7 @@
     },
     {
       "label": "17-11",
-      "valor": 146.0
+      "valor": 171.0
     }
   ],
   "cumplimiento": [
@@ -185,13 +185,13 @@
     },
     {
       "label": "NOV",
-      "valor": 1793.0
+      "valor": 1818.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1603.0
+      "valor": 1605.0
     },
     {
       "label": "SITRANS",
@@ -338,17 +338,17 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1862",
-      "porcentaje": "18.6 %"
+      "porcentaje": "18.5 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1518",
-      "porcentaje": "15.2 %"
+      "total": "1532",
+      "porcentaje": "15.3 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1493",
-      "porcentaje": "14.9 %"
+      "total": "1504",
+      "porcentaje": "15.0 %"
     },
     {
       "operador": "LUCIANO ALFARO",
@@ -365,16 +365,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "160",
-      "unidades": "9467",
-      "ordenes": "79"
+      "tareas": "174",
+      "unidades": "10117",
+      "ordenes": "86"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "71",
-      "unidades": "3092",
-      "ordenes": "29"
+      "tareas": "82",
+      "unidades": "4071",
+      "ordenes": "30"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -406,36 +406,36 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "118",
-      "ocupadas": "29",
-      "disponibles": "89",
-      "porcentaje": "24.6 %"
+      "ocupadas": "30",
+      "disponibles": "88",
+      "porcentaje": "25.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "13",
-      "disponibles": "5",
-      "porcentaje": "72.2 %"
+      "ocupadas": "15",
+      "disponibles": "3",
+      "porcentaje": "83.3 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "838",
-      "disponibles": "236",
-      "porcentaje": "78.0 %"
+      "ocupadas": "839",
+      "disponibles": "235",
+      "porcentaje": "78.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "32",
-      "disponibles": "9",
-      "porcentaje": "78.0 %"
+      "ocupadas": "33",
+      "disponibles": "8",
+      "porcentaje": "80.5 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -460,18 +460,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "157",
-      "disponibles": "83",
-      "porcentaje": "65.4 %"
+      "ocupadas": "158",
+      "disponibles": "82",
+      "porcentaje": "65.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "463",
-      "disponibles": "230",
-      "porcentaje": "66.8 %"
+      "ocupadas": "465",
+      "disponibles": "228",
+      "porcentaje": "67.1 %"
     }
   ]
 }

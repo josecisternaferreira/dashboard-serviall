@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/11/2026 14:01",
+  "timestamp": "18/11/2026 14:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "163",
+      "valor": "170",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "27",
+      "valor": "28",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "36",
+      "valor": "38",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "204",
+      "valor": "212",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "18-11",
-      "valor": 163.0
+      "valor": 170.0
     }
   ],
   "cumplimiento": [
@@ -189,13 +189,13 @@
     },
     {
       "label": "NOV",
-      "valor": 1984.0
+      "valor": 1991.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1615.0
+      "valor": 1616.0
     },
     {
       "label": "SITRANS",
@@ -289,7 +289,7 @@
     },
     {
       "label": "NOV",
-      "valor": 788.0
+      "valor": 789.0
     }
   ],
   "fillrate_mensual": [
@@ -346,8 +346,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1606",
-      "porcentaje": "16.1 %"
+      "total": "1613",
+      "porcentaje": "16.2 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -362,16 +362,16 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "1191",
-      "porcentaje": "12.0 %"
+      "porcentaje": "11.9 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "248",
-      "unidades": "12481",
-      "ordenes": "104"
+      "tareas": "255",
+      "unidades": "12677",
+      "ordenes": "106"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -473,9 +473,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "459",
-      "disponibles": "234",
-      "porcentaje": "66.2 %"
+      "ocupadas": "460",
+      "disponibles": "233",
+      "porcentaje": "66.4 %"
     }
   ]
 }

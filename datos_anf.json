@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/11/2026 11:16",
+  "timestamp": "18/11/2026 11:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "66",
+      "valor": "81",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "56",
+      "valor": "68",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "18-11",
-      "valor": 66.0
+      "valor": 81.0
     }
   ],
   "cumplimiento": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "NOV",
-      "valor": 96.3
+      "valor": 96.4
     }
   ],
   "picking_mensual": [
@@ -189,7 +189,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1540.0
+      "valor": 1555.0
     }
   ],
   "promedio_ruta": [
@@ -211,7 +211,7 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 100.0
+      "valor": 101.0
     },
     {
       "label": "SITRANS",
@@ -277,7 +277,7 @@
     },
     {
       "label": "NOV",
-      "valor": 136.0
+      "valor": 138.0
     }
   ],
   "fillrate_mensual": [
@@ -334,8 +334,8 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1734",
-      "porcentaje": "24.9 %"
+      "total": "1745",
+      "porcentaje": "25.1 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -349,7 +349,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "591",
+      "total": "595",
       "porcentaje": "8.5 %"
     }
   ],
@@ -364,16 +364,16 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "71",
-      "unidades": "8407",
+      "tareas": "82",
+      "unidades": "10994",
       "ordenes": "10"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "67",
-      "unidades": "21273",
-      "ordenes": "14"
+      "tareas": "71",
+      "unidades": "21294",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

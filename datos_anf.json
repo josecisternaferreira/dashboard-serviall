@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/11/2026 08:46",
+  "timestamp": "18/11/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -94,6 +94,10 @@
     {
       "label": "17-11",
       "valor": 70.0
+    },
+    {
+      "label": "18-11",
+      "valor": 6.0
     }
   ],
   "cumplimiento": [
@@ -185,7 +189,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1474.0
+      "valor": 1480.0
     }
   ],
   "promedio_ruta": [
@@ -325,13 +329,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2134",
+      "total": "2135",
       "porcentaje": "31.0 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1701",
-      "porcentaje": "24.7 %"
+      "total": "1706",
+      "porcentaje": "24.8 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -353,9 +357,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "77",
-      "unidades": "16434",
-      "ordenes": "24"
+      "tareas": "78",
+      "unidades": "16435",
+      "ordenes": "25"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -381,9 +385,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "38",
-      "unidades": "2566",
-      "ordenes": "7"
+      "tareas": "43",
+      "unidades": "2820",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -474,9 +478,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "192",
-      "disponibles": "217",
-      "porcentaje": "46.9 %"
+      "ocupadas": "193",
+      "disponibles": "216",
+      "porcentaje": "47.2 %"
     }
   ]
 }

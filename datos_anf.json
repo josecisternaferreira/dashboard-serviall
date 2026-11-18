@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/11/2026 09:45",
+  "timestamp": "18/11/2026 10:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "26",
+      "valor": "32",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "18",
+      "valor": "22",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "18-11",
-      "valor": 26.0
+      "valor": 32.0
     }
   ],
   "cumplimiento": [
@@ -189,7 +189,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1500.0
+      "valor": 1506.0
     }
   ],
   "promedio_ruta": [
@@ -326,39 +326,13 @@
       "valor": 100.0
     }
   ],
-  "top5_operadores": [
-    {
-      "operador": "LESLIE CARRIZO",
-      "total": "2144",
-      "porcentaje": "31.0 %"
-    },
-    {
-      "operador": "ZOAR CARVAJAL",
-      "total": "1716",
-      "porcentaje": "24.8 %"
-    },
-    {
-      "operador": "SEBASTIAN OCARANZA",
-      "total": "752",
-      "porcentaje": "10.9 %"
-    },
-    {
-      "operador": "OSCAR ROJAS",
-      "total": "675",
-      "porcentaje": "9.8 %"
-    },
-    {
-      "operador": "YEIMY RINCON",
-      "total": "591",
-      "porcentaje": "8.6 %"
-    }
-  ],
+  "top5_operadores": [],
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "87",
-      "unidades": "19030",
+      "tareas": "91",
+      "unidades": "19102",
       "ordenes": "29"
     },
     {
@@ -378,8 +352,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "53",
-      "unidades": "6236",
+      "tareas": "55",
+      "unidades": "6360",
       "ordenes": "8"
     },
     {

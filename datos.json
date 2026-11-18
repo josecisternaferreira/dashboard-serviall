@@ -1,19 +1,19 @@
 {
-  "timestamp": "18/11/2026 12:01",
+  "timestamp": "18/11/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "120",
+      "valor": "124",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.3 %",
+      "valor": "93.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "16",
+      "valor": "21",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "label": "18-11",
-      "valor": 120.0
+      "valor": 124.0
     }
   ],
   "cumplimiento": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "NOV",
-      "valor": 93.5
+      "valor": 92.3
     }
   ],
   "picking_mensual": [
@@ -189,7 +189,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1941.0
+      "valor": 1945.0
     }
   ],
   "promedio_ruta": [
@@ -289,7 +289,7 @@
     },
     {
       "label": "NOV",
-      "valor": 736.0
+      "valor": 757.0
     }
   ],
   "fillrate_mensual": [
@@ -346,12 +346,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1583",
+      "total": "1585",
       "porcentaje": "16.0 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1566",
+      "total": "1568",
       "porcentaje": "15.8 %"
     },
     {
@@ -369,15 +369,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "225",
-      "unidades": "11621",
-      "ordenes": "99"
+      "tareas": "227",
+      "unidades": "11741",
+      "ordenes": "101"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "144",
-      "unidades": "4781",
+      "tareas": "146",
+      "unidades": "4783",
       "ordenes": "32"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/11/2026 11:01",
+  "timestamp": "18/11/2026 11:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "73",
+      "valor": "94",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "94.6 %",
+      "valor": "94.3 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "104",
+      "valor": "128",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "18-11",
-      "valor": 73.0
+      "valor": 94.0
     }
   ],
   "cumplimiento": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "NOV",
-      "valor": 93.8
+      "valor": 93.5
     }
   ],
   "picking_mensual": [
@@ -189,13 +189,13 @@
     },
     {
       "label": "NOV",
-      "valor": 1894.0
+      "valor": 1915.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1609.0
+      "valor": 1610.0
     },
     {
       "label": "SITRANS",
@@ -289,7 +289,7 @@
     },
     {
       "label": "NOV",
-      "valor": 726.0
+      "valor": 736.0
     }
   ],
   "fillrate_mensual": [
@@ -342,17 +342,17 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1862",
-      "porcentaje": "18.9 %"
+      "porcentaje": "18.8 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1567",
+      "total": "1574",
       "porcentaje": "15.9 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1545",
-      "porcentaje": "15.6 %"
+      "total": "1558",
+      "porcentaje": "15.7 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -362,30 +362,30 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "1191",
-      "porcentaje": "12.1 %"
+      "porcentaje": "12.0 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "209",
-      "unidades": "10561",
-      "ordenes": "96"
+      "tareas": "216",
+      "unidades": "10841",
+      "ordenes": "99"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "123",
-      "unidades": "4752",
+      "tareas": "136",
+      "unidades": "4770",
       "ordenes": "32"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "3",
-      "unidades": "30",
-      "ordenes": "3"
+      "tareas": "4",
+      "unidades": "32",
+      "ordenes": "4"
     },
     {
       "region": "BODEGA SANTIAGO",

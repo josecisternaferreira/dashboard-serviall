@@ -1,5 +1,5 @@
 {
-  "timestamp": "18/11/2026 15:46",
+  "timestamp": "18/11/2026 16:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "103",
+      "valor": "109",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.1 %",
+      "valor": "97.2 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "96",
+      "valor": "108",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "label": "18-11",
-      "valor": 103.0
+      "valor": 109.0
     }
   ],
   "cumplimiento": [
@@ -143,7 +143,7 @@
     },
     {
       "label": "NOV",
-      "valor": 96.4
+      "valor": 96.5
     }
   ],
   "picking_mensual": [
@@ -189,13 +189,13 @@
     },
     {
       "label": "NOV",
-      "valor": 1577.0
+      "valor": 1583.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1022.0
+      "valor": 1023.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -277,7 +277,7 @@
     },
     {
       "label": "NOV",
-      "valor": 139.0
+      "valor": 142.0
     }
   ],
   "fillrate_mensual": [
@@ -344,8 +344,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "677",
-      "porcentaje": "9.7 %"
+      "total": "683",
+      "porcentaje": "9.8 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -392,9 +392,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "18",
-      "unidades": "576",
-      "ordenes": "7"
+      "tareas": "24",
+      "unidades": "670",
+      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -442,9 +442,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1088",
-      "disponibles": "251",
-      "porcentaje": "81.3 %"
+      "ocupadas": "1086",
+      "disponibles": "253",
+      "porcentaje": "81.1 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

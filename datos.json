@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/11/2026 14:01",
+  "timestamp": "19/11/2026 14:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "103",
+      "valor": "106",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "45",
+      "valor": "46",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "130",
+      "valor": "132",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 103.0
+      "valor": 106.0
     }
   ],
   "cumplimiento": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "NOV",
-      "valor": 90.8
+      "valor": 90.9
     }
   ],
   "picking_mensual": [
@@ -193,7 +193,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2128.0
+      "valor": 2131.0
     }
   ],
   "promedio_ruta": [
@@ -293,7 +293,7 @@
     },
     {
       "label": "NOV",
-      "valor": 830.0
+      "valor": 831.0
     }
   ],
   "fillrate_mensual": [
@@ -350,8 +350,8 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1701",
-      "porcentaje": "16.8 %"
+      "total": "1704",
+      "porcentaje": "16.9 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -373,9 +373,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "343",
-      "unidades": "22313",
-      "ordenes": "157"
+      "tareas": "346",
+      "unidades": "22346",
+      "ordenes": "160"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -477,9 +477,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "468",
-      "disponibles": "225",
-      "porcentaje": "67.5 %"
+      "ocupadas": "469",
+      "disponibles": "224",
+      "porcentaje": "67.7 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/11/2026 08:46",
+  "timestamp": "19/11/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "6",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -98,6 +98,10 @@
     {
       "label": "18-11",
       "valor": 116.0
+    },
+    {
+      "label": "19-11",
+      "valor": 2.0
     }
   ],
   "cumplimiento": [
@@ -189,7 +193,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1590.0
+      "valor": 1592.0
     }
   ],
   "promedio_ruta": [
@@ -203,7 +207,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 252.0
+      "valor": 253.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -277,7 +281,7 @@
     },
     {
       "label": "NOV",
-      "valor": 147.0
+      "valor": 148.0
     }
   ],
   "fillrate_mensual": [
@@ -330,7 +334,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2167",
-      "porcentaje": "31.0 %"
+      "porcentaje": "30.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -339,7 +343,7 @@
     },
     {
       "operador": "SEBASTIAN OCARANZA",
-      "total": "754",
+      "total": "756",
       "porcentaje": "10.8 %"
     },
     {
@@ -385,9 +389,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "SOCARANZA",
-      "tareas": "47",
-      "unidades": "966",
-      "ordenes": "25"
+      "tareas": "49",
+      "unidades": "968",
+      "ordenes": "26"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/11/2026 13:01",
+  "timestamp": "19/11/2026 13:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "5",
+      "valor": "8",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "82",
+      "valor": "96",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "37",
+      "valor": "40",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "36",
+      "valor": "42",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "118",
+      "valor": "126",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 82.0
+      "valor": 96.0
     }
   ],
   "cumplimiento": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "NOV",
-      "valor": 90.7
+      "valor": 90.8
     }
   ],
   "picking_mensual": [
@@ -193,13 +193,13 @@
     },
     {
       "label": "NOV",
-      "valor": 2107.0
+      "valor": 2121.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1622.0
+      "valor": 1623.0
     },
     {
       "label": "SITRANS",
@@ -223,7 +223,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 76.0
+      "valor": 77.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -235,7 +235,7 @@
     },
     {
       "label": "LOBOZA-FINNING",
-      "valor": 14.0
+      "valor": 15.0
     },
     {
       "label": "SQM_MRP",
@@ -293,7 +293,7 @@
     },
     {
       "label": "NOV",
-      "valor": 820.0
+      "valor": 823.0
     }
   ],
   "fillrate_mensual": [
@@ -346,16 +346,16 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1862",
-      "porcentaje": "18.5 %"
+      "porcentaje": "18.4 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1688",
-      "porcentaje": "16.7 %"
+      "total": "1697",
+      "porcentaje": "16.8 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1622",
+      "total": "1627",
       "porcentaje": "16.1 %"
     },
     {
@@ -373,16 +373,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "330",
-      "unidades": "22019",
-      "ordenes": "146"
+      "tareas": "339",
+      "unidades": "22142",
+      "ordenes": "153"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "200",
-      "unidades": "7326",
-      "ordenes": "49"
+      "tareas": "205",
+      "unidades": "7651",
+      "ordenes": "50"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -477,9 +477,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "465",
-      "disponibles": "228",
-      "porcentaje": "67.1 %"
+      "ocupadas": "466",
+      "disponibles": "227",
+      "porcentaje": "67.2 %"
     }
   ]
 }

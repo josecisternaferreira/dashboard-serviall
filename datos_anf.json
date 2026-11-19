@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/11/2026 11:16",
+  "timestamp": "19/11/2026 11:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "31",
+      "valor": "44",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "1",
+      "valor": "3",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "52",
+      "valor": "60",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 31.0
+      "valor": 44.0
     }
   ],
   "cumplimiento": [
@@ -193,13 +193,13 @@
     },
     {
       "label": "NOV",
-      "valor": 1624.0
+      "valor": 1637.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1025.0
+      "valor": 1026.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -338,7 +338,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1774",
+      "total": "1778",
       "porcentaje": "25.2 %"
     },
     {
@@ -353,7 +353,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "600",
+      "total": "602",
       "porcentaje": "8.5 %"
     }
   ],
@@ -361,9 +361,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "111",
-      "unidades": "14063",
-      "ordenes": "15"
+      "tareas": "115",
+      "unidades": "14288",
+      "ordenes": "16"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -375,9 +375,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "76",
-      "unidades": "22271",
-      "ordenes": "18"
+      "tareas": "78",
+      "unidades": "22491",
+      "ordenes": "20"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -402,17 +402,17 @@
     },
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "19",
+      "unidades": "1192",
+      "ordenes": "13"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "ACID",
       "tareas": "16",
       "unidades": "333",
       "ordenes": "4"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "12",
-      "unidades": "850",
-      "ordenes": "9"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

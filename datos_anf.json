@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/11/2026 11:46",
+  "timestamp": "19/11/2026 13:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "3",
+      "valor": "10",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "60",
+      "valor": "78",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 44.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -193,7 +193,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1637.0
+      "valor": 1647.0
     }
   ],
   "promedio_ruta": [
@@ -211,7 +211,7 @@
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 206.0
+      "valor": 207.0
     },
     {
       "label": "ESTAFETA",
@@ -334,7 +334,7 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2167",
-      "porcentaje": "30.8 %"
+      "porcentaje": "30.7 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
@@ -403,9 +403,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "19",
-      "unidades": "1192",
-      "ordenes": "13"
+      "tareas": "29",
+      "unidades": "1234",
+      "ordenes": "17"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -446,9 +446,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1085",
-      "disponibles": "254",
-      "porcentaje": "81.0 %"
+      "ocupadas": "1087",
+      "disponibles": "252",
+      "porcentaje": "81.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -482,9 +482,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "194",
-      "disponibles": "215",
-      "porcentaje": "47.4 %"
+      "ocupadas": "196",
+      "disponibles": "213",
+      "porcentaje": "47.9 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "19/11/2026 15:01",
+  "timestamp": "19/11/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "109",
+      "valor": "116",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "132",
+      "valor": "136",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 109.0
+      "valor": 116.0
     }
   ],
   "cumplimiento": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "NOV",
-      "valor": 90.9
+      "valor": 91.0
     }
   ],
   "picking_mensual": [
@@ -193,13 +193,13 @@
     },
     {
       "label": "NOV",
-      "valor": 2134.0
+      "valor": 2141.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1623.0
+      "valor": 1624.0
     },
     {
       "label": "SITRANS",
@@ -293,7 +293,7 @@
     },
     {
       "label": "NOV",
-      "valor": 838.0
+      "valor": 843.0
     }
   ],
   "fillrate_mensual": [
@@ -355,8 +355,8 @@
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1630",
-      "porcentaje": "16.1 %"
+      "total": "1636",
+      "porcentaje": "16.2 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -380,16 +380,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "208",
-      "unidades": "7681",
-      "ordenes": "51"
+      "tareas": "214",
+      "unidades": "13906",
+      "ordenes": "53"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "13",
-      "unidades": "41",
-      "ordenes": "5"
+      "tareas": "14",
+      "unidades": "81",
+      "ordenes": "6"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -432,18 +432,18 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "838",
-      "disponibles": "236",
-      "porcentaje": "78.0 %"
+      "ocupadas": "837",
+      "disponibles": "237",
+      "porcentaje": "77.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "RESERVA",
       "total": "41",
-      "ocupadas": "33",
-      "disponibles": "8",
-      "porcentaje": "80.5 %"
+      "ocupadas": "32",
+      "disponibles": "9",
+      "porcentaje": "78.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -468,18 +468,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "159",
-      "disponibles": "81",
-      "porcentaje": "66.3 %"
+      "ocupadas": "156",
+      "disponibles": "84",
+      "porcentaje": "65.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "470",
-      "disponibles": "223",
-      "porcentaje": "67.8 %"
+      "ocupadas": "457",
+      "disponibles": "236",
+      "porcentaje": "65.9 %"
     }
   ]
 }

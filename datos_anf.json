@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/11/2026 16:46",
+  "timestamp": "19/11/2026 17:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "61",
+      "valor": "64",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "24",
+      "valor": "29",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "2",
+      "valor": "3",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - LA NEGRA"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "87",
+      "valor": "88",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 61.0
+      "valor": 64.0
     }
   ],
   "cumplimiento": [
@@ -193,7 +193,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1654.0
+      "valor": 1657.0
     }
   ],
   "promedio_ruta": [
@@ -353,7 +353,7 @@
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "608",
+      "total": "611",
       "porcentaje": "8.6 %"
     }
   ],
@@ -375,9 +375,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "84",
-      "unidades": "22529",
-      "ordenes": "23"
+      "tareas": "87",
+      "unidades": "22657",
+      "ordenes": "24"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -482,9 +482,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "198",
-      "disponibles": "211",
-      "porcentaje": "48.4 %"
+      "ocupadas": "197",
+      "disponibles": "212",
+      "porcentaje": "48.2 %"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "timestamp": "19/11/2026 13:30",
+  "timestamp": "19/11/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "8",
+      "valor": "9",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "96",
+      "valor": "103",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.6 %",
+      "valor": "91.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "40",
+      "valor": "45",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "42",
+      "valor": "44",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "126",
+      "valor": "130",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 96.0
+      "valor": 103.0
     }
   ],
   "cumplimiento": [
@@ -193,7 +193,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2121.0
+      "valor": 2128.0
     }
   ],
   "promedio_ruta": [
@@ -293,7 +293,7 @@
     },
     {
       "label": "NOV",
-      "valor": 823.0
+      "valor": 830.0
     }
   ],
   "fillrate_mensual": [
@@ -350,12 +350,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1697",
+      "total": "1701",
       "porcentaje": "16.8 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1627",
+      "total": "1630",
       "porcentaje": "16.1 %"
     },
     {
@@ -373,16 +373,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "339",
-      "unidades": "22142",
-      "ordenes": "153"
+      "tareas": "343",
+      "unidades": "22313",
+      "ordenes": "157"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "205",
-      "unidades": "7651",
-      "ordenes": "50"
+      "tareas": "208",
+      "unidades": "7681",
+      "ordenes": "51"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -468,18 +468,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "157",
-      "disponibles": "83",
-      "porcentaje": "65.4 %"
+      "ocupadas": "158",
+      "disponibles": "82",
+      "porcentaje": "65.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "466",
-      "disponibles": "227",
-      "porcentaje": "67.2 %"
+      "ocupadas": "468",
+      "disponibles": "225",
+      "porcentaje": "67.5 %"
     }
   ]
 }

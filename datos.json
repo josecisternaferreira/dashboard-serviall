@@ -1,14 +1,14 @@
 {
-  "timestamp": "19/11/2026 11:31",
+  "timestamp": "19/11/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "44",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "9",
+      "valor": "13",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "62",
+      "valor": "78",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 44.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -147,7 +147,7 @@
     },
     {
       "label": "NOV",
-      "valor": 90.6
+      "valor": 90.7
     }
   ],
   "picking_mensual": [
@@ -193,13 +193,13 @@
     },
     {
       "label": "NOV",
-      "valor": 2069.0
+      "valor": 2079.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1620.0
+      "valor": 1621.0
     },
     {
       "label": "SITRANS",
@@ -219,7 +219,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 87.0
+      "valor": 88.0
     },
     {
       "label": "ENEA-FINNING",
@@ -293,7 +293,7 @@
     },
     {
       "label": "NOV",
-      "valor": 811.0
+      "valor": 814.0
     }
   ],
   "fillrate_mensual": [
@@ -350,13 +350,13 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1664",
+      "total": "1668",
       "porcentaje": "16.6 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1608",
-      "porcentaje": "16.0 %"
+      "total": "1614",
+      "porcentaje": "16.1 %"
     },
     {
       "operador": "LEONARDO SAEZ",
@@ -366,22 +366,22 @@
     {
       "operador": "LUCIANO ALFARO",
       "total": "1191",
-      "porcentaje": "11.9 %"
+      "porcentaje": "11.8 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "306",
-      "unidades": "18525",
-      "ordenes": "132"
+      "tareas": "310",
+      "unidades": "21731",
+      "ordenes": "135"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "186",
-      "unidades": "6707",
+      "tareas": "192",
+      "unidades": "7159",
       "ordenes": "47"
     },
     {

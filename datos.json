@@ -1,19 +1,19 @@
 {
-  "timestamp": "19/11/2026 12:01",
+  "timestamp": "19/11/2026 12:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "2",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "65",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.5 %",
+      "valor": "91.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "13",
+      "valor": "36",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "78",
+      "valor": "94",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "label": "19-11",
-      "valor": 54.0
+      "valor": 65.0
     }
   ],
   "cumplimiento": [
@@ -193,7 +193,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2079.0
+      "valor": 2090.0
     }
   ],
   "promedio_ruta": [
@@ -293,7 +293,7 @@
     },
     {
       "label": "NOV",
-      "valor": 814.0
+      "valor": 819.0
     }
   ],
   "fillrate_mensual": [
@@ -350,12 +350,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1668",
-      "porcentaje": "16.6 %"
+      "total": "1677",
+      "porcentaje": "16.7 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1614",
+      "total": "1616",
       "porcentaje": "16.1 %"
     },
     {
@@ -373,16 +373,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "310",
-      "unidades": "21731",
-      "ordenes": "135"
+      "tareas": "319",
+      "unidades": "21816",
+      "ordenes": "139"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "192",
-      "unidades": "7159",
-      "ordenes": "47"
+      "tareas": "194",
+      "unidades": "7171",
+      "ordenes": "48"
     },
     {
       "region": "BODEGA SANTIAGO",

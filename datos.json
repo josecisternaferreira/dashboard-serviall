@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/11/2026 09:00",
+  "timestamp": "20/11/2026 10:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "15",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "91.9 %",
+      "valor": "91.5 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "23",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "18",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "16",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -102,6 +102,10 @@
     {
       "label": "19-11",
       "valor": 226.0
+    },
+    {
+      "label": "20-11",
+      "valor": 15.0
     }
   ],
   "cumplimiento": [
@@ -147,7 +151,7 @@
     },
     {
       "label": "NOV",
-      "valor": 91.1
+      "valor": 90.4
     }
   ],
   "picking_mensual": [
@@ -193,7 +197,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2251.0
+      "valor": 2266.0
     }
   ],
   "promedio_ruta": [
@@ -211,11 +215,11 @@
     },
     {
       "label": "ESTAFETA",
-      "valor": 291.0
+      "valor": 292.0
     },
     {
       "label": "CLIENTE RETIRA",
-      "valor": 105.0
+      "valor": 106.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -293,7 +297,7 @@
     },
     {
       "label": "NOV",
-      "valor": 854.0
+      "valor": 866.0
     }
   ],
   "fillrate_mensual": [
@@ -350,39 +354,39 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1775",
+      "total": "1786",
       "porcentaje": "17.4 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1677",
+      "total": "1681",
       "porcentaje": "16.4 %"
     },
     {
       "operador": "LEONARDO SAEZ",
       "total": "1284",
-      "porcentaje": "12.6 %"
+      "porcentaje": "12.5 %"
     },
     {
       "operador": "LUCIANO ALFARO",
       "total": "1192",
-      "porcentaje": "11.7 %"
+      "porcentaje": "11.6 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "417",
-      "unidades": "26314",
-      "ordenes": "163"
+      "tareas": "428",
+      "unidades": "26489",
+      "ordenes": "170"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "255",
-      "unidades": "27099",
-      "ordenes": "53"
+      "tareas": "259",
+      "unidades": "44706",
+      "ordenes": "55"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -439,9 +443,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "844",
-      "disponibles": "230",
-      "porcentaje": "78.6 %"
+      "ocupadas": "846",
+      "disponibles": "228",
+      "porcentaje": "78.8 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -475,18 +479,18 @@
       "area": "Z-RACK",
       "tipo": "ACTIVO",
       "total": "240",
-      "ocupadas": "156",
-      "disponibles": "84",
-      "porcentaje": "65.0 %"
+      "ocupadas": "157",
+      "disponibles": "83",
+      "porcentaje": "65.4 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "468",
-      "disponibles": "225",
-      "porcentaje": "67.5 %"
+      "ocupadas": "457",
+      "disponibles": "236",
+      "porcentaje": "65.9 %"
     }
   ]
 }

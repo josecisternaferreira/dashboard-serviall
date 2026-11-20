@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/11/2026 11:31",
+  "timestamp": "20/11/2026 14:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "42",
+      "valor": "80",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "42",
+      "valor": "46",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "40",
+      "valor": "84",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "20-11",
-      "valor": 42.0
+      "valor": 80.0
     }
   ],
   "cumplimiento": [
@@ -197,13 +197,13 @@
     },
     {
       "label": "NOV",
-      "valor": 2293.0
+      "valor": 2331.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1635.0
+      "valor": 1636.0
     },
     {
       "label": "SITRANS",
@@ -211,7 +211,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 388.0
+      "valor": 389.0
     },
     {
       "label": "ESTAFETA",
@@ -297,7 +297,7 @@
     },
     {
       "label": "NOV",
-      "valor": 872.0
+      "valor": 887.0
     }
   ],
   "fillrate_mensual": [
@@ -354,12 +354,12 @@
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
-      "total": "1802",
-      "porcentaje": "17.6 %"
+      "total": "1829",
+      "porcentaje": "17.7 %"
     },
     {
       "operador": "MATIAS TORRES",
-      "total": "1692",
+      "total": "1703",
       "porcentaje": "16.5 %"
     },
     {
@@ -377,16 +377,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "FESTUPIÑAN",
-      "tareas": "444",
-      "unidades": "27214",
-      "ordenes": "176"
+      "tareas": "471",
+      "unidades": "30571",
+      "ordenes": "191"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "MTORRES",
-      "tareas": "270",
-      "unidades": "44776",
-      "ordenes": "56"
+      "tareas": "281",
+      "unidades": "45139",
+      "ordenes": "65"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -434,18 +434,18 @@
       "area": "Z-CONSIG",
       "tipo": "RESERVA",
       "total": "18",
-      "ocupadas": "14",
-      "disponibles": "4",
-      "porcentaje": "77.8 %"
+      "ocupadas": "16",
+      "disponibles": "2",
+      "porcentaje": "88.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "848",
-      "disponibles": "226",
-      "porcentaje": "79.0 %"
+      "ocupadas": "858",
+      "disponibles": "216",
+      "porcentaje": "79.9 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -488,9 +488,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "461",
-      "disponibles": "232",
-      "porcentaje": "66.5 %"
+      "ocupadas": "462",
+      "disponibles": "231",
+      "porcentaje": "66.7 %"
     }
   ]
 }

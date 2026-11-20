@@ -1,5 +1,5 @@
 {
-  "timestamp": "20/11/2026 12:15",
+  "timestamp": "20/11/2026 13:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "70",
+      "valor": "81",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "106",
+      "valor": "120",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -105,7 +105,7 @@
     },
     {
       "label": "20-11",
-      "valor": 70.0
+      "valor": 81.0
     }
   ],
   "cumplimiento": [
@@ -197,13 +197,13 @@
     },
     {
       "label": "NOV",
-      "valor": 1727.0
+      "valor": 1738.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1029.0
+      "valor": 1030.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -338,12 +338,12 @@
     {
       "operador": "LESLIE CARRIZO",
       "total": "2167",
-      "porcentaje": "30.4 %"
+      "porcentaje": "30.3 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1804",
-      "porcentaje": "25.3 %"
+      "porcentaje": "25.2 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -407,9 +407,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "33",
-      "unidades": "1249",
-      "ordenes": "19"
+      "tareas": "44",
+      "unidades": "1432",
+      "ordenes": "25"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -450,8 +450,8 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1088",
-      "disponibles": "251",
+      "ocupadas": "1089",
+      "disponibles": "250",
       "porcentaje": "81.3 %"
     },
     {
@@ -486,9 +486,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "201",
-      "disponibles": "208",
-      "porcentaje": "49.1 %"
+      "ocupadas": "202",
+      "disponibles": "207",
+      "porcentaje": "49.4 %"
     }
   ]
 }

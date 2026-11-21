@@ -1,5 +1,5 @@
 {
-  "timestamp": "21/11/2026 12:31",
+  "timestamp": "21/11/2026 13:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "23",
+      "valor": "30",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "label": "NOV",
-      "valor": 88.4
+      "valor": 88.5
     }
   ],
   "picking_mensual": [
@@ -301,7 +301,7 @@
     },
     {
       "label": "NOV",
-      "valor": 934.0
+      "valor": 938.0
     }
   ],
   "fillrate_mensual": [
@@ -492,9 +492,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "461",
-      "disponibles": "232",
-      "porcentaje": "66.5 %"
+      "ocupadas": "466",
+      "disponibles": "227",
+      "porcentaje": "67.2 %"
     }
   ]
 }

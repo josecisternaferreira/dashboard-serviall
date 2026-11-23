@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/11/2026 14:16",
+  "timestamp": "23/11/2026 14:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "68",
+      "valor": "70",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "72",
+      "valor": "76",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "23-11",
-      "valor": 68.0
+      "valor": 70.0
     }
   ],
   "cumplimiento": [
@@ -201,7 +201,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1808.0
+      "valor": 1810.0
     }
   ],
   "promedio_ruta": [
@@ -368,17 +368,17 @@
   "semana_actual": [
     {
       "region": "BODEGA ANTOFAGASTA",
+      "usuario": "LARDILES",
+      "tareas": "25",
+      "unidades": "1073",
+      "ordenes": "4"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
       "tareas": "24",
       "unidades": "3407",
       "ordenes": "10"
-    },
-    {
-      "region": "BODEGA ANTOFAGASTA",
-      "usuario": "LARDILES",
-      "tareas": "23",
-      "unidades": "908",
-      "ordenes": "2"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

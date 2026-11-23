@@ -1,5 +1,5 @@
 {
-  "timestamp": "23/11/2026 13:46",
+  "timestamp": "23/11/2026 14:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "58",
+      "valor": "68",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "62",
+      "valor": "72",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "label": "23-11",
-      "valor": 58.0
+      "valor": 68.0
     }
   ],
   "cumplimiento": [
@@ -155,7 +155,7 @@
     },
     {
       "label": "NOV",
-      "valor": 97.1
+      "valor": 97.2
     }
   ],
   "picking_mensual": [
@@ -201,13 +201,13 @@
     },
     {
       "label": "NOV",
-      "valor": 1798.0
+      "valor": 1808.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1033.0
+      "valor": 1034.0
     },
     {
       "label": "DESPACHO-CLIENTE",
@@ -289,7 +289,7 @@
     },
     {
       "label": "NOV",
-      "valor": 175.0
+      "valor": 176.0
     }
   ],
   "fillrate_mensual": [
@@ -376,8 +376,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LARDILES",
-      "tareas": "13",
-      "unidades": "770",
+      "tareas": "23",
+      "unidades": "908",
       "ordenes": "2"
     },
     {
@@ -469,9 +469,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "202",
-      "disponibles": "207",
-      "porcentaje": "49.4 %"
+      "ocupadas": "200",
+      "disponibles": "209",
+      "porcentaje": "48.9 %"
     }
   ]
 }

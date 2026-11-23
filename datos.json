@@ -1,9 +1,9 @@
 {
-  "timestamp": "23/11/2026 17:31",
+  "timestamp": "23/11/2026 18:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "21",
+      "valor": "24",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "titulo": "FILL_RATE_MES_ACTUAL",
-      "valor": "99.9 %",
+      "valor": "100.0 %",
       "subtitulo": "FILLRATE MES ACTUAL - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "68",
+      "valor": "70",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "73",
+      "valor": "78",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "118",
+      "valor": "121",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -305,7 +305,7 @@
     },
     {
       "label": "NOV",
-      "valor": 998.0
+      "valor": 1003.0
     }
   ],
   "fillrate_mensual": [
@@ -482,9 +482,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "468",
-      "disponibles": "225",
-      "porcentaje": "67.5 %"
+      "ocupadas": "467",
+      "disponibles": "226",
+      "porcentaje": "67.4 %"
     }
   ]
 }

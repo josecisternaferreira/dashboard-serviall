@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/11/2026 12:45",
+  "timestamp": "24/11/2026 13:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "53",
+      "valor": "54",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "label": "24-11",
-      "valor": 53.0
+      "valor": 54.0
     }
   ],
   "cumplimiento": [
@@ -205,7 +205,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1901.0
+      "valor": 1902.0
     }
   ],
   "promedio_ruta": [
@@ -424,6 +424,13 @@
       "usuario": "MGARCIA",
       "tareas": "2",
       "unidades": "540",
+      "ordenes": "1"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "KHENAO",
+      "tareas": "1",
+      "unidades": "8",
       "ordenes": "1"
     }
   ],

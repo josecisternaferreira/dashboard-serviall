@@ -1,5 +1,5 @@
 {
-  "timestamp": "24/11/2026 16:01",
+  "timestamp": "24/11/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "195",
+      "valor": "196",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "39",
+      "valor": "59",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "label": "24-11",
-      "valor": 195.0
+      "valor": 196.0
     }
   ],
   "cumplimiento": [
@@ -209,7 +209,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2636.0
+      "valor": 2637.0
     }
   ],
   "promedio_ruta": [
@@ -309,7 +309,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1053.0
+      "valor": 1054.0
     }
   ],
   "fillrate_mensual": [
@@ -376,7 +376,7 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1355",
+      "total": "1356",
       "porcentaje": "13.3 %"
     },
     {
@@ -396,9 +396,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "100",
-      "unidades": "6213",
-      "ordenes": "61"
+      "tareas": "101",
+      "unidades": "6233",
+      "ordenes": "62"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -437,9 +437,9 @@
       "area": "Z-CONSIG",
       "tipo": "ACTIVO",
       "total": "118",
-      "ocupadas": "32",
-      "disponibles": "86",
-      "porcentaje": "27.1 %"
+      "ocupadas": "33",
+      "disponibles": "85",
+      "porcentaje": "28.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -500,9 +500,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "471",
-      "disponibles": "222",
-      "porcentaje": "68.0 %"
+      "ocupadas": "467",
+      "disponibles": "226",
+      "porcentaje": "67.4 %"
     }
   ]
 }

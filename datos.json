@@ -1,14 +1,14 @@
 {
-  "timestamp": "24/11/2026 15:01",
+  "timestamp": "24/11/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "29",
+      "valor": "32",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "181",
+      "valor": "186",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "72",
+      "valor": "77",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "280",
+      "valor": "284",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "24-11",
-      "valor": 181.0
+      "valor": 186.0
     }
   ],
   "cumplimiento": [
@@ -209,7 +209,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2622.0
+      "valor": 2627.0
     }
   ],
   "promedio_ruta": [
@@ -223,7 +223,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 393.0
+      "valor": 394.0
     },
     {
       "label": "ESTAFETA",
@@ -239,7 +239,7 @@
     },
     {
       "label": "ENEA-FINNING",
-      "valor": 77.0
+      "valor": 78.0
     },
     {
       "label": "REPO. MULTINIVEL",
@@ -381,17 +381,17 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1132",
-      "porcentaje": "11.1 %"
+      "total": "1134",
+      "porcentaje": "11.2 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "145",
-      "unidades": "37736",
-      "ordenes": "69"
+      "tareas": "147",
+      "unidades": "39736",
+      "ordenes": "70"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -417,9 +417,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "WCONTRERAS",
-      "tareas": "4",
-      "unidades": "591",
-      "ordenes": "1"
+      "tareas": "7",
+      "unidades": "606",
+      "ordenes": "2"
     }
   ],
   "ocupacion": [
@@ -500,9 +500,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "465",
-      "disponibles": "228",
-      "porcentaje": "67.1 %"
+      "ocupadas": "467",
+      "disponibles": "226",
+      "porcentaje": "67.4 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/11/2026 14:45",
+  "timestamp": "25/11/2026 15:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "70",
+      "valor": "81",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "96",
+      "valor": "114",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "label": "25-11",
-      "valor": 70.0
+      "valor": 81.0
     }
   ],
   "cumplimiento": [
@@ -209,17 +209,17 @@
     },
     {
       "label": "NOV",
-      "valor": 1982.0
+      "valor": 1993.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "REPO.CONTRATOS",
-      "valor": 1040.0
+      "valor": 1041.0
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 285.0
+      "valor": 286.0
     },
     {
       "label": "SUCURSAL.FINNING",
@@ -297,7 +297,7 @@
     },
     {
       "label": "NOV",
-      "valor": 191.0
+      "valor": 192.0
     }
   ],
   "fillrate_mensual": [
@@ -364,13 +364,13 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "710",
-      "porcentaje": "10.3 %"
+      "total": "719",
+      "porcentaje": "10.4 %"
     },
     {
       "operador": "YEIMY RINCON",
-      "total": "577",
-      "porcentaje": "8.3 %"
+      "total": "579",
+      "porcentaje": "8.4 %"
     }
   ],
   "semana_actual": [
@@ -398,9 +398,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "YRINCON",
-      "tareas": "29",
-      "unidades": "1201",
-      "ordenes": "12"
+      "tareas": "31",
+      "unidades": "2213",
+      "ordenes": "13"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -412,9 +412,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "16",
-      "unidades": "548",
-      "ordenes": "11"
+      "tareas": "25",
+      "unidades": "802",
+      "ordenes": "12"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -498,9 +498,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "203",
-      "disponibles": "206",
-      "porcentaje": "49.6 %"
+      "ocupadas": "202",
+      "disponibles": "207",
+      "porcentaje": "49.4 %"
     }
   ]
 }

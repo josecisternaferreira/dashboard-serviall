@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/11/2026 16:01",
+  "timestamp": "25/11/2026 16:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "101",
+      "valor": "105",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "8",
+      "valor": "10",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "33",
+      "valor": "35",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "116",
+      "valor": "118",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "25-11",
-      "valor": 101.0
+      "valor": 105.0
     }
   ],
   "cumplimiento": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "NOV",
-      "valor": 89.4
+      "valor": 89.5
     }
   ],
   "picking_mensual": [
@@ -213,7 +213,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2771.0
+      "valor": 2775.0
     }
   ],
   "promedio_ruta": [
@@ -313,7 +313,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1118.0
+      "valor": 1120.0
     }
   ],
   "fillrate_mensual": [
@@ -380,12 +380,12 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1427",
+      "total": "1429",
       "porcentaje": "14.1 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1192",
+      "total": "1194",
       "porcentaje": "11.8 %"
     }
   ],
@@ -393,15 +393,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "214",
-      "unidades": "46321",
+      "tareas": "216",
+      "unidades": "46333",
       "ordenes": "96"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "175",
-      "unidades": "13342",
+      "tareas": "177",
+      "unidades": "13696",
       "ordenes": "85"
     },
     {
@@ -504,9 +504,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "464",
-      "disponibles": "229",
-      "porcentaje": "67.0 %"
+      "ocupadas": "465",
+      "disponibles": "228",
+      "porcentaje": "67.1 %"
     }
   ]
 }

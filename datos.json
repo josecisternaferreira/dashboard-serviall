@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/11/2026 14:30",
+  "timestamp": "25/11/2026 15:00",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "71",
+      "valor": "80",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "102",
+      "valor": "112",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -121,7 +121,7 @@
     },
     {
       "label": "25-11",
-      "valor": 71.0
+      "valor": 80.0
     }
   ],
   "cumplimiento": [
@@ -213,13 +213,13 @@
     },
     {
       "label": "NOV",
-      "valor": 2741.0
+      "valor": 2750.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1653.0
+      "valor": 1654.0
     },
     {
       "label": "SITRANS",
@@ -313,7 +313,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1112.0
+      "valor": 1115.0
     }
   ],
   "fillrate_mensual": [
@@ -380,12 +380,12 @@
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1417",
-      "porcentaje": "14.0 %"
+      "total": "1423",
+      "porcentaje": "14.1 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1172",
+      "total": "1175",
       "porcentaje": "11.6 %"
     }
   ],
@@ -393,15 +393,15 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "194",
-      "unidades": "45261",
-      "ordenes": "95"
+      "tareas": "197",
+      "unidades": "45271",
+      "ordenes": "96"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "165",
-      "unidades": "12171",
+      "tareas": "171",
+      "unidades": "13180",
       "ordenes": "85"
     },
     {
@@ -504,9 +504,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "460",
-      "disponibles": "233",
-      "porcentaje": "66.4 %"
+      "ocupadas": "461",
+      "disponibles": "232",
+      "porcentaje": "66.5 %"
     }
   ]
 }

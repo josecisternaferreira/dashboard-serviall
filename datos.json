@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/11/2026 09:00",
+  "timestamp": "25/11/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.0 %",
+      "valor": "90.1 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1064.0
+      "valor": 1066.0
     }
   ],
   "fillrate_mensual": [
@@ -359,7 +359,7 @@
     },
     {
       "label": "NOV",
-      "valor": 100.0
+      "valor": 99.9
     }
   ],
   "top5_operadores": [
@@ -504,9 +504,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "477",
-      "disponibles": "216",
-      "porcentaje": "68.8 %"
+      "ocupadas": "475",
+      "disponibles": "218",
+      "porcentaje": "68.5 %"
     }
   ]
 }

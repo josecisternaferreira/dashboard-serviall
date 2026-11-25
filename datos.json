@@ -1,5 +1,5 @@
 {
-  "timestamp": "25/11/2026 15:00",
+  "timestamp": "25/11/2026 15:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "80",
+      "valor": "89",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "label": "25-11",
-      "valor": 80.0
+      "valor": 89.0
     }
   ],
   "cumplimiento": [
@@ -213,13 +213,13 @@
     },
     {
       "label": "NOV",
-      "valor": 2750.0
+      "valor": 2759.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1654.0
+      "valor": 1655.0
     },
     {
       "label": "SITRANS",
@@ -313,7 +313,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1115.0
+      "valor": 1118.0
     }
   ],
   "fillrate_mensual": [
@@ -359,7 +359,7 @@
     },
     {
       "label": "NOV",
-      "valor": 100.0
+      "valor": 99.9
     }
   ],
   "top5_operadores": [
@@ -371,7 +371,7 @@
     {
       "operador": "FREYNER ESTUPIÑAN",
       "total": "1827",
-      "porcentaje": "18.1 %"
+      "porcentaje": "18.0 %"
     },
     {
       "operador": "MATIAS TORRES",
@@ -385,16 +385,16 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1175",
-      "porcentaje": "11.6 %"
+      "total": "1184",
+      "porcentaje": "11.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "197",
-      "unidades": "45271",
+      "tareas": "206",
+      "unidades": "45887",
       "ordenes": "96"
     },
     {
@@ -504,9 +504,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "461",
-      "disponibles": "232",
-      "porcentaje": "66.5 %"
+      "ocupadas": "462",
+      "disponibles": "231",
+      "porcentaje": "66.7 %"
     }
   ]
 }

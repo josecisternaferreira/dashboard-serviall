@@ -1,14 +1,14 @@
 {
-  "timestamp": "26/11/2026 17:31",
+  "timestamp": "26/11/2026 18:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "36",
+      "valor": "40",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "182",
+      "valor": "184",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "94",
+      "valor": "100",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "94",
+      "valor": "101",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "286",
+      "valor": "290",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "26-11",
-      "valor": 182.0
+      "valor": 184.0
     }
   ],
   "cumplimiento": [
@@ -171,7 +171,7 @@
     },
     {
       "label": "NOV",
-      "valor": 89.9
+      "valor": 90.0
     }
   ],
   "picking_mensual": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "NOV",
-      "valor": 3003.0
+      "valor": 3005.0
     }
   ],
   "promedio_ruta": [
@@ -317,7 +317,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1182.0
+      "valor": 1193.0
     }
   ],
   "fillrate_mensual": [
@@ -389,7 +389,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1318",
+      "total": "1320",
       "porcentaje": "12.7 %"
     }
   ],
@@ -397,9 +397,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "340",
-      "unidades": "57075",
-      "ordenes": "159"
+      "tareas": "342",
+      "unidades": "57198",
+      "ordenes": "160"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -508,9 +508,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "471",
-      "disponibles": "222",
-      "porcentaje": "68.0 %"
+      "ocupadas": "472",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

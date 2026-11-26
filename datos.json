@@ -1,14 +1,14 @@
 {
-  "timestamp": "26/11/2026 17:01",
+  "timestamp": "26/11/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "29",
+      "valor": "36",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "175",
+      "valor": "182",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "79",
+      "valor": "94",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "83",
+      "valor": "94",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "272",
+      "valor": "286",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "26-11",
-      "valor": 175.0
+      "valor": 182.0
     }
   ],
   "cumplimiento": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2996.0
+      "valor": 3003.0
     }
   ],
   "promedio_ruta": [
@@ -231,7 +231,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 397.0
+      "valor": 398.0
     },
     {
       "label": "ESTAFETA",
@@ -389,17 +389,17 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1311",
-      "porcentaje": "12.6 %"
+      "total": "1318",
+      "porcentaje": "12.7 %"
     }
   ],
   "semana_actual": [
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "333",
-      "unidades": "56653",
-      "ordenes": "152"
+      "tareas": "340",
+      "unidades": "57075",
+      "ordenes": "159"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -463,9 +463,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "860",
-      "disponibles": "214",
-      "porcentaje": "80.1 %"
+      "ocupadas": "861",
+      "disponibles": "213",
+      "porcentaje": "80.2 %"
     },
     {
       "region": "BODEGA SANTIAGO",

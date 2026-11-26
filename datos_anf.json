@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/11/2026 08:46",
+  "timestamp": "26/11/2026 09:15",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "0",
+      "valor": "2",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -118,6 +118,10 @@
     {
       "label": "25-11",
       "valor": 87.0
+    },
+    {
+      "label": "26-11",
+      "valor": 1.0
     }
   ],
   "cumplimiento": [
@@ -209,7 +213,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1999.0
+      "valor": 2000.0
     }
   ],
   "promedio_ruta": [
@@ -349,13 +353,13 @@
   "top5_operadores": [
     {
       "operador": "LESLIE CARRIZO",
-      "total": "2071",
+      "total": "2072",
       "porcentaje": "29.9 %"
     },
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1730",
-      "porcentaje": "25.0 %"
+      "porcentaje": "24.9 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -377,9 +381,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "LCARRIZO",
-      "tareas": "74",
-      "unidades": "8823",
-      "ordenes": "28"
+      "tareas": "75",
+      "unidades": "8824",
+      "ordenes": "29"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -462,9 +466,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1088",
-      "disponibles": "251",
-      "porcentaje": "81.3 %"
+      "ocupadas": "1087",
+      "disponibles": "252",
+      "porcentaje": "81.2 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -498,9 +502,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "203",
-      "disponibles": "206",
-      "porcentaje": "49.6 %"
+      "ocupadas": "204",
+      "disponibles": "205",
+      "porcentaje": "49.9 %"
     }
   ]
 }

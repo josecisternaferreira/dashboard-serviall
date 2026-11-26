@@ -1,19 +1,19 @@
 {
-  "timestamp": "26/11/2026 11:30",
+  "timestamp": "26/11/2026 12:01",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "1",
+      "valor": "5",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "54",
+      "valor": "67",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "90.6 %",
+      "valor": "90.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA SANTIAGO"
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "30",
+      "valor": "42",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "32",
+      "valor": "37",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "86",
+      "valor": "110",
       "subtitulo": "LINEAS EMBALADAS HOY - SANTIAGO"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "26-11",
-      "valor": 54.0
+      "valor": 67.0
     }
   ],
   "cumplimiento": [
@@ -217,13 +217,13 @@
     },
     {
       "label": "NOV",
-      "valor": 2875.0
+      "valor": 2888.0
     }
   ],
   "promedio_ruta": [
     {
       "label": "CONSOLIDADO",
-      "valor": 1663.0
+      "valor": 1664.0
     },
     {
       "label": "SITRANS",
@@ -317,7 +317,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1142.0
+      "valor": 1151.0
     }
   ],
   "fillrate_mensual": [
@@ -370,7 +370,7 @@
     {
       "operador": "JUAN DANIEL MELGAR SEGOVIA",
       "total": "1839",
-      "porcentaje": "18.0 %"
+      "porcentaje": "17.9 %"
     },
     {
       "operador": "FREYNER ESTUPIÑAN",
@@ -380,16 +380,16 @@
     {
       "operador": "MATIAS TORRES",
       "total": "1707",
-      "porcentaje": "16.7 %"
+      "porcentaje": "16.6 %"
     },
     {
       "operador": "LEONARDO SAEZ",
-      "total": "1484",
+      "total": "1491",
       "porcentaje": "14.5 %"
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1238",
+      "total": "1244",
       "porcentaje": "12.1 %"
     }
   ],
@@ -397,16 +397,16 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "260",
-      "unidades": "54319",
-      "ordenes": "114"
+      "tareas": "266",
+      "unidades": "54367",
+      "ordenes": "116"
     },
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "LSAEZ",
-      "tareas": "232",
-      "unidades": "16942",
-      "ordenes": "86"
+      "tareas": "239",
+      "unidades": "18421",
+      "ordenes": "90"
     },
     {
       "region": "BODEGA SANTIAGO",
@@ -463,9 +463,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "858",
-      "disponibles": "216",
-      "porcentaje": "79.9 %"
+      "ocupadas": "860",
+      "disponibles": "214",
+      "porcentaje": "80.1 %"
     },
     {
       "region": "BODEGA SANTIAGO",

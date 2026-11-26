@@ -1,5 +1,5 @@
 {
-  "timestamp": "26/11/2026 15:46",
+  "timestamp": "26/11/2026 16:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "92",
+      "valor": "93",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "98.1 %",
+      "valor": "97.6 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "31",
+      "valor": "43",
       "subtitulo": "LINEAS ALMACENADAS HOY - LA NEGRA"
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "label": "26-11",
-      "valor": 92.0
+      "valor": 93.0
     }
   ],
   "cumplimiento": [
@@ -167,7 +167,7 @@
     },
     {
       "label": "NOV",
-      "valor": 97.6
+      "valor": 97.1
     }
   ],
   "picking_mensual": [
@@ -213,7 +213,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2091.0
+      "valor": 2092.0
     }
   ],
   "promedio_ruta": [
@@ -301,7 +301,7 @@
     },
     {
       "label": "NOV",
-      "valor": 208.0
+      "valor": 209.0
     }
   ],
   "fillrate_mensual": [
@@ -358,7 +358,7 @@
     },
     {
       "operador": "ZOAR CARVAJAL",
-      "total": "1775",
+      "total": "1776",
       "porcentaje": "25.3 %"
     },
     {
@@ -381,8 +381,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "ZCARVAJAL",
-      "tareas": "99",
-      "unidades": "6916",
+      "tareas": "100",
+      "unidades": "6918",
       "ordenes": "27"
     },
     {
@@ -466,9 +466,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1339",
-      "ocupadas": "1088",
-      "disponibles": "251",
-      "porcentaje": "81.3 %"
+      "ocupadas": "1094",
+      "disponibles": "245",
+      "porcentaje": "81.7 %"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -502,9 +502,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "203",
-      "disponibles": "206",
-      "porcentaje": "49.6 %"
+      "ocupadas": "202",
+      "disponibles": "207",
+      "porcentaje": "49.4 %"
     }
   ]
 }

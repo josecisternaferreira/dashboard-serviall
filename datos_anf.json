@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/11/2026 13:45",
+  "timestamp": "27/11/2026 14:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "29",
+      "valor": "31",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "label": "27-11",
-      "valor": 29.0
+      "valor": 31.0
     }
   ],
   "cumplimiento": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2131.0
+      "valor": 2133.0
     }
   ],
   "promedio_ruta": [
@@ -363,7 +363,7 @@
     {
       "operador": "ZOAR CARVAJAL",
       "total": "1784",
-      "porcentaje": "25.3 %"
+      "porcentaje": "25.2 %"
     },
     {
       "operador": "SEBASTIAN OCARANZA",
@@ -434,8 +434,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "JRODO",
-      "tareas": "3",
-      "unidades": "4",
+      "tareas": "5",
+      "unidades": "6",
       "ordenes": "1"
     },
     {
@@ -513,9 +513,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "209",
-      "disponibles": "200",
-      "porcentaje": "51.1 %"
+      "ocupadas": "210",
+      "disponibles": "199",
+      "porcentaje": "51.3 %"
     }
   ]
 }

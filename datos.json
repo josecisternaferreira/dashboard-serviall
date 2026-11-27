@@ -1,14 +1,14 @@
 {
-  "timestamp": "27/11/2026 15:00",
+  "timestamp": "27/11/2026 15:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "21",
+      "valor": "30",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "121",
+      "valor": "123",
       "subtitulo": "TAREAS REALIZADAS HOY - SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "59",
+      "valor": "62",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "83",
+      "valor": "93",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "label": "27-11",
-      "valor": 121.0
+      "valor": 123.0
     }
   ],
   "cumplimiento": [
@@ -175,7 +175,7 @@
     },
     {
       "label": "NOV",
-      "valor": 90.0
+      "valor": 90.1
     }
   ],
   "picking_mensual": [
@@ -221,7 +221,7 @@
     },
     {
       "label": "NOV",
-      "valor": 3129.0
+      "valor": 3131.0
     }
   ],
   "promedio_ruta": [
@@ -247,7 +247,7 @@
     },
     {
       "label": "DESPACHO-CLIENTE",
-      "valor": 90.0
+      "valor": 91.0
     },
     {
       "label": "ENEA-FINNING",
@@ -321,7 +321,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1226.0
+      "valor": 1227.0
     }
   ],
   "fillrate_mensual": [
@@ -393,7 +393,7 @@
     },
     {
       "operador": "DIEGO GANDO",
-      "total": "1378",
+      "total": "1380",
       "porcentaje": "13.1 %"
     }
   ],
@@ -401,9 +401,9 @@
     {
       "region": "BODEGA SANTIAGO",
       "usuario": "DGANDO",
-      "tareas": "400",
-      "unidades": "58029",
-      "ordenes": "179"
+      "tareas": "402",
+      "unidades": "58031",
+      "ordenes": "181"
     },
     {
       "region": "BODEGA SANTIAGO",

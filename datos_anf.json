@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/11/2026 11:46",
+  "timestamp": "27/11/2026 12:16",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "13",
+      "valor": "16",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "label": "27-11",
-      "valor": 13.0
+      "valor": 16.0
     }
   ],
   "cumplimiento": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2115.0
+      "valor": 2118.0
     }
   ],
   "promedio_ruta": [
@@ -427,8 +427,8 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "MGARCIA",
-      "tareas": "17",
-      "unidades": "1444",
+      "tareas": "20",
+      "unidades": "1596",
       "ordenes": "8"
     },
     {
@@ -506,9 +506,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "205",
-      "disponibles": "204",
-      "porcentaje": "50.1 %"
+      "ocupadas": "209",
+      "disponibles": "200",
+      "porcentaje": "51.1 %"
     }
   ]
 }

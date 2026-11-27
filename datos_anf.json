@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/11/2026 13:15",
+  "timestamp": "27/11/2026 13:45",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,12 +8,12 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "20",
+      "valor": "29",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
       "titulo": "CUMPLIMIENTO_ON_TIME_MES_ACTUAL",
-      "valor": "97.6 %",
+      "valor": "97.7 %",
       "subtitulo": "CUMPLIMIENTO OPERACIONAL MES EN CURSO - BODEGA LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "20",
+      "valor": "34",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "27-11",
-      "valor": 20.0
+      "valor": 29.0
     }
   ],
   "cumplimiento": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2122.0
+      "valor": 2131.0
     }
   ],
   "promedio_ruta": [
@@ -231,7 +231,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 257.0
+      "valor": 258.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -305,7 +305,7 @@
     },
     {
       "label": "NOV",
-      "valor": 211.0
+      "valor": 215.0
     }
   ],
   "fillrate_mensual": [
@@ -372,8 +372,8 @@
     },
     {
       "operador": "OSCAR ROJAS",
-      "total": "722",
-      "porcentaje": "10.2 %"
+      "total": "728",
+      "porcentaje": "10.3 %"
     },
     {
       "operador": "YEIMY RINCON",
@@ -420,9 +420,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "OROJAS",
-      "tareas": "28",
-      "unidades": "838",
-      "ordenes": "15"
+      "tareas": "34",
+      "unidades": "953",
+      "ordenes": "18"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -430,6 +430,13 @@
       "tareas": "20",
       "unidades": "1596",
       "ordenes": "8"
+    },
+    {
+      "region": "BODEGA ANTOFAGASTA",
+      "usuario": "JRODO",
+      "tareas": "3",
+      "unidades": "4",
+      "ordenes": "1"
     },
     {
       "region": "BODEGA ANTOFAGASTA",

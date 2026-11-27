@@ -1,9 +1,9 @@
 {
-  "timestamp": "27/11/2026 15:30",
+  "timestamp": "27/11/2026 17:31",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "30",
+      "valor": "31",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "62",
+      "valor": "71",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "93",
+      "valor": "107",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1227.0
+      "valor": 1228.0
     }
   ],
   "fillrate_mensual": [
@@ -512,9 +512,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "693",
-      "ocupadas": "469",
-      "disponibles": "224",
-      "porcentaje": "67.7 %"
+      "ocupadas": "472",
+      "disponibles": "221",
+      "porcentaje": "68.1 %"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "27/11/2026 11:16",
+  "timestamp": "27/11/2026 11:46",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
@@ -8,7 +8,7 @@
     },
     {
       "titulo": "TOTAL_TAREAS_TERMINADAS_HOY",
-      "valor": "3",
+      "valor": "13",
       "subtitulo": "TAREAS REALIZADAS HOY - LA NEGRA"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "titulo": "LINEAS_EMBALADAS_HOY",
-      "valor": "6",
+      "valor": "14",
       "subtitulo": "LINEAS EMBALADAS HOY - LA NEGRA"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "label": "27-11",
-      "valor": 3.0
+      "valor": 13.0
     }
   ],
   "cumplimiento": [
@@ -217,7 +217,7 @@
     },
     {
       "label": "NOV",
-      "valor": 2105.0
+      "valor": 2115.0
     }
   ],
   "promedio_ruta": [
@@ -231,7 +231,7 @@
     },
     {
       "label": "SUCURSAL.FINNING",
-      "valor": 256.0
+      "valor": 257.0
     },
     {
       "label": "CLIENTE RETIRA",
@@ -251,7 +251,7 @@
     },
     {
       "label": "AGUNSA",
-      "valor": 29.0
+      "valor": 30.0
     },
     {
       "label": "REPOSICION",
@@ -427,9 +427,9 @@
     {
       "region": "BODEGA ANTOFAGASTA",
       "usuario": "MGARCIA",
-      "tareas": "7",
-      "unidades": "577",
-      "ordenes": "6"
+      "tareas": "17",
+      "unidades": "1444",
+      "ordenes": "8"
     },
     {
       "region": "BODEGA ANTOFAGASTA",
@@ -506,9 +506,9 @@
       "area": "Z-RACK",
       "tipo": "RESERVA",
       "total": "409",
-      "ocupadas": "204",
-      "disponibles": "205",
-      "porcentaje": "49.9 %"
+      "ocupadas": "205",
+      "disponibles": "204",
+      "porcentaje": "50.1 %"
     }
   ]
 }

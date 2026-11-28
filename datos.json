@@ -1,9 +1,9 @@
 {
-  "timestamp": "28/11/2026 09:01",
+  "timestamp": "28/11/2026 09:30",
   "kpis": [
     {
       "titulo": "TOTAL_ASN_HOY",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "ASN RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "titulo": "LINEAS_ALMACENADAS",
-      "valor": "0",
+      "valor": "1",
       "subtitulo": "LINEAS ALMACENADAS HOY - SANTIAGO"
     },
     {
       "titulo": "LINEAS_RECEPCIONADAS_HOY",
-      "valor": "0",
+      "valor": "3",
       "subtitulo": "LINEAS RECEPCIONADAS HOY - SANTIAGO"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "label": "NOV",
-      "valor": 1228.0
+      "valor": 1229.0
     }
   ],
   "fillrate_mensual": [
@@ -467,9 +467,9 @@
       "area": "Z-MULTI",
       "tipo": "ACTIVO",
       "total": "1074",
-      "ocupadas": "860",
-      "disponibles": "214",
-      "porcentaje": "80.1 %"
+      "ocupadas": "859",
+      "disponibles": "215",
+      "porcentaje": "80.0 %"
     },
     {
       "region": "BODEGA SANTIAGO",
